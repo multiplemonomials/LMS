@@ -398,11 +398,8 @@ After getting out of his capsule, Lee Hyun logged onto an item auction site. He 
 //table{
 ------------------------------------------
 You are invited to the Dark Gamers Union.
-
 To prevent information leakage, this email is only sent to a small number of selected people. For more information we would like to talk to you in person.
-
 The Versailles Continent or in real life, whichever one is fine. Our Dark Gamer Union can exist anywhere, as long as there is darkness. With no obligations, we would like to meet and talk with you.
-
 In this way, you’ll be able to reach an understanding of our union and what we do in the union. You can take part in conversations and you might even find a good partner to keep in touch with.
 //}
 
