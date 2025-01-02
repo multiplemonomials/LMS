@@ -369,7 +369,7 @@ Weed laughed merrily.
 
 “Huh?”
 
-@<embed>{|html|<hr/>}
+//hr
 
 It first started in Somren Liberty City.
 
@@ -420,6 +420,223 @@ Lee Hyun entered an open auction and then registered the items to be sold. The p
 There are market prices for common items. However, for items such as these that are difficult to obtain, the prices vary widely depending on the people who want to buy it.
 
 If you met a person who really needed it, it could be sold for an expensive price, but if you didn’t meet that sort of person, you might not receive a reasonable price.
+
+“It’ll be good if it sells well…”
+
+Lee Hyun uploaded the auction post onto the site and went to sleep.
+
+Overnight, a large fuss was raised on the auction site.
+
+//table{
+--------------
+It’s him! He’s posted something!
+There’s no one else apart from him with a Triple Diamond rating. The ID that he’s posted with is the same as well.
+It’s Weed! Weed really is selling an item from Royal Road.
+This is really big news!
+//}
+
+When his account from the Continent of Magic was sold, Weed had become a celebrity. Using Weed’s account, CTS Media had done several broadcasts on the Continent of Magic.
+
+Now even among those not interested in games, there was no one who didn’t know of Weed, Lee Hyun’s username on the item trading site.
+
+That was something that the users definitely remembered. Until now, Weed had sold one or two items, but among those no really good items had been been sold.
+
+Death Knight equipment wasn't very popular at the time, and there weren’t many people who needed vampire capes, boots, and gloves. So, his listings hadn’t received any attention.
+
+//table{
+--------------
+Agatha’s holy sword! Rose-patterned gloves! High priest’s ring! This is the Church of Freya’s. This is the equipment used by the Church of Freya’s paladins.
+//}
+
+The gloves that had been engraved with roses were only of the level of an uncommon item, so the market price wasn’t high.
+
+However Agatha’s sword, which was used by paladins of the Church of Freya, was one of the most popular items. The equip level limit was low and the attack was high.
+
+You could even use a sacred blessing five times a day with it, so it was a popular item preferred by anyone who played a class that wielded swords.
+
+Someone had looked at list of the items Lee Hyun had uploaded, and after some research, had written the following post.
+
+//table{
+--------------
+Weed from Continent of Magic is playing Royal Road! Weed has put on an auction site Freya’s paladins equipment!
+//}
+
+The post quickly spread throughout the internet. At once, many people wrote posts on the auction.
+
+//table{
+--------------
+Has that Weed really become part of the Church of Freya?
+Could he have become an actual paladin?
+Throughout the entire continent, the number of people who have become paladins as part of a church still hasn’t reached a 100. To become a knight of a kingdom or a lord is easy, but it’s said that to become a paladin of a church you have to overcome an extremely difficult situation…
+It’s truly Mr. Weed. He’s impressive in Royal Road as well.
+//}
+
+The commenters on the auction posts were talking amongst themselves. Joy and surprise could be seen in them at the fact that Weed was playing Royal Road.
+
+Those from the Continent of Magic and those who had heard stories of the chaotic Weed on the internet had gathered together. However, several people revealed frank disappointment.
+
+//table{
+--------------
+If it’s the Weed from Continent of Magic, then for us who played the game at least, he was a legendary presence.
+That’s right. It was like there was nothing impossible for him. He would go and conquer dangerous hunting grounds. In the hunting grounds that Weed swept through, there wouldn’t be a single monster left. To us who remember his footprints…
+He was a person who was always alone and that was all he needed. For that conqueror to become a paladin of the Church of Freya is below my expectations.
+He who had solitude and an absolute strength became in some ways an object of worship. Now attention will be focused on him. Though he rose to the ultimate position in a different game, will he merely become a slightly stronger person in Royal Road?
+A year has passed since Royal Road first appeared. To be starting now is irrational. Any more of him will be boring.
+Seeing Weed’s name made me happy, but there is no need here for something like an idol.
+//}
+
+The commenters laid out their contentious opinions. For the one known as Weed, the figure who had become the symbol of gaming, people were divided between those who congratulated Weed for becoming a paladin of the church of Freya, and those who were disappointed that though he was a bit strong, he wasn’t at his former absolute strength.
+
+Naturally, while this was going on, attention was drawn away from the auction post. Forgotten for the moment, the price of the goods that Lee Hyun had put up for the auction climbed up very slowly.
+
+In the meantime someone appeared. He urgently posted a single line of writing.
+
+//table{
+--------------
+I have just logged out from playing Royal Road.
+//}
+
+This kind of post incited the usual strong opposition.
+
+//table{
+--------------
+Who was asking?
+No one cares about whether you logged out or not.
+//}
+
+Within a moment these cynical commentators followed each other up. Then the person who had first uploaded the post wrote a more detailed post and posted again.
+
+//table{
+--------------
+In Versailles Continent time, about 5 hours ago, in concert the NPCs of Royal Road began telling stories relating to Weed. NPCs across the continent are telling the tale of Weed defeating the True Blood Vampire Clan, who played an important role in the Dark Mage Bar Khan’s Immortal Legion, and returning the Church of Freya’s sacred relic. 
+I was also a player in Continent of Magic. I heard talk that Mr. Weed had set paladin’s equipment for sale and I came here wanting to confirm this. So this was truly something done by Mr. Weed. I’m filled with admiration.
+What did you say? Bar Khan's Immortal Legion?
+Isn’t that said to be one of Royal Road’s strongest forces?
+Moreover, if it’s the True Blood Vampire Clan, that’s a group of vampires whose levels are over 270. Their leader Lord Torido is over Level 400…
+I’m speechless! I just can’t believe this.
+//}
+
+The people were distrustful and tried to ignore the post. It was a self evident truth that the difficulty of a quest to return the Church of Freya’s sacred relic and eradicate the True Blood Vampire Clan would be high.
+
+To think that one person had solved this quest was almost unbelievable. However the evidence was too obvious.
+
+The equipment used by the paladins of the Church of Freya and the High Priest’s ring!
+
+Especially the High Priest’s ring, as from what had been said about it, it was known that only someone who had provided a very large service for the church would have been given it.
+
+Even if you had become a paladin, it wasn’t an item that you would just receive. In addition, there was another piece of evidence that could not be denied: the vampires’ items that had been put up for sale by Lee Hyun last time. The vampire’s mantle and boots, which were still up for auction, did not leave any more room for doubt.
+
+//hr
+
+Lee Hyun slept for 4 hours and opened his eyes before the sun had even risen. He needed to buy the side-dishes for breakfast and for his younger sister’s lunchbox.
+
+Of course the school provided food, but nowadays there weren’t many people who ate that. The nutrition was poor and the origins of the ingredients could not be trusted.
+
+Even if food poisoning occurred only rarely, wouldn’t it still be a big problem if happened to Hayan?
+
+‘It’s a critical period of her youth….’
+
+He had to prepare good food for the sake of his little sister who was working hard on her exam studies.
+
+Even if this wasn’t the case, to prevent his sister from feeling any more sorrow from the loss of their parents, he wanted her to eat food filled with love.
+
+While Lee Hyun roved the farmers' market, he bought fresh vegetables and meat. He didn’t forget to properly haggle down the prices.
+
+Even in shops that didn’t give a good discount on their prices during the day, by greeting them early in the morning and making his face familiar, it was possible to purchase goods pretty cheaply.
+
+As he had originally taken all responsibility for the household chores onto himself, he had a certain confidence in his cooking.
+
+However the reason that his cooking skill had now rapidly advanced was because of Royal Road.
+
+Now he held confidence that in cooking at least he wouldn’t come second to anyone. It was of a level that he could find a job in a restaurant’s kitchen.
+
+“Yawn! Oppa, good morning.”
+
+“Did you wake up just now?”
+
+When he returned from looking around the market, his sister emerged from her room rubbing her eyes.
+
+“Go wash yourself. You’ll be late for school.”
+
+“It’s okay. There’s still enough time.”
+
+“Don’t act lazy. If it’s something you have to do, do it quickly.”
+
+“Tch! It’s like every day there’s only nagging. That aside, is the preparation for the GED going well?”
+
+Lee Hyun had made a promise with his grandmother.
+
+The promise was that he would pass his GED, as he had not been able to graduate from high school normally. However he still hadn’t even taken a look at his books.
+
+If there was time to study geography, he would instead take another look at the map of the Versailles continent. Rather than studying Korean history, he had to read the history books of the Versailles continent.
+
+After all, if you wanted to be a great adventurer, you had to know background history. However he didn’t have the heart say something like that.
+
+“Of course! I’m studying hard, so don’t worry.”
+
+If you looked closely it wasn’t a lie; he @<i>{was} studying, there was just a small deviation in his study material.
+
+“Okay. I’ll trust you.”
+
+As his sister washed, Lee Hyun prepared the breakfast. As it was becoming winter and the weather was turning chilly, he prepared a refreshing natural soup, red bean rice, and plain side-dishes.
+
+“Thank you for the food.”
+
+After he sent his little sister to school, a few minutes of free time became available.
+
+“Now then, shall I see if how much the prices of the items I put up for sale have risen?”
+
+Lee Hyun connected to the item auction site. However the number of bidders on the auction post was no fewer than 140,000.
+
+“What is this….”
+
+It was obvious 140,000 people had placed a bid, but the highest price for the items didn’t even reach 230,000 Won.
+
+Even if Agatha’s Holy Sword was sold for next to nothing, it was still an item that would go for at least 2,000,000 Won.
+
+“Who seriously bid 230,000 Won? And if 140,000 people took part, can this price be real?”
+
+Lee Hyun didn’t have a clue so he clicked on the auction post.
+
+//table{
+--------------
+Mr. Weed, you are really impressive, even if it was only once a would like to wear Mr. Weed’s items! However as I don’t have any spare money I can only join in with this.
+//}
+
+The person who had wrote this was the first to bid 500 Won on the auction. Many people who wanted to participate in an auction would start bidding from 10 Won, so the amount was meaningless.
+
+//table{
+--------------
+Congratulations on finishing the quest from the church of Freya. Please keep your spirit as a Continent of Magic user and do your best!
+//}
+
+The second person to upload a post raised the auction price to 501 Won. After that it became a spectacle.
+
+//table{
+--------------
+Mr. Weed, good luck! 502 Won.
+Mr. Weed, you’re amazing! 503 Won.
+I respect you. Work hard. 504 Won.
+Uh, is this a new auction game? 505 Won.
+Haha! This looks like fun. I want to get involved as well. 506 Won.
+This is, this is…. 601 Won.
+Please keep to the pattern. 602 Won.
+//}
+
+It was these people’s own way of showing their affection through fun. They sent friendly words and slowly raised the auction price.
+
+Thanks to the participation of many bidders in the auction, it was quickly brought to the attention of other people. Rumors spread over the internet, so that people who hadn’t even heard of Weed went looking for it.
+
+//table{
+--------------
+Ah! These really the items because sold by the person rumored to be Weed.
+I have arrived for the pilgrimage.
+It’s already over 90,000 people. The auctions prices are over 120,000 Won.
+Even without the duplicate bids, over 60,000 people have become involved. Unite through the auction post!
+Hey! Who just cowardly bid 200,000 Won….
+If you don’t properly obey the order, we’ll find who did it and take revenge. Be careful. Start again from 200,001 Won.
+Let’s try to reach up to a million people!
+//}
 
 == Footnotes
 //footnote[not-sure][Not sure how clear this is, might use tweaking of the phrasing. Basically he’s saying that after how strange Weed was in shouting at his enemies, no one else would even be able to surprise him, but he can’t keep his eyes off Hwaryeong’s dancing]

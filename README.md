@@ -20,8 +20,27 @@ In any terminal:
 $ gem install review
 ```
 
-### Compiling the EPUB for any volume:
+### Install Pandoc
+#### On Windows: 
+Install pandoc from [here](https://github.com/jgm/pandoc/releases/latest). It should auto add to your PATH.
+
+#### On Ubuntu:
+```
+$ apt install pandoc
+```
+
+### Install Pandoc2review
+```
+$ gem install pandoc2review
+```
+## Compiling the EPUB for any volume:
 Open a terminal in that volume's folder.  Then run:
 ```
 $ rake epub
+```
+
+## Converting an ebook chapter to Re:VIEW format:
+First, extract the .xhtml chapter from the ebook.  Then do:
+```
+pandoc2review /path/to/chapter.xhtml > chapter.re
 ```

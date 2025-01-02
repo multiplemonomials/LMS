@@ -107,18 +107,15 @@ table {
 table tr th {
     background-color: #eee;
     border:1px #aaa solid;
-    font-size: 0.75em;
     font-weight: normal;
 }
 table tr td {
     padding: 0.3em;
     border:1px #aaa solid;
-    font-size: 0.75em;
 }
 p.tablecaption, table caption {
     margin: 0;
     color: #666;
-    font-size: 0.75em;
     font-weight: bold;
     text-indent: 0;
 }
@@ -492,3 +489,16 @@ span.balloon:before {
 .width-080per { width:  80%; }
 .width-090per { width:  90%; }
 .width-100per { width: 100%; }
+
+/* Give notes (`//note{` element)some padding and a green bar on the left. */
+div.note {
+  padding: 25px;
+  border-left: solid #326450 2px;
+}
+
+/* Make inline code (`@<code>{}` element) look nice */
+code { 
+  background-color: #eee;
+  padding: 0.25em;
+  font-weight: bold;
+}
