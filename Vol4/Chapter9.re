@@ -342,103 +342,98 @@ He wasn’t getting bored with them around. Weed couldn’t stop being surprised
 
 “Hahaha! We haven’t had any visitors for quite a while. What business do you have here?”
 
-In the deepest part of the dungeon, sitting on a magnificent throne and dressed in gorgeous clothes, they found the dungeon’s boss, accompanied by two knights and 12 thieves.
+In the deepest part of the dungeon, sitting on a magnificent throne and dressed in gorgeous clothes, they found the dungeon’s boss, accompanied by two knights and twelve thieves.
 
-'That’s our end…'
+'This is the end for us…'
 
 'Thank god, it’s going to end here.'
 
-Upon hearing the boss Hwaryeong and Zeppi bid farewell to their lives. They weren’t too nervous, at least their smiles indicated otherwise. But they did feel a little thrilled -- after all, they weren’t encountering bosses all too often.
+Upon hearing the boss Hwaryeong and Zeppi bid farewell to their lives. They weren’t too nervous, at least if you went by their smiles. But they did feel a little thrilled -- after all, they didn't encounter bosses all too often.
 
 The main NPC of the dungeon was gathering forces to take revenge on the Britten Alliance, so it was possible to avoid fighting him. If you were friendly enough, you would be able to get a quest from him, like to stop assassins sent for his head, or to provide thieves with the items they require.
 
-Naturally, would you take one of those quests you’d become the enemy of British Confederacy. However not just anyone was able to take those quests but only players with high enough fame attribute.
+Naturally, would you take one of those quests you’d become the enemy of Britten Alliance. However not just anyone was able to take those quests but only players with high enough fame attribute.
 
-So when Basra’s boss started talking to Weed, Hwaryeong and Zeppi started to get nervous. Because if the fight won’t start they won’t get a chance to die.
+So when the boss of Basra started talking to Weed, Hwaryeong and Zeppi started to get nervous. If the fight wasn't going to start, they wouldn’t get a chance to die.
 
-But much to their relief Weed tightened his grip on the sword and answered:
+But much to their relief Weed, tightened his grip on the sword and answered:
 
 “We came to kill you.”
 
-“Hohoho! So you’re just another pack of British dogs! Well, if you came here to die I won’t disappoint you. I’ll hang your heads at the entrance as a warning for other puppets of Confederacy. Knights! Kill them!”
+“Hohoho! So you’re just another pack of Britten dogs! Well, if you came here to die, I won’t disappoint you. I’ll hang your heads at the entrance as a warning for other puppets of the Alliance. Knights! Kill them!”
 
 “Yes, your Royal Highness Archduke.”
 
-While the boss was babbling, Weed waved his sword and yelled:
+While the boss was babbling, Weed waved his sword and yelled, “Holy blessing!”
 
-“Holy blessing!”
+The effect of Agatha’s holy sword triggered and the holy spirit infused Weed.
 
-The effect of Agatha’s holy sword triggered and holy spirit infused Weed.
-
-” High Priest’s Blessing!”
+Then, he called out, "High Priest’s Blessing!”
 
 The ring on Weed’s hand faintly flared and covered Weed’s body with soft glow.
 
-Even though these items’ effects had duration of only 20 minutes, they were blessed by the High Priest of church of Freya himself! In a single moment Weed became stronger by half.
+Even though these items’ effects had a duration of only 20 minutes, they were blessed by the High Priest of the Church of Freya himself! In a single moment Weed became stronger by half.
 
 “Van, hold off the thieves!”
 
 “Understood, master.”
 
-Even death knight forgot his defiance in presence of such blessings. It wasn’t wise to meddle with Weed when he was so strong.
+Even the death knight forgot his defiance in the presence of such blessings. It wasn’t wise to meddle with Weed when he was so strong.
 
-“Zeppi, help Van to deal with thieves.”
+“Zeppi, help Van Hawk to deal with the thieves.”
 
 “But…”
 
-If he was to fight, he’d prefer fighting knights, that’d be a faster way to die.
+If he was to fight, he’d prefer fighting knights -- that’d be a faster way to die.
 
 “Hwaryeong will stall the knights. I’ll take on the Archduke.”
 
-“What if they come to their senses?” - exclaimed Hwaryeong in a worried voice.
+“What if they come to their senses?” exclaimed Hwaryeong in a worried voice.
 
-“Then deal with it. If Van and Zeppi finish the knights by then, they’ll help you. I’ll be busy with the boss.”
+“Then deal with it. If Van Hawk and Zeppi finish the knights by then, they’ll help you. I’ll be busy with the boss.”
 
 Zeppi and Hwaryeong didn’t have any choice but to follow Weed’s orders.
 
 Two knights were slowly approaching Weed, skilfully swinging their swords.
 
-“Don’t sleep Hwaryeong, begin!”
+“Don’t sleep Hwaryeong, get going!”
 
 Zeppi immediately headed towards the group of thieves, and Weed easily slipped past two knights and rushed ahead. Hwaryeong was left alone, facing two knights.
 
 “Charming dance!”
 
-To charm enemies, stronger than her, she’ll have to spend a lot of mana and dance much longer than usually. And knights were quickly approaching!
+To charm enemies, stronger than her, she would have to spend a lot of mana and dance much longer than usually. And knights were quickly approaching!
 
-“For the glory of Basra!” shouted NPCs and jumped towards Hwaryeong.
+“For the glory of Basra!” shouted the NPC knights, jumping towards Hwaryeong.
 
-Dancing girl closed her eyes in despair.
+The dancing girl closed her eyes in despair. 'That’ll probably hurt a little…'
 
-That’ll probably hurt a little…
+The pain would finally bring death! It was a lot more welcome than all those strenuous everyday fights that were leaving her completely exhausted.
 
-The pain would bring death! It was a lot more welcome than all those strenuous everyday fights that were leaving her completely exhausted.
-
-However a second passed, than another, but nothing was happening to her! Moreover, she heard that knights had stopped and started to argue.
+However a second passed. Then another. Still, she felt nothing, no hard blade against her skin. Then, she heard that the knights had begun to argue.
 
 “Kill her, Jason.”
 
 “I don’t want. You go, Tobon.”
 
-“I can’t! As knights we gave an oath to always protect the ladies. It is our duty! If I kill her, I’ll no longer be a knight.”
+“I can’t! As knights we gave an oath to always protect fair ladies. It is our duty! If I kill her, I’ll no longer be a knight.”
 
 “Well, I think the same way! But the boss ordered…”
 
-The last words dismissed their doubts. Hwaryeong heard one of the knights approach her and say apologetically:
+Their fear of the Archduke granted them a small measure of resolve. Hwaryeong heard one of the knights approach her and say apologetically:
 
 “Forgive us, lady!”
 
-Even while expecting to die any moment, Hwaryeong never stopped her dance, she was still elegantly moving her hands and bending her body.
+Even while expecting to die any moment, Hwaryeong never stopped her dance. She was still elegantly moving her hands and bending her body.
 
-It wasn’t difficult at all for her to dance with eyes closed. Over the last few days she had to dance in front of thieves of Basra many times, sometimes while fighting with extreme sleepiness. So she eventually learned to dance with closed eyes.
+It wasn’t difficult at all for her to dance with her eyes closed. Over the last few days she had to dance in front of the thieves of Basra many times, sometimes while severely sleep deprived. So she eventually learned to dance with closed eyes.
 
 Ding!
 
 //table{
-
 --------------
 You successfully executed Charming Dance.
-Knights of Basra are ensnared.
+The Knights of Basra are ensnared.
 //}
 
 “Ah! After all she’s too beautiful, I can’t kill her. Sorry boss, we aren’t…”
@@ -451,13 +446,13 @@ She collapsed on the ground in frustration, when Zeppi and Van, who just finishe
 
 “Awesome!”
 
-Zeppi was admiring Weed’s fight against the boss of Basra, who was throwing multiple dark spells at him.
+Zeppi was admiring Weed’s fight against the boss of Basra, who was throwing out a succession of dark magic spells.
 
 “Pierce my enemy, Dark Arrows!”
 
-Numerous arrows made of pure darkness shot from behind Archduke aiming at Weed. The spell was cast almost instantly, but Weed still managed to dodge all the arrows.
+Numerous arrows made of pure darkness shot from behind the Archduke aiming at Weed. The spell was cast almost instantly, but Weed still managed to dodge all the arrows.
 
-He was able to do that because he had already accounted for a possibility that something like this would happen. So the moment boss began to cast his spell Weed had determined its type and area of effect and started to evade it. Zeppi was completely astonished by that feat.
+He was able to do that because he had already accounted for the possibility that something like this would happen. So the moment boss began to cast his spell, Weed had determined its type and area of effect and had already started to evade it. Zeppi was completely astonished by that feat.
 
 “Sculpting Blade!”
 
@@ -465,7 +460,8 @@ Weed swung his sword to deflect a few arrows he couldn’t dodge and dashed towa
 
 “Blink!”
 
-Basra’s Archduke instantly teleported a few steps back, however on his chest a bleeding long cut was clearly visible.
+Basra’s Archduke instantly teleported a few steps back.  However, on his chest a long, bleeding
+ cut was clearly visible.
 
 Weed’s Sculpting Blade technique was completely ignoring any armor!
 
@@ -475,17 +471,17 @@ For necromancers, who didn’t have any armor and had low health, strikes like t
 
 After gaining some distance from Weed, the boss got a few moments to observe the situation and came to a conclusion that it wasn’t favorable for him.
 
-“It’s useless to fight me!” – he shouted in rage - “I made a contract with the god of death! Do you want to know why those British bastards weren’t able to defeat me? I’ll show you! The Immortal Power! Arise my soldiers!”
+“It’s useless to fight me!” he shouted in rage. “I made a contract with the god of death! Do you want to know why those Britten bastards weren’t able to defeat me? I’ll show you! The Immortal Power! Arise my soldiers!”
 
-The ground under their feet started to tremble and skeletons started to appear from it! Multiple black, red and white skeletons!
+The ground under their feet started to tremble and skeletons started to appear from it! Multiple black, red and white skeletons gradually emerged from dirt and pulled themselves together.
 
-Archduke of Basra, as a true necromancer, used his main trump card, and summoned mage, warrior and archer skeletons to his aid. His voice got filled with triumph:
+The Archduke of Basra, as a true necromancer, used his main trump card and summoned mage, warrior and archer skeletons to his aid. 
 
-“Most of the Basra’s warriors were buried here! This place was a burial ground for many generations, and since I was a child I used to come here to practice necromancy. Now this will become your burial ground as well! Ahahahaha!”
+He shouted with triumph, “Most of the Basran warriors were buried here! This place was a burial ground for many generations, and since I was a child I have come here to practice necromancy. Now this will become your burial ground as well! Ahahahaha!”
 
 “Sculpting Blade!”
 
-Weed’s movements were significantly slowed now that he had to fight through hordes of summoned skeletons. Those monsters weren’t that dangerous by themselves, but they’ll make avoiding boss’s attacks much harder, and that was what worried Weed the most. Every magic attack of the Archduke could lower Weed’s health by third, if not by half.
+Weed’s movements were significantly slowed now that he had to fight through hordes of summoned skeletons. Those monsters weren’t that dangerous by themselves, but they would make avoiding the boss’s attacks much harder, and that was what worried Weed the most. Even one magic attack of the Archduke could lower Weed’s health by a third, if not by half.
 
 “Die, human!”
 
@@ -493,45 +489,45 @@ One of the skeletons hit Weed from behind with his rusty sword. The hit was accu
 
 But attacks continued.
 
-About level 220…
+'About level 220…'
 
 Weed started to think.
 
 Thanks to his vast experience of fighting monsters he was able to precisely determine the level of the enemy by one received hit.
 
-Level 220 monsters won’t be that dangerous…
+'Level 220 monsters won’t be that dangerous…'
 
-But the problem was that the boss was able to summon skeletons indefinitely, and they were greatly hindering Weed’s movements, while blessings would hold for just 20 minutes.
+But the problem was that the boss was able to summon skeletons indefinitely, and they were greatly hindering Weed’s movements, while the blessings would hold for just 20 minutes.
 
-And once their duration is over, the fight will become a whole lot harder. In other words, he didn’t have any time to spare.
+Once those expired, the fight will become a whole lot harder. In other words, he didn’t have any time to spare.
 
 “I’ve got to get rid of the undead… Yeah, I know the way! Fight fire with fire!”
 
-All this time Weed was wearing the helmet of the Death knight that he got in Lavias.
+All this time Weed had been wearing the Helmet of the Death Knight that he got in Lavias.
 
 “Summon skeletons!”
 
 The helmet allowed Weed to summon undead of level 50. The exact amount and degree of obedience depended on the Leadership attribute of the summoner.
 
-Even more skeletons rose from the ground. More than 200 of them, and all of them kneeled, expecting their master’s order.
+Even more skeletons rose from the ground. There were more than 200 of them, and all of them kneeled, expecting their master’s order.
 
 “Fight! Against those who threaten me!”
 
 Two skeleton crowds started to fight each other. In this fight it was hardly possible to distinguish friend from foe.
 
-“Servants of the god of death, I order you with power, given to me: submit to my will!” - shouted the Archduke.
+“Servants of the god of death, I order you with power, given to me: submit to my will!” shouted the Archduke.
 
-“You’re not the one who summoned us.” - came the answer from the direction of the battle.
+“You’re not the one who summoned us.” came the answer from the direction of the battle.
 
 “You, idiots…”
 
-Skeletons, summoned by Weed were a lot weaker than those of the necromancer. They were dying quickly and did no damage to the enemy, but they still managed to divert enemies’ attention to let Weed escape the skeletons’ ranks.
+Skeletons, summoned by Weed were a lot weaker than those of the necromancer. They were dying quickly and did no damage to the enemy, but they still managed to divert enemies’ attention to let Weed escape from the skeletons’ ranks.
 
 “Triple strike! Backstab!”
 
-Weed started to assault the boss sparing no mana. Archduke was able to use blinks to evade Weed’s attacks, but his advantage was already lost. Hwaryeong, Zeppi and Van finished the knights who had finally woken up and hurried to help Weed.
+Weed started to assault the boss sparing no mana. The Archduke was able to use blinks to evade Weed’s attacks, but his advantage was already lost. Hwaryeong, Zeppi and Van Hawk finished the knights (who had finally woken up) and hurried to help Weed.
 
-Now the entire party was chasing the fleeing boss, and a couple minutes later he succumbed to the furious onslaught of his opponents and died.
+Now the entire party was chasing the fleeing boss, and a couple minutes later the Archduke succumbed to the furious onslaught of his opponents and died.
 
 Ding!
 
@@ -548,7 +544,7 @@ Weed had already fought monsters of level over 290, so he only got one level for
 
 Zeppi and Hwaryeong celebrated their victory and walked towards Weed. But the focused expression on his face made them stop.
 
-“Hmm, I have 3.5% of life left. I watched it closely…”
+“Hmm, I have 3.5% of my health left. I watched it closely…”
 
 “…”
 

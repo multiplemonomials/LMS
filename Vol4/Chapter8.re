@@ -1,4 +1,4 @@
-==={chapter-8-weeds-hunt} Chapter 8: Weed’s Hunt
+= Weed’s Hunt
 
 The Basra Dungeon!
 
@@ -150,13 +150,10 @@ To begin with, he took out a whetstone and sharpened his sword.
 
 Shiiing-shiiing!
 
-//{
 //table{
-
+You have sharpened the sword!
 --------------
-@<b>{You have sharpened the sword!}
 Attack power increased by 14%.
-//}
 //}
 
 His sword sharpening skill was still at intermediate level 4, since he wasn’t able to use it as often as, say, repair skill. Also, if it was raining or he wasn’t hunting, the sharpening effect would vanish quickly. Therefore, the only time he got to use it was immediately before battles when he could sharpen weapons for himself and his party mates.
@@ -165,14 +162,11 @@ His sword sharpening skill was still at intermediate level 4, since he wasn’t 
 
 Weed pulled out a soft cloth and thoroughly polished his armor, until it started to shine.
 
-//{
 //table{
-
+You polished the armor!
 --------------
-@<b>{You polished armor!}
-Defence increased by 16%.
+Defense increased by 16%.
 Chance to dodge increased by 2%.
-//}
 //}
 
 Armor polishing was very similar to sharpening. There were long stretches where he couldn't use it, but its effect was good.
@@ -255,16 +249,13 @@ For Weed they were an investment in his fighting ability! The best quality food 
 
 That’s why he didn’t regret spending the money to buy 500 shrimp.
 
-//{
 //table{
-
+You are well-fed
 --------------
-@<b>{You are well-fed}
 Life +400
 Mana +400
 Stamina +20
 Art +15
-//}
 //}
 
 Don’t trust those who say hunger inspires artists.
@@ -281,12 +272,9 @@ To be honest, Weed never considered any other answer.
 
 Her abilities as a dancer would come in handy as a trump card. Even though damage from her attacks wasn’t that high, her movements were swift and monsters couldn’t even scratch her. Besides, if you were in the party with Hwaryeong, your attributes would get a boost while the monsters got a debuff.
 
-//{
 //table{
-
 --------------
 You have created a party!
-//}
 //}
 
 Weed brought up the control menu and invited Hwaryeong.
@@ -453,15 +441,12 @@ Weed avoided a long stab from the side and lunged forward.
 
 His hands were flying around him, parrying and striking at the same time.
 
-//{
 //table{
-
 --------------
 You have dealt a critical strike.
 You have dealt consecutive critical strikes.
 Your continuous attack succeeded.
 Do you want to save the series of strikes?
-//}
 //}
 
 Skillfully moving from enemy to enemy, Weed was dealing series of critical strikes. If you were to deal an exceptionally successful series of strikes in the game, you would be able to save it, to later use it at will as an individual technique. However Weed just dismissed the message and rushed back into battle.
@@ -666,15 +651,12 @@ But then Weed rummaged through his bag and started taking out bandages one by on
 
 “Apply bandage!" Weed shouted again and again, rapidly applying multiple bandages.
 
-//{
 //table{
-
 --------------
 Bleeding has stopped
 Wound has closed
 Life increased to 26%
 Life increased to 29%
-//}
 //}
 
 “Wow!" Zeppi’s eyes were round from astonishment.
