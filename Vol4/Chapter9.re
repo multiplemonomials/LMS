@@ -112,7 +112,7 @@ Thankfully, the other ethics questions weren’t as hard, and Hyun answered them
 
 Ethics was the last subject, so with it he finished his exam.
 
-//hr
+@<embed>{|html|<hr/>}
 
 “In my last trip to Ross Gleasis I got a new weapon. The Shining Golden Axe! With 60+ damage!”
 
@@ -174,7 +174,7 @@ Hyun started to consider if he should accept the invitation, but the man continu
 
 “It’s fine. I see you play Royal Road as well. I noticed that you were listening to our conversation. We’re headed to the regular meeting of dark gamers at the moment. If you want, you can join us.”
 
-//hr
+@<embed>{|html|<hr/>}
 
 Dark gamers were gathering at an abandoned warehouse. Inside the huge building there were a couple of capsules, a long table, and multiple chairs.
 
@@ -276,7 +276,7 @@ But even the 2nd rejection didn’t upset Joong Hoon. On the contrary, it seemed
 
 And so, Lee Hyun decided to join the Dark Gamers Union.
 
-//hr
+@<embed>{|html|<hr/>}
 
 On the 4th level of Basra Dungeon, Weed, Hwaryeong, and Zeppi were concentrating on hunting.
 

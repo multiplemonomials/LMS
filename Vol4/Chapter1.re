@@ -369,7 +369,7 @@ Weed laughed merrily.
 
 “Huh?”
 
-//hr
+@<embed>{|html|<hr/>}
 
 It first started in Somren Liberty City.
 
@@ -526,7 +526,7 @@ Especially the High Priest’s ring, as from what had been said about it, it was
 
 Even if you had become a paladin, it wasn’t an item that you would just receive. In addition, there was another piece of evidence that could not be denied: the vampires’ items that had been put up for sale by Lee Hyun last time. The vampire’s mantle and boots, which were still up for auction, did not leave any more room for doubt.
 
-//hr
+@<embed>{|html|<hr/>}
 
 Lee Hyun slept for 4 hours and opened his eyes before the sun had even risen. He needed to buy the side-dishes for breakfast and for his younger sister’s lunchbox.
 

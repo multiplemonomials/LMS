@@ -1,0 +1,54 @@
+name: Generate and Publish Website
+on: push
+jobs:
+  generate-site:
+    runs-on: ubuntu-latest
+
+    # Use Docker Review container defined here:
+    # https://github.com/vvakame/docker-review/tree/master
+    container:
+      image: ghcr.io:vvkame/review:5.9
+
+    steps:
+    
+      # Check out this repo and the Mbed submodule
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          
+      - name: Generate websites
+        run: |
+          mkdir site
+          cd Vol4
+          rake web
+          mkdir ../site/Vol4
+          mv webroot/* ../site/Vol4/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      
+  # # Note: The below is copied almost verbatim from the example job from the deploy-pages action.
+  # # See https://github.com/actions/deploy-pages
+  # deploy-site:
+  #   # Add a dependency to the build job
+  #   needs: generate-site
+
+  #   # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+  #   permissions:
+  #     pages: write      # to deploy to Pages
+  #     id-token: write   # to verify the deployment originates from an appropriate source
+
+  #   # Deploy to the github-pages environment
+  #   environment:
+  #     name: github-pages
+  #     url: ${{ steps.deployment.outputs.page_url }}
+
+  #   # Specify runner + deployment step
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Deploy to GitHub Pages
+  #       id: deployment
+  #       uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action

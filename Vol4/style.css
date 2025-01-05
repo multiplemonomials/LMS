@@ -99,19 +99,25 @@ dd {
 /* Table
 p.tablecaptionではなく
 table caption {}を使う方が良いかも？
+Translation: Is there a way to use table caption {} without p.tablecaption?
 */
 table {
     margin: 0 auto 2em auto;
     border-collapse: collapse;
+    border:1px #aaa solid;
 }
 table tr th {
     background-color: #eee;
-    border:1px #aaa solid;
-    font-weight: normal;
+    font-weight: bold;
+    border-bottom:1px #aaa solid;
+    border-left:1px #aaa solid;
+    border-right:1px #aaa solid;
 }
 table tr td {
     padding: 0.3em;
-    border:1px #aaa solid;
+    font-weight: normal;
+    border-left:1px #aaa solid;
+    border-right:1px #aaa solid;
 }
 p.tablecaption, table caption {
     margin: 0;
@@ -208,26 +214,8 @@ div.footnote p.footnote {
 div.colophon {
     margin: 3em auto;
 }
-div.colophon p {
+div.colophon>p {
     text-indent: 0;
-}
-div.colophon p.title {
-    font-size: 1.5em;
-}
-div.colophon table {
-    margin: 1em 0 2em;
-    border: none;
-}
-div.colophon table tr th {
-    background-color: #fff;
-    font-size: 1.2em;
-    font-weight: normal;
-    border: none;
-}
-div.colophon table tr td {
-    font-size: 1.2em;
-    font-weight: normal;
-    border: none;
 }
 
 /* Inline */

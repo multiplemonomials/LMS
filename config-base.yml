@@ -284,7 +284,7 @@ coverimage: cover.jpg
 # という構成にする必要がある(インデントさせる)
 
 epubmaker:
-  # HTMLファイルの拡張子
+  # HTML file extension
   htmlext: xhtml
   #
   # 目次を要素の階層表現にしない。省略した場合(null)は階層化する。
