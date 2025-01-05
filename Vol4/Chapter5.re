@@ -394,7 +394,6 @@ For a whole week, you will have to follow Darone’s orders. This will help you,
 @<b>{Reward:} Experience gained during the quest will be multiplied by two.
 @<b>{Failure:} The quest will fail if you do not meet the deadline. Your fame will be reduced and you will have to pay a fine.
 //}
-//}
 
 Weed did not hesitate. Naturally he would be repelled by the time limit and decrease in fame, but a secret skill was at stake. Besides, there was another reason. Ever since he created the ice dragon, his sculpting had been at intermediate level 6, and it hadn't raised much since then.
 
@@ -414,14 +413,12 @@ He decided to make 30 sculptures a day, resulting in 210 by the end of the week.
 
 “If I work without rest, everything should work out.”
 
-//{
 //table{
 
 --------------
 The figures on the bow.
 A fleet, floating on smooth waves, under white sails far, far away from the sun.
 A customer strongly requested a dolphin sculpture.
-//}
 //}
 
 His orders didn’t vary much. He only needed to do a little work, and on success, he received compensation in the form of experience. Though, there were some difficulties. A sculpture had to meet the requirements of the customer.
@@ -440,25 +437,20 @@ Soon, a week had flown by. And Weed just barely managed to complete the entire o
 
 Tink!
 
-//{
 //table{
-
+Quest Complete: Darone’s Orders
 --------------
-@<b>{Quest Complete: Darone’s Orders}
 All throughout his life, he carved sculptures of the same woman. His sculptures were full of love and life. By sharing his skills with a novice sculptor, he can now safely and happily leave this world.
 Sculpting skill proficiency has increased.
 @<b>{New skill:} ‘Sculpture Transformation’
 @<b>{New passive skill:} ‘Sculptural Understanding.’
 //}
-//}
 
 Weed immediately checked his new skills.“Open Skill info: Sculpture Transformation, Sculptural Understanding!”
 
-//{
 //table{
-
+Sculpture Transformation:
 --------------
-@<b>{Sculpture Transformation:}
 A technique created by sculpting Master Darone which is known to very few people.
 When you create sculptures you can change your body into the form of the sculpture.
 @<b>{Requirements:}
@@ -466,15 +458,10 @@ When you create sculptures you can change your body into the form of the sculptu
 Technique is limited by the skill level of Sculptural Understanding.
 @<b>{Warning:} During the transformation into another person or creature you change only the appearance and physique, your stats and level remain the same. If you attempt to transform into a huge creature, you will need a certain amount of strength and health.
 //}
-//}
 
-
-
-//{
 //table{
-
+Sculptural Understanding (Beginner Lv: 1 | 0%):
 --------------
-@<b>{Sculptural Understanding (Beginner Lv: 1 | 0%):}
 The better you understand the object, the greater your chance of creating higher quality works.
 As skill level goes up, additional effects will be added to Sculpture Transformation.
 @<b>{Beginner}
@@ -483,7 +470,6 @@ Adds 10% to the effect of transformation. Can only change into earthbound races.
 Adds 20% to effect of transformation. Can now change into flying creatures. However, you must learn how to fly.
 @<b>{Advanced}
 Adds 30% to the effect of transformation. Can transform into colossal creatures.
-//}
 //}
 
 And so, Weed learned another secret of sculpting: “Sculpture Transformation”
@@ -552,7 +538,7 @@ Staring upwards, Darone drew his last breath and disappeared in a flash of light
 
 At the spot where he died, he left behind a small wooden sculpture.
 
-“A sculpture…. Only people who really loved the world would leave behind a sculpture…”
+“A sculpture…. Only people who really loved the world would leave behind a sculpture…”@<fn>{statue}
 
 Only now, after the past few weeks of training, did Weed truly begin to realize what kind of profession he chose and which direction he had to go.
 
@@ -562,11 +548,9 @@ Weed took out a wooden block, and began to work on a new sculpture. After all, h
 
 Ding!
 
-//{
 //table{
-
+Statue Completed: Sculpture of Darone (Masterpiece)
 --------------
-@<b>{Statue Completed: Sculpture of Darone (Masterpiece)}
 The sculpture, made by a devoted disciple, radiates love, like his master. Although he left the world, a part of his soul will always remain.
 @<b>{Artistic value:} 2300
 @<b>{Special Effects:}
@@ -585,57 +569,25 @@ Leadership + 5
 @<b>{In exchange for creating a masterpiece}
 All stats + 1 point
 //}
-//}
 
-
-
-//{
 //table{
-
 --------------
 @<b>{Level Up:} Sculptural Mastery (Intermediate Lv: 8 | 0%):
 This allows you to create more detailed and delicate work.
 //}
-//}
 
 
-
-//{
 //table{
-
 --------------
 @<b>{Level Up:} Handicraft (Intermediate Lv: 9 | 0%):
 The effects of crafts skills are increased by 5%
 //}
-//}
 
-
-
-//{
 //table{
-
 --------------
 @<b>{Level Up:} Sculptural Understanding (Beginner Lv: 4 | 0%):
 The more knowledge and love you have for a sculpture, the better effects the sculpture will have.
 //}
-//}
 
-
-
-===={toc_1} Translator’s Note
-
-Some of you may not realized, but the wooden statue dropped by Darone is really important. Recall Vol 1 Ch 9:
-
-Rodriguez handed Weed a wooden statue that fitted in his palm. It was shaped like an imperial knight.
-
-“What is this?” Weed asked.
-
-“It is the legacy of Geihar von Arpen the Magnificent. My family used to serve in the Imperial Family of the Arpen Empire. The blood, and the obligation accompanying, it has flowed in my family. I am the one to take the task for this generation. Now that I hand it to you, I am finally liberated from its reins.”
-
-Rodriguez said.
-
-“But what is this statue for?”
-
-Weed had already received a wooden statue of a different shape when he carried out Zahab’s Moonlight Sculptor quest.
-
-“I do not know the secret of this wooden statue, either,” Rodriguez said. “The myth has it that there have been five masters in sculptural art on the Continent. Of course, it is only an ancient myth, for they came and went like the wind. They are known to leave their own crafts in their legacies, so I surmise that this statue is probably one of them. According to the myth, if you succeeded in collecting all five of the statues, and solve the puzzles arising from them, the ultimate secret of sculptural art will appear.”
+== Footnotes
+//footnote[statue][TN: The wooden statue dropped by Darone is important. Refer back to Vol 1 Ch 9.]

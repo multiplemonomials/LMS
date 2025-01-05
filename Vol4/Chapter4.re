@@ -1,4 +1,4 @@
-==={chapter-4-sculpting-master-darone} Chapter 4: Sculpting Master Darone
+= Sculpting Master Darone
 
 The Bensa River.
 
@@ -238,17 +238,14 @@ Weed made sure to make the sculpture young because, as in the legend, the little
 
 Tink!
 
-//{
 //table{
-
+You have finished the Sea Nymph Sculpture
 --------------
-@<b>{You have finished the Sea Nymph Sculpture}
 The outstanding work of a skilled sculptor
 @<b>{Artistic value:} 450.
 @<b>{Effects:}
 The power of a water spirit will prevent the river from flooding for 10 years.
 This effect cannot be combined with other sculptures.
-//}
 //}
 
 “…”
@@ -273,15 +270,12 @@ In his situation, he had to act quickly. Weed turned toward the sculpture and sh
 
 From the base of the sculpture, up-to-head, appeared a huge crack, and when it reached the top of the sculpture, it shattered into many small fragments.
 
-//{
 //table{
-
+You have used Sculpture Destruction
 --------------
-@<b>{You have used a skill:} Sculpture destruction
 Because of great regret you lose 1 Art stat and 20 Fame.
 Twice your art stat has been added to your dexterity for one day.
 Sculpting Skill has risen by 0.2%
-//}
 //}
 
 Even with the destruction of a sculpture it was one of the skills of a sculptor, so it gave experience points. Even more points than creating sculptures. But it could not be used more than once a day and decreased performance.
@@ -290,7 +284,7 @@ Even with the destruction of a sculpture it was one of the skills of a sculptor,
 
 Now he fished so quickly that his hands were a blur. However, the fish didn't bite any quicker, but it still looked impressive.
 
-* * *
+@<embed>{|html|<hr/>}
 
 The Geomchis gripped their blades.
 
@@ -370,16 +364,13 @@ The Geomchis, for the hundredth time, shared the same experience. Then the boy f
 
 Tink!
 
-//{
 //table{
-
+A Giant Man has been kidnapping villagers
 --------------
-@<b>{A Giant man has been kidnapping villagers}
 The giant man, a type of monster related to the giants, torments the villagers around the clock. Abducted villagers have to cook, wash, clean, and collect food for the monster. In return for their work they are given very severe beatings. Kidnapped people often die quickly from exhaustion.
 Save the boy’s parents or they will die!
 @<b>{Reward:} Black sword, and gratitude from the villagers
 @<b>{Failure:} If not completed within 10 days
-//}
 //}
 
 The instructors and students looked expectantly at their master. For them, doing quests was like being an errand boy, so they always refused to accept quests.
@@ -462,18 +453,15 @@ While the Geomchis celebrated, a small boy appeared in the distance. He ran, exh
 
 “No, it is, and as promised, a reward.”
 
-//{
 //table{
-
+Quest complete: Liberation of the villagers from the giant’s captivity
 --------------
-@<b>{Quest complete: Liberation of the villagers from the giant’s captivity}.
 The giant man, who lived in the mountains, caught and terrorized the villagers.
 With his death, finally peace arrives.
 Familiarity increased by 26
 Relations with the village of Ulkyn have become friendly.
 Your level has risen
 Your level has risen
-//}
 //}
 
 The boy brought a sword much too heavy for him and handed it to the master.
@@ -492,7 +480,7 @@ The disciples were stunned that the boy had not disappointed them. They had help
 
 Royal Road gradually opened up to the Geomchis.
 
-* * *
+@<embed>{|html|<hr/>}
 
 Weed took his fishing seriously.
 
@@ -534,9 +522,7 @@ With a little trouble, Weed pulled out of the river a large carp. It was a humon
 
 Tink!
 
-//{
 //table{
-
 --------------
 @<b>{Upgrade:} Fishing (Beginner Lv: 10 to Intermediate Lv: 1 | 0%):
 Now you can use rods as weapons.
@@ -550,7 +536,6 @@ Ability to catch special fish
 +30 endurance
 +30 intelligence
 +30 wisdom.
-//}
 //}
 
 After so much suffering, Weed finally increased his fishing level.
@@ -649,10 +634,7 @@ Considering that this was another compliment Weed was already heading toward the
 
 “A Sculptor must feel the beauty of life, and I see it in you. Did you happen to hear about the master sculptor Darone? I usually do not tell, but you have the gift of the sculptor, so I can trust you. Did you know that Darone lives in the town of Rega?
 
-//{
 //table{
-
 --------------
 You have acquired information about the master sculptor Darone.
-//}
 //}
