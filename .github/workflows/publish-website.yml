@@ -7,7 +7,7 @@ jobs:
     # Use Docker Review container defined here:
     # https://github.com/vvakame/docker-review/tree/master
     container:
-      image: ghcr.io:vvkame/review:5.9
+      image: ghcr.io/vvkame/review:5.9
 
     steps:
     
