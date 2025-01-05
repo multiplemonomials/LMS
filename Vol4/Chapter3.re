@@ -1,6 +1,6 @@
-==={chapter-3-prismatic-clothing-auctions} Chapter 3: Prismatic Clothing Auctions
+= Prismatic Clothing Auction
 
-Daring people like Weed, in search of adventure, often chose to start off in the capital of small kingdoms, like Rosenheim. Usually these players would then head to large populated cities where it was easier to get a good weapon, join a good party, and roam without straying far from the city gates.
+Daring people like Weed, in search of adventure, often chose to start off in the capitals of small kingdoms like Rosenheim. Usually these players would then head to large populated cities where it was easier to get a good weapon, join a good party, and roam without straying far from the city gates.
 
 At the main gate of Liberty City, there was a flock of people surrounding one person. He wore a strange helmet, a necklace, a cloak, and conspicuous white gloves.
 
@@ -10,19 +10,19 @@ Nevertheless, such cries did not attract many players. The main reason was becau
 
 “Is it true that if I bring you meat, it’ll increase vitality?”
 
-“I have a few skin pooches; can you really make them into clothes?”
+“I have a few animal skins, can you really make them into clothes?”
 
 However, the crowd shot down the few hopefuls, and shook their heads disapprovingly.
 
 “Another impostor has appeared.”
 
-“Guys, do not fall for the hype. It’s just a ploy to gain your items and escape.”
+“Guys, do not fall for the hype. It’s just a trick to take your items and escape.”
 
 “Yeah, a lot of new players do this, there are types of people like him.”
 
 “Think with your head. He sews clothes, prepares meals, repairs and forges weapons - have you ever heard of such a man? This is a scam!”
 
-“Man, if you’re a newbie, do something else, go hunting. Why do you try to fool other players? Ay-ay-ay …”
+“Man, if you’re a newbie, do something else, go hunting. Why do you try to fool other players? Jeez…”
 
 After hearing such talk, many players grew angry.
 
@@ -32,21 +32,21 @@ After hearing such talk, many players grew angry.
 
 The man at the gate was called Weed.
 
-Standing calmly, he quietly listened to the torrent of insults. Yes, it was unpleasant but that was life. If you think about it, they were not wrong to suspect him. It would pretty much be impossible to find someone that knew how to sew, cook, and forging.
+Standing calmly, he weathered the torrent of insults without complaint. Yes, it was unpleasant, but that was life. If you think about it, they were not wrong to suspect him. It would pretty much be impossible to find someone that knew how to sew, cook, and forging.
 
-Not to mention, Weed even knew how to sculpt and fish. Learning new skills was not easy. It wasn’t as simple as going to a guild and training. First, you had to work hard, and you had to develop the skills through constant repetition as Weed had. Therefore, to meet such a player in the game was somewhat incredible.
+Not to mention, Weed even knew how to sculpt and fish. Learning new skills was not easy. It wasn’t as simple as going to a guild and training. First, you had to work hard, and you had to develop the skills through constant repetition as Weed had. Therefore, to meet such a player in the game was incredible.
 
 Even he wouldn’t have believed it if he were told of such a person in the beginning. But Weed wasn’t a newbie anymore. He was experienced in making money. Before, if he had so many players shouting and criticizing him, he would’ve experienced shock and tried to run away, but not this time.
 
-During his empiricism, Weed sold hundreds of figurines, gained experience, and learnt how to measure the situation. He knew how, and what to do in order to squeeze out the maximum profit even when selling something simple. Weed was a professional in these matters.
+During his time in Royal Road, Weed had sold hundreds of sculptures, gained experience, and learnt how to accurately measure a situation. He knew what to do in order to squeeze out the maximum profit even when selling even something simple. Weed was a professional in these matters.
 
 “Let’s start with the simple problem”
 
-The main causes of distrust were - the erroneous idea that he was low level and the suggestion that he was trying to scam them. It was necessary to eliminate them, and then the situation would change dramatically.
+The main causes of distrust were (a) the erroneous idea that he was low level, and (b) the suggestion that he was trying to scam them. It was necessary to eliminate these factors, and then the situation would change dramatically.
 
 “Well, that’s that. Calling Death Knight!”
 
-Weed with a disgruntled look on his face took out a red necklace and whispered something. Black smoke appeared, and out came the death knight.
+Weed, with a disgruntled look on his face, took out a red necklace and whispered something. Black smoke appeared, and out came the death knight.
 
 “You called me master?”
 
@@ -54,19 +54,19 @@ Weed with a disgruntled look on his face took out a red necklace and whispered s
 
 “Got it. Master.”
 
-The Death Knight stood menacingly near Weed. He wished to discipline the players that insulted him but money came first. The results didn’t take long to achieve.
+The Death Knight stood menacingly near Weed. Weed secretly wished to discipline the players that insulted him but money came first. The results didn’t take long to achieve.
 
 “Hey, what’s with that guy?”
 
-“He called a Death Knight.”
+“He called a death knight.”
 
-“That’s a Death Knight? Yes, it looks gloomy …”
+“That’s a death knight? Yes, it looks gloomy …”
 
 “Yeah, it’s a death knight. It looks exactly like the one I saw online”
 
-“Death Knights are above level 200. I don’t believe it. Maybe it’s magic? Is he a dark wizard?
+“Death knights are above level 200. I don’t believe it. Maybe it’s magic? Is he a dark wizard?
 
-“A Dark Wizard - it’s a second job advancement for mages? So it requires a level of 280 …”
+“A Dark Wizard - it’s a second job advancement for mages? So it requires a level of 280…”
 
 Now the unrest slowly turned into interest.
 
@@ -96,7 +96,7 @@ And ate it all instantly.
 
 Then he quickly opened his bag, pulled out all the meat he had and handed it to Weed.
 
-My vitality increased by 160 points. I’ll pay, please cook it!
+"My vitality increased by 160 points. I’ll pay, please cook it!"
 
 “Me too!”
 
@@ -118,17 +118,17 @@ Weed gently smiled and answered every question.
 
 “Weed. Understood. I’ll look for you next time.”
 
-“You said Weed? Coincidently …”
+“You said Weed? Coincidently…”
 
-In Royal Road nicknames were not unique. So many people played Royal Road that if you didn’t allow people to have the same name, the game would have many strange and meaningless names ones with numbers attached . Therefore, developers took care of this by introducing a system where a unique number is assigned to each person.
+In Royal Road nicknames were not unique. So many people played Royal Road that if you didn’t allow people to have the same name, the game would have many strange and meaningless names with long strings of numbers attached. Therefore, the developers took care of this by introducing a system where a unique number is assigned to each person.
 
 “Do you happen to be the one who fulfilled the task for the Order of Freya?”
 
 “Yes, please tell us!”
 
-All the talk about Weed’s success started in Liberty City, so it is not surprising that in the crowd there was not one person who had not heard of Weed. Yes, and in the whole game, as an NPC reached lv 30 it would start talking about someone in the continent.
+All the talk about Weed’s success started in Liberty City, so it is not surprising that in the crowd there was not one person who had not heard of Weed. Yes, in the whole game, whenever an NPC reached lv 30 it would start talking about someone in the continent.
 
-“If that is the case …”
+“If that is the case…”
 
 Before Weed could say anything, the players themselves all discussed together.
 
@@ -140,15 +140,15 @@ Before Weed could say anything, the players themselves all discussed together.
 
 “Yeah, my friend also uses the nickname Weed.”
 
-After what Weed did in the ‘Continent of Magic’ the name Weed in ‘Royal Road’ became extremely common. When Weed was selling figurines, he met 6 buyers with the same name.
+After what Weed did in the Continent of Magic the name Weed in Royal Road became extremely common. When Weed was selling sculptures, he met 6 buyers with the same name.
 
-That is why the Pale, Surka, Romune and Irene did not even imagine that they were playing with the very same Weed.
+That is why Pale, Surka, Romuna and Irene did not even imagine that they were playing with the very same Weed.
 
-“Hmm, it’s still strange that out of nowhere appears a player named Weed and he begins to help players … weird”
+“Hmm, it’s still strange that out of nowhere appears a player named Weed and he begins to help players… It's weird.”
 
-“So what? He called a Death Knight; as far as I know, even among the summoners there is none who can do so.”
+“So what? He called a death knight; as far as I know, even among the summoners there is none who can do so.”
 
-“Yes, let’s think about the evidence in front of our eyes. Weed also destroyed the clan of vampires, did he not?”
+“Yes, let’s go by the evidence in front of our eyes. Weed also destroyed the clan of vampires, did he not?”
 
 “Yeah, they say he has a high level of faith. Tell me, where can a cook gain faith?”
 
@@ -314,7 +314,7 @@ Metal, leather, or fabric, even things that were usually thrown away, in the han
 
 Weed was trembling with excitement.
 
-In the past, when selling his figurines he had to carefully assess his customers and make great efforts to convince players to buy them. But now, thanks to the skill of a blacksmith, everything he did resulted in a cheer. He was doing really useful things, and people were grateful for it.
+In the past, when selling his sculptures he had to carefully assess his customers and make great efforts to convince players to buy them. But now, thanks to the skill of a blacksmith, everything he did resulted in a cheer. He was doing really useful things, and people were grateful for it.
 
 “Hmm … when compared with the profession of a sculptor, everything else looked extremely useful.”
 
