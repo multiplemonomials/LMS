@@ -353,7 +353,7 @@ Mapan suddenly took a deep breath. He then crept closer to Weed and whispered to
 
 This dancer, if she met an Orc or an Ogre, would actually approach them closely and dance suggestively in front of them! 
 
-Hwaryeong’s cheeks were dyed with a peach color.  “I once used to frequently go to night clubs… now I like dancing so much that I can’t stop.”
+Hwaryeong’s cheeks were dyed with a peach color.  “I used to go to night clubs all the time… now I like dancing so much that I can’t stop.”
 
 “…”
 

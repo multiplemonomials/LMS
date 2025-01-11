@@ -390,11 +390,11 @@ If he was to fight, he’d prefer fighting knights -- that’d be a faster way t
 
 “What if they come to their senses?” exclaimed Hwaryeong in a worried voice.
 
-“Then deal with it. If Van Hawk and Zeppi finish the knights by then, they’ll help you. I’ll be busy with the boss.”
+“Then deal with it. If Van Hawk and Zeppi finish the thieves by then, they’ll help you. I’ll be busy with the boss.”
 
 Zeppi and Hwaryeong didn’t have any choice but to follow Weed’s orders.
 
-Two knights were slowly approaching Weed, skilfully swinging their swords.
+Two knights were slowly approaching Weed, skillfully swinging their swords.
 
 “Don’t sleep Hwaryeong, get going!”
 
@@ -402,11 +402,11 @@ Zeppi immediately headed towards the group of thieves, and Weed easily slipped p
 
 “Charming dance!”
 
-To charm enemies, stronger than her, she would have to spend a lot of mana and dance much longer than usually. And knights were quickly approaching!
+To charm enemies stronger than her, she would have to spend a lot of mana and dance much longer than usual. And the knights were quickly approaching!
 
 “For the glory of Basra!” shouted the NPC knights, jumping towards Hwaryeong.
 
-The dancing girl closed her eyes in despair. 'That’ll probably hurt a little…'
+The dancing girl closed her eyes in despair. 'It'll probably hurt a little…'
 
 The pain would finally bring death! It was a lot more welcome than all those strenuous everyday fights that were leaving her completely exhausted.
 
@@ -414,7 +414,7 @@ However a second passed. Then another. Still, she felt nothing, no hard blade ag
 
 “Kill her, Jason.”
 
-“I don’t want. You go, Tobon.”
+“I don’t want to. You go, Tobon.”
 
 “I can’t! As knights we gave an oath to always protect fair ladies. It is our duty! If I kill her, I’ll no longer be a knight.”
 
@@ -465,7 +465,7 @@ Basra’s Archduke instantly teleported a few steps back.  However, on his chest
 
 Weed’s Sculpting Blade technique was completely ignoring any armor!
 
-For necromancers, who didn’t have any armor and had low health, strikes like that were especially dangerous! If only the boss was a leech, he’d have almost infinite vitality like Lord Tori. But there were few monsters like that in the game, and usually players were trying to avoid them.
+For necromancers, who didn’t have any armor and had low health, strikes like that were especially dangerous! If only the boss could leech health, he’d have almost infinite vitality like Lord Tori. But there were few monsters like that in the game, and usually players tried their best to avoid them.
 
 “Fools!”
 

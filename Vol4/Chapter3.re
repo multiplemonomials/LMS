@@ -160,7 +160,7 @@ So, after much discussion the players persuaded themselves that this was not The
 
 In any case, now no one called him a fraud.
 
-Everybody thought that he was such a great cook, that the death knight decided to serve him.
+People wondered if the death knight had just decided to serve him because he was such a great cook.
 
 Weed then again, as before, shouted out:
 
@@ -182,30 +182,25 @@ Weed quickly examined the skin. As he expected, most of them were the skins of w
 
 “I will prepare you stylish and comfortable pants with good protection; wait a little, I will do everything”
 
-Weed took from his pocket a needle, thread and scissors. Cut the skin and made pants. Of course, he didn’t just pick up the pieces and stitch leather. Weed first estimated the size of the guy.
+Weed took from his pocket a needle, thread and scissors. He then cut the skin and made pants. Of course, he didn’t just pick up the pieces and start stitching. Weed first estimated the size of the guy.
 
-“If he’s that size, then …”
+“If he’s that size, then…”
 
-He cut off the skin and then stitched excellent pants. He made the hips loose, with wide pockets … On the bottom edge, reaching up to the heel, he visually lengthen the leg. Weed thought of everything and made stylish pants out of simple skin.
+He cut the skins and then stitched excellent pants. He made the hips loose, with wide pockets. On the bottom edge, reaching up to the heel, he visually lengthened the leg. Weed thought of everything and made stylish pants out of simple skin.
 
-//{
 //table{
-
+Quality Leather Pants
 --------------
-@<b>{Quality Leather Pants}
 @<b>{Durability:} 30/30
 @<b>{Defense:} 10
-Pants made of rabbit skin. This is not the best material for sewing, but thanks to the amazing talent of the tailor its deficiency was overcome.
+Pants made of rabbit skin. This is not the best material for sewing, but thanks to the amazing talent of the tailor its deficiencies were overcome.
 //}
-//}
 
-“It turned out well” Weed even surprised himself. But he showed nothing besides a confident smile, as he handed over the pants.
+“It turned out well” Weed even surprised himself. But he showed nothing besides a confident smile as he handed over the pants.
 
-For Weed, comparing the pants with his current clothes was pointless. As for the newbie, the pants would provide good protection for a long time. And it was all thanks to his intermediate handcrafting skill, without such this would not have happened.
+For Weed, these pants could not even be compared with the attributes of his current clothes. But for the newbie, the pants would provide good protection for a long time. And it was all thanks to his intermediate handcrafting skill, without which this would not have happened.
 
-“Wow, that’s so good …”
-
-the newbie said as he took the pants from Weed’s hands. He was speechless, rabbit skins, one of the most worthless materials in the game were turned into pants that could be worn without problems until level 30.
+“Wow, that’s so good,” the newbie said as he took the pants from Weed’s hands. He was speechless: rabbit skins, one of the most worthless materials in the game, were turned into pants that could be worn without problems until level 30.
 
 “That’ll be 1 silver.”
 
@@ -213,15 +208,15 @@ As Weed received commissions he continued to sew clothes for a long line of play
 
 There was a cool and pleasant breeze, but people who were waiting in line only felt the sun burn their eyes.
 
-“Wow! Thank you so much for such a cool tunic. I’ll wear it now. And if I bring more skin, will you sew another dress?”
+“Wow! Thank you so much for such a cool tunic. I’ll wear it now. And if I bring more skins, will you sew another dress?”
 
-When beginners received their new armor they would dance with joy. With their new high-quality hunting clothes they would be able to hunt faster, and more securely.
+When beginners received their new armor they would dance with joy. With their new high-quality hunting clothes they would be able to hunt faster and more securely.
 
-Rumors of an unprecedented master spread already to the point where many players lined up in advance. Most immediately ordered food, clothing, and equipment repair. Only somewhere in the evening was there a player who nervously, handed Weed just three pieces of ore.
+Rumors of an unprecedented master spread widely. to the point where many players lined up in advance. Most immediately ordered food, clothing, and equipment repair. Only sometime in the evening was there a player who nervously handed Weed just three pieces of ore.
 
 “You can really make armor?”
 
-“Of course. What armor do you want? For the record, making armor requires 30 pieces of ore. And with just this, by adding the skin I can make some boots.”
+“Of course. What armor do you want? For the record, making armor requires 30 pieces of ore. With just this, by adding the skin I can make some boots.”
 
 “Then please make some boots.”
 
@@ -229,104 +224,92 @@ Rumors of an unprecedented master spread already to the point where many players
 
 “Good.”
 
-Weed melted the ore in the furnace, poured it into the selected forms and received the boots.
+Weed melted the ore in the furnace, poured it into forms, and received the boots.
 
-//{
 //table{
-
+Unclean Iron Boots
 --------------
-@<b>{Unclean Iron Boots}
 @<b>{Durability:} 35/35
 @<b>{Defense:} 6.
 Iron alloy boots. Although the defense is not high, they are comfortable and durable.
 @<b>{Effects:} Dexterity +2.
-//}
 //}
 
 Usually boots made of iron and bronze have more protection than boots made of leather. But there was not enough metal.
 
 And then, in a burst of inspiration!
 
-Weed cut on the boots a fox with nine tails. A final touch reflecting his personality. A kind of signature.
+Weed engraved into the boots a fox with nine tails. A final touch reflecting his personality. A kind of signature.
 
 Tink!
 
-//{
 //table{
-
 --------------
 The properties of the object have changed.
 //}
-//}
 
-
-
-//{
 //table{
-
+Artistic Unclean Iron Boots
 --------------
-@<b>{Artistic Unclean Iron Boots}
 @<b>{Durability:} 38/38
 @<b>{Defense:} 7
-Iron alloy boots. Although, the defense is not high, they are comfortable and durable. The image of a sly fox further increases the strength and health of the host.
+Iron alloy boots. Although, the defense is not high, they are comfortable and durable.
+The image of a sly fox further increases the strength and health of the host.
 @<b>{Effects:}
 Dexterity +2
 Strength +1
 Stamina +1
 //}
-//}
 
 Intermediate level sculpting was designed to improve the performance of objects. Maybe not much, but still two features were added.
 
-Other skills could be applied to sculpting and only now it occurred to him that sculpting could be applied to other skills also.
+Other skills could be applied to sculpting, but only now did it occur to him that sculpting could be applied to other skills also.
 
 “Damn it, the increase wasn’t that great. It was good, but only slight better. “
 
-The more Weed played the better he understood that all craft professions require secondary skills. Just like in life. Prominent figures who have left their mark in history, have been diversely gifted in art, mathematics and other sciences.
+The more Weed played the better he understood that all craft professions require secondary skills. It was just like in real life. Many prominent figures who have left their mark in history have been diversely gifted in art, mathematics and other sciences.
 
-And they were all well-known sculptors!
+And that was just the sculptors!
 
-Weed finally realized that being a sculptor was not as much to the artisan craft as an art. It was a peaceful occupation that did not help battle. While this was not entirely true, the effects of beautiful sculptures had often rescued Weed; but to create such a work was so hard that it did not matter. The usual sculptures were just useless trinkets.
+Weed finally realized that being a sculptor was not as much an artisan craft as an art. It was a peaceful occupation that did not help in battle. Well, it had helped sometimes -- the effects of beautiful sculptures had often rescued Weed. But to create such a work was so hard that it did not matter. The usual sculptures were just useless trinkets.
 
-In addition, to raise the levels in sculpting was a lot harder than other professions. While soldiers battled, and blacksmiths forged weapons, sculptors had to create conventional sculptures and languish.
+In addition, to raise one's level in sculpting was a lot harder than other professions. While soldiers battled, and blacksmiths forged weapons, sculptors had to languish in their workshops creating conventional sculptures.
 
-And even if after the labors they were able to reach the intermediate level of skill, the situation could not be changed, so to create a beautiful sculpture was not so easy.
+And even if, after their labors, they were able to reach the intermediate level of a skill, the grindy and unpredictable nature of sculpting didn't change, so creating a beautiful sculpture was not easy.
 
-But these were no useless professions: for example, the higher the level of the cooking skill was, the more tasty and healthy food he could prepare. It was the same with the sculpting.
+But there were no useless professions: for example, the higher the level of the cooking skill was, the more tasty and healthy food he could prepare. It was the same with the sculpting.
 
-Engraving technique and statue destruction - a unique ability of the sculptor that will never be known to any other class. And only through the work of the sculptures can one so quickly develop the skill and craftsmanship to master the skills of other professions. However, for such progress required great tenacity and originality.
+Engraving and Sculpture Destruction - unique abilities of the sculptor that will never be known to any other class. And only through the work of sculpting can one so quickly develop the skill and craftsmanship to master the skills of other professions. However, such progress required great tenacity and originality.
 
 “Here you go.”
 
-“Thank you” said the player who bought the boots, and in a burst of gratitude gave a 1 gold.
+“Thank you,” said the player who bought the boots, and in a burst of gratitude gave a 1 gold.
 
 If he were to buy it from a shop it would cost at least 10 gold. In addition, the boots met with the requirements, so the player paid more than the original price with no regrets.
 
 “Thank you.”
 
-“Be sure to take a look.”
+Then the next player in line stepped up. “I found a golden thread; can I give it to you?”
 
-“I found a golden thread; can I give it to you?”
+The things he made sold like hotcakes. Weed worked with his full dedication, but the line never decreased -- it actually grew.
 
-The things he made selled like hot cakes. Weed worked with full dedication, but the line never decreased, in contrast it grew.
-
-Metal, leather, or fabric, even things that were usually thrown away, in the hands of weed it turned into treasure. Weed never refused a job and the players adored him.
+Metal, leather, or fabric, even things that were usually thrown away -- in the hands of weed they turned into treasure. Weed never refused a job and the players adored him.
 
 Weed was trembling with excitement.
 
-In the past, when selling his sculptures he had to carefully assess his customers and make great efforts to convince players to buy them. But now, thanks to the skill of a blacksmith, everything he did resulted in a cheer. He was doing really useful things, and people were grateful for it.
+In the past, when selling his sculptures he had to constantly play the salesman, carefully assessing his customers and doing his best to convince them to buy. But now, thanks to his broad crafting skills, everything he did resulted in a cheer. He was doing really useful things, and people were grateful for it.
 
-“Hmm … when compared with the profession of a sculptor, everything else looked extremely useful.”
+“Hmm… when compared with the profession of a sculptor, all the other skills look extremely useful.”
 
-After these thoughts, all pre-thoughts that showered love for his profession immediately disappeared and Weed began to be skeptical again.
+After these thoughts, all of his earlier musings that showed love for his profession immediately disappeared and Weed began to be skeptical again.
 
 “Maybe I should get a job change? I could become a blacksmith and put all of my effort into developing my skills. And then I’ll just create beautiful things. I won’t have to worry about money, because even if I stopped trying, money would still flow into my pockets.
 
-Yes, the profession of a blacksmith was easier than a sculptor, but there were its advantages. However, Weed did not relax and back down from complaining:
+Yes, the profession of a blacksmith was easier than a sculptor, but there were its advantages. He wasn't realistically going to abandon sculpting, not after he had come this far. However, Weed did not relax and kept muttering to himself.
 
-“Eh …it’s too late though I really wanted to change it. Oh, my pitiful life. “
+“Eh… I really wanted to change it, but it's just too late. Oh, my pitiful life. “
 
-Weed without rest did one thing at a time. He took any material with some small commission and worked tirelessly at it. He had one main goal – to do more jobs, and quickly boost his skill level. The higher the level of the blacksmith, the better the tools they tried to use. So people were amazed at what Weed was making without the use of high quality tools.
+Weed, without rest, did one thing at a time. He took any material with some small commission and worked tirelessly at it. He had one main goal – to do more jobs, and quickly boost his skill level. The higher the level of the blacksmith, the better the tools they tried to use. So people were amazed at what Weed was making do without the use of high quality tools.
 
 “He’s really a good person.”
 
@@ -338,7 +321,7 @@ At the gates of Liberty City were two richly dressed men.
 
 Behind one of the men hung a huge blade; it was a two handed sword that struck with a lot of force, and the other man was one of the few Druid Heliolaters in the game.
 
-To become a follower of the sun, you had to be at least of level 250. To reach this level at this point in the game meant you were one of the highest level players.
+To become a Heliolater, an acolyte of the sun, you had to be at least of level 250. To reach this level at this point in the game meant you were one of the highest level players.
 
 They looked at Weed and whispered:
 
@@ -352,46 +335,44 @@ They looked at Weed and whispered:
 
 “I agree, and he doesn’t just have one kind of skill but many…”
 
-They stood and talked about Weed. Of course, they never found out about all the agony Weed faced as a sculptor. In their eyes, he had a very clever and thoughtful game plan.
+They stood and talked about Weed. Of course, they had no idea about all the agony Weed faced as a sculptor. In their eyes, he had a very clever and thoughtful game plan.
 
-Everything he made scattered in no time.
+Everything he made flew off the shelves in no time.
 
-Design! Due to his high ‘art’ all the items he made had excellent design. Quality! The stats of his items were much superior to their counterparts in the shops of traders.
+Design! Due to his high Art stat all the items he made had excellent design. Quality! The stats of his items were much superior to their counterparts sold in shops.
 
 In general, it was not surprising that his things sold so well.
 
 Weed’s name instantly spread throughout all adjacent lands. Some players, receiving messages from friends, even began to come from other settlements.
 
-It was hard to find a good craftsman. Most players had to go with the standard weapon from monsters or buy from NPCs. In addition, many players had saved up skin, ore and other materials from their hunts.
+It was hard to find a good craftsman. Most players had to go with the standard weapons from monsters or buy from NPCs. In addition, many players had saved up skins, ore and other materials from their hunts.
 
 Weed did not refuse anyone and with any material created useful goods. When the line built up to a considerable number of players he began selling his previously created deerskin clothes.
 
-Full of hope Weed arranged for an auction:
+Full of hope, Weed arranged for an auction:
 
-“Sale of sewed clothes. Suitable for priests and monks. Good, high quality equipment from the skin of deer. The quantity is limited, so I will sell it to the one who offers the highest price!”
+Selling sewed clothes. Suitable for priests and monks. Good, high quality equipment from the skin of deer. The quantity is limited, so I will sell it to the one who offers the highest price!”
 
-Suddenly, Priests and monks in the crowd eyes lit up. In the continent of Versailles there were not as many monsters with good cleric gear.
+Suddenly, the eyes of the Priests and Monks in the crowd lit up. In the continent of Versailles there were not many monsters that dropped good cleric gear.
 
 “One for 160 gold!”
 
 “Over here 200 gold!”
 
-Clothes sold out within a few moments. Weed did not scam them, the quality was excellent, and were meant for players over level 100.
+The clothes sold out within a few moments. Though the sale price was high, Weed did not scam them: the quality was excellent, and the clothes were meant for players over level 100.
 
-For the tunics people offered 200 to 300 gold, and a hat and boots sold for 50 or more gold. Thanks to the auction he earned more than 1000 gold.
+For the tunics, people offered 200 to 300 gold, and a hat and boots sold for 50 or more gold. Thanks to the auction he earned more than 1000 gold.
 
-And long after the end of the auction people came up and whispered trying to find out, whether there was at least one thing from the hide of a deer.
+Long after the end of the auction, people came up and whispered trying to find out whether there was even one deerskin item left.
 
 A couple of days after the auction, Weed had served more than one hundred people, and then finally achieved the desired result.
 
-//{
 //table{
-
+Upgrade: Blacksmithing (Beginner Lv: 10 to Intermediate Lv: 1 | 0%):
 --------------
-@<b>{Upgrade:} Blacksmithing (Beginner Lv: 10 to Intermediate Lv: 1 | 0%):
 @<b>{New skill:} Blade Sharpening
 @<b>{New skill:} Armor Polishing
-+5 To all stats
++5 to all stats.
 Reputation +50.
 Art +3.
 @<b>{Blade Sharpening}
@@ -399,15 +380,12 @@ Sharpens the blade, increasing weapon damage
 @<b>{Armor Polishing}
 Confuses and dazzles enemies along with an increase in defense.
 //}
-//}
 
-After some time his tailoring skills reached the intermediate. Previously, Weed thought he would first raise tailoring skills, but he was wrong because he didn’t take into account that the majority of people in the game were soldiers and they only asked him to make swords. Therefore, his tailoring skill was late.
+After some time his tailoring skills also reached intermediate level. Weed had figured he'd end up raising tailoring quicker, but he didn’t take into account that the majority of people in the game were soldiers and they only asked him to make swords. Therefore, his tailoring skill got to intermediate later.
 
-//{
 //table{
-
+Upgrade: Tailoring (Beginner Lv: 10 to Intermediate Lv: 1 | 0%):
 --------------
-@<b>{Upgrade:} Tailoring (Beginner Lv: 10 to Intermediate Lv: 1 | 0%):
 @<b>{New skill:} Ironing
 @<b>{New skill:} Hand Washing
 +5 To all stats
@@ -416,53 +394,47 @@ Art +70.
 @<b>{Ironing}
 Increases defense
 @<b>{Hand Washing}
-@<b>{Requirements:} water
-Wash your dirty clothes in the water. This will improve the defenses of the object.
+@<b>{Requirements:} Water
+Wash your dirty clothes in the water. This will improve thir defense.
 Severe washing will wear and tear clothes.
 Skill can be used no more than 3 times on one set of clothes.
-//}
 //}
 
 On that day, when his skills passed the intermediate stage, Weed served his last two clients and made an announcement. He climbed up on the table and, after looking around the crowd of players, many of whom came from neighboring kingdoms, shouted as loudly as possible to be heard by all:
 
-“Hello everyone, I’m asking for your attention. Due to personal reasons, for a while I cannot sew clothes or make weapons. I’m sorry. But there is good news! After 4 days, I will finally expose a single product. My tailoring has reached the intermediate stage, and now I can make clothes out of Prismatic cloth! Come again in 4 days and you will not be disappointed!”
+“Hello everyone, may I have your attention please. Due to personal reasons, for a while I will not be able to sew clothes or make weapons. I’m sorry. But there is good news! After 4 days, I will finally show off a single product. My tailoring has reached the intermediate stage, and now I can make clothes out of Prismatic Cloth! Come again in 4 days and you will not be disappointed!”
 
 After those words, Weed wrapped his things and fled.
 
-“Prismatic cloth?”
+“Prismatic Cloth?”
 
 “What’s that?”
 
 People came up with many theories, but eventually curiosity won out, and players, disconnected from the game to look for information on sites devoted to Royal Road.
 
-//{
 //table{
-
+Sovereign Prismatic Cloth
 --------------
-@<b>{Sovereign Prismatic Cloth}
 @<b>{Durability:} 5/5
-Item artisan skills. Excellent material for clothing and other equipment. During the manufacturing process 7 attributes will be chosen at random. Excellent protection from arrows and blunt weapons. To work with the fabric requires intermediate level tailoring.
+Item related to artisan skills. Excellent material for clothing and other equipment. During the manufacturing process 7 attributes will be chosen at random. Excellent protection from arrows and blunt weapons. To work with the fabric requires intermediate level tailoring.
 It is now known where the fabric comes from but it is also known that it is not easy to get.
 Tier 1 tailoring material.
 @<b>{Effects:} Grants seven randomly generated attributes.
 //}
-//}
 
-Suddenly an unknown player shouted out that it was used to create high quality clothes.
+Suddenly an unknown player logged back in and shouted out that it was used to create high quality clothes.
 
 Rumors spread on the internet faster than the speed of light. On the appointed day at the gates of the city, so many people had gathered that it was packed. Some people ran day and night from other kingdoms in hope to buy the clothes.
 
-Yes, there were a lot of players, and various guilds were present. In the vast continent of Versailles there was a full on war between guilds, so in the auction, there were not friends, but implacable enemies.
-
-All because of the hope to buy some unique items.
+Not only were there a lot of players, but representatives of several guilds attended as well. In the vast continent of Versailles there was a full-on war between guilds, so the auction became almost a new battlefield, with several major forces locked in combat against their enemies. All thanks to the hope of buying some unique items.
 
 “Let’s start the auction!”
 
 Weed’s auction was conducted by Mapan.
 
-Of course, during the time he was crafting his face was seen by many, but now the crowd was ten, or twenty times larger, and he was sure someone would post a movie of the online auction. Weed didn’t want to attract attention to himself and be identified as the Princess Knight, so he asked Mapan to hold his auction.
+Of course, during the time he was crafting his face was seen by many, but now the crowd was ten or twenty times larger, and he was sure someone would post a movie of the online auction. Weed didn’t want to attract attention to himself and be identified as the Princess Knight, so he asked Mapan to hold his auction.
 
-“So, the 1st lot … Ah! Mr. Weed has prepared for us 13 items. For reference, one of them is unique, 5 are rare, and the rest are usual. So, lets start with ordinary objects. The first lot …”
+“So, for the 1st lot… Ah! Mr. Weed has prepared for us 13 items. For reference, one of them is unique, 5 are rare, and the rest are ordinary. So, lets start with ordinary objects. The first lot …”
 
 “1000 gold!”
 
@@ -478,6 +450,6 @@ Of course, things put up for auction are important, but so is the auction site a
 
 To make a good auction, you must first gather those interested, and then carefully maintain and create heated competition for the goods between the players and their greed.
 
-Here is the secret to an auction!
+That is the secret to an auction!
 
-Thanks to a great-planned auction, Weed sold all his rainbow tunics. The next day, people continued to come to the old place, but Weed, as promised, was gone.
+Thanks to a great-planned auction, Weed sold all his rainbow tunics. The next day, people continued to come to the old location of his stall, but Weed, as promised, was gone.
