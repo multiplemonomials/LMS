@@ -2,3 +2,6 @@
 review_version: 5.0
 inherit: ["../config-base.yml"]
 bookname: Legendary Moonlight Sculptor Vol 4
+booktitle: The Legendary Moonlight Sculptor, Vol. 04
+isbn: "9788958579069"
+date: 2007-04-06

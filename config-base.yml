@@ -25,7 +25,7 @@ language: en
 
 # Book Title
 # Example with different stylized name: booktitle: {name: "Re:VIEW EPUBサンプル", file-as: "Re:VIEW EPUB Sample"}
-booktitle: The Legendary Moonlight Sculptor, Vol. 04
+# booktitle: The Legendary Moonlight Sculptor, Vol. 04
 
 # Author name(s).  Can specify multiple with 「, 」
 # Example showing name kanji readings: aut: [{name: "青木峰郎", file-as: "アオキミネロウ"}, {name: "武藤健志", file-as: "ムトウケンシ"}, {name: "高橋征義", file-as: "タカハシマサヨシ"}, {name: "角征典", file-as: "カドマサノリ"}]
@@ -69,8 +69,9 @@ aut: ["Nam Heesung"]
 
 # contact: 連絡先
 
-# 刊行日(省略した場合は実行時の日付)
-date: 2024-12-25
+# Publication date (YYYY-MM-DD). If omitted, will use date when Re:VIEW is run.
+# date: 2024-12-25
+
 # 発行年月。YYYY-MM-DD形式による配列指定。省略した場合はdateを使用する
 # 複数指定する場合は次のように記述する
 # [["初版第1刷の日付", "初版第2刷の日付"], ["第2版第1刷の日付"]]
@@ -93,7 +94,7 @@ debug: null
 # urnid: urn:uuid:ffffffff-ffff-ffff-ffff-ffffffffffff
 
 # ISBN. If omitted, uses the urnid
-isbn: "9788958579069"
+# isbn: "9788958579069"
 
 # @<chap>, @<chapref>, @<title>, @<hd>命令をハイパーリンクにする(nullでハイパーリンクにしない)
 # chapterlink: true

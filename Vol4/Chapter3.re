@@ -368,7 +368,7 @@ Long after the end of the auction, people came up and whispered trying to find o
 A couple of days after the auction, Weed had served more than one hundred people, and then finally achieved the desired result.
 
 //table{
-Upgrade: Blacksmithing (Beginner Lv: 10 to Intermediate Lv: 1 | 0%):
+Upgrade: Blacksmithing (Beginner Lv 10 to Intermediate Lv 1 | 0%):
 --------------
 @<b>{New skill:} Blade Sharpening
 @<b>{New skill:} Armor Polishing
@@ -384,7 +384,7 @@ Confuses and dazzles enemies along with an increase in defense.
 After some time his tailoring skills also reached intermediate level. Weed had figured he'd end up raising tailoring quicker, but he didn’t take into account that the majority of people in the game were soldiers and they only asked him to make swords. Therefore, his tailoring skill got to intermediate later.
 
 //table{
-Upgrade: Tailoring (Beginner Lv: 10 to Intermediate Lv: 1 | 0%):
+Upgrade: Tailoring (Beginner Lv 10 to Intermediate Lv 1 | 0%):
 --------------
 @<b>{New skill:} Ironing
 @<b>{New skill:} Hand Washing
