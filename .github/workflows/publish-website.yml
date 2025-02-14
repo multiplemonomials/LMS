@@ -24,6 +24,11 @@ jobs:
           rake web
           mkdir ../site/Vol4
           mv webroot/* ../site/Vol4/
+          cd ..
+          cd Vol5
+          rake web
+          mkdir ../site/Vol5
+          mv webroot/* ../site/Vol5/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

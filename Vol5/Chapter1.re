@@ -16,7 +16,7 @@ In any business, hard work is the key to success. It's a given that it is 99% ha
 
 Weed was inspired.
 
-The size of the tomb had to be overwhelming. Any flaws on its sculptural design would be compensated by its size. Similar to his greatest creation, the Ice Dragon, the bigger, the better.
+The size of the tomb had to be overwhelming. Any flaws in its sculptural design would be compensated for by its size. Similar to his greatest creation, the Ice Dragon, the bigger, the better.
 
 'I'll build the most majestic royal tomb! And of course, I will succeed!'
 
@@ -50,7 +50,7 @@ Pale's voice was filled with sorrow. Surka, Irene, and Romuna felt the same. It 
 
 — "More than words can describe. If you don't come out soon, they might start storming the palace."
 
-Pale gave an accurate description of the situation. A massive amount of people were clamoring outside.
+Pale gave an accurate description of the situation. A massive amount of people were waiting restlessly outside.
 
 The king's quest!
 
@@ -106,7 +106,7 @@ Although there were some experienced players mixed in, the vast majority of the 
 
 "Ahem." Weed cleared his throat
 
-Just building a tomb was simple. But building a royal tomb the would satisfy the king and be able to strike awe into anyone who looked at it was an entirely different matter. If he were to try and construct it alone, it would take more than a year. Therefore, getting the job done quickly would require a huge amount of workers. Workers who would follow Weed's orders unquestionably.
+Just building a tomb was simple. But building a royal tomb that would satisfy the king and be able to strike awe into anyone who looked at it was an entirely different matter. If he were to try and construct it alone, it would take more than a year. Therefore, getting the job done quickly would require a huge amount of workers. Workers who would follow Weed's orders unquestionably.
 
 'These people will be my workers'
 
@@ -117,7 +117,7 @@ Weed used his Advanced Level 3 Lion's Roar to address the gathered crowd; otherw
 //table{
 -------------------
 You have used Lion's Roar
-}
+//}
 
 His loud voice reverberated throughout the crowd. It sounded as if he were speaking from right next to each person in a clearly audible and perfectly articulated voice. The majority of them had never heard such a powerful and clear voice before.
 
@@ -139,7 +139,7 @@ The surrounding players became even more excited.
 
 "Help us meet the King too!"
 
-Their chatter overlapped and became incomprehensible, yet again. Weed stimulated their excitement even more when he said,
+Their chatter overlapped and became incomprehensible yet again. Weed stimulated their excitement even more when he said,
 
 "I've been commissioned to build something very unique for the king. Fortunately, the quest can be shared!"
 
@@ -159,7 +159,7 @@ Everyone's expectations became amplified. Blinded by Weed's magnanimous words, t
 
 "I'm willing to put my trust in such a guy!"
 
-In the eyes of the people right then and there, Weed was the most noble and righteous player in the continent of Versailles. It was a quest that had a difficulty rank of B. Even less difficult quests, like D or lower rank quests, were only shared for a huge amount of money if it was rare. However, Weed was willing to share his quest for just 1 gold.
+In the eyes of the people right then and there, Weed was the most noble and righteous player in the continent of Versailles. It was a quest that had a difficulty rank of B. Even less difficult rank D or E quests could be shared for a huge amount of money if they were rare. However, Weed was willing to share his quest for just 1 gold.
 
 As people looked at him, they only saw a kind face that led them to believe he was completely sincere, but in actuality Weed was busy calculating the potential profit to be made.
 
@@ -169,7 +169,7 @@ As people looked at him, they only saw a kind face that led them to believe he w
 
 People misunderstood Weed's intentions. After having heard his speech, their doubts were dispelled and they began to respect him more. Truly, a food with an appealing flavor is more likely to be bad for one's body!
 
-Everyone,at least once in their lifetime, will make this mistake: getting backstabbed by seemingly reliable and trustworthy people.
+Everyone, at least once in their lifetime, will make this mistake: getting backstabbed by a seemingly reliable and trustworthy person.
 
 These words did not do Weed justice.
 
@@ -183,7 +183,7 @@ These words did not do Weed justice.
 
 Pale, Irene, and the others knew about Weed's personality, so they were whispering to each other, discussing the situation at hand.
 
-There was something strange was going on!
+There was something strange going on!
 
 They walked closer to the crowd, just in time to see that the people gathered had already fallen for Weed's scam. Weed, with his dignified features and charismatic speech, made people believe in him, but those who were acquainted with Weed knew that he had a hidden agenda.
 
@@ -236,7 +236,7 @@ Finally, it was Pale and his party's turn.
 
 Pale felt like his heart was about to burst out of his chest. Why did he ever believe Weed?! The moment he saw Weed with his innocent expression, he should have suspected something. And once he heard Weed announce that he would share the quest, he should have thought of an excuse and ran away. He should have felt that something was off. The B rank quest…
 
-Pale and the girls knew exactly how Weed had completed a similar quest back in the province of Morata, so now they were in the state of panic and dreaded what was coming.
+Pale and the girls knew exactly how Weed had completed a similar quest back in the province of Morata, so now they were a the state of panic and dreaded what was coming. But they couldn't avoid it, not now.
 
 "I will follow your every command."
 
@@ -260,7 +260,7 @@ One of the most important elements of creating a successful sculpture is to take
 
 Feng-Shui!
 
-For a greater chance of success, he needed to choose a perfect place. Weed decided to personally visit the suggested sites before settling for the best.
+For a greater chance of success, he needed to choose a perfect place. Weed decided to personally visit the suggested sites before deciding on the best.
 
 When Weed moved, thousands of players followed. Along the way, other players started to join, similar to a snowball gaining mass as it rolled down a hill.
 
@@ -304,12 +304,12 @@ On Royal Road's website, someone wrote an article:
 Something incredible is happening in Rosenheim Kingdom.
 For the first time ever, a player appeared and received an audience with the king. And what's even more surprising is that he announced that the king commissioned him to complete a B rank quest and shared it with the other players.
 Sharing a high ranking quest made no sense.
-Generally, higher level players had to form parties for a slim chance to complete such quests. And in Rosenheim Kingdom where the majority of people are still low levels, sharing a significant quest is reckless.
+Generally, higher level players have to form parties for a slim chance to complete such quests. And in Rosenheim Kingdom, where the majority of people are still low leveled, sharing a significant quest is reckless.
 I was there to witness the event, but was against the idea.
 To my surprise, the player's profession was a sculptor. The B rank quest was to build a royal tomb. Yet everyone joined the quest as it seemed to yield great rewards.
 //}
 
-The somewhat exciting post of a B rank quest instantly caught the attention of a large amount of people. The article created a chain reaction. Coincidentally, most of the posted topics on Royal Road's website were written by players from the central region of the continent.
+The somewhat exciting post about a B rank quest instantly caught the attention of a large amount of people. The article created a chain reaction. Coincidentally, most of the posted topics on Royal Road's website were written by players from the central region of the continent.
 
 Many players gathered their information from stories of the veteran players who were in the central continent. Therefore players who started on the edges of the continent were disregarded. The central continent was thought to be exemplary, as most of the good weapons, armor, and information came from there. However, this was the first time players from the central continent were envious of those who started in the Kingdom of Rosenheim, which was once considered an 'undeveloped frontier'.
 
@@ -355,7 +355,7 @@ With great effort, stones were beginning to pile up in the area east of Serabour
 
 'I'm tired.'
 
-Every player who carried a stone was tempted to quit a hundred times. But once they delivered the stone they are currently carrying, they always returned for the next one.
+Every player who carried a stone was tempted to quit a hundred times. But once they delivered the stone they were currently carrying, they always returned for the next one.
 
 It was addictive, in a way!
 
@@ -365,7 +365,7 @@ The prestigious B rank quest warped their ability to reason. To top it off, the 
 
 A subtle rivalry was created.
 
-In addition, the majority of the players who had gathered in front of the palace had joined the quest. They were blinded by the king's quest where differences in levels and professions became pointless. No matter how tired they were of the job, they did not give up. Even when they promised not to carry another stone, when they reached the quarry, they ended up changing their minds.
+In the end, the majority of the players who had gathered in front of the palace had joined the quest. They were blinded by the king's quest where differences in levels and professions became pointless. No matter how tired they were of the job, they did not give up. Even when they promised not to carry another stone, when they reached the quarry, they ended up changing their minds.
 
 'I'll carry one more stone'
 
@@ -381,7 +381,7 @@ He looked down and saw a countless number of people carrying stones. People of a
 
 'People have to do hard labor even in a game…'
 
-At the tremendous sight, Pale couldn't hold his admiration. Weed solved everything with hard work and his enthusiasm spread to the people.
+At the tremendous sight, Pale couldn't withhold his admiration. Weed solved everything with hard work and his enthusiasm spread to the people.
 
 "Oooiii! Pale, move faster!"
 
@@ -391,7 +391,7 @@ Pale turned and glanced behind his back. Irene, Romuna, and Surka, who were foll
 
 "…"
 
-Pale was speechless. What can else could he say? They were already in Weed's clutches! Even Pale was carrying a stone. He could not resist the temptation of the fame and rewards promised for completing the B rank quest.
+Pale was speechless. What else could he say? They were already in Weed's clutches! Even Pale was carrying a stone. He could not resist the temptation of the fame and rewards promised for completing the B rank quest either.
 
 @<embed>{|html|<hr/>}
 
@@ -443,9 +443,9 @@ Maylon dreamed of a future filled with adventures. A righteous ranger helping ot
 
 Until now, she was only able to talk about the adventures of others during her broadcasts. She was envious of them, and decided that she wanted to have her own adventure to tell.
 
-"But this stone is too heavy," Maylon muttered in despair.
+"But this stone is too heavy," she muttered in despair.
 
-Her eyes eyes filled with large tears that were ready to fall at a moment's notice.
+Her eyes filled with large tears that were ready to fall at a moment's notice.
 
 Maylon didn't have much strength. She invested almost all of her stat points in dexterity, as it was more useful for hunting in the mountainous areas where Rangers would usually be active. Thanks to her exceptionally low strength, the stone seemed heavier.
 
@@ -457,7 +457,7 @@ It was so heavy that she was about to collapse. Willpower was keeping her from f
 
 A hand kept the stone Maylon held steady. She lifted her head and saw another archer that had reached out to help her. His expression was no different from hers.
 
-Rangers and Archers use bows as their main weapon, so dexterity was their main attribute.
+Rangers and Archers used bows as their main weapon, so dexterity was their main attribute.
 
 Small streams of sweat ran down his forehead from the effort. Nevertheless, he stopped to help Maylon.
 

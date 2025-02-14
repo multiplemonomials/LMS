@@ -23,3 +23,6 @@ Wash your dirty clothes in the water. This will improve thir defense.
 Severe washing will wear and tear clothes.
 Skill can be used no more than 3 times on one set of clothes.
 //}
+
+# Horizontal line:
+@<embed>{|html|<hr/>}

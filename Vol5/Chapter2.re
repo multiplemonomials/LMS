@@ -23,13 +23,13 @@ People liked and respected Weed.
 
 They were thankful to him since not only had he shared his quest, but he also cooked free food for them.
 
-Though the ingredients used were literally grass that was boiled to look like porridge, after receiving a bowl of boiling porridge, they gave their heartfelt thanks to Weed.
+Though the main ingredient was literally grass that was boiled to look like porridge, after receiving a bowl of boiling porridge, they always gave their heartfelt thanks to Weed.
 
-Among those who participated in the quest, some had really low levels and had little money. Weed cooked grass porridge for these workers for free, and the players were thankful that they were able to work without dying from hunger.
+Among those who participated in the quest, some had really low levels and little money. Weed cooked grass porridge for even these workers for free, and the players were thankful that they were able to work without dying from hunger.
 
 Along with providing food, Weed also kept an eye on the atmosphere of the construction site. No matter how good-natured these people were, any complaints could grow into a strike, bringing an end to the construction. Such things were always a possibility when players who were used to being comfortable and having a full belly were pushed out of their comfort zones.
 
-The main force behind the construction were the low-level players. They were more interested in the reward, and so worked harder. Watching them, other players unconsciously matched their speed.
+The main force behind the construction was the low-level players. They were more interested in the reward, so they worked harder. Watching them, other players unconsciously matched their speed.
 
 "Thank you very much, Weed."
 
@@ -37,7 +37,7 @@ The girl, who just finished her bowl, heartily thanked Weed. This cute little gi
 
 "You're welcome, I'm happy you liked it." Weed responded with a smile.
 
-Today, he had already given tens of thousands of such smiles. No matter how friendly you are, smiling so much wasn't easy. No wonder Weed's smile looked pretty strained! His eyes were smiling, but his lips were slightly crooked, making his smile look mocking. Nevertheless, his voice was friendly.
+Today, he had already given tens of thousands of such smiles. No matter how friendly you are, smiling so much wasn't easy. No wonder Weed's smile looked pretty strained! His eyes were smiling, but his lips were slightly crooked, making his smile look almost mocking. But his voice, at least, was friendly.
 
 "Lemon, you've moved 8 stones already!"
 
@@ -47,7 +47,7 @@ Today, he had already given tens of thousands of such smiles. No matter how frie
 
 "Oh? I see. And I was just about to stop... I'll be right back!" The young girl Lemon diligently ran towards the quarry.
 
-After eating Weed's grass porridge, all the players felt energized and became even more determined to carry stones to make the tomb. Though his porridge was called 'grass porridge', it wasn't made from grass alone!
+After eating Weed's grass porridge, all the players felt energized and became even more determined to carry stones and make the tomb. Though his porridge was called 'grass porridge', it wasn't made from grass alone!
 
 Even if it had been prepared by such a great cook as Weed, if you ate the same dish again and again, you'd get fed up eventually. So, he added a variety of meats and other ingredients, spending about 100 gold a day. Weed considered those expenses as investments to improve the level of his cooking skill!
 
