@@ -461,33 +461,33 @@ It was a really unusual party combination. Maylon drank the hard liquor and obse
 
 "It's…"
 
-First Weed was about to refuse. He has put so much effort into making these tinctures, it could be said, that they were his treasures.
+At first, Weed was about to refuse. He had put so much effort into making these tinctures. They were almost like treasures that he'd been collecting.
 
-But the master said it with such a pleading voice …
+But the master had said it with such a pleading voice…
 
 "A little bit, just a sip…"
 
-If he asked directly, it would be easier to say no. But the teacher was sitting with such a pained expression on his face that it was impossible to refuse.
+If he had asked directly, it would be easier to say no. But the teacher was sitting with such a pained expression on his face that it was impossible to refuse.
 
-Then the second, third and other Geomchi's tried to dissuade their master.
+Then the other Geomchis tried to dissuade their master.
 
 "Master, you shouldn't do that."
 
-"I'm sure Weed worked hard to make these tinctures."
+"I'm sure Weed worked hard to make these drinks."
 
 "Well, I'm just going to taste it…"
 
-"And our level is low as well. We should be grateful that we accepted in the party at all."
+"And our level is low as well. We should be grateful that we were accepted in the party at all."
 
-Although they pretended to stop their Master, their words clearly had no intention of doing so, because they also wanted more of Weed's beverages.
+Although they pretended to stop their master, their words had no real intention of doing so, because they, too, wanted more of Weed's beverages.
 
 "Try these."
 
-In front of the Master appeared a pile of bottles with something transparent, black, purple… One of them even had a snake inside, and it was the first Weed opened.
+In front of the master appeared a pile of bottles with something transparent, black, or even purple inside. One of them even had a snake inside, and it was the first Weed opened.
 
-"Oh! This is Snake Soju!"@<sup>$@<href>{#TLN3,[3]}$
+"Oh! This is Snake Soju!"@<fn>{snake-soju}
 
-Geomchis seized the bottle and started to drink.
+The Geomchis seized the bottle and started to drink.
 
 "Endurance raised some more!"
 
@@ -495,25 +495,25 @@ Geomchis seized the bottle and started to drink.
 
 "Best tincture I've ever tried!"
 
-Whenever the amount of snake soju decreases, Weed became more upset. Meanwhile, the Geomchis continued to drink it at a ridiculous pace. Weed had used money to purchase and make the soju, and was frustrated from losing money. Moreover, they could not afford not to be aware of their surroundings.
+Whenever the amount of snake soju decreased, Weed became more upset. Meanwhile, the Geomchis continued to drink it at a ridiculous pace. Weed had used money to purchase and make the soju, and was frustrated to see his investment trickling away. Moreover, the party absolutely could not afford to lose awareness of their surroundings.
 
-'Come on, the materials used cost just a few bucks …'
+'Well, really the materials used cost just a few bucks…'
 
-Most of the ingredients he obtained in person. Like the snake he caught. And the ones he bought actually costed little. The bottle costed the most, Weed bought it for 1 silver, but it's not like it was going to disappear.
+Most of the ingredients he obtained in person. Like the snake, which he had caught. And the ones he bought actually costed little. The bottle cost the most; Weed had bought it for 1 silver, but it could be reused after the liquor had been drunk.
 
-And what was there for him to worry about. As it is stated in a proverb: 'The rich are well in the hell as well.' Over the past few weeks Weed earned a huge amount of money, more than 70 thousand gold. When Weed was walking, coins in his bag were jingling loudly.
+And really, what was there for him to worry about? As the proverb says, "The rich are well in hell as well." Over the past few weeks Weed had earned a huge amount of money -- more than 70 thousand gold. When he walked, coins in his bag jingled loudly.
 
-Most of the money he earned on the construction of the tomb. That is how things usually are in construction business. Huge sums to build and endless subcontracts! And the saving of money by using cheap materials!
+Most of the money he earned from the construction of the tomb. That is how things usually are in the construction business. Huge sums to build buildings and endless subcontracting! And money was saved by using cheap materials!
 
-Once in the past when Weed was still a minor, he had illegally worked in construction and remembered the words of his older companions. Now it was time to use them!
+Once in the past, when Weed was still a minor, he had illegally worked in construction, and he still remembered the words of his older companions. Now it was time to use them!
 
-Weed was given 100,000 gold for the construction of the tomb. And he was able to save 60,000 for himself!
+Weed was given 100,000 gold for the construction of the tomb. And he had been able to save 60,000 for himself!
 
-'Unused knowledge - Is dead knowledge.'
+'Unused knowledge is dead knowledge.'
 
 Weed smiled with satisfaction.
 
-Meanwhile, Geomchis had completely forgot about their promises, and grabbed new bottles of liquor.
+Meanwhile, the Geomchis had completely forgot about their promises and grabbed more bottles of liquor.
 
 "Oh, this is good!"
 
@@ -521,13 +521,13 @@ Meanwhile, Geomchis had completely forgot about their promises, and grabbed new 
 
 "You're right, it's addictive"
 
-No one tried to stop the Geomchis. If in real life they looked like formidable fighters, and in the game, their bodies became deadly weapons. All of them had sharp eyes and heavy gazes, that were completely overwhelmed Pale and others.
+No one tried to stop the Geomchis. In real life they already looked like formidable fighters, but in the game, their bodies had become deadly weapons. All of them had sharp eyes and heavy gazes which completely overwhelmed Pale and others.
 
-Friends knew that the Geomchis should be stopped, but could not think of a way to do so.
+The friends knew that the Geomchis should be stopped, but could not think of a way to do so.
 
 "Hic… So good!"
 
-"Master, you look better today. Oh, and why did you become the two of you? You split?
+"Master, you look better today. Oh, and since when have there been two of you? You split?
 
 "Look who's talking, whelp. There are four of you!
 
@@ -539,11 +539,11 @@ They laughed loudly, and then started to force Pale to drink too.
 
 "I already drank one."
 
-"Then, I meant two glasses! Here am I, there is the tincture, isn't the world wonderful?"
+"Then, I meant two glasses! Here am I, we've got this delectable brew, isn't the world wonderful?"
 
-Pale tried to refuse, but could not resist the will of the Geomchis, and had to drink. In fact, he wanted to drink. Weed's tinctures were very sweet and tasty.
+Pale tried to refuse, but could not resist the will of the Geomchis and had to drink. In truth, he wanted to drink. Weed's tinctures were very sweet and tasty.
 
-After Pale the girls' turn came.
+After Pale came the girls' turn.
 
 "So, let's all drink together. Cheers!"
 
@@ -555,27 +555,25 @@ Everyone continued to drink together.
 
 "Your name is Romuna? Oh, you're so outgoing and beautiful."
 
-"Maylon, why are you so pale?"
+"Maylon, how is your skin so flawless?"
 
 "Oh! Thank you, and could you pour some of that?"
 
-One glass became two, two glasses - three. It escalated quickly. Everyone's faces were red and constant laughter was heard.
+One glass became two, two glasses - three. It escalated quickly. Everyone's faces were red and constant laughter could be heard.
 
-Weed emerged from his thoughts and started to worry. Not long ago, he went through serious hardships in the province of Morata, and the behaviors of his companions looked strange.
+Weed emerged from his thoughts and started to worry. Not long ago, he had gone through serious hardships in the province of Morata, and the behaviors of his companions looked strange.
 
-'Wait a minute … No, no, no!'
+'Wait a minute… No, no, no!'
 
 The worst thing possible had happened. His friends were still drinking when a message appeared in front of Weed:
 
-//{
 //table{
-
 --------------
 Subordinate players in your party drank too much and are now dead drunk.
- * Their health reduced by 70%.
+ * Their health has been reduced by 70%.
  * Strength and Agility reduced by half.
-Players can not use skills, that involving wisdom, intelligence and mana.
-While alcohol does wear off, they will experience dizziness and hallucinations.
+Players can not use skills involving wisdom, intelligence and mana.
+While alcohol does wear off, they will experience dizziness and hallucinations until it does.
 List of drunken players:
  * Geomchi
  * Geomchi2
@@ -588,9 +586,8 @@ List of drunken players:
  * Irene
  * Maylon
 //}
-//}
 
-They went into the gorge of Huntresses just for hunting, and now his friends got drunk and were fooling around.
+They went into the gorge of Huntresses just for hunting, and now his friends had gotten drunk and were fooling around.
 
 "Oh, look, stars!"
 
@@ -598,11 +595,11 @@ They went into the gorge of Huntresses just for hunting, and now his friends got
 
 "Ha-ha-ha! It's great that we got out to this gorge and had a good drink. This is the life!"
 
-Geomchi, Pale and all others have decided to lie down on the ground under the scorching sun.
+Geomchi, Pale and all others decided to lie down on the ground under the scorching sun.
 
-Weed froze in shock at the sight. He wanted so much to see the real masters in fight, to see their skills and techniques. Looks like it will remain only a dream.
+Weed froze in shock at the sight. He had wanted so much to see the real masters in a fight, to see their skills and techniques. However, it looked like it would remain only a dream.
 
-And to worsen it, at that moment Huntresses appeared.
+And, at that moment, Huntresses appeared.
 
 "Intruders? This is our territory! You won't come out alive!"
 
@@ -614,55 +611,55 @@ Out of black fog appeared the one on whom he could always rely.
 
 "You called, master?"
 
-"Attacks Huntresses. This will be a fun hunt."
+"Attack the Huntresses. This will be a fun hunt."
 
 "Understood, master! But I want to tell you one thing…"
 
 "What now?!"
 
-"We have been fighting shoulder to shoulder for a long time. Because of the strength of our friendship, I was able to break free from the shackles of the spell and remembered my previous life. I, knight Van Hawk from Kalamor Kingdom, acknowledges you as my master. From now on you can summon me without the necklace, I will always answer the call."
+"We have been fighting shoulder to shoulder for a long time. Because of the strength of our friendship, I was able to break free from the shackles of the spell and remembered my previous life. I, knight Van Hawk from Kallamore Kingdom, acknowledge you as my master. From now on you can summon me without the necklace. I will always answer the call."
 
-A red necklace of life created by Barr Khan. Even without wearing the necklace, I can call forth the Death Knight. The red necklace of life transformed into a radiant white light.
+Van Hawk was summoned through the Red Necklace of Life created by Barr Khan. But now, Weed realized, even without wearing the necklace, he could call forth the Death Knight. The necklace now glowed with a radiant white light.
 
 "Wait a minute. So, I can now remove the necklace of life? And what about my experience points?"
 
-If the Death Knight was not lying, then the necklace that was not giving any additional bonuses or effects could now be safely removed.
+If the death knight was not lying, then the necklace that was not giving any additional bonuses or effects could now be safely removed.
 
-In fact, for Weed there was no difference in wearing a necklace or not. Like rings, necklaces in the game were very valuable items, and to get one of them with good effect was like trying to get a star from the sky.
+Weed now had no reason to wear the red necklace. Like rings, necklaces in the game were very valuable items, and trying to get one with a good bonus effect was like trying to get a star from the sky.
 
-Best necklaces were sold for enormous money, so until Weed gets something valuable himself, the dream of good jewelry will remain a dream.
+The best necklaces were sold for enormous amounts of money, so until Weed found something valuable himself, the dream of fine jewelry would remain a dream.
 
 At the moment Weed was annoyed that he had constantly shared his experience points with the Death Knight. Twenty percent of the experience he gained was taken by Van Hawk!
 
 "You can call me without the necklace. I recognize you as my master."
 
-In this difficult situation a sigh of relief sounded. Shared experience is gone! Weed had become truly free!
+In this difficult situation a sigh of relief sounded. The burden of shared experience was gone! Weed had become truly free!
 
-Death Knight looked calmly at approaching Huntresses.
+The death knight looked calmly at the approaching Huntresses.
 
 "I should kill them?"
 
 "Yes, attack."
 
-At Weed's order, Death Knight began to use his skills:
+At Weed's order, Van Hawk began to use his skills:
 
-"Deadly blade!"
+"Deadly Blade!"
 
-The threads of dark energy burst from the sword and stabbed in the approaching Huntresses. However, they were high-level monsters and weren't dying from a single attack of the Death Knight.
+Threads of dark energy burst from the sword and stabbed in the approaching Huntresses. However, they were high-level monsters and weren't going to die from a single attack of the Death Knight.
 
-Along with Van Hawk, Weed started acting.
+Together with Van Hawk, Weed started acting.
 
-"Holy blessing!"
+"Holy Blessing!"
 
-A blinding white light emerged from Agatha sword and covered Weed. This spell could only be used five times a day, but it greatly increased protection!
+A blinding white light emerged from Agatha's Sword and covered Weed. This spell could only be used five times a day, but it greatly increased protection!
 
-"Sculpting blade!"
+"Sculpting Blade!"
 
-Weed dashed to a group of Huntresses, wounded by Death Knight's spell.
+Weed dashed to a group of Huntresses, wounded by Van Hawk's spell.
 
 "Silly boy!"
 
-"We, the women warriors, will show your true power!"
+"We, the women warriors, will show you true power!"
 
 Whips in Huntresses hands' started to move like snakes and shot forward to attack.
 
@@ -670,41 +667,38 @@ Weed gathered all his strength and rushed straight ahead.
 
 *Pa-ra-ra-rak!*
 
-Unfortunately, the Huntresses' weapons got him first. One of the whips coiled around his sword, and Weed struggled to free his weapon while avoiding attacks from other enemies. He spun and dodged to the point where it seemed like he was using magic.
+Unfortunately, the Huntresses' weapons got him first. One of the whips coiled around his sword, and Weed struggled to free his weapon while avoiding attacks from other enemies. He spun and dodged to the point where it looked like he was using magic.
 
-Finally he managed to free his sword, close in on one of Huntresses and landed a strike.
+Finally he managed to free his sword, close in on one of Huntresses, and land a strike.
 
-//{
 //table{
-
 --------------
 Critical Hit!
 //}
-//}
 
-From this moment Weed no longer distanced himself from the Huntresses. Whips were only dangerous at a distance, and if he stayed close, they were quite useless.
+From this moment on, Weed no longer distanced himself from the Huntresses. Whips were only dangerous at a distance, so if he stayed close, they were quite useless.
 
-Agatha sword on his right hand and Zahab's knife on his left, were constantly attacking the Huntresses. However, the level of his opponents was so high that they were dying only after a serial of accurate hits.
+Weed constantly attacked the Huntresses, with Agatha's Sword on his right hand and Zahab's sculpting knife on his left. However, the level of his opponents was so high that they would only die after a series of perfectly accurate hits.
 
-However, Weed did not despair. To survive and find the weak spot of the enemy that was his method of fighting! If an ordinary player of Weed's level met with such a strong monster, they would most likely die, because only those with vast experiences and a perfect body control like Weed, helped not to get trapped by the Huntresses' whips.
+However, Weed did not despair. To survive and find the weak spot of the enemy was his method of fighting! If an ordinary player of Weed's level met with such a strong monster, they would most likely die, because only those with vast experiences and perfect body control like Weed could avoid being trapped by the Huntresses' whips.
 
-At this point, Death Knight defeated his opponent.
+At this point, the Death Knight defeated his opponent.
 
 "Ugh! Good, you were able defeat her. Nice job, Van Hawk!"
 
-"No, master. I like fighting," Death Knight replied out of context.
+"No, master. I like fighting," the Death Knight replied out of context.
 
-Not so long ago, in a cave of Basra he became too proud, for which he was repeatedly beaten, so he had to become smarter to get along with the Weed's character.
+Not so long ago, in Basra Dungeon he had acted too proud, for which he was repeatedly beaten. So, he had to become smarter to get along with Weed's character.
 
-Together, they killed two more Huntresses. Just as Weed was about to pick up the items that had dropped, as more enemies arrived.
+Together, they killed two more Huntresses. Just as Weed was about to pick up the items that had dropped, more enemies arrived.
 
-Pale was not lying. You would not be able to leave the Gorge until you defeat all the enemies. In the past, the battle were not easy, but as long as friends will not come to their senses, he will have to fight with all the constantly incoming Huntresses.
+Pale was not lying. You would not be able to leave the gorge until you had defeated all the enemies. The battle was getting harder and harder, but as long as the rest of the party would not come to their senses, he would have to fight all the constantly arriving Huntresses.
 
-Shoulder to shoulder with death knights, two warriors against hundreds of warriors.
+Weed stood shoulder to shoulder with Van Hawk: two warriors against hundreds of huntresses.
 
-'Half an hour, half an hour to survive, and they need to wake up…'
+'Half an hour, need to survive for half an hour, and then they should wake up…'
 
-After the first fight van hawk health fell by a quarter, and this had to be resolved.
+After the first fight, Van Hawk's health had fallen by a quarter, and this would not do.
 
 "Van, from now on fight them one at a time! I'll deal with the rest."
 
@@ -712,83 +706,83 @@ After the first fight van hawk health fell by a quarter, and this had to be reso
 
 Weed handed the Death Knight some liquor and then rushed into battle.
 
-Death Knight took over one Huntress, Weed took on the others. To avoid their whips, he had to constantly take Huntresses and the Death Knight's position into account.
+Van Hawk would take on one Huntress, while Weed took on the others. To avoid their whips, he had to constantly take the Huntresses' and the Death Knight's position into account.
 
-Sometimes he deliberately took Huntresses' blows, realizing, that they will not lead to tragic consequences. A dangerous game with death where he could only rely on his own strength.
+Sometimes he deliberately took Huntresses' blows, when he knew they would not lead to tragic consequences. He was playing a dangerous game with death where he could only rely on his own strength.
 
 The fight went on.
 
-Weed was stabbing with a sword, cutting with a knife, trying to get hurt as little as possible and use less mana. But no matter how hard he was dodging, Huntresses constantly, bit by bit, were diminishing his health.
+Weed stabbed with his sword, cut with his knife, and kept trying to get hurt as little as possible and use less mana. But no matter how carefully he dodged, the Huntresses constantly chipped away at his health.
 
-The moment came when his life bar dropped below 100 points. At that moment Weed jumped behind the Death Knight, and started to apply a lot of bandages as fast as possible.
+Finally, the moment came when his life bar dropped below 100 points. At that moment Weed jumped behind the Death Knight, and started to apply a lot of bandages as fast as possible.
 
-And though he was in hurry as never before, by the time he finished, Death Knight's health was also at a critical point. Weed had to quickly engage in battle to distract opponents from the heavily breathing Van Hawk.
+And though he hurried like never before, by the time he finished, Van Hawk's health was also at a critical point. Weed had to quickly jump back into the frey to distract opponents from the heavily breathing Van Hawk.
 
 The fight still continued.
 
-Huntresses kept arriving. After every defeated group, came a new one consisting of 3-4 aggressive Huntresses. And to make matters worse, Weed began to get tired.
+Huntresses kept arriving. For every defeated group, another one arrived consisting of 3-4 aggressive Huntresses. And to make matters worse, Weed began to get tired.
 
-Even a player like Weed who had an enormous amount of health and stamina; accumulated with help of created sculptures and many missed strikes of enemies, could not fight without break. The sword in his hand was becoming heavier and his legs slowed down. Death was closer than ever.
+Even a player like Weed, who had an enormous amount of health and stamina thanks to the sculptures he'd created and the blows he'd taken from enemies, could not fight without break. The sword in his hand felt heavier and his legs slowed down. Death was closer than ever.
 
 He had to do something.
 
-But at that point Weed and the Death Knight had spent all their mana. There was only one thing he could do that could save them in the current situation…
+But by this point, Weed and the Death Knight had spent all their mana. There was only one thing he could do to save them in the current situation…
 
-'I really do not want to get to use it…'
+'I really do not want to use this, but…'
 
 Weed jumped and pulled spice jars from his pockets.
 
-One of the secrets of true chefs!
+One of the secrets of a true chef!
 
 "Salt on wounds! Sauces in your eyes! Pepper and garlic juice!"
 
-Weed was ruthlessly filling wounds of nearby enemies with culinary spices. For light woundsΓÇöSalt! For deep woundsΓÇöSoy Sauce! For eyes and noseΓÇöHot Spices!
+Weed ruthlessly filled the wounds of nearby enemies with culinary spices. For light wounds? Salt! For deep wounds? Soy sauce! For eyes and nose? Hot spices!
 
 "Ahhh!"
 
-"No, no… Please, not the salt."
+"No, no… Please, not the salt!"
 
 "Ahhh! I have pepper in my eyes!"
 
-Huntresses squealed loudly from terrible pains. Their health rapidly declined, as salt got into wounds. The pain was so intense that it was difficult to describe in words.
+Huntresses squealed loudly from the terrible pain. Their health rapidly declined as salt worked its way into their cuts. The pain was so intense that it was difficult to describe in words.
 
-Secret technique of vile cook Weed! He had never used it before, as it required to spend valuable ingredients, but it allowed to break opponent's concentration and significantly lower their health by causing enormous pain.
+The secret technique of vile cook Weed! He had never used it before, as it required expending valuable ingredients, but it allowed him to break the opponents' concentration and significantly lower their health by causing enormous pain.
 
 Salt, salt, black pepper! Red peppers, pickled garlic!
 
-Weed incessantly bombed surrounding Huntresses.
+Weed carpet bombed the surrounding Huntresses.
 
 'I won't die here. I have no right to…'
 
-Weed was not afraid to miss a day of playtime because of the death. No, he did not want to lose the skills he worked so hard to obtained. Even if all the mid-level skills will decrease by 5%, it will be a much greater loss than the loss of a couple of levels.
+Weed was not afraid to miss a day of playtime due to death. However, he absolutely did not want to lose the skills he worked so hard to obtained. Even if all the mid-level skills decreased by just 5%, it would be a much greater loss than the loss of a couple of levels.
 
 Weed gathered all the strength he had left.
 
-He was running around, luring enemies and throw valuable spices at them. There was nothing else he could do. Weed used all he could. He had even used up the allowed five holy blessings of the sword of Agatha during the fight!
+He was running around, luring enemies and throwing valuable spices at them. There was nothing else he could do. Weed used every trick he could. He had even used up the allowed five holy blessings of the sword of Agatha during the fight!
 
-One way or another, everything will be decided in the next few minutes.
+One way or another, everything would be decided in the next few minutes.
 
-While Weed was close to death, jumping and spinning like crazy, in attempt to try and avoid attacks of angered Huntresses, Master and all the others came to their senses and slightly open eyes, fascinated by the ongoing battle.
+While Weed was close to death, jumping and spinning like crazy in attempts to avoid the attacks of angered Huntresses, the master and all the others came to their senses and slightly opened their eyes. They were fascinated by the ongoing battle.
 
-"His fighting skills is superb."
+"His fighting skills are superb."
 
 "That's Weed for you. Whatever you throw at him, he won't die easy."
 
 "Tenacious like a cockroach."
 
-"If all were so, the profession of the priest in the game would become redundant."
+"If everyone was like this, the profession of priest in the game would become redundant."
 
 Pale, Surka, Irene and Romuna looked at Weed with envy. How could they learn to fight exceptionally!
 
-It didn't require a lot of intelligence to properly use skills, techniques, and spells. But to fight like Weed, relying only on simple strikes and body control, was really difficult. Even more so, considering that in such battles, stamina decreases rapidly and it became very difficult to hit. And it was useless to try to fight at such pace, without rest, with constant arrival of new enemies.
+It didn't require a lot of intelligence to properly use skills, techniques, and spells. But to fight like Weed, relying only on simple strikes and body control, was really difficult. Especially considering that in such battles, stamina would decrease rapidly and it became very difficult to hit enemies accurate. And it was useless to try to fight at such pace, without rest, with the constant arrivals of new enemies.
 
 Maylon also opened her eyes.
 
 'That's some amazing sculptor!'
 
-If all other were lying and being jealous, she could not even move from shock. What kind of sculptor can fight so well?
+While the others watched Weed jealously, she could not even move from shock. What kind of sculptor can fight so well?
 
-Her astonishment began since the moment Weed called the Death Knight. She knew that he was not a wizard, then he must have somehow managed to obtain an incredibly valuable item in game. He also was fighting a spectacular battle and used a lot of different techniques, which she as a reporter, had never heard about!
+Her astonishment began the moment Weed had called the Death Knight. She knew that he was not a wizard, so he must have somehow managed to obtain an incredibly valuable item. He went on to fight a spectacular battle and used many different techniques which she, as a reporter, had never heard about!
 
 All in all, there were a lot of things to be surprised about.
 
@@ -798,25 +792,25 @@ All in all, there were a lot of things to be surprised about.
 
 Geomchi and Geomchi2 calmly watched Weed's every move. It was the first time they had seen him in a real fight.
 
-"A little different from one in the real life, but still his reaction was more than excellent."
+"A little different from fighting in real life, but still his reaction just now was more than excellent."
 
-"However, a swordsman, not only responds to the environment, but also adjusts to any situation and imposes in their battles."
+"However, a swordsman not only responds to the environment, but also adjusts to any situation and imposes their will in battles."
 
-"Hyun perfectly knows it all. Without a basic understanding, this level can not be achieved. Although he still has unnecessary movement, the fight as a whole is going well. Several years of training, and it would be difficult to imagine someone stronger than him."
+"Hyun perfectly knows it all. Without a basic understanding, this level of proficiency cannot be achieved. Although he still has unnecessary movements, the fight as a whole is going well. With only a few years of training, it would be difficult to imagine someone stronger than him."
 
-In fact, the Geomchi's have long since regained consciousness.
+In fact, the Geomchis had long since regained consciousness.
 
-Excellent warriors that got intentionally drunk… All this was planned by the Master. He wanted to know how Weed fights in Royal Road. To see him in a real sword fight. To keep things fair.
+The excellent warriors got intentionally drunk… All this was planned by the master. He wanted to know how Weed fought in Royal Road. And to get the most accurate picture possible, he wanted to see Weed in a real, high-stakes sword fight where his life was on the line.
 
 Ahn Hyundo was satisfied.
 
-If Hyun refused to fight or panicked, he would have been very disappointing. If you follow the way of the sword then you have to go forward, despite any obstacles.
+If Hyun refused to fight or panicked, he would have been very disappointing. If you followed the way of the sword then you had to go forward, despite any obstacles.
 
-Royal Road is just a virtual reality game, but even so, inner qualities of players were important. Reliance only in battle skills, without courage, bravery and perseverance, it would be impossible to achieve high results even with weapons in game.
+Royal Road is just a virtual reality game, but even so, the inner qualities of players were important. If you relied only on battle skills, without courage, bravery and perseverance, it would be impossible to achieve great results even with the best weapons in game.
 
-Some people, seeing the last attempts of Weed to survive in the difficult battle, could not hold back any longer. Geomchi3, Geomchi4, Geomchi5, all jumped up and rushed to aid Weed.
+Some of the party members, seeing the last desperate attempts of Weed to survive in the difficult battle, could not hold back any longer. Geomchi3, Geomchi4, Geomchi5, all jumped up and rushed to aid Weed.
 
-All the others have started to get up.
+Soon, the whole party was back on its feet.
 
 "Fireball!"
 
@@ -824,25 +818,25 @@ All the others have started to get up.
 
 "Deadly Shot!"
 
-Romuna start casting spells, and Pale and Maylon almost simultaneously shot arrows at the Huntresses.
+Romuna started casting spells, and Pale and Maylon almost simultaneously shot arrows at the Huntresses.
 
-"Holy Spirit! Use your power to save those who are hurt! Recovery! Let there be enhancement in your body. Blessed hand!"
+"Holy Spirit! Use your power to save those who are hurt! Recovery! Let there be enhancement in your body. Blessed Hand!"
 
 Irene restored Weed's health, and cast empowering spells on everyone.
 
-And so the real hunt began.
+And so, the real hunt began.
 
-During the time the four friends have not seen Weed, they have changed. They were not those poor newcomers anymore who ran away in a panic from a simple wolf.
+During the time the four friends had not seen Weed, they had changed. They were not those poor newcomers anymore who would run away in a panic from a simple wolf.
 
 Harmonious attacks greeted each new group of Huntresses. It started with arrows from Maylon and Pale, then fire magic spells from Romuna!
 
-After these attacks, Surka engaged in battle with her fist. What Geomchis did was obvious without any words. And all of that under the tireless support of Sacred Magic from Irene.
+After these attacks landed, Surka would engage in battle with her fist. What the Geomchis did was obvious without any words. And they all fought with the tireless support of holy magic from Irene.
 
 "More incoming!"
 
 "Wow, experience grows so fast!"
 
-The mighty Attacks of Geomchis! Harmonious actions of Pale, Irene, Romuna, Surka and Maylon! And Weed with the Death knight!
+The mighty attacks of Geomchis! The harmonious actions of Pale, Irene, Romuna, Surka and Maylon! And Weed with the Death knight!
 
 Was there anything that could stop them?
 
@@ -852,4 +846,4 @@ Was there anything that could stop them?
 
 //footnote[kimchijeon][A variety of Korean pancake-like dish that is made of kimchi.]
 
-@<href>{#TL3,Γåæ} [3] Made by placing a snake in a jar of distilled liquor (Soju) and aging it.
+//footnote[snake-soju][Made by placing a snake in a jar of distilled liquor (Soju) and aging it.]
