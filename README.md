@@ -42,5 +42,5 @@ $ rake epub
 ## Converting an ebook chapter to Re:VIEW format:
 First, extract the .xhtml chapter from the ebook.  Then do:
 ```
-pandoc2review /path/to/chapter.xhtml > chapter.re
+pandoc2review --strip-emptydev /path/to/chapter.xhtml > chapter.re
 ```
