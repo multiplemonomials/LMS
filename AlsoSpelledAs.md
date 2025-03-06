@@ -1,18 +1,19 @@
 # Also Spelled As (ASA) Lexicon
 
 ## Characters
-|My Term|Other Spellings|
-|=======|===============|
-|Bar Khan (Demoph)|Balkan, Bareukan|
-|Bard Ray|Bad Ray, Bardray|
-|Lee Hayan|Lee Hye Yeon|
-|Geomchi|SwordNoob|
-|Zeppi|Zephyr, Zepinen|
-|Lafaye|Raphael|
-|Yellowy|Rover|
-|Drinfield|Drinpelt|
-|Steel Barbarians|Infinite Steel Men|
-|Daycram|Deykram|
+|My Term|Who they are|Other Spellings|
+|=======|============|===============|
+|Bar Khan (Demoph)|Lich king, big bad guy for much of the early story|Balkan, Bareukan|
+|Bard Ray|Black Knight, figurehead of the Hermes Guild|Bad Ray, Bardray|
+|Lee Hayan|Lee Hyun's sister|Lee Hye Yeon|
+|Geomchi|Anh Hyun-Do, master of the dojo|SwordNoob|
+|Zeppi|High-level fisherman in game, playboy IRL|Zephyr, Zepinen|
+|Lafaye|Leader of the Hermes Guild|Raphael|
+|Yellowy|Weed's pet and/or slave|Rover|
+|Drinfield|Admiral of the Hermes Guild naval fleet|Drinpelt|
+|Steel Barbarians|Enemies from the Lavias training hall|Infinite Steel Men|
+|Daycram|Master Sculptor, developed Nature Sculpting and lives as a hermit|Deykram|
+|Kokun|Wimpy hunter from the Village of Exiles, befriended Weed|Cocoon|
 
 ## Places
 |My Term|Other Spellings|
@@ -34,7 +35,7 @@
 ## Abilities
 |My Term|Other Spellings|
 |=======|===============|
-|Sculpture Destruction|Sculptural Destruction|
+|Sculpture Destruction|Sculptural Destruction, Destruction Sculpture|
 |Booby-Trap Dance|Bubi-Bubi Dance|
 |Sculptural Understanding|Sculptural Comprehension|
 |Sculpture Transformation|Sculptural Shapeshifting|
