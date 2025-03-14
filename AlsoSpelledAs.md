@@ -48,6 +48,6 @@
 ## Organizations
 |My Term|Other Spellings|
 |=======|===============|
-|Ica Guild|Jamaica Guild|
+|Ica (eeh-kah) Guild|Jamaica Guild|
 
 Also refer to: https://weedsroyalroad.wordpress.com/asas-name-lexicon/#sdendnote1sym

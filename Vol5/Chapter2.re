@@ -93,9 +93,9 @@ Young boys and girls were grabbing heavy blocks of stones and carrying them on t
 
 Emotional conversation between sisters!
 
-Even the elderly carried stones. Thousands of people, regardless of age and gender, were transporting stones. Sometimes players would get crushed beneath the stones. To add to their pain, the stones they carried collapsed and turned into rubble.
+Even the elderly carried stones. Thousands of people, regardless of age and gender, were transporting stones. Sometimes players would get crushed beneath the stones. To add to their pain, the stones they carried crumbled into fragments.
 
-People, who watched the video, had their mouths hanging from shock.
+People watched the video with their mouths hanging open in shock.
 
 What the hell is this!
 
@@ -105,7 +105,7 @@ In the distance, behind the working people, Serabourg was visible.
 
 — "This is the reality of sculpting."
 
-— "It was wise that I did not to select Sculptor."
+— "It was wise that I did not select Sculptor."
 
 — "We need to raise money to donate to our unfortunate neighbors who started at the frontier kingdoms."
 
@@ -113,7 +113,7 @@ The envy and jealousy towards players who were able to participate in the B rank
 
 @<embed>{|html|<hr/>}
 
-Over time, blocks of stones were piled up at the tomb's construction site. The whole process took a lot of manpower to cut and carry the stones from the quarry. The entire place was now surrounded by all kinds of rocks — enough to build the tomb!
+Over time, blocks of stone were piled up at the tomb's construction site. The whole process took a lot of manpower to cut and carry the stones from the quarry. The entire place was now surrounded by all kinds of rocks — enough to build the tomb!
 
 Different kinds of stones were necessary to build the tomb of the King. The interior and exterior of the tomb would be built out of stones with different colors and shapes. If not for the thousands of players who cooperated, it would have been impossible.
 
@@ -127,7 +127,7 @@ Many players started crying from excitement. One of the hardest jobs they ever h
 
 The moment enough stones were accumulated, Weed started to work.
 
-Using a hammer and chisel, he smoothed the uneven surfaces of the stones and then used his sculpture mastery to shape them and place them on their permanent locations.
+Using a hammer and chisel, he smoothed the uneven surfaces of the stones and then used his sculpting skill to shape them and place them in their permanent locations.
 
 Weed was lucky that he chose a simplistic design to build a large tomb. If he had attempted to make something of greater complexity, it would have required more work.
 
@@ -141,7 +141,7 @@ Guilds, especially the ones from the central continent, were well developed and 
 
 If the guild had possession of a castle, they would have more possibilities to earn an even bigger profit. Commercial taxes could be collected on a weekly basis and could be invested on various technologies to create more diverse local shops. Most importantly, the guild could purchase assorted goods in bulk for a bargain price.
 
-In addition, local craftsmen would be able to start producing weapons and armors of greater quality and rarity. Therefore, most guilds invested all of their assets into trades, and craftsmen in each field competed with each other to produce the best products.
+In addition, local craftsmen would be able to start producing weapons and armor of greater quality and rarity. Therefore, most guilds invested all of their assets into trades, and craftsmen in each field competed with each other to produce the best products.
 
 The better the guild's business was going, the more players would want to join, and the wealthier the guild grew.
 
@@ -149,7 +149,7 @@ Some guilds became widely respected for their virtuous actions that benefited no
 
 Another area where guilds could direct their efforts was mining. Naturally, if they were to find a rich gold deposit during the work in the mines, it would not only improve the guild's wealth, but also the region's welfare in general.
 
-However most of the mines were infested by dangerous monsters, so before guild could start mining, it had to gather forces to clear the monsters out. To accomplish this, many guilds would issue quests asking for parties to help clear out the mines. With the guild's approval, even unaffiliated players could participate.
+However most of the mines were infested with dangerous monsters, so before the guild could start mining, it had to gather forces to clear the monsters out. To accomplish this, many guilds would issue quests asking for parties to help clear out the mines. With the guild's approval, even unaffiliated players could participate.
 
 It was no wonder the guilds, especially those from the central continent, were in a constant struggle with each other. But in Rosenheim Kingdom, the guilds were newly formed. This was the perfect situation to take advantage of!
 
@@ -195,7 +195,7 @@ At that moment, people who were busy with construction, along with those who wer
 
 "He's building a pyramid for the King!"
 
-Once described as a scientific and technological architectural building, a pyramid fitting of a legend was now being constructed right in front of their eyes.
+Once described as a scientific and technological piece of architecture, a pyramid fitting of a legend was now being constructed right in front of their eyes.
 
 However, in truth, it was only a shallow imitation of the Egyptian pyramids. The internal structure was much simpler, because Weed had no experience with construction such as this.
 
@@ -203,9 +203,9 @@ Sculpture mastery in Royal Road only assisted with the improvement of outer appe
 
 'How is this supposed to look like?...'
 
-Weed had been thinking about this issue ever since he decided on the outer appearance, but he still didn't have an answer. Therefore, there were no labyrinth, secret passages, or any other mysteries.
+Weed had been thinking about this issue ever since he decided on the outer appearance, but he still didn't have an answer. Therefore, there was no labyrinth and no secret passages or other mysteries.
 
-Of course Weed could have gotten a map of internal structure of a pyramid from the internet. But it'd take a lot more time to recreate such a complicated labyrinth system. That's why Weed decided to use his imagination.
+Of course Weed could have gotten a map of the internal structure of a pyramid from the internet. But it'd take a lot more time to recreate such a complicated labyrinth system. That's why Weed decided to use his imagination.
 
 When he was a kid, before his parents died, he remembered how they briefly lived in an apartment. From those memories, he modeled the interior of the tomb.
 
@@ -261,7 +261,7 @@ He already had experience hanging down on ropes to create sculptures of greater 
 
 Hit, crack, and slice the rock!
 
-For several days, without stopping for a break, he hung at a great altitude holding on his engraving knife.
+For several days, without stopping for a break, he hung at a great altitude holding on his sculpting knife.
 
 Creating a gigantic statue wasn't complicated. In fact, it was rather simple. No elegant lines and fine details were needed! The statue already had an overwhelming presence thanks to its size.
 
@@ -277,11 +277,11 @@ He won the war against an old enemy, the Brent Kingdom, and had established and 
 
 The king himself had told this the tale with pride.
 
-Weed remembered everything he was told. When you work on a sculpture, you can't base it on the outward appearance alone. The appearance is important, but the feelings the sculptor put into his creation were just as important, because they would determine the essence of the subject that was passed on through the sculpture to the people who view it.
+Weed remembered everything he was told. When you work on a sculpture, you can't base it on the outward appearance alone. The appearance is important, but the feelings the sculptor puts into their creation are just as important, because they determine the characterization of the subject which is passed on through the sculpture to the people who view it.
 
 Sometimes feelings have great power. Music, created by outstanding composers, can make people cry or laugh. It was similar with books and paintings. Art created without feelings is incomplete, and will be quickly forgotten.
 
-King Theodarren told him a lot about his life, and Weed didn't forget his stories. He was mistaken when he thought it was just a prelude to the quest. Only now, when he was working on the sculpture, he understood how important those stories were, and that he wouldn't be able to create this sculpture without them.
+King Theodarren told him a lot about his life, and Weed didn't forget his stories. He was mistaken when he thought it was just a prelude to the quest. Only now, when he was working on the sculpture, did he understand how important those stories were, and he wouldn't have been able to create this sculpture without them.
 
 — In the body of a lion, swift and versatile, yet with a profound heart.
 
@@ -302,7 +302,7 @@ Masterpiece! You created the Statue of the Lion Monster.
 --------------
 Created by a sculptor with excellent handicraft skills, it is the solidification of his sweat and effort. His fame and reputation will be spread throughout the continent.
 The statue of the Lion is made out of solid granite, and has a strong and courageous temperament. This statue, resembling King Theodarren, will bring prosperity to the Kingdom of Rosenheim.
-Artistic value: 4,700.
+@<b>{Artistic value:} 4,700.
 Effects:
  * Those who view the statue will gain the Lion's Courage buff, increasing Health and Mana regeneration by 30% for a day.
  * Movement speed increased by 15%.
