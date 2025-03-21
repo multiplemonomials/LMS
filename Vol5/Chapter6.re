@@ -1,4 +1,4 @@
-orcKokun= Sculpture Transformation
+= Sculpture Transformation
 
 Weed was slowly walking through the village.
 

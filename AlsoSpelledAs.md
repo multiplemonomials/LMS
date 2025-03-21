@@ -7,13 +7,18 @@
 |Bard Ray|Black Knight, figurehead of the Hermes Guild|Bad Ray, Bardray|
 |Lee Hayan|Lee Hyun's sister|Lee Hye Yeon|
 |Geomchi|Anh Hyun-Do, master of the dojo|SwordNoob|
-|Zeppi|High-level fisherman in game, playboy IRL|Zephyr, Zepinen|
+|Pale|Weed's party member / battle slave, archer|Fail|
+|Romuna|Weed's party member, fire mage|Romune|
+|Maylon (Shin Hye-Min)|Reporter for KMC media, archer, Pale's girlfriend|Mayron|
+|Zeppi (Choi Jihoon)|High-level fisherman in game, playboy IRL|Zephyr, Zepinen|
+|Hwaryeong (Jeong Hyo Lynn)|Dancer in game, pop diva IRL||
 |Lafaye|Leader of the Hermes Guild|Raphael|
 |Yellowy|Weed's pet and/or slave|Rover|
 |Drinfield|Admiral of the Hermes Guild naval fleet|Drinpelt|
 |Steel Barbarians|Enemies from the Lavias training hall|Infinite Steel Men|
 |Daycram|Master Sculptor, developed Nature Sculpting and lives as a hermit|Deykram|
 |Kokun|Wimpy hunter from the Village of Exiles, befriended Weed|Cocoon|
+|Dark Dragon Kaybern|Evil dragon obsessed with squeezing the dwarves for "protection money"|Akryong Kaybern, Black Dragon Kaybern|
 
 ## Places
 |My Term|Other Spellings|
