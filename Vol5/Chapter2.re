@@ -373,7 +373,7 @@ However, it is not possible for your "third hand" to use any skills.
 Mana consumption per second: 2
 //}
 
-For a small amount of mana, he would now be able to summon an additional hand. It'd be able to hold a carving knife or other tools. When working on a tall statue, the skill would be very useful to him. But it couldn't be used to apply skills in battles.
+For a small amount of mana, he would now be able to summon an additional hand. It'd be able to hold a carving knife or other tools. When working on a tall statue, the skill would be very useful to him. But it couldn't be used to execute skills in battles.
 
 'Depending on how I use this, it may be a great asset to me.'
 
@@ -397,7 +397,7 @@ It was a huge rock, so there wasn't any significant change in one given day.
 
 However, their fear slowly changed to excitement as the statue's shape was gradually formed. Now, finally the Lion statue was finished, radiating brilliance.
 
-It was majestic and powerful! The embodiment of King of Rosenheim!
+It was majestic and powerful! The embodiment of the King of Rosenheim!
 
 It also granted a variety of effects to those who saw it.
 
@@ -419,7 +419,7 @@ Now they realized that sculptors could raise stats as well. Some of them already
 
 "Hmmm... The Sculptor profession seems useful."
 
-After seeing the lion statue, people's impressions of the sculptor profession were changed.
+After seeing the lion statue, people's impressions of the sculptor profession changed.
 
 'I should befriend some sculptors!'
 
@@ -437,7 +437,7 @@ More new information continued appearing.
 
 The main reason for players gathering into parties was to hunt stronger monsters that they could hunt alone. The most common cause of such parties failing was their lack of fighting spirit. However even if it was high, it wouldn't ensure you a victory.
 
-Usually, lower level players had to team up against the stronger monsters. However, with the increase provided by the statue, it allowed the players to fight against stronger monsters on a more equal footing.
+Usually, lower level players had to team up against the stronger monsters. However, with the stat increase provided by the statue, it allowed the players to fight against stronger monsters on a more equal footing.
 
 As the crowd buzzed about the stats provided by the statue, many of the guilds' message boards were overflowing with people talking about the Sculptor class.
 
@@ -449,7 +449,7 @@ All the guilds started to make plans to recruit the sculptor Weed. Meanwhile Wee
 
 Intermediate 9 Sculpture Mastery! Advanced level Handicraft!
 
-Truly, the 'Artisan With Exceptional Dexterity' title wasn't given him for nothing. Usually the game granted more generic titles, like 'someone, who finished this task' or 'someone, who hunted this rare monster'.
+Truly, the 'Artisan With Exceptional Dexterity' title wasn't given him for nothing. Usually the game granted more generic titles, like 'someone, who finished this task' or 'so and so, who hunted this rare monster'.
 
 However, crafting skills had their own special titles. The most important title could only be acquired by the best artisan on the continent. Specifically, by being the first person to reach the Advanced level in a certain crafting skill!
 
@@ -467,7 +467,7 @@ Surka, Irene and Romuna greeted her with warm smiles as they welcomed their new 
 
 Although Pale had had a crush on Romuna for some time, as they were childhood friends, it had been awkward, and Pale was now very enamored with Maylon.@<fn>{fall-in-love}
 
-A man in love always looks confident and relaxed once he wins over his beloved. Romuna was first to notice this change and already knew what they were going to say.
+A man in love always looks confident and relaxed once he wins over his beloved. Romuna was the first to notice this change and already knew what they were going to say.
 
 "We haven't known each other for long, but we are in love."
 
@@ -559,7 +559,7 @@ Lately a lot of guild representatives had come to the construction site to meet 
 
 At first they were bragging about the advantages of being in a guild while they actively tried to recruit him.
 
-"Our guild is the biggest in Rosenheim. In this kingdom theres no one more influential or powerful than us. You won't regret if you join us."
+"Our guild is the biggest in Rosenheim. In this kingdom there's no one more influential or powerful than us. You won't regret if you join us."
 
 "We will not only buy your sculptures at a reasonable price, but pay you a daily wage. And if you ever decide to go hunting, we'll accept you into a party without delay and provide equipment."
 
@@ -587,7 +587,7 @@ After getting all their offers rejected, the guilds gradually calmed down.
 
 'This is a big sculpture, and you can't claim it all for yourself. Other sculptures with bonus effects must be big as well and it wouldn't be possible to carry them.'
 
-'The effects only last for a day. We can't be returning every day to our guild to look at the statue.'
+'The effects only last for a day. We can't be returning every day to our guild to look at a statue.'
 
 They decided to acknowledge Weed's decision as they started to understand the sculpting profession a bit. Players like Weed must be constantly in motion, creating artwork in various corners of the continent. It wouldn't be possible to stay in one place and just create items, like other craftsmen.
 

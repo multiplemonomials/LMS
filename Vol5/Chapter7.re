@@ -1,4 +1,4 @@
-= Simple-minded Orc Karichwi
+= Simple-Minded Orc Karichwi
 
 The mountains were swarming with Orcs!
 

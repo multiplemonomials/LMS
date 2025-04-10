@@ -4,7 +4,7 @@ The Geomchis were seriously considering changing their names.
 
 "We've been wandering here for a month already."
 
-"Yeah, let us be known as 'The Lost' now@<fn>{dir-challenged}. What do you think?"
+"Yeah, instead of 'Sword Noob', let us be known as 'The Lost' now@<fn>{dir-challenged}. What do you think?"
 
 The geomchis were clueless beginners who have never played video games before Royal Road. They thought that they had already adapted to the game by now, but they were mistaken.
 
@@ -46,7 +46,7 @@ Geomchi116 also started laughing.
 
 "Whoooh!"
 
-The Geomchis were completely unaware of the rewards! They just took off their clothes, grabbed picks, and started mining stones.
+The Geomchis were completely unaware of the quest and the rewards! They just took off their clothes, grabbed picks, and started mining stones.
 
 The average level of players who were busy at the construction was higher than that of the Geomchis, and many had higher strength, agility and other stats than them. But that didn't matter to the Geomchis as they wasted no time and began working.
 
@@ -68,7 +68,7 @@ Like the last time, Weed was asked to cook something tasty.
 
 So now he was cooking kimchijeon@<fn>{kimchijeon} with lemonade.
 
-At first one would think these two dishes wouldn't go together, but Pale, Surka and others were eating so fast that the food Weed was making was disappearing instantly.
+At first one would think these two dishes wouldn't go together, but Pale, Surka and the others were eating so fast that the food Weed was making was disappearing instantly.
 
 Seeing his friends have such an appetite, he could not help but smile.
 
