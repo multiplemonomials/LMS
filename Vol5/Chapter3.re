@@ -140,11 +140,11 @@ To sleep well, he chanted a mantra in his head before going to sleep:
 
 'I'll have beautiful dreams.'
 
-To an outsider it would seem like a meaningless chatter, but to Lee Hyun these phrases had become some sort of a prayer and had an unexpectedly strong effect. He would sleep well, and filled with energy, he would rush to new conquests in Royal Road.
+To an outsider it would seem like meaningless chatter, but to Lee Hyun these phrases had become some sort of a prayer and had an unexpectedly strong effect. He would sleep well and wake up filled with energy, and then he would rush to new conquests in Royal Road.
 
 To be honest, sound sleep was something of a new experience for Lee Hyun. For more than 10 years, he had lived in constant fear of the loan sharks. In those circumstances there was no place for good sleep.
 
-Only now, after paying off the debt, did he finally have the opportunity to save up money for his family. Because of that, Lee Hyun was able to let go of his fears and to start enjoying his life.
+Only now, after paying off the debt, did he finally have the opportunity to save up money for his family. Because of that, Lee Hyun was able to let go of his fears and start enjoying his life.
 
 After dinner, his friends decided to go hunt for monsters. What could be better than hunting with people you could trust with your life?
 
@@ -190,11 +190,11 @@ Together with the Geomchis, they were a big and dangerous party.
 
 They decided to rent horses as the hunting ground was pretty far away. This was suggested by Pale, and as his knowledge of Royal Road was vast, Weed had no reason to doubt him.
 
-"Where are we going? What kind of place takes two hour to travel on a horse?"
+"Where are we going? What kind of place takes two hours to travel to on a horse?"
 
 "We're going to the gorge of the Huntresses. They're monsters of level 280, and they gather in groups of two or three and go hunting. It's a dangerous place. I only read about them, never actually been there.
 
-After the Pale's words Weed recalled some information about Huntresses too. They were Amazon warriors, were good with swords, spears and whips!
+After Pale's words Weed recalled some information about Huntresses too. They were Amazon warriors, and were skilled with swords, spears, and whips!
 
 "I see. And what kind of place is that?"
 
@@ -264,7 +264,7 @@ After seeing the weapon, Weed was surprised. It was a unique item!
 
 'It could be sold for at least 10 thousand dollars …'
 
-Weed's eyes glowed with greed. It was not easy to get a unique object in Royal Road.
+Weed's eyes glowed with greed. It was not easy to get such a unique item in Royal Road.
 
 Maylon was very worried, and Weed, after struggling with his greed for a bit, slowly adjusted the string and worked on the overall elasticity of the bow.
 
@@ -288,7 +288,7 @@ With a shot from this bow you can easily pick off the crows of misfortune. The s
  * Skill proficiency of Quick Shot +25%
  * Burns 3 mana per enemy hit
  * Hit rate for slow enemies is 100%
-@<b>{Bow was in hands of a skilled craftsman. Additional effects:}
+@<b>{Bow was in the hands of a skilled craftsman. Additional effects:}
  * Strength +10
  * Attack +9
  * Agility +15
@@ -301,11 +301,11 @@ With a shot from this bow you can easily pick off the crows of misfortune. The s
 
 Maylon repeatedly checked her bow.
 
-Weed just work a little on it, and the stats got increased by about 20 percent!
+Weed had just worked a little on it, and the stats were increased by about 20 percent!
 
 "So that's what a blacksmith with an intermediate skill level can do…"
 
-This bow Maylon had gotten as a gift. Although the durability of a weapon was small, that was not a big disadvantage as, unlike with a sword, you didn't have to beat monsters with it.
+This bow Maylon had gotten as a gift. Although the durability of the weapon was small, that was not a big disadvantage as, unlike with a sword, you didn't have to bash monsters with it.
 
 "And now give me your clothes."
 
@@ -319,7 +319,7 @@ Maylon trusted Pale but was still doubtful about taking off her clothes of rainb
 
 It was very rare clothing made from equally rare fabric, sewn by a true master.
 
-After taking it, Weed immediately recognized the item that he had created and sold through Mapan's auction. Somehow it ended up in hands of Maylon.
+After taking it, Weed immediately recognized the item that he had created and sold through Mapan's auction. Somehow it had ended up in the hands of Maylon.
 
 Weed slowly ironed the creases and thus increased the protection, rate of health recovery, and cold resistance provided by the prismatic cloth!
 
@@ -337,7 +337,7 @@ Surka had awaited this moment the most.
 
 "Wow!"
 
-Although they'd recently eaten, Surka reacted as if she has been starving for weeks. She liked to taste new delicious food, so with rapt interest she watched Weed cook.
+Although they'd recently eaten, Surka reacted as if she'd been starving for weeks. She liked to taste new delicious food, so with rapt interest she watched Weed cook.
 
 The whole process of Weed's cooking was like magic. During frying, the flames rose up high, as if to burn the meat. But Weed carefully controlled the process, and gradually the smell of perfectly roasted steak began to spread around the campsite.
 
@@ -349,7 +349,7 @@ In fact, this was the main reason Pale and others had been so eager to hunt with
 
 'It's beautiful.'
 
-Irene's and Romuna's eye got clouded. They were dreaming of how great it would taste.
+Irene's and Romuna's eyes got clouded. They were dreaming of how great it would taste.
 
 'Wow! What a great smell..'
 
@@ -407,9 +407,9 @@ Geomchi nodded his head in agreement. "Well, it's not a necessity… but do you 
 
 Deep in Weed's bag lay a supply of alcoholic beverages. They were mainly the results of his experiments with making herb mixtures. As his Cooking skill had leveled up, Weed had acquired the skill to ferment liquors, and he was trying to develop it as quickly as possible. Whenever he found suitable herbs or vines that could be used for preparing alcohol, he would buy the needed ingredients and brew the beverages.
 
-Fine cuisine wasn't only about food. With a suitable accompanying drink, the effects of the meal increased! In addition, alcohol raised the strength and stamina attributes.
+Fine cuisine wasn't only about food. With a suitable accompanying drink, the effects of the meal increased! In addition, alcohol raised the strength and stamina stats.
 
-Unfortunately, unlike food, alcohol had to be prepared in advance, since the fermentation process takes much longer.
+Unfortunately, unlike food, alcohol had to be prepared in advance, since the fermentation process took much longer.
 
 Because of that Weed had been carrying around a bag of stock bottles with herbal liqueurs and wine inside.
 
@@ -419,7 +419,7 @@ Weed quickly reached into his backpack and pulled out one of the bottles, and as
 
 "Thank you, my student."
 
-Geomchi, who did not expect that there would even be a snack, gladly opened a bottle and started to drink.
+Geomchi, who did not expect that there would even be a snack, gladly opened the bottle and started to drink.
 
 Looking at that, Geomchi2 also approached Weed.
 
@@ -429,7 +429,7 @@ Looking at that, Geomchi2 also approached Weed.
 
 Weed quickly got out another bottle and handed it to Geomchi2. And then, not waiting for a word from the rest of the Geomchis, he treated them as well. Since he was already giving out drinks for free, he might as well be as polite as he could!
 
-In fact, Weed was going to treat all of them to one of the prepared tinctures before the fight. He wanted to see the Geomchis' profession in action and for this it was necessary to maximize their attributes, so they would show their highest performance in the battle.
+In fact, Weed was going to treat all of them to one of the prepared tinctures before the fight. He wanted to see the Geomchis' profession in action and for this it was necessary to maximize their stats, so they would show their highest performance in the battle.
 
 'And the better they will fight, the easier the hunt will go. For rapid experience gain the performance of every party member is important.'
 
@@ -439,13 +439,13 @@ Weed handed glasses to Pale and his friends too.
 
 "Of course. If you drink, your strength and health will rise a little."
 
-The friends took a sip and saw their attributes improve.
+The friends took a sip and saw their stats improve.
 
 Maylon was in a panic.
 
 'How? What is… What kind of party is this?'
 
-Due to her profession, Maylon was able to hunt with a lot of different people. She'd even partied up with very well-known high-level players and influential members of guilds. So she had a more than enough experience when it came to hunting.
+Due to her profession, Maylon was able to hunt with a lot of different people. She'd even partied up with very well-known high-level players and influential members of guilds. So she had more than enough experience when it came to hunting.
 
 But this group was rejecting everything she'd thought to be basic rules!
 
@@ -587,7 +587,7 @@ List of drunken players:
  * Maylon
 //}
 
-They went into the gorge of Huntresses just for hunting, and now his friends had gotten drunk and were fooling around.
+They had gone into the gorge of Huntresses just for hunting, but now his friends had gotten drunk and were fooling around.
 
 "Oh, look, stars!"
 
@@ -619,7 +619,7 @@ Out of black fog appeared the one on whom he could always rely.
 
 "We have been fighting shoulder to shoulder for a long time. Because of the strength of our friendship, I was able to break free from the shackles of the spell and remembered my previous life. I, knight Van Hawk from Kallamore Kingdom, acknowledge you as my master. From now on you can summon me without the necklace. I will always answer the call."
 
-Van Hawk was summoned through the Red Necklace of Life created by Barr Khan. But now, Weed realized, even without wearing the necklace, he could call forth the Death Knight. The necklace now glowed with a radiant white light.
+Van Hawk was summoned through the Red Necklace of Life created by Bar Khan. But now, Weed realized, even without wearing the necklace, he could call forth the Death Knight. The necklace now glowed with a radiant white light.
 
 "Wait a minute. So, I can now remove the necklace of life? And what about my experience points?"
 
@@ -645,7 +645,7 @@ At Weed's order, Van Hawk began to use his skills:
 
 "Deadly Blade!"
 
-Threads of dark energy burst from the sword and stabbed in the approaching Huntresses. However, they were high-level monsters and weren't going to die from a single attack of the Death Knight.
+Threads of dark energy burst from the sword and stabbed at the approaching Huntresses. However, they were high-level monsters and weren't going to die from a single attack of the Death Knight.
 
 Together with Van Hawk, Weed started acting.
 
@@ -661,7 +661,7 @@ Weed dashed to a group of Huntresses, wounded by Van Hawk's spell.
 
 "We, the women warriors, will show you true power!"
 
-Whips in Huntresses hands' started to move like snakes and shot forward to attack.
+Whips in the Huntresses hands' started to move like snakes and shot forward to attack.
 
 Weed gathered all his strength and rushed straight ahead.
 
@@ -754,7 +754,7 @@ Weed carpet bombed the surrounding Huntresses.
 
 'I won't die here. I have no right to…'
 
-Weed was not afraid to miss a day of playtime due to death. However, he absolutely did not want to lose the skills he worked so hard to obtained. Even if all the mid-level skills decreased by just 5%, it would be a much greater loss than the loss of a couple of levels.
+Weed was not afraid of missing a day of playtime due to death. However, he absolutely did not want to lose the skills he'd worked so hard to obtain. Even if all the mid-level skills decreased by just 5%, it would be a much greater loss than the loss of a couple of levels.
 
 Weed gathered all the strength he had left.
 
@@ -772,15 +772,15 @@ While Weed was close to death, jumping and spinning like crazy in attempts to av
 
 "If everyone was like this, the profession of priest in the game would become redundant."
 
-Pale, Surka, Irene and Romuna looked at Weed with envy. How could they learn to fight exceptionally!
+Pale, Surka, Irene and Romuna looked at Weed with envy. How could they learn to fight so exceptionally!
 
-It didn't require a lot of intelligence to properly use skills, techniques, and spells. But to fight like Weed, relying only on simple strikes and body control, was really difficult. Especially considering that in such battles, stamina would decrease rapidly and it became very difficult to hit enemies accurate. And it was useless to try to fight at such pace, without rest, with the constant arrivals of new enemies.
+It didn't require a lot of intelligence to properly use skills, techniques, and spells. But to fight like Weed, relying only on simple strikes and body control, was really difficult. Especially considering that in such battles, stamina would decrease rapidly and it became very difficult to hit enemies accuratelym. And it was useless to try to fight at such pace, without rest, with the constant arrivals of new enemies.
 
 Maylon also opened her eyes.
 
 'That's some amazing sculptor!'
 
-While the others watched Weed jealously, she could not even move from shock. What kind of sculptor can fight so well?
+While the others watched Weed jealously, she could not even move from shock. What kind of sculptor could fight so well?
 
 Her astonishment began the moment Weed had called the Death Knight. She knew that he was not a wizard, so he must have somehow managed to obtain an incredibly valuable item. He went on to fight a spectacular battle and used many different techniques which she, as a reporter, had never heard about!
 
@@ -800,15 +800,15 @@ Geomchi and Geomchi2 calmly watched Weed's every move. It was the first time the
 
 In fact, the Geomchis had long since regained consciousness.
 
-The excellent warriors got intentionally drunk… All this was planned by the master. He wanted to know how Weed fought in Royal Road. And to get the most accurate picture possible, he wanted to see Weed in a real, high-stakes sword fight where his life was on the line.
+The excellent warriors had gotten intentionally drunk… All this was planned by the master. He wanted to know how Weed fought in Royal Road. And to get the most accurate picture possible, he wanted to see Weed in a real, high-stakes sword fight where his life was on the line.
 
 Ahn Hyundo was satisfied.
 
-If Hyun refused to fight or panicked, he would have been very disappointing. If you followed the way of the sword then you had to go forward, despite any obstacles.
+If Hyun refused to fight or panicked, he would have been very disappointed. If you followed the way of the sword then you had to go forward, despite any obstacles.
 
-Royal Road is just a virtual reality game, but even so, the inner qualities of players were important. If you relied only on battle skills, without courage, bravery and perseverance, it would be impossible to achieve great results even with the best weapons in game.
+Royal Road is just a virtual reality game, but even so, the inner qualities of players were important. If you relied only on battle skills, without courage, bravery, or perseverance, it would be impossible to achieve great results even with the best weapons in game.
 
-Some of the party members, seeing the last desperate attempts of Weed to survive in the difficult battle, could not hold back any longer. Geomchi3, Geomchi4, Geomchi5, all jumped up and rushed to aid Weed.
+Some of the party members, seeing the last desperate attempts of Weed to survive in the difficult battle, could not hold back any longer. Geomchi3, Geomchi4, and Geomchi5 all jumped up and rushed to aid Weed.
 
 Soon, the whole party was back on its feet.
 
@@ -836,7 +836,7 @@ After these attacks landed, Surka would engage in battle with her fist. What the
 
 "Wow, experience grows so fast!"
 
-The mighty attacks of Geomchis! The harmonious actions of Pale, Irene, Romuna, Surka and Maylon! And Weed with the Death knight!
+The mighty attacks of Geomchis! The harmonious actions of Pale, Irene, Romuna, Surka and Maylon! And Weed with the Death Knight!
 
 Was there anything that could stop them?
 

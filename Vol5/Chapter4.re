@@ -38,7 +38,7 @@ Thanks to that, Lee Hayan was able to save her allowance and put it into a perso
 
 “It should be arriving today.”
 
-She hurried home and checked the mailbox. The GED report card that she’d been waiting for for several days had finally arrived. In it were results of Hyun’s exam.
+She hurried home and checked the mailbox. The GED report card that she’d been waiting for for several days had finally arrived. In it were the results of Hyun’s exam.
 
 “It’s finally here.”
 
@@ -90,7 +90,7 @@ At such moments Hayan tried to distract herself with her work.
 
 To get accepted to Korea University -- that was her most important goal right now.
 
-At first she didn’t want to go to that university. After all, what mattered most was not studying in the most prestigious university, but of getting all the knowledge she needed. At least that was the case for an interior designer, which was her desired profession.
+At first she didn’t want to go to that university. After all, what mattered most was not studying in the most prestigious university, but getting all the knowledge she needed. At least that was the case for an interior designer, which was her desired profession.
 
 But Lee Hyun wanted her to study in Korea University. And for her brother, who had sacrificed so much for her, she should at least be able to study hard. Her goal was to get a full tuition scholarship!
 
@@ -152,7 +152,7 @@ They greatly respected their teacher but his last words hurt them.
 
 ‘You didn’t even go to elementary school yourself...’
 
-On paper, Ahn Hyun-Do had a doctorate. A leading university had granted him the honorary degree in recognition of his kendo skills. But in actuality, he had only ever graduated kindergarten!
+On paper, Ahn Hyun-Do had a doctorate. A leading university had granted him an honorary degree in recognition of his kendo skills. But in actuality, he had only ever graduated kindergarten!
 
 As a child, Ahn Hyun-Do had beaten many of the other kindergarteners, for which he was punished often.
 
@@ -182,13 +182,13 @@ Ahn Hyun-Do gave his permission without a second thought. Most of the apprentice
 
 “Okay now, let’s start the training. Line up!”
 
-After a short celebration all the students and instructors, including Chung Il Hoon took their places.
+After a short celebration all the students and instructors, including Chung Il Hoon, took their places.
 
 “Today we’ll start with an hour of basic training and then spar.”
 
 “Yes!”
 
-The usual morning routine. Students brandished their swords with swift and accurate movements.
+The usual morning routine. The students brandished their swords with swift and accurate movements.
 
 “Then I’ll go get my sister, Master.”
 
@@ -274,7 +274,7 @@ The last few days weren’t so easy for Dr. Cha Eunhee.
 
 She had attempted hundreds of treatments to return Jeong Seoyoon to normal. And Royal Road was her last resort.
 
-Virtual reality games were known to grant emotional stability. They relieved stress by allowing one to satisfy desires unfulfilled in reality. Traveling betweenthe real and the virtual helped to dim the painful feelings.
+Virtual reality games were known to grant emotional stability. They relieved stress by allowing one to satisfy desires unfulfilled in reality. Traveling between the real and the virtual helped to dim painful feelings.
 
 Cha Eunhee hoped that it will help to save Seoyoon from her mental obsession.
 
@@ -288,7 +288,7 @@ The first recordings of Seoyoon’s hunt were encouraging.
 
 The initial tendency was positive.
 
-Even though she never laughed or talked to anybody and was very withdrawn overall, she started to hunt and the desire to hunt was a display of greed.
+Even though she never laughed or talked to anybody and was very withdrawn overall, she started to hunt and the desire to hunt was a display of self-interest.
 
 Cha Eunhee thought that her desire to become stronger and acquire better items would force her to proactively make her own decisions and plans. Such ‘human’ behaviour would certainly make a positive impact on treatment.
 
@@ -316,9 +316,9 @@ After leaving Serabourg, Jeong Seoyoon headed south where she continued her endl
 
 ‘How long will you remain locked in that state?’
 
-Jeong Seoyoon wasn’t just a patient for her, but something of a little sister, as they had known each other since Seoyoon was a child. Their parents were friends so they would meet often. Little Seoyoon was always calling Cha Eunhee "older sister" and following her around.
+Jeong Seoyoon wasn’t just a patient for her, but something of a little sister, as they had known each other since Seoyoon was a child. Their parents were friends so they would meet often. Little Seoyoon would always call Cha Eunhee "older sister" and follow her around.
 
-But now she wasn’t laughing or speaking any more. And Cha Eunhee was doing all she could to return her to normal, cheerful self.
+But now she wasn’t laughing or speaking any more. And Cha Eunhee was doing all she could to return her to her normal, cheerful self.
 
 Some parts in the recordings surprised her.
 
@@ -332,7 +332,7 @@ The beauty of that smile was making Cha Eunhee dizzy.
 
 @<embed>{|html|<hr/>}
 
-Seoyoon was continuing to hunt and moving deeper into the southern part of Rosenheim kingdom. More and more people were coming to the southern part of Rosenheim kingdom, so in order to avoid them, she had to move southward little by little.
+Seoyoon was continuing to hunt and moving deeper into the southern part of Rosenheim kingdom. However, more and more people were coming into the area, so in order to avoid them, she had to move southward little by little.
 
 She hunted difficult monsters such as Dark Ghouls and Blood Ravens. However the once low population of the southern region was constantly growing. Players had yet to come to the dungeons and hunting grounds used by Seoyoon, but it was already bothering her.
 
