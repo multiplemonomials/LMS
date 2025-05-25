@@ -215,7 +215,7 @@ The knights and soldiers who were escorting Weed stayed at the gates to wait for
 
 Weed went straight to the point: “First, I would like to know more about Plains of Despair.”
 
-“I am truly sorry, but our knowledge about them is limited. The Plains of Despair are inhabited by giant monsters and savage Orc tribes, which are constantly in war with each other. Few humans live there, and those who do are mostly exiles, as it’s extremely hard to survive there. Also, there used to be tribes of dark elves, but we are not aware of their fate -- they might be all dead by now.”
+“I am truly sorry, but our knowledge about them is limited. The Plains of Despair are inhabited by giant monsters and savage orc tribes, which are constantly in war with each other. Few humans live there, and those who do are mostly exiles, as it’s extremely hard to survive there. Also, there used to be tribes of dark elves, but we are not aware of their fate -- they might be all dead by now.”
 
 “…”
 
