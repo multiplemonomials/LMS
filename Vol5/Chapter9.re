@@ -142,7 +142,7 @@ But Chang Yoon Soo continued.
 
 Chang Yoon Soo continued to persuade Lee Hyun.
 
-“This is your chance to become famous! Once you become popular in the Hall of Fame you will get attention of the media and they will fight for the right to talk with you. And then you will be able to demand compensation even for an interview.”
+“This is your chance to become famous! Once you become popular in the Hall of Fame you will get attention of the media and they will fight for the right to talk with you. And then you will be able to demand compensation even for interviews.”
 
 At the beginning of the game most broadcasting companies relied on broadcasting the adventures of high-level players. But the audience quickly became bored by it. The players with highest levels just spent all their time on hunting and raising levels. Few of them were able to provide a decent show that would be interesting to watch.
 
@@ -168,55 +168,51 @@ Lee Hyun took Chang Yoon Soo’s hand and paying no attention to the surprised l
 
 “Could you place me right to the top of the Hall of Fame?”
 
-***
+@<embed>{|html|<hr/>}
 
 After the unusual visitor departed, the conference room stayed silent.
 
-Chang Yoon Soo was looking at the empty mug of ginseng tea and thinking.
+Chang Yoon Soo was looking at the empty mug of ginseng tea and thought.
 
 “So his name is Lee Hyun...”
 
-“What’s wrong sir?” - asked the approaching assistant.
+“What’s wrong, sir?” asked the approaching assistant.
 
-“Just can’t get this man out of my mind.”
+“I just... can’t get this man out of my mind.”
 
-So Junhee was working in this department for a long time and thought that she knew her boss well enough. But right now she couldn’t understand him.
+The assistant, So Junhee, had worked in this department for a long time and thought that she knew her boss well enough. But right now, she couldn’t understand him.
 
-Chang Yoon Soo was the main person behind Royal Road’s advertising strategy. It was because of his hard work that the game became so popular.
+Chang Yoon Soo was the main person behind Royal Road’s advertising strategy. It was because of his hard work that the game had become so popular. In fact, the slogan ‘The game where you can become an emperor!’ had been created by Chang Yoon Soo himself.
 
-The slogan ‘The game where you can become an emperor!’ was created by Chang Yoon Soo, and it had a great impact on the company’s development.
+And now was the first time she'd seen him get lost in thought after meeting with an ordinary person.
 
-And now was the first time she saw him lost in thoughts after meeting with an ordinary person.
-
-“That’s not like you. This is the first time you paid so much attention to an ordinary player.”
+“That’s not like you. This is the first time you've paid so much attention to an ordinary player.”
 
 “Me? Of course I would.”
 
-Chang Yoon Soo shook his head and handed her a document.
-
-“Read it and you’ll understand.”
+Chang Yoon Soo shook his head and handed her a document. “Read it and you’ll understand.”
 
 So Junhee read the document with great care. It was a file on Lee Hyun.
 
-Royal Road was proud of its security system. Even the top managers of Unicorn Corporation weren’t able to see players’ level, profession, skills and items.
+Royal Road was proud of its security system. Even the top managers of Unicorn Corporation weren’t able to see players' private game information, such as their level, profession, skills and items.
 
-In Lee Hyun’s file there was just a single line. Black letters on the white sheet of paper stating only one thing - the date he started to play. Lee Hyun registered in Royal Road exactly 9 month ago.
+In Lee Hyun’s file there was just a single line. Black letters on the white sheet of paper stating only one thing - the date he started to play. Lee Hyun had registered in Royal Road exactly 9 months ago.
 
-“I can’t believe it! Not even a year since he registered?!” - exclaimed So Junhee in shock.
+“I can’t believe it! Not even a year since he registered?!” exclaimed So Junhee in shock.
 
 All the employees of the department were looking at them with interest.
 
-“I didn’t believe it too until I met him. It turns out in just 9 months he managed to get enough Fame points to get in top 500...”
+“I didn’t believe it eitger until I met him. It turns out in just 9 months he's managed to get enough Fame points to get in top 500...”
 
 “I can’t believe it...”
 
-“Most probably in these 9 months all he did was play Royal Road.” - said Chang Yoon Soo quietly.
+“Most probably in these 9 months all he's done is play Royal Road,” said Chang Yoon Soo quietly.
 
-These words made So junhee angry.
+These words made So Junhee angry.
 
-She was playing Royal Road since its release. Every evening after work. She was paid pretty well, so she could allow herself to buy good items from auctions. Still, after all that time her Fame barely got over 2500. With the combat profession of Wizard, she constantly hunted or did quests.
+She had been playing Royal Road since its release every single evening after work. She was paid pretty well, so she could allow herself to buy good items from auctions. Still, after all that time her Fame had barely reached over 2500. With the combat profession of Wizard, she constantly hunted or did quests.
 
-“Fame, even if you work hard, there’s no telling if you will obtain it.”
+She tried to play it off casually, however. “Fame, even if you work hard, there’s no telling if you will obtain it.”
 
 “Exactly.”
 
@@ -230,11 +226,11 @@ She was playing Royal Road since its release. Every evening after work. She was 
 
 Chang Yoon Soo stretched his hands and laughed with relief.
 
-“It was worthwhile choosing this job. It’s been a really long time since something worth my interest appeared.”
+“I'm glad I chose this job. It’s been a really long time since something worth my interest appeared.”
 
-***
+@<embed>{|html|<hr/>}
 
-Like the Orc Elder said, 10 suns and 10 moons passed and on the next morning the day of the decisive battle arrived!
+Like the Orc Elder said, after 10 suns and 10 moons had passed, the morning of the decisive battle arrived!
 
 “Chwiik!”
 
@@ -244,37 +240,37 @@ Like the Orc Elder said, 10 suns and 10 moons passed and on the next morning the
 
 Weed was looking at the Dark Elves’ fortress together with other Orcs.
 
-“The morning is in the mountains. The red sun is rising, the mighty wind is blowing. Chwichwit. Heavy clouds are crawling across the sky, like if they know that the battle is near. In the battle against the Dark Elves I will be fighting in the front line! Chwik!”
+“The morning dawns in the mountains. The red sun is rising, the mighty wind is blowing. Chwichwit. Heavy clouds are crawling across the sky, almost as if they know that the battle is near. In this battle against the Dark Elves I will be fighting in the front line! Chwik!”
 
-With one foot set on the boulder and chest stuck out, Weed was reading his monologue!
+With one foot set on the boulder and his chest stuck out, Weed was reading his monologue!
 
-“This sunny morning i feel hope. Chwichwik. Our courage and thirst for victory. Our noble spirit. Our souls. Chwiiik! I want to sing! Dark Elves are strong, but we will fight with song in our hearts. With the song of victory. No one will escape and we will be victorious!”
+“This sunny morning I feel hope. Chwichwik. Our courage and thirst for victory. Our noble spirit. Our souls. Chwiiik! I want to sing! Dark Elves are strong, but we will fight with song in our hearts, the song of victory! No one will escape and we will be victorious!”
 
-Weed was setting an atmosphere by reading a monologue. If the video was going to appear in the Hall of Fame, it will be seen by multiple players. He should create a positive image.
+Weed was setting an atmosphere by reading a monologue. If the video was going to appear in the Hall of Fame, it would be seen by multiple players. He should create a positive image.
 
-But he was doing his speech from a body of an Orc with huge fangs and terrifying facial expression, so he couldn’t make it seem deep and moving.
+But he was doing his speech from a body of an Orc with huge fangs and a terrifying facial expression, so he couldn’t make it seem deep and moving.
 
-He wanted to read some poem in his monologue, but he didn’t know any.
+He wanted to read some poetry in his monologue, but he didn’t know any.
 
 “Chwichwiiik! That’s fate!”
 
 Weed spat and returned to watching the fortress.
 
-There was a brief rain last night and mountains were covered by thick mist. Sleepy, but already hungry birds were fluttering between sparse trees. Soon the sun will be shining at full power and the weather will improve. But for now it was still cold.
+There was a brief rain last night and the mountains were covered by thick mist. Sleepy but already hungry birds fluttered between sparse trees. Soon the sun would be shining at full power and the weather would improve. But for now it was still cold.
 
 “A-aachoo! Chwiik!”
 
-Even thick-skinned Orcs started to succumb to weather. Weed at least had a cape, which he tightly wrapped around himself, but other Orcs only had armor.
+Even the thick-skinned Orcs started to succumb to the weather. Weed at least had a cape, which he tightly wrapped around himself, but the other Orcs only had armor.
 
-The temple of Necromancers was standing at the top of the mountain. The cliffs around it looked pretty steep and the only way to reach the gate was to pass through the Dark Elves settlement. But it was surrounded by 7-meter-high wall. Dark Elves were proficient in elemental magic and with its help they were able to quickly erect an impregnable fortress.
+The temple of Necromancers stood at the top of the mountain. The cliffs around it looked pretty steep, and the only way to reach the gate was to pass through the Dark Elves' settlement. But the settlement was also surrounded by 7-meter-high wall. Dark Elves were proficient in elemental magic, and with its help they had been able to quickly erect an impregnable fortress.
 
-Moreover, at the base of the wall some kind of dark-blue smoke was swirling, which was definitely not something good. While watching the fortress, Weed saw a few times how some random birds carelessly flew into the smoke just to drop dead a moment later.
+Moreover, at the base of the wall some kind of dark-blue smoke was swirling ominously. While watching the fortress, Weed saw a few random birds carelessly fly into the smoke just to drop dead a moment later.
 
-And as a finishing touch the walls were filled with Dark Elves holding their bows. They noticed Orcs a long time ago and were just waiting to see what they were going to do. Were they to come closer, they would be immediately met with a barrage of Elven arrows.
+And as a finishing touch, the walls were filled with Dark Elves holding their bows. They had noticed the orcs a long time ago and were just waiting to see what they were going to do. Were they to come closer, they would be immediately met with a barrage of elven arrows.
 
 ‘To reach the Necromancers’ temple is one heck of a goal... How are we supposed to take this fortress?’
 
-Besides Weed were his 20000 subordinate Orcs. But on the wall were no less than 10000 Dark Elves! Even though Orcs and Dark Elves had similar strength, in case of siege the advantage was clearly on the Dark Elves’ side.
+Beside Weed were his 20,000 subordinate orcs. But on the wall were no less than 10,000 Dark Elves! Even though Orcs and Dark Elves had similar strength, since this was a siege, the advantage was clearly on the Dark Elves’ side.
 
 “Karichwi, we believe in you. Chwiik!”
 
@@ -286,11 +282,11 @@ The Elder gave Weed a reassuring pat on the shoulder.
 
 “E-e-erm... It must definitely be today? Chwiik!”
 
-“Yes. We have no food. Chwichwichwi.”
+“Yes. We have no more food. Chwichwichwi.”
 
 “...”
 
-Stupid Orcs! There were more than 20000 of them gathered, and not a single one of them bothered to bring any provisions.
+Stupid Orcs! There were more than 20000 of them gathered, and not a single one of them had bothered to bring any provisions.
 
 ‘We have no food and half the warriors got a cold...’
 
@@ -306,35 +302,35 @@ Weed pulled himself together and looked around. He noticed something strange. Ev
 
 “Chwiik! Orcs from Chwibarr tribe arrived.”
 
-The chieftain of Chwibarr brought another 10000 Orcs! And this was just the beginning. Wherever Weed looked, even in the far distance, the trees were shaking.
+The chieftain of Chwibarr had brought another 10,000 Orcs! And this was just the beginning. Wherever Weed looked, even in the far distance, the trees were shaking.
 
-“Karichwi, I’ve brought 20000 warriors!”
+“Karichwi, I’ve brought 20,000 warriors!”
 
-“Holchwi tribe sent 15000!”
+“Holchwi tribe sent 15,000!”
 
-Weed was standing and with growing hope looked at the arriving reinforcements. The fortress of Dark Elves was located near the top of the mountain, and from every side more and more Orc troops were approaching. There were great many Orcs gathering in the Yuroki mountains today. Far too many.
+Weed looked with growing hope at the arriving reinforcements. The fortress of Dark Elves was located near the top of the mountain, and from every side more and more Orc troops were approaching. There were great many Orcs gathering in the Yuroki mountains today. Far too many.
 
 “Chwiik! Chwit!”
 
 Weed was involuntary making snorting sounds.
 
-The Orc army looked like a huge tsunami. There were young and old Orcs, but most of them were battle-hardened veterans. And all of them came to fight besides him, leader of an army of 20000 Orcs!
+The Orc army looked like a huge tsunami. There were young and old Orcs, but most of them were battle-hardened veterans. And all of them had came to fight beside him, leader of an army of 20,000 Orcs!
 
-“Baranchwi sent 8000. Chwichwichwit!”
+“Baranchwi sent 8,000. Chwichwichwit!”
 
-“Gerbage sent 9000. Brought everyone!”
+“Gerbage sent 9,000. Brought everyone!”
 
-“Salchwi and his thousand fighters arrived!”
+“Salchwi and his thousand fighters have arrived!”
 
 Messengers from every tribe were continuously bringing new messages.
 
-Some of the arrived Orcs had already fought Dark Elves many times. This was evident from the burns and scars, left by Dark Elves’ magic and arrows.
+Some of the arrived Orcs had already fought Dark Elves many times. This was evident from the burns and scars left by Dark Elves’ magic and arrows.
 
-The armies of the 25 closest chieftains were going to gather to storm the fortress. 5 tribes couldn’t come, but still the entire area around the Dark Elves settlement was filled with Orcs.
+The armies of the 25 closest settlements had gathered to storm the fortress. 5 tribes couldn’t come, but still the entire area around the Dark Elves settlement was filled with Orcs.
 
-When the sun reached zenith the last tribe arrived, the number of Orcs reached over 400000.
+When the sun reached its zenith, the last tribe arrived and the number of Orcs reached over 400,000.
 
-The entire horde was behaving very loud, clanging with their armor and weapons and shouting all kinds of insults at their opponents. Such a great number of Orcs at their walls was making the Dark Elves seriously worried. Now they didn’t look as relaxed as this morning, a lot of them were preparing spells in advance and holding them ready to use.
+The entire horde was behaving very rowdily, clanging with their armor and weapons and shouting all kinds of insults at their opponents. Such a great number of Orcs at their walls was making the Dark Elves seriously worried. Now they didn’t look as relaxed as they had this morning, and a lot of them were preparing spells in advance and holding them ready to use.
 
 The chieftain Bulchwi, who was standing nearby, approached Weed with confidence.
 
@@ -342,33 +338,27 @@ The chieftain Bulchwi, who was standing nearby, approached Weed with confidence.
 
 “Thank you, chwik!”
 
-Bulchwi was a very strong Orc. During his short stay at the Orc village Weed heard many stories about this formidable warrior who bravely hunted wyverns.
+Bulchwi was a very strong Orc. During his short stay at the Orc village, Weed had heard many stories about this formidable warrior who bravely hunted even wyverns.
 
-The Orc chieftain continued:
-
-“We want you to give us the command to attack, chwichwichwiiik!”
+The orc chieftain continued. “We want you to give us the command to attack, chwichwichwiiik!”
 
 “Are you sure? Chwiik!”
 
 “Yes. You deserve it. Chwiik! This is the tradition. When the scariest Orc leads the attack the enemy runs away in fear.”
 
-Even though there were 400000 Orcs here today, there was no one scarier than Weed.
+Even though there were 400,000 Orcs here today, there was no one scarier than Weed.
 
-He gave his sculpture a too unusual and menacing appearance. And so Weed’s appearance played another trick on him.
+He had given his sculpture too unusual and menacing of an appearance, and this had come back to bite him yet again.
 
 Seeing Weed’s confusion, Bulchwi let out a friendly laugh.
 
-“This is a great honor. Chwiik! I envy you. Go on.”
+“This is a great honor, Chwiik! I envy you. Go on.”
 
 “...”
 
-After being told that by such a respected Orc, Weed straightened his posture with pride. Surrounding Orc leaders and all the other Orcs were waiting for his orders, so he raised his glaive high and started to shout:
+After being told that by such a respected orc, Weed straightened his posture with pride. The surrounding orc leaders and all the other orcs were waiting for his orders, so he raised his glaive high and started to shout. “Orcs! Orcs! Orcs!”
 
-“Orcs! Orcs! Orcs!”
-
-“Orcs! Orcs! Orcs!”
-
-The 400000 Orc army echoed him. Mountains filled with their shouts. Ground started to shake under their feet.
+The 400,000 Orc army echoed him. “Orcs! Orcs! Orcs!” Mountains filled with their shouts. The ground started to shake under their feet.
 
 “Orcs! Orcs! Orcs!”
 
@@ -382,4 +372,4 @@ When the volume reached its peak, Weed swung his glaive furiously and exclaimed:
 
 “Guo! Guo! Guo!”
 
-Orcs rushed towards Dark Elves fortress like an avalanche.
+Orcs rushed towards the Dark Elves' fortress like an avalanche.

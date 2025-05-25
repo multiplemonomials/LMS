@@ -344,7 +344,7 @@ Originally she had started playing at the center of the continent, slowly making
 
 ‘To the east... Where there’s no players...’
 
-Seoyoon decided to go to Lands of Despair.
+Seoyoon decided to go to Plains of Despair.
 
 @<embed>{|html|<hr/>}
 
@@ -352,11 +352,11 @@ The construction of the pyramid became the hot news in Royal Road. Most of the r
 
 The pyramid almost instantly appeared on the Royal Road web-sites. Then, several journalist teams were sent to Weed by various media sources. They wanted to record all the stages of construction, from the initial concept to the final result.
 
-Of course, reporting just the basic facts of the pyramid would only fill a small article, but reporters wanted to spotlight how the pyramid was created by players' efforts alone in detail. They wanted to show players' feelings and the backbreaking work that made the construction of the pyramid possible. And they had to chronicle it from beginning to the end, from the moment the quest first appeared, as that was the way great histories were written!
+Of course, reporting just the basic facts of the pyramid would only fill a small article, but reporters wanted to spotlight how the pyramid was created through players' efforts alone in detail. They wanted to show players' feelings and the backbreaking work that made the construction of the pyramid possible. And they had to chronicle it from beginning to the end, from the moment the quest first appeared, as that was the way great histories were written!
 
 The pyramid, built by thousands of players' hard work!
 
-The TV producers were already thinking about making a show where famous actors and showmen would be building their own pyramid. They thought that the audience will be interested in whether someone else would be able to complete such an impossible-seeming task.
+The TV producers were already thinking about making a show where famous actors and showmen would be building their own pyramid. They thought that the audience would be interested in whether someone else would be able to complete such an impossible-seeming task.
 
 "We'll pay you a million won."
 
@@ -372,9 +372,9 @@ Weed accepted it.
 
 The hunt in the Huntresses' gorge was getting livelier with each passing day.
 
-Though Weed's party didn't have the mandatory warriors or paladins, the high level of cooperation between members allowed them to quickly demolish the amazons and earn lots of experience points. During past few days, Weed had received seven levels and reached a total level of 266.
+Though Weed's party didn't have the mandatory warriors or paladins, the high level of cooperation between members allowed them to quickly demolish the amazons and earn lots of experience points. During the past few days, Weed had received seven levels and reached a total level of 266.
 
-Fighting together with Geomchis was incredibly pleasant. He wanted to continue hunting with them, but the construction was nearing its end and he just had to attend to it.
+Fighting together with the Geomchis was incredibly pleasant. He wanted to continue hunting with them, but the construction was nearing its end and he just had to attend to it.
 
 The moment the last stone fell into place, Weed received a message
 
@@ -383,7 +383,7 @@ Ding!
 //table{
 --------------
 You completed the construction of the tomb for great king Theodarren.
-Feeling the approaching death, the king decided to build a marvelous tomb for himself and appointed the most famous sculptor of the continent to the task. And now the tomb is complete.
+Feeling his approaching death, the king decided to build a marvelous tomb for himself and appointed the most famous sculptor of the continent to the task. And now the tomb is complete.
 Receive your reward from King Theodarren.
 But hurry to do it before his death.
 //}
@@ -394,7 +394,7 @@ But hurry to do it before his death.
 
 Numerous players around the pyramid were shouting happily.
 
-It was the first time that so many players had gathered in the backwater Rosenheim Kingdom. Every player had mined or delivered at least 1-2 stone blocks and contributed their part of sweat and effort to the construction of the tomb.
+It was the first time that so many players had gathered in the backwater Rosenheim Kingdom. Every player had mined or delivered at least 1-2 stone blocks and contributed at least a bit of sweat and effort to the construction of the tomb.
 
 Weed headed to the royal palace.
 
@@ -418,7 +418,7 @@ Weed wasn't intending to get up, but the king gave an order to his knights and t
 
 "Yes... I vanquished many foes to defend my kingdom. And now, after my death I'll go to the very depths of hell where I will suffer for eternity."
 
-"Not at all, your majesty. You life passed like a firework. Someone who was not scared of the flame and tried to catch it might get burned. But you were burning yourself to illuminate everything around you. Your bright fire warmed and protected Rosenheim for a long time. And now you will be able to rest in a comfortable place and watch your kingdom prosper."
+"Not at all, your majesty. You burned like a firework. Someone who was not scared of the flame and tried to catch it might get burned. But you were burning yourself to illuminate everything around you. Your bright fire warmed and protected Rosenheim for a long time. And now you will be able to rest in a comfortable place and watch your kingdom prosper."
 
 The King was greatly satisfied by those words.
 
@@ -440,25 +440,25 @@ Five levels and 2930 reputation points with the royal family!
 
 The King continued speaking. "All the others who assisted the construction of the tomb will receive their appropriate rewards. Your service to the royal family is great, we wish to reward you. What is it that you wish?"
 
-The exciting moment, that Weed was imagining so many times has arrived.
+The exciting moment that Weed had imagined so many times had arrived.
 
-'2930 points... I could get a rare or even unique item from royal treasury.'
+'2930 points... I could get a rare or even unique item from the royal treasury.'
 
-The sword of Agatha was a good item in many ways. It increased the Faith attribute, increased health recovery, and even allowed him to use the blessing 5 times a day. But still the sword, forged by Order of Freya, had a low damage stat.
+The sword of Agatha was a good item in many ways. It increased the Faith stat, increased health recovery, and even allowed him to use the blessing 5 times a day. But still the sword, forged by the Order of Freya, had a low damage stat.
 
 Weed wanted a sword! The best one possible.
 
 However he had to think about completing the quests he already had...
 
-'Even the best sword in the world won't help me in the Lands of Despair.'
+'Even the best sword in the world won't help me in the Plains of Despair.'
 
 Weed made a decision and said:
 
-"Your Majesty, I have been given a quest from the Order of Freya. Soon I will have to go against the necromancers, who worship the dark god Beelzebub. The Order learned that something evil is being prepared in Lands of Despair, and my task is to deal with it before the necromancers gather too many forces. However, to my regret, I don't have enough men to complete such an important task. That is why I request assistance of the brave warriors of Rosenheim."
+"Your Majesty, I have been given a quest from the Order of Freya. Soon I will have to go against the necromancers, who worship the dark god Beelzebub. The Order learned that something evil is being prepared in the Plains of Despair, and my task is to deal with it before the necromancers gather too many forces. However, to my regret, I don't have enough men to complete such an important task. That is why I request the assistance of the brave warriors of Rosenheim."
 
-The King carefully listened to Weed and seriously shook his head.
+The King carefully listened to Weed and seriously nodded his head.
 
-"Lands of Despair... I heard that there are refugees living there, who were chased there during the era of strife and war with the dark elves. During my reign I have sent my troops twice to those hostile lands, and twice not a single man has returned. For that reason I ordered a high, thick wall to be erected, to prevent the evil of that place from invading my lands."
+"Plains of Despair... I heard that there are refugees living there, who were chased there during the era of strife and war with the dark elves. During my reign I have sent my troops twice to those hostile lands, and twice not a single man has returned. For that reason I ordered a high, thick wall to be erected, to prevent the evil of that place from invading my lands."
 
 "That's how it is..."
 
@@ -472,17 +472,17 @@ While Weed was lost in thoughts, Theodarren quietly continued:
 
 He'd have to spend reputation points on soldiers. That decision almost made Weed cry.
 
-‘Anyway, going there with only priests and hoping for a miracle would be a suicide. The completion of the quest is more important that any unique items...’
+‘Anyway, going there with only priests and hoping for a miracle would be suicide. The completion of the quest is more important than any unique items...’
 
 However even after taking that decision, he couldn't help but try to scrounge something valuable.
 
-“I treasure my memories of Rosenheim Kingdom so much, that I wish I had some kind of memento of it. If your Majesty doesn’t mind, a sword would be a perfect for that.”
+“I treasure my memories of Rosenheim Kingdom so much, that I wish I had some kind of memento of it. If your Majesty doesn’t mind, a sword would be perfect for that.”
 
 The right words, said at the right time.
 
-The King nodded and ordered one of his advisors to lead sculptor to the training grounds.
+The King nodded and ordered one of his advisors to lead the sculptor to the training grounds.
 
-On the way Weed was inventing thousands of excuses to take the best possible weapon from the armory. He recalled his hunt in the Lair of Litvart and his quest in the province of Mora. He had to endure so much to finally get here and get an opportunity to receive something really valuable.
+On the way Weed was inventing thousands of excuses to take the best possible weapon from the armory. He recalled his hunt in the Lair of Litvart and his quest in the province of Morata. He had to endure so much to finally get here and get an opportunity to receive something really valuable.
 
 To come through all that suffering only to spend all the points on soldiers?
 
@@ -499,7 +499,7 @@ The Knights of Rosenheim were dressed in shining silvery armor. Their horses wer
 Please pick warriors using your reputation points.
 //}
 
-After the window appeared, numbers started appearing on knights’ chests.
+After the window appeared, numbers started appearing on the knights’ chests.
 
 ‘Looks like it’s their value in reputation points.’
 
@@ -507,7 +507,7 @@ Every available knight or soldier had a price. He had to chose carefully, spendi
 
 First Weed carefully examined all the knights.
 
-They were gathered in a few groups. There were Scarlet Knights, known for their strength, the White Knights, known for magic, and the Royal Knights, who served the king personally. The latter had 280th level.
+They were gathered in a few groups. There were Scarlet Knights, known for their strength, the White Knights, known for magic, and the Royal Knights, who served the king personally. The latter were around level 280.
 
 Without a second thought Weed stopped his choice on them. The personal knights of the king were the best fighters of the kingdom.
 
