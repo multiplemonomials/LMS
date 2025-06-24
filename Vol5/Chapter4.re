@@ -515,7 +515,7 @@ Without a second thought Weed stopped his choice on them. The personal knights o
 
 Weed approached closer and saw numbers on their chests. They started at 30 and went all the way up to 100 points per person.
 
-The reputation point system was one of the reasons the tyranny of guilds in Royal Road was reduced. With it even solo players and small parties were able to complete quests and accumulate reputation points of kingdoms and other powers of Royal Road. And in case they needed help, to do a quest for example, they didn’t have to find a guild and beg for it. They were able to hire an army from a king or aristocracy.
+The reputation point system was one of the reasons the tyranny of guilds in Royal Road was reduced. With it even solo players and small parties were able to complete quests and accumulate reputation points with kingdoms and other powers of Royal Road. And in case they needed help, to do a quest for example, they didn’t have to find a guild and beg for it. They were able to hire an army from a king or aristocracy.
 
 While walking around the training grounds, Weed reached a corner, where a great number of armors and weapons were piled up. Swords, spears, axes, bows, clubs and maces -- there were too many kinds to list them all.
 
@@ -527,7 +527,7 @@ So if he picked a lot of soldiers, he would get a poor weapon, but if he took a 
 
 ‘I worked so hard to get these points... I just can’t spend them all on soldiers.’
 
-If an NPC were to die in combat, they would be gone for good. But even if none of them died on the quest, Weed will still have to return them all back. But the weapon will stay with him even after he finishes the quest. He would even be able to sell it for cash.
+If an NPC were to die in combat, they would be gone for good. But even if none of them died on the quest, Weed will still have to return them all back. But a weapon would stay with him even after he finished the quest. He would even be able to sell it for cash.
 
 After giving it a lot of thought, Weed decided to pick 10 Royal Knights. When choosing them, he immediately assigned them new names.
 
@@ -539,7 +539,7 @@ Of course Weed would remember the faces and names of the knights, who he'd spent
 
 “I don’t like it, but I can’t go against King’s order, so I will follow you.”
 
-The knights didn't hide their disapproval. Straightforward rude and displeased statements were directed at Weed, but he ignored them and proceeded to pick the weapon and ordinary soldiers.
+The knights didn't hide their disapproval. Straightforward rude and displeased statements were directed at Weed, but he ignored them and proceeded to pick the weapon and the ordinary soldiers.
 
 ‘I should pick the best weapon possible and then spend the rest of the reputation points on infantry. I can’t let my points drop low enough that I wouldn’t be able to pick the sword I want.’
 
@@ -547,7 +547,7 @@ First he examined the decorated swords, covered by ornaments. However he didn’
 
 ‘Useless stuff. More works of art than weapons.’
 
-Unfortunately he wasn’t allowed to check the weapons’ stats when choosing, so he had to rely on his intuition and experience.
+Unfortunately he wasn’t allowed to check the weapons’ stats when making his choice, so he had to rely on his intuition and experience.
 
 It was a good thing that in Somren Liberty City, he'd had a chance to thoroughly study weapons and learn to estimate their value by their looks. His experience as a blacksmith was helping as well.
 
@@ -570,12 +570,12 @@ This sword belonged to Loteu from Niflheim Empire, the leader of the mercenaries
  * Leadership +20%.
  * Bonus frost damage +30.
  * Every attack slows the opponent.
-If you take a profession of a mercenary, you immediately get silver status.
+If you take the profession of mercenary, you immediately receive silver status.
 //}
 
 “Not bad at all.”
 
-Weed spent 1700 reputation points on the sword and was satisfied with it. Even though its effects were worse than those of Sword of Agatha, its damage was a lot higher. And if you take into account the sharpening bonus, this sword was easily the best piece of equipment he'd ever had.
+Weed spent 1700 reputation points on the sword and was satisfied with it. Even though its effects were worse than those of Sword of Agatha, its damage was a lot higher. And if you took into account the sharpening bonus, this sword was easily the best piece of equipment he'd ever had.
 
 After taking the sword he had 541 reputation points left, which he was going to spend on hiring soldiers. Weed continued walking around the training grounds, and to his surprise he noticed some familiar faces.
 
@@ -587,13 +587,13 @@ Becker, Hosram, Buren and Dale. Soldiers from his raid to the Lair of Litvart. O
 
 “Yes, the areas around the capitol started to get invaded by monsters and we were called back to patrol and hunt.”
 
-The four soldiers became captains long ago and were in charge of their own squads of one hundred soldiers.
+The four soldiers became centurions long ago and were in charge of their own squads of one hundred soldiers.
 
 “We knew you would come back someday.”
 
 “Yeah, we are so happy to see you again, Chief!”
 
-Buren and Dale couldn’t hold back their joy. During their hunt in the Lair of Litvart they became really close to Weed and were truly happy to meet him.
+Buren and Dale couldn’t hold back their joy. During their hunt in the Lair of Litvart they'd become really close to Weed and were truly happy to meet him.
 
 Weed considered himself lucky.
 
@@ -617,9 +617,9 @@ However the advisor continued:
 
 The advisor’s words could be interpreted as a promise to refund all the reputation points spent on the returned soldiers and increase them for every soldier who raised their level in upcoming battles.
 
-‘If I knew this would happen, I would pick a lot more soldiers...’
+‘If I'd known this would happen, I would've picked a lot more soldiers...’
 
-In the very end among the soldiers Weed noticed Docke, the instructor from training hall. Not too long ago, he had been promoted, and now he was training knights in the palace. Also there was Midvale, the knight that Weed had accompanied to the Lair of Litvart. However he didn’t have enough points for either of them. Besides, each of them costed more than any other knight.
+In the very end among the soldiers Weed noticed Docke, the instructor from the training hall. Not too long ago, he had been promoted, and now he was training knights in the palace. Also there was Midvale, the knight that Weed had accompanied to the Lair of Litvart. However he didn’t have enough points for either of them. Besides, each of them cost more than any other knight.
 
 ‘Too bad. Well, hopefully I’ll have another opportunity...’
 
@@ -659,7 +659,7 @@ When the glow disappeared, Weed and others were already far from Rosenheim.
 
 @<embed>{|html|<hr/>}
 
-The pyramid quickly became one of the most visited places of Rosenheim Kingdom. Every day more than 40 thousand people visited it.
+The pyramid quickly became one of the most visited places of the Rosenheim Kingdom. Every day more than 40 thousand people came to visit.
 
 Of course, most of them were coming not to look at works of art, but to receive the buff from the Sphinx statue.
 
