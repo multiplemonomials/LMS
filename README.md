@@ -44,3 +44,4 @@ First, extract the .xhtml chapter from the ebook.  Then do:
 ```
 pandoc2review --strip-emptydev /path/to/chapter.xhtml > chapter.re
 ```
+NOTE: on Windows, use cmd, not PowerShell! Somehow using powershell screws up all the unicode text in the output file.

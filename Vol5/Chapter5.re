@@ -4,13 +4,13 @@ Like always, today Lee Hyun woke up early and proceeded to do his usual chores.
 
 First he visited the Dark Gamers' Union website and started reading the latest messages.
 
-As Choi Junghoon had promised, the website had plenty of information about quests, dungeons, crafting skills, and even trading routes. But of course, as it was a website for Dark Gamers, most of information was about items.
+As Choi Junghoon had promised, the website had plenty of information about quests, dungeons, crafting skills, and even trading routes. But of course, as it was a website for Dark Gamers, most of the information was about items.
 
 Hyun Lee had C level clearance and was able to view corresponding entries.
 
 “Nothing special today too.”
 
-He was looking for any mentions of unique items! And even though Lee Hyun had only limited access, sometimes he was stumbled upon some interesting bits of information. Usually those were contributed by other players with the same access level telling about their adventures, secret quests, and the rewards they'd received. Often, these posts would quickly become popular and then get moved to sections he couldn’t access.
+He was looking for any mentions of unique items! And even though Lee Hyun had only limited access, sometimes he stumbled upon some interesting bits of information. Usually these were contributed by other players with the same access level telling about their adventures, secret quests, and the rewards they'd received. Often, these posts would quickly become popular and then get moved to sections he couldn’t access.
 
 Lee Hyun was trying to catch such posts before that happened.
 
@@ -42,7 +42,7 @@ Even when buying a single fish, Hyun was very demanding. He would always ask whe
 
 The salesmen at the market were used to customers with no knowledge of a fish’s freshness. However Lee Hyun was well aware of those matters and never hesitated to haggle. He knew all the prices very well and trying to sell him something for more than its price would be the gravest possible mistake!
 
-And while he was on the lookout for bargains, Hyun never wanted anything less than top quality food. Every morning he would cook for his little sister so he would only the best of the best.
+And while he was on the lookout for bargains, Hyun never wanted anything less than top quality food. Every morning he would cook for his little sister so he would only accept the best of the best.
 
 His ‘infamy’ with the market dealers allowed him to buy the best food at reasonable prices without having to bargain.
 
@@ -100,13 +100,13 @@ On the maps sold at merchant stores only one thing was said about this region: �
 
 A very precise and complete description for such a dangerous place.
 
-Weed and the NPCs following him appeared in a spacious cave, hidden inside one of the hills. The entrance was cleverly disguised by a large stone so that it was impossible to find it without knowing the precise location.
+Weed and the NPCs following him appeared in a spacious cave, hidden inside one of the hills. The entrance was cleverly disguised by a large stone so that it was impossible to find without knowing the precise location.
 
 “Awwwoooooooo!”
 
-The moment Weed appeared he was greeted by horrifying wolf howl.
+The moment Weed appeared he was greeted by a horrifying wolf howl.
 
-‘Scarry...’
+‘Scary...’
 
 After arriving at unknown territory it is always important to be cautious. Even the NPCs knew it. But Buren and Becker seemed to ignore that simple rule.
 
@@ -118,15 +118,15 @@ After arriving at unknown territory it is always important to be cautious. Even 
 
 “...”
 
-Weed sighed and gave soldiers an order:
+Weed sighed and gave the soldiers an order:
 
-“Stay here. Make arrangements for food, rest and guard. Wait for my return.”
+“Stay here. Make arrangements for food and rest and keep watch. Wait for my return.”
 
 “Yes! We understand.”
 
 Luckily for Weed, the area around the portal was safe. He had planned ahead for the initial steps of the quest and bought a month’s worth of provisions for his small army.
 
-Weed watched his people set a camp for a bit and then slowly left the hideout to scout the surroundings.
+Weed watched his people set up camp for a bit and then slowly left the hideout to scout the surroundings.
 
 There was a strong, piercing wind outside.
 
@@ -154,7 +154,7 @@ On top of the mountain range, Weed noticed a high stone wall and a fort. At the 
 
 ‘This is it...’
 
-It was hard to say for sure at such a great distance, but it seemed that there was some sort of statue there. This must be the temple of dark god, erected by the necromancers of Bar Khan Demoph himself!
+It was hard to say for sure at such a great distance, but it seemed that there was some sort of statue there. This must be the temple of the dark god, erected by the necromancers of Bar Khan Demoph himself!
 
 “Chwi-i-ik!”
 
@@ -236,7 +236,7 @@ All the villagers avoided the unfamiliar stranger. But that didn’t stop Weed i
 
 “I don't trust outsiders.”
 
-Weed tried to start a conversation again and again, but the villagers would just leave while ignoring him or even showing hostility.
+Weed tried to start a conversation again and again, but the villagers would just leave while ignoring him or even show hostility.
 
 “We didn’t forget who banished our ancestors. What did you come here for?”
 
@@ -262,7 +262,7 @@ But the villagers still ignored his efforts and some even got angry.
 
 “Ahahaha, sculptures... Who even needs them?”
 
-All the inhabitants of Village of Exiles were great warriors.
+All the inhabitants of the Village of Exiles were great warriors.
 
 Despite all Weed’s efforts, none of them approached him. The few of them who stopped nearby were just watching from a distance, talking and laughing at him.
 
@@ -280,15 +280,15 @@ The villagers’ attitude did not upset Weed at all.
 
 He remembered well the time he had worked at a factory when he was a child.
 
-When Hyun was 14 years old, he was already working full-time undoing seams in a stuffy and dusty room. It was hard and monotonous work and he was only allowed to leave on lunch breaks. Hyun was terribly jealous of the cheerful students passing by him when he was on lunch breaks.
+When Hyun was 14 years old, he was already working full-time undoing seams in a stuffy and dusty room. It was hard and monotonous work and he was only allowed to leave on lunch breaks. Hyun was terribly jealous of the cheerful students passing by him when he was on lunch break.
 
-At the time he was an outsider for everyone. However that experience didn’t break him -- instead, it strengthened him and made him more mature, in spite of everything.
+At the time he was an outsider to society. However that experience didn’t break him -- instead, it strengthened him and made him more mature, in spite of everything.
 
-Weed finished roasting the boar, and after having receiving no response, he packed everything back into his bag and continued walking through the village trying to start a conversation. He believed that among all the NPCs there must be at least one who would talk to him.
+Weed finished roasting the boar, and after having received no response, he packed everything back into his bag and continued walking through the village trying to start a conversation. He believed that among all the NPCs, there must be at least one who would talk to him.
 
 And he wasn’t wrong. One young guy, who was crouching on the ground and staring at a shield lying besides him, turned to Weed and said, “Oh, stranger! If you managed to get here you must be worth something.”
 
-“Got where?”
+“Get where?”
 
 “Hah, you don’t even know where you are?”
 
@@ -319,7 +319,7 @@ Ding!
 //table{
 New Quest: Shield for Kokun.
 --------------
-Despite all efforts, the hunter Kokun failed to fix his shield. If it breaks during a fight, he will be in trouble. You need to bring it to his friend Lucille to exchange for a new one.
+Despite all efforts, the hunter Kokun has failed to fix his shield. If it breaks during a fight, he will be in trouble. You need to bring it to his friend Lucille to exchange for a new one.
 Difficulty: E.
 Restrictions: If you leave the village with the shield Kokun will get angry.
 //}
@@ -347,7 +347,7 @@ Requirements: None.
 Effects: 50% chance to defend against projectiles.
 //}
 
-The village wasn’t very big so it wasn’t too hard to find the blacksmith. However it didn’t look anything like Kokun described. All that Weed saw was a small room with an anvil and a little furnace, with a couple swords and a few other weapons hanging on the walls. The only big thing there was the bearded and muscular smith Lucille.
+The village wasn’t very big so it wasn’t too hard to find the blacksmith. However it didn’t look anything like Kokun had described. All that Weed saw was a small room with an anvil and a little furnace, with a couple swords and a few other weapons hanging on the walls. The only big thing there was the bearded and muscular smith Lucille.
 
 “I see you for the first time, stranger.”
 
@@ -363,7 +363,7 @@ Weed quickly considered his answer. Sometimes such questions, which seemed insig
 
 “Good answer. So, what brought you here?”
 
-Weed handed the shield.
+Weed handed over the shield.
 
 “He asks for a new one.”
 
@@ -387,19 +387,19 @@ Weed was the first to discover this settlement. Maybe that, or the fact that Wee
 
 “Kokun told me a bit. He stopped at the part where only a small part of those exiled remained.”
 
-“Great. Then I’ll continue. The survivors were wandering the land of monsters in search for a place to settle. Their first choice was a huge cave, but not everyone liked the idea of living in a constant darkness. Gradually more and more people were coming outside, and eventually they decided to found a village.”
+“Great. Then I’ll continue. The survivors were wandering the land of monsters in search of a place to settle. Their first choice was a huge cave, but not everyone liked the idea of living in constant darkness. Gradually more and more people were coming outside, and eventually they decided to found a village.”
 
 “Incredible, they had the courage to start a settlement in the Plains of Despair!”
 
 Weed wanted to show his admiration for their courage. Even in such dangerous environment the pioneering spirit of humans won out!
 
-“Nah, that wasn’t that remarkable. To tell the truth, at that moment there were still a lot of survivors. But they had a disagreement. They split into 2 camps: the ones who didn’t want to change anything, and the ones who wanted to leave the cave. The latter group were the ones who founded our village and later built the wall around it. Unfortunately 99 out of every hundred people died in the process.”
+“Nah, that wasn’t that remarkable. To tell the truth, at that moment there were still a lot of survivors. But they had a disagreement. They split into two camps: the ones who didn’t want to change anything, and the ones who wanted to leave the cave. The latter group were the ones who founded our village and later built the wall around it. Unfortunately 99 out of every hundred people died in the process.”
 
 “...”
 
 It was a story out of a horror movie. Unknown lands full of dangers and a group of defenseless people...
 
-“Yeah, that’s how it all happened. Through trial and error, with each mistake human lives, the survivors acquired new knowledge. They learned which places to avoid, and discovered the habits of the monsters and predators of this land. They started to better understand the world around them. Around that time life in the village finally started to become safe. Ahem, I guess I might have talked to much. I still have a lot of work to do. Here, this is my present for you.”
+“Yeah, that’s how it all happened. Through trial and error, with each mistake costing human lives, the survivors acquired new knowledge. They learned which places to avoid, and discovered the habits of the monsters and predators of this land. They started to better understand the world around them. Around that time life in the village finally started to become safe. Ahem, I guess I might have talked too much. I still have a lot of work to do. Here, this is my present for you.”
 
 //table{
 You acquired the Map of the Plains.
@@ -427,7 +427,7 @@ Weed gave him the shield.
 //table{
 The quest “Shield for Kokun” is complete.
 --------------
-The hunter Kokun has already lost his shield a few times in a battle. He would always come back from the hunt injured, and has yet to bring back anything worthy. The villagers consider him a failure.
+The hunter Kokun has already lost his shield a few times in battle. He would always come back from the hunt injured, and has yet to bring back anything worthy. The villagers consider him a failure.
 No one knows where he hunts.
 Reward: 20 steel arrows for a long bow. A little experience.
 //}
@@ -440,9 +440,9 @@ Satisfied, Kokun examined his new shield and said:
 
 “Oh, yeah, I started telling about our village, right? Remind me where did we stop?”
 
-“The small part of survivors founded the village. Lucille told me up to this part.”
+“Lucille told me up to the part where a group of the survivors founded the village.”
 
-“Hah! He sure loves to talk. Ill continue. To survive we had to become stronger. All the villagers mastered weapons, especially bows: some of us are even better at it than the dark elves. What else... Our village is eastmost in the Plains of Despair. The Yuroki Mountains can be clearly seen from here, they're inhabited by numerous orcs.”
+“Hah! He sure loves to talk. I'll continue. To survive we had to become stronger. All the villagers mastered weapons, especially bows: some of us are even better at it than the dark elves. What else... Our village is eastmost in the Plains of Despair. The Yuroki Mountains can be clearly seen from here, they're inhabited by numerous orcs.”
 
 “You founded your village in a dangerous place.”
 
@@ -456,7 +456,7 @@ The exile settlement was holding out despite annual orc raids.
 
 “However, a few years ago orcs started taking not just food, but villagers. After all, they can’t make anything themselves!”
 
-“I heard that orcs are the worst race with regard to crafting skill.”
+“I heard that orcs are the worst race when it comes to crafting skills.”
 
 “That’s right. That’s why they take people away, so that they'll make weapons and do other work for them. In the last few years, they've taken more than a hundred people! Damn orcs!”
 
@@ -479,7 +479,7 @@ Hunter Kokun had met a lot of people who talked big but did little. To oppose th
 Catch 5 giant ants to prove your courage.
 Difficulty: C.
 Reward: recognition of the villagers.
-Penalty for failure: hunter Kokun won’t talk to you any more.
+Penalty for failure: Hunter Kokun won’t talk to you any more.
 //}
 
 A new quest!
@@ -519,7 +519,7 @@ In his sculptures he tried many times to use faces of other girls, but never suc
 
 Because of the minor details, it was hard to recreate a person's face. Sometimes when looking at a beautiful face you would understand that something is missing. It would seem that if you made the nose a bit higher or the eyes bigger you’d achieve perfection. It was especially the case with female faces.
 
-But in fact, if you started changing something, you'd get unexpected results. By doing minor changes, you'd interfere with the overall balance. That’s why the ‘fixed’ result usually ends up inferior to the original.
+But in fact, if you started changing something, you'd get unexpected results. By making minor changes, you'd interfere with the overall balance. That’s why the ‘fixed’ result usually ended up inferior to the original.
 
 For every failed work, a sculptor’s fame would decrease. Weed wished to avoid that, so he was only carving Seoyoon’s exact face. Her appearance was so flawless, that just by changing the expression a little he might interfere with the overall atmosphere.
 
@@ -561,7 +561,7 @@ New stat: Charisma!
 //table{
 Charisma:
 --------------
-This attribute represents the ability to attract people, primary those of the opposite sex. You become more attractive and charming. One of the main attributes for bards, dancers, and party leaders. If your profession is related to crafting, charisma will help you to create more detailed works.
+This stat represents the ability to attract people, primary those of the opposite sex. You become more attractive and charming. One of the main attributes for bards, dancers, and party leaders. If your profession is related to crafting, charisma will help you to create more detailed works.
 //}
 
 //table{
@@ -574,17 +574,17 @@ Seoyoon’s image didn’t fail him this time either.
 
 ‘Hmm, this sculpture doesn’t affect combat performance much, but it increases experience gain, which is not bad as well.’
 
-And he also got a new stat that influenced Weed’s sculpting skill, an unexpected but pleasant gift.
+And Weed had also got a new stat that influenced his sculpting skill, an unexpected but pleasant gift.
 
 “Hmmm...”
 
-Weed tried to examine the reflection of his face in the knife’s blade to see if it changed after the new attribute appeared.
+Weed tried to examine the reflection of his face in the knife’s blade to see if it changed after the new stat appeared.
 
 Then he took up his best-looking pose and addressed his soldiers.
 
 “Gather everyone. We’re moving out!”
 
-Weed and his army headed out into plains to hunt giant ants.
+Weed and his army headed out into the plains to hunt giant ants.
 
 “Priests, prepare for battle, bless the warriors.”
 

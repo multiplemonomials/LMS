@@ -1,3 +1,6 @@
 
 # Compiled ebooks
 *.epub
+
+# Extracted epubs
+*.xhtml
