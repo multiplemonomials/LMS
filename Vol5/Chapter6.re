@@ -14,9 +14,7 @@ Weed received small requests from villagers and, at the same time, got to know m
 
 While exploring the village, Weed noticed a crying boy. For some reason, he immediately guessed that it was Moss, the boy mentioned by Kokun. It was likely since there weren’t that many kids in the village.
 
-“What happened?”
-
-Weed approached him and asked the boy, but he shook his head.
+Weed approached him and asked the boy, “What happened?” However, he just shook his head.
 
 “You’re a stranger. Strangers don’t need to know that.”
 
@@ -81,13 +79,13 @@ Kill him so she doesn’t get taken away!
 
 ‘That means I’ll fight shape-shifting Doppelgangers soon.’
 
-Usually Weed would just refuse this quest. The reward was unknown and Doppelgangers were very unpleasant opponents. They use magic and often could do something completely unexpected.
+Usually Weed would just refuse this quest. The reward was unknown and Doppelgangers were very unpleasant opponents. They use magic and often could do completely unexpected things.
 
 However, the boy’s tears reminded Weed of his past.
 
 When his parents died, he was left only with his grandmother and his younger sister. It seemed like the world had ended back then. He had no one to rely on. He wanted some support but there was no one to provide it.
 
-That’s why he understood Moss’s feelings very well. If he had someone to ask for help back then, but had been rejected, his life would be ruined completely.
+That’s why he understood Moss’s feelings very well. If he had someone to ask for help back then, but had been rejected, his life would have been ruined completely.
 
 Weed nodded and replied, “I’ll protect Amy for sure.”
 
@@ -110,7 +108,7 @@ The soldiers’ faith in Weed was absolute.
 
 “Commander! Where are we going now?”
 
-“The innocent people of nearby village are being harassed by a Doppelganger, it threatens them and wants to take a beautiful girl Amy from her older brother Moss.”
+“The innocent people of the nearby village are being harassed by a Doppelganger. It threatens them and wants to take a beautiful girl named Amy from her older brother Moss.”
 
 “We must stop them,” replied Hosram in a firm voice.
 
@@ -138,9 +136,9 @@ Death Knight Van Hawk appeared in front of the troops.
 
 The Death Knight walked ahead valiantly.
 
-Shortly after, they discovered the Doppelganger. They could tell it was the Doppelganger because it had the same appearance as the boy Moss. Weed and the soldiers eagerly attacked the Doppelganger.
+Shortly after, they discovered the Doppelganger. They could tell it was the Doppelganger because it had the same appearance as the boy Moss. Weed and the soldiers eagerly attacked.
 
-During the fight, the Doppelganger changed its form a few times. By alternating the skills used against the soldiers, Royal Knights and Van Hawk, it endured. The variety of skills it used was enough to cause confusion, but thanks to Weed and the Death Knight joining the fight, along with the Priests’ healing, the soldiers were able to win.
+During the fight, the Doppelganger changed its form a few times. By alternating the skills used against the soldiers, Royal Knights, and Van Hawk, it endured. The variety of skills it used was enough to cause confusion, but thanks to Weed and the Death Knight joining the fight, along with the Priests’ healing, the soldiers were able to win.
 
 Weed and the soldiers returned to the village and eagerly took on more quests.
 
@@ -154,13 +152,13 @@ Bit by bit, Weed seduced the soldiers! In fact, the power of the ordinary soldie
 
 The army’s morale changed dramatically. At first, the soldiers didn’t trust in Weed much, and couldn't providing much help as they were weak. But time passed and the more they hunted, the stronger they became. Weed, in the central role, felt more in the spotlight than ever before. However, he continued to lead them on hunts of large monsters and sweep through quests!
 
-There were plenty of perilous moments, but they always managed to move forward, and their experience climbed at a very fast rate. When hunting a monster normally, a certain amount of experience and items will drop. But, if you hunt it as part of a quest, you'd get savory quest rewards in addition to the drops. The experience the troops received was practically 3 times per day as much as they would receive on their normal duties in Rosenheim Kingdom.
+There were plenty of perilous moments, but they always managed to move forward, and their experience climbed at a very fast rate. When hunting a monster normally, a certain amount of experience and items will drop. But, if you hunt it as part of a quest, you'd get savory quest rewards in addition to the drops. The experience the troops received was practically 3 times as much per day as they would receive on their normal duties in Rosenheim Kingdom.
 
 ‘I guess because it’s somewhat dangerous.’
 
-However, the drawback to the quests was the poor quality of things received.
+However, the drawback to these quests was the poor quality of things received.
 
-In areas with poorly developed technology, all the produced items were of poor quality. That’s why, whenever Weed was received weapons as a reward, he would give it to the Royal Knights or soldiers.
+In areas with poorly developed technology, all the produced items were of poor quality. That’s why, whenever Weed received weapons as a reward, he would give them to the Royal Knights or soldiers.
 
 “Thanks Commander.”
 
@@ -170,7 +168,7 @@ Every time Weed gave away an item, he was crying inside. It was very hard to tak
 
 ‘Inevitable but...’
 
-After hunting in the Plains of Despair, he reached level 279. Even the soldiers rose their levels significantly, and the Royal Knights and Priests were also quite strong. However, with the Orcs and Dark Elves as the opponent, they were still woefully lacking.
+After hunting in the Plains of Despair, he reached level 279. Even the soldiers rose their levels significantly, and the Royal Knights and Priests were also quite strong. However, with Orcs and Dark Elves as their opponents, they were still woefully lacking.
 
 @<embed>{|html|<hr/>}
 
@@ -228,7 +226,7 @@ It was surely not going to be easy to understand Orcs as well as he did humans. 
 
 It was an unassuming and ordinary statue. A somewhat docile and awkward Orc was being created. Then, the memory of one moment some time ago suddenly emerged into his thoughts. The incident where a whopping 5 gold had been blown to obtain a shield for Kokun. Back then, there was no other way, but still.
 
-At that time, he was expecting to receive a reward for the quest. But when he actually completed the quest, all he gained was from Kokun was a story, a few words and the worst knife he'd ever seen. He put in 5 gold and failed to even get 1 copper back. He seemed to collapse in regret.
+At that time, he was expecting to receive a reward for the quest. But when he actually completed the quest, all he gained was from Kokun was a story, a few words and the worst knife he'd ever seen. He put in 5 gold and failed to even get 1 copper back. He felt like collapsing in regret.
 
 Money! Money! Money! Money! Money!
 
@@ -236,7 +234,7 @@ It was an obsession over the 5 lost gold! Greed! Obsession! Desire! A grudge!
 
 "Euaaaa!"
 
-Weed moved the carving knife deftly. The statue became filled with life. He added selfish wrinkles under the eyes, a gaping mouth ready to devour, anf d a pig nose filled with desire.
+Weed moved the carving knife deftly. The statue became filled with life. He added selfish wrinkles under the eyes, a gaping mouth ready to devour, and a pig nose filled with desire.
 
 ‘Preferably I'll make him a little stronger, show significant muscle, and add scar marks to make him more life-like!’
 
@@ -292,7 +290,7 @@ This sculpting skill uses boundless affection to make the sculptor resemble the 
 
 Weed’s appearance gradually changed.
 
-His height grew, and rugged muscles were created. Hair grew covering his entire body, and after a while, his appearance had changed completely into an Orc. Even the back of his hands and the inside of his feet was completely Orc. Height obstinately grew, and his eye level raised up. His limbs were thick and he had gained a plentiful belly.
+His height grew, and rugged muscles were created. Hair grew covering his entire body, and after a while, his appearance had changed completely into an Orc. Even the back of his hands and the inside of his feet were completely Orc. Height obstinately grew, and his eye level raised up. His limbs were thick and he had gained a plentiful belly.
 
 “Successful? Chwiik!”
 
@@ -300,12 +298,12 @@ Until now he was able to speak normally. But now the exclusive attribute of Orcs
 
 “This, chwiiik. Strange. Chwichichichiik!”
 
-Weed tried to keep his mouth shut, but his teeth were too large to close it.
+Weed tried to keep his mouth shut, but his teeth were too large for him to close it.
 
 //table{
 --------------
-Body type has changed, many of the worn equipment are unable to be used.
-After the reverse transformation you will be able to equip it again.
+Body type has changed, many equipped pieces of equipment are unable to be used.
+After the reverse transformation you will be able to equip them again.
 Whole body can wear iron armor or heavy clothing.
 Depending on the type of species, new equipment must be obtained.
 //}

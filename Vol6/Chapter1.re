@@ -76,40 +76,33 @@ In order to survive, the Orcs and Dark Elves will need to cooperate with each ot
 
 "....."
 
-For a moment Weed was astonished. He rejected it, even though the quest was offered again.
+For a moment Weed was astonished. He just had to reject it, even though the quest was offered again.
 
-He returned the cup to the Church of Freya in Heredia and was virtually forced to delve further in association with the quest for the crown. Now even the necromancer in the Plains of Despair gives him a mission where the rejection punishes his association with those near him.
+He had returned the Grail to the Church of Freya in Somren Liberty City and was virtually forced to continue further in the linked quest for Fargo's Crown. Now even the necromancer in the Plains of Despair gave him a quest where rejection punishes his association with those near him.
 
-‘This quest is extremely difficult!’ Weed shook his head.
+However, his thoughts on the matter did not change. ‘This quest is extremely difficult!’ 
 
-"No. In this case, I just can't."
+Weed shook his head. "No. In this case, I just can't."
 
 //table{
-
 --------------
 Once again, for confirmation.
-'The Immortal Legion led by Shire'
-Do you want to accept this quest?
+Do you want to accept the quest 'The Immortal Legion led by Shire'
 This quest is associated with the emergence of the undisclosed profession Necromancer.
+If you do not accept, a dire consequence will occur.
 //}
 
-In the situation that you do not accept, dire consequence will occur.
-
-"Hmm, it seems you still do not understand. Even after I told you. This mission affects all of the continents. If you ignore this, then like us, humans will not be able to escape from the darkness. Then people around you will lose courage and be distraught."
-
-The Necromancer spoke in an utmost dismal tone.
+The Necromancer spoke in a dismal tone. "Hmm, it seems you still do not understand, even after I told you. This mission affects the entire world. If you ignore this, then like us, humans will not be able to escape from the darkness. All the people around you will lose courage and be distraught."
 
 Creepy!
 
-Weed felt a chill sweep through his body.
-
-Absolutely trapped in a conversation he can't get out of.
+Weed felt a chill sweep through his body. He was absolutely trapped in a conversation he couldn't get out of.
 
 Instead of just the Church of Freya, look at yourself in a corner. No hesitation to intimidate with a fall in reputation. Here, a normal person can never succeed. Pretend to accept the quest.
 
-It is hard to refuse the quest, but one can desert the quest later. The price of this is a continued loss of reputation, fixed on the conviction that there is no way it can be done.
+It was hard to refuse the quest, but he could always desert the quest later. The price of this is a continued loss of reputation, fixed on the conviction that there is no way it can be done.
 
-But Weed was weak to this threat. Working hard for all of that fame, he couldn't just blow it all away.
+But Weed was weak to this threat. He had worked hard for all of that fame, and he couldn't just blow it all away.
 
 "It is my desire to take on the Immortal Legion with my life. To defeat the Lich and his legion of undead, and fight to prevent the defilement of this land."
 

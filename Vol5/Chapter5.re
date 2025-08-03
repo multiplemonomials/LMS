@@ -610,11 +610,11 @@ When he had gotten the quest from Kokun, he didn’t really take him seriously. 
 
 “Woah, they’re really huge!”
 
-Ordinary ants were less than a centimeter long, but the monsters that were running around the plains in front of them were easily over a few meters long. And they were moving extremely fast!
+Ordinary ants were less than a centimeter long, but the monsters that were running around the plains in front of them were well over a few meters long. And they were moving extremely fast!
 
 “Don’t be bothered by their size, go! Attack!”
 
-Accompanied by knights, Weed rushed towards monsters. But they were moving just too fast. In one step they could cover a few meters, and they would make unpredictable sharp turns.
+Accompanied by the knights, Weed rushed towards monsters. But they were just moving too fast. In one step they could cover a few meters, and they would make unpredictable sharp turns.
 
 The knights had to be extremely careful to avoid being rammed at top speed by one of the ants.
 
@@ -640,27 +640,27 @@ After a few seconds, the ants froze in place.
 
 “Knights, attack! Archers, start shooting! The rest, guard the priests.”
 
-“Yes!”
+“Yes, sir!”
 
 A hundred of the soldiers pulled out their bows and released a swarm of arrows at the frozen monsters. The ants were so big that it was very easy to aim at them.
 
-The remaining 300 soldiers were guarding the priests, and Weed himself rushed to attack the ants.
+The remaining 300 soldiers guarded the priests, and Weed himself rushed to attack the ants.
 
 They had to hurry, as priests had to constantly spend mana to keep the slow spell up.
 
 ‘We can’t let this drag on for too long.’
 
-The archers’ attacks were gradually reducing monsters’ health.
+The archers’ attacks were gradually reducing the monsters’ health.
 
 ‘They’re so big that arrows are like mosquito bites for them...’
 
-Along with Weed, the knights rushed to attack the ants. They climbed on top of them and broke open their shells with swords. Some cut off their legs.
+Together with Weed, the knights rushed to attack the ants. They climbed on top of them and broke open their shells with swords. Some cut off their legs.
 
 Weed followed the others’ example and climbed on an ant’s head. It was dangerous, but danger didn’t stop him. He hacked at the monsters along with the knights.
 
 The giant ants could hold out for a long time.
 
-Sometimes they would manage to weaken the slowing spells of the priests and shake the knights off them. Every time that happened, Weed’s heart would skip a beat. Fortunately the knights didn't die so easily -- after the fall, they would get back up, receive some healing from priests, and go back into the fight.
+Sometimes they would manage to weaken the slowing spells of the priests and shake the knights off of them. Every time that happened, Weed’s heart would skip a beat. Fortunately the knights didn't die so easily -- after the fall, they would get back up, receive some healing from priests, and go back into the fight.
 
 In this manner, an hour after the start of the fight, Weed’s little army finished off the last giant ant.
 
@@ -694,14 +694,14 @@ Ding!
 //table{
 You have completed the quest ‘Kokun’s Doubt’.
 --------------
-In the whole village of exiles, only a few people ever managed to hunt 5 giant ants. Those people are called the greatest warriors and the main protectors of the village. Now, Kokun will spread the news of another great warrior among the villagers.
+In the whole Village of Exiles, only a few people have ever managed to hunt 5 giant ants. Those people are called the greatest warriors and the main protectors of the village. Now, Kokun will spread the news of another great warrior among the villagers.
 Reward:
  * Kokun’s knife.
  * Experience points.
  * Fame increased by 6.
 //}
 
-This time too Weed checked the experience bar. For this quest he was awarded 15% of his experience bar. But the most important was the fact that the villagers will finally start to accept him.
+This time too Weed checked the experience bar. For this quest he had been awarded 15% of his experience bar. But the most important thing was the fact that the villagers would finally start to accept him.
 
 “This is my knife. Now it belongs to you. Such a great warrior like you is always a welcome friend of mine.”
 
@@ -727,9 +727,9 @@ Weed’s gaze became keener.
 
 “Could you tell me more about that?”
 
-“Simple hunter like me aren’t that aware of what happens in the Yuroki mountains. But we've seen many times how orcs fight with dark elves. Almost every time the orcs win, even though the elves use dark magic and summoned spirits. But ever since those dark beings appeared, the orcs started to lose more fights. A lot more fights. Moreover, the slain orcs would rise again and attack their own kind. I almost got killed a few times when I watched such battles.”
+“Simple hunters like me aren’t that aware of what happens in the Yuroki mountains. But we've seen many times how orcs fight with dark elves. Almost every time the orcs win, even though the elves use dark magic and summoned spirits. But ever since those dark beings appeared, the orcs started to lose more fights. A lot more fights. Moreover, the slain orcs would rise again and attack their own kind. I almost got killed a few times when I watched such battles.”
 
-Weed was well aware what kind of dark beings were allied with dark elves. The necromancers of Bar Khan Demoph.
+Weed was well aware what kind of dark beings would be allied with the dark elves. The necromancers of Bar Khan Demoph.
 
 “The dark elves started to win. They even built walls, then an entire fortress in the mountains. I thought that seemed strange, isn’t it?”
 
