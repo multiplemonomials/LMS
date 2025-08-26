@@ -244,7 +244,7 @@ Weed was looking at the Dark Elves’ fortress together with other Orcs.
 
 With one foot set on the boulder and his chest stuck out, Weed was reading his monologue!
 
-“This sunny morning I feel hope. Chwichwik. Our courage and thirst for victory. Our noble spirit. Our souls. Chwiiik! I want to sing! Dark Elves are strong, but we will fight with song in our hearts, the song of victory! No one will escape and we will be victorious!”
+“This morning I feel hope. Chwichwik. Our courage and thirst for victory. Our noble spirit. Our souls. Chwiiik! I want to sing! Dark Elves are strong, but we will fight with song in our hearts, the song of victory! No one will escape and we will be victorious!”
 
 Weed was setting an atmosphere by reading a monologue. If the video was going to appear in the Hall of Fame, it would be seen by multiple players. He should create a positive image.
 

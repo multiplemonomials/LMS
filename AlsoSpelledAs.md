@@ -13,7 +13,7 @@
 |Zeppi (Choi Jihoon)|High-level fisherman in game, playboy IRL|Zephyr, Zepinen|
 |Hwaryeong (Jeong Hyo Lynn)|Dancer in game, pop diva IRL||
 |Lafaye|Leader of the Hermes Guild|Raphael|
-|Yellowy|Weed's pet and/or slave|Rover|
+|Yellowy|Weed's bull pet and/or slave|Rover|
 |Drinfield|Admiral of the Hermes Guild naval fleet|Drinpelt|
 |Steel Barbarians|Enemies from the Lavias training hall|Infinite Steel Men|
 |Daycram|Master Sculptor, developed Nature Sculpting and lives as a hermit|Deykram|
@@ -34,8 +34,9 @@
 |Morata|Mora|
 |Somren Liberty City|Free City of Somren|
 |Niflheim Empire|Niffleheim Kingdom|
-|Yuroki Mountains|Eurokey Mountains|
+|Yuroki Mountains|Eurokey Mountains, Yurokina Mountains|
 |Versailles Continent|Bersa Continent|
+||Champion's Tower|
 
 ## Abilities
 |My Term|Other Spellings|

@@ -12,7 +12,7 @@ Weed was soaked with sweat as he climbed up the mountain slope. However brave he
 
 There were Orcs in Rosenheim Kingdom too, but their levels ranged from 80 to 130. So, you could always run away from them if something went wrong.
 
-Here, in the Plains of Despair, monsters were much stronger. Even Goblins and Kobolds, which were considered the weakest monsters in the game, had different combat strength depending on the area they lived in.
+Here, in the Plains of Despair, monsters were much stronger. Even Goblins and Kobolds, which were considered the weakest monsters in the game, had different combat strengths depending on the area they lived in.
 
 And in this land Orcs had to fight for their territory since childhood. They were fighting giant monsters, so their level and therefore strength far exceeded that of their brethren from Rosenheim kingdom.
 
@@ -44,7 +44,7 @@ At that moment, the Orc Champion looked away!
 
 “Chwik! Chwik! Chwik!”
 
-He was scared off! Weed’s appearance alone had managed to frighten the Orc Captain, so Weed completed the effect with an imposing-sounding line. “Be careful next time. Chwiiik!”
+He was scared off! Weed’s appearance alone had managed to frighten the Orc captain, so Weed completed the effect with an imposing-sounding line. “Be careful next time. Chwiiik!”
 
 “I will. Chwik. Chwik. Chwik.”
 

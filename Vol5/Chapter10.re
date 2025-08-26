@@ -448,7 +448,7 @@ Barabol looked at his kneeled companions, and started to tell his story.
 
 “Since I have been given a chance, I’ll tell you. You must try to believe it! The world has a wrong impression about Bar Khan Demoph. He did study necromancy and was known as a great mage, but...”
 
-"Barr Khan was a diligent young mage. A genius, recognized across the continent. And when he started to research eternal life, he was trying to understand why people died and find a cure for terminally ill patients."
+"Bar Khan was a diligent young mage. A genius, recognized across the continent. And when he started to research eternal life, he was trying to understand why people died and find a cure for terminally ill patients."
 
 "However his disciple, Shire, hated the entire world. He used his teacher’s trust to manipulate him, and with lies and dark spells he led Bar Khan into the darkness. Thus from the desire to cure all diseases and prolong lives, an army of undead was born! In his madness, Bar Khan led his new army across the world, destroying entire cities. And all the while Shire was supporting him, making deals with all the dark powers of the continent."
 
