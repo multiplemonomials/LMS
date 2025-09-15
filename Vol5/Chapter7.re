@@ -88,11 +88,11 @@ Even in the orc body, he was able to use the Sculpting Blade technique, but beca
 
 On the other hand, he was a lot stronger now.
 
-Weed swung the glaive down on the monsters head with all his might and just barely made a scratch. The glaive blade wasn’t very sharp, but with every successive hit, the wound on the giant’s head was getting deeper.
+Weed swung the glaive down on the monster's head with all his might and just barely made a scratch. The glaive blade wasn’t very sharp, but with every successive hit, the wound on the giant’s head was getting deeper.
 
 “Kuwo-o-o-o-o!”
 
-The fire giant jumped around and shook its head, trying to throw Weed off.
+The fiery giant bug jumped around and shook its head, trying to throw Weed off.
 
 If he was to fall, he knew he’d be in a very bad situation. So, he firmly secured his legs in position and dealt one blow after another while maintaining his balance.
 
@@ -145,7 +145,7 @@ After being processed, this material could be used to create armor. Armor made f
 
 “Chwichwichwit, you saved us.”
 
-Orcs gathered around Weed and were thanking him. He had helped them in a time of great danger, and they were very grateful to him. However, even in such a moment, some porcs wouldn't look directly at him for very long.
+Orcs gathered around Weed and were thanking him. He had helped them in a time of great danger, and they were very grateful to him. However, even in such a moment, some orcs wouldn't look directly at him for very long.
 
 Such a face wasn’t easy to get used to!
 
@@ -265,7 +265,7 @@ The orc, praised by Weed, shrugged. “Of course. Chwiik! If it’s not getting 
 
 Weed was speechless.
 
-But an even harder challenge was awaiting him. Female Orcs from the village! By human standards, Weeds appearance was terrifying, but in this place he was popular.
+But an even harder challenge was awaiting him. Female Orcs from the village! By human standards, Weed'  s appearance was terrifying, but in this place he was popular.
 
 “Strong hands. Chwichichwi!”
 
@@ -471,7 +471,7 @@ Only when he was sent to study abroad did he start to make his own friends.
 
 But even there he didn’t have life of his own. He was just a man put on rails and forced to move forward. When you can’t do what you like, your life becomes dull and tedious. And in Choi Jihoon’s life there were just too many restrictions.
 
-However, once he got some free time and started playing Royal Road, he discovered another version himself.
+However, once he got some free time and started playing Royal Road, he discovered another version of himself.
 
 In that distant world there was a river. He liked to watch its leisurely and dignified flow, so he became a fisherman.
 
@@ -485,7 +485,7 @@ But he didn’t care about this. He was just fishing.
 
 Because of how silent he was, other players thought he was a gloomy and melancholic fisherman and tried not to bother him much.
 
-However, Choi Jihoon was indifferent about what others thought about him. He just liked fishing, letting the flowing water take away all his worries.
+However, Choi Jihoon was indifferent to what others thought about him. He just liked fishing, letting the flowing water take away all his worries.
 
 And then a certain man appeared.
 
@@ -503,7 +503,7 @@ He couldn’t remember the last time he'd felt something like this.
 
 Choi Jihoon liked Weed. Ever since then he tried to stay by his side.
 
-In Fort Odin he participated in the battle beside him, and in the Basra Dungeon he hunted in the a party with him. When he heard that Weed was going to hunt with Hwaryeong, he quickly found her and bribed the leader of her party to let him join.
+In Fort Odin he participated in the battle beside him, and in the Basra Dungeon he hunted in the party with him. When he heard that Weed was going to hunt with Hwaryeong, he quickly found her and bribed the leader of her party to let him join.
 
 In the elegant club, Choi Jihoon stood up. “I’ve got to go. Don’t look for me for a while, I’ll be very busy.”
 
@@ -575,7 +575,7 @@ The voice of the singer sounded like sobbing -- sometimes pained, but sometimes 
 
 @<i>{I love seeing your eyes.}
 
-Jeon Hyo Lynn was singing her debut song “Dialogue of eyes” on the Times Square.
+Jeon Hyo Lynn was singing her debut song “Dialogue of eyes” in Times Square.
 
 The audience was listening, breathless.
 
@@ -615,7 +615,7 @@ Fortunately, no one recognized her. She tried not to give herself away, so she e
 
 “Even hunting was more interesting than the pyramid construction...”
 
-Zephyr, Hwaryeong, Mapan, Pale, Surka, Romune, Iren and Maylon had gathered together.
+Zephyr, Hwaryeong, Mapan, Pale, Surka, Romuna, Irene and Maylon had gathered together.
 
 They had all kinds of professions, some of which were rather esoteric. None of them had a class that was really specialized for fighting monsters, such as Warrior or Paladin. However, their rare professions allowed them to find different ways to get out of tight situations.
 
@@ -623,7 +623,7 @@ Zephyr, with his high health, and the Monk Surka were responsible for close comb
 
 Pale and Maylon were shooting their bows from afar, and beside them was Romuna, who was casting destructive spells. The Priestess Irene was providing support and healing to all party members.
 
-Even the Merchant Mapan had his job. As a second profession skill, he'd gotten the ‘Touch of Luck’ skill, which increased the loot left by monsters.
+Even the Merchant Mapan had his job. As his second profession skill, he'd gotten the ‘Touch of Luck’ skill, which increased the loot left by monsters.
 
 “So, where will we go?” Pale asked everyone.
 

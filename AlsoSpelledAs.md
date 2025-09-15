@@ -19,6 +19,7 @@
 |Daycram|Master Sculptor, developed Nature Sculpting and lives as a hermit|Deykram|
 |Kokun|Wimpy hunter from the Village of Exiles, befriended Weed|Cocoon|
 |Dark Dragon Kaybern|Evil dragon obsessed with squeezing the dwarves for "protection money"|Akryong Kaybern, Black Dragon Kaybern|
+|Da'in|Shaman (shawoman?) who teams up with Weed in Lavias. Weed's "first love". Has a secret past with the Hermes Guild.|Dyne|
 
 ## Places
 |My Term|Other Spellings|
