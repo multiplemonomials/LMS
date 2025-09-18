@@ -136,9 +136,9 @@ Weed’s strong resistance gave strength to his fellow Orcs.
 
 “Chwiiik!”
 
-Minotaur finally grew frightened.
+The Minotaur finally grew frightened.
 
-The wave of Orcs advanced fast! Hundreds or Orcs with glaives in hands ran up and began to slash at the monster. Some of them died from the Minotaur’s attacks, but he began to receive many wounds, and finally died.
+The wave of Orcs advanced fast! Hundreds of Orcs with glaives in hands ran up and began to slash at the monster. Some of them died from the Minotaur’s attacks, but he began to receive many wounds, and finally died.
 
 There is a saying, “you can not block ten hands with a single one”. That accurately describes the orcs' combat strategy -- they won battles due to their numerical advantage.
 
@@ -152,7 +152,7 @@ Even knowing all this, Weed made sure that none of his friends died. He repaired
 
 The big hunt continued!
 
-Many simple-minded, ignorant orcs roamed the surrounding lands slaying any monsters they met. Orc didn’t possess any special techniques or other secrets, they just overwhelmed their enemy with the sheer numbers. If a dozen wasn’t enough, then a hundred would come; and even if they died, more would follow.
+Many simple-minded, ignorant orcs roamed the surrounding lands slaying any monsters they met. Orcs didn’t possess any special techniques or other secrets, they just overwhelmed their enemy with the sheer numbers. If a dozen wasn’t enough, then a hundred would come; and even if they died, more would follow.
 
 In such dangerous battles, many orcs started to gather around Weed.
 
@@ -255,7 +255,7 @@ Only the most famous and powerful Orcs, who managed to live to a ripe old age, b
 
 The Elder had already told Weed many interesting things about the Yuroki mountain range. He'd explained about all kinds of monsters, their skills, their abilities, and where they lived!
 
-Sometimes his speeches dragged on for so long that he wanted to yawn, but Weed carefully listened to it all. Most of the time elder kept to the relevant information, and some of the stories were really incredible.
+Sometimes his speeches dragged on for so long that he wanted to yawn, but Weed carefully listened to it all. Most of the time the elder kept to the relevant information, and some of the stories were really incredible.
 
 Weed eagerly absorbed all the new information.
 
@@ -269,13 +269,13 @@ The Elder wrinkled in discontent.
 
 “Chwichwit. So what?”
 
-“The walls are very high and thick. Chwhik! Monsters can no longer get close to Dark Elves and keep attacking us instead. Chwiik!”
+“The walls are very high and thick. Chwhik! Monsters can no longer get close to the Dark Elves and keep attacking us instead. Chwiik!”
 
-The Elder was very sad because of current situation. More and more monsters came to the borders of the village, and they were becoming more powerful each day.
+The Elder was very sad because of the current situation. More and more monsters came to the borders of the village, and they were becoming more powerful each day.
 
 For Weed, on the other hand, it was good news. More monsters meant harder battles and, above all, more XP!
 
-“Chwichwik! We don’t like having that huge fortress above our village. We have decided to attack the Dark Elves. 25 chieftains from neighboring lands support this idea. Cwiik. We are getting ready to attack. When the sky turns bright and then dark 10 times, we will attack Dark Elves fortress. Karichwi, come with us!”
+“Chwichwik! We don’t like having that huge fortress above our village. We have decided to attack the Dark Elves. 25 chieftains from neighboring lands support this idea. Cwiik. We are getting ready to attack. When the sky turns bright and then dark 10 times, we will attack the Dark Elves' fortress. Karichwi, come with us!”
 
 Ding!
 
@@ -376,7 +376,7 @@ Weed still couldn’t bring himself to activate the necklace. It wasn't that he 
 
 “I summon the Vampire Lord!”
 
-Immediately after his cry, a scarlet light blossomed in the middle of the black stone. It was as if someone had poured a drop of blood onto it. Then, in a flash of darkness, he appeared: A tall, slender man in dark cloak with pale skin.
+Immediately after his cry, a scarlet light blossomed in the middle of the black stone. It was as if someone had poured a drop of blood onto it. Then, in a flash of darkness, he appeared: A tall, slender man in a dark cloak with pale skin.
 
 Vampire Lord Tori smiled.
 
@@ -404,7 +404,7 @@ Boss battles are usually hard because the bosses are boosted by half inside thei
 
 Three hundred paladins and a hundred priests.
 
-Last time Tori killed most of the warriors, but now, during the day, he would have difficulty unleashing his full power. Even though he covered sky with the clouds, some of his abilities only were boosted during the night.
+Last time Tori killed most of the warriors, but now, during the day, he would have difficulty unleashing his full power. Even though he covered the sky with clouds, some of his abilities only were boosted during the night.
 
 As a precaution, Weed also prepared his trump card, Sculpture Destruction. He had intentionally summoned Vampire not far from his Mercenary sculpture.
 
@@ -470,7 +470,7 @@ Having avoided this spell, they continued to attack their enemy. They circled To
 
 Tori's health kept dropping quickly.
 
-The priests weren’t resting either. As soon as Whirl stopped, all the priests raised their hands in spellcasting: “Healing hand!”
+The priests weren’t resting either. As soon as Whirl stopped, all the priests raised their hands and cast together: “Healing hand!”
 
 The vampire lord’s body was enveloped by bright light.
 
@@ -478,7 +478,7 @@ Normally, people would be healed by holy magic, but on undead, which a vampire c
 
 During the first minute of battle Tori’s health had already dropped by half, and he was forced to use his trump ability: Vampirism!
 
-He was unable to drink Death Knight’s blood, so therefore his aim was on Weed who kept circling around. But each time Tori tried to grab him, Weed would slip through his fingers.
+He was unable to drink Van Hawk’s blood, so therefore his aim was on Weed who kept circling around. But each time Tori tried to grab him, Weed would slip through his fingers.
 
 The priests kept constantly using their spells, and the situation for Tori was quickly turning for the worse.
 
@@ -525,4 +525,4 @@ You’ve obtained Vampire’s Blood.
 
 Unique items that increased maximum mana were extremely rare in this game.
 
-From that time on, Weed could summon Lord Tori at any time. It was going to be very useful, considering that the orcs had finally finished their preparations for the upcoming battle with Dark Elves.
+From that time on, Weed could summon Lord Tori at any time. It was going to be very useful, considering that the orcs had finally finished their preparations for the upcoming battle with the Dark Elves.

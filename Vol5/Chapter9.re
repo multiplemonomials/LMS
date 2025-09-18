@@ -10,11 +10,11 @@ The message was sent by one of the heads of Public Relations Department, Mr. Cha
 
 “Right when I’m tight on time... But I guess I have to go.”
 
-Lee Hyun didn’t want his real name known to anyone in the game, but this time he had been contacted by representative of Unicorn, so he didn’t think much of it.
+Lee Hyun didn’t want his real name known to anyone in the game, but this time he had been contacted by a representative of Unicorn, so he didn’t think much of it.
 
 For the past 50 years Unicorn had been making some of the most popular games in the world. Almost always they would make huge profits, not just from monthly game subscriptions, but also from comics, cartoons, movies, and even an amusement park that featured recognizable game characters.
 
-There was even a rumor that Unicorn had the largest amount of free cash in the country.
+There was even a rumor that Unicorn had the largest amount of liquid cash in the country.
 
 However, their business didn’t always go that smoothly. Unicorn Corporation had survived multiple crises and tough competition from other game developers. A few years ago, the game Continent of Magic lured away a great chunk of their audience.
 
@@ -48,7 +48,7 @@ There were also many journalists that came to cover even the most insignificant 
 
 Among all these people, Lee Hyun stood out in his clean but simple clothes. It was a bit unnerving, so without any delay he walked to the entrance at a quick pace.
 
-However, as soon as he approached tall glass doors, he was stopped by guards.
+However, as soon as he approached the tall glass doors, he was stopped by guards.
 
 “Excuse me, what business do you have here? For security reasons we don’t let in people without authorization.”
 
