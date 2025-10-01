@@ -1,0 +1,7 @@
+# Re:VIEW version number supported by this settings file.
+review_version: 5.0
+inherit: ["../config-base.yml"]
+bookname: Legendary Moonlight Sculptor Vol 1
+booktitle: The Legendary Moonlight Sculptor, Vol. 01
+isbn: "9788958579038"
+date: 2007-01-15

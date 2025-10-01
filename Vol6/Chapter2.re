@@ -162,73 +162,65 @@ These statues were intimately made with effects that kept monsters away, but wit
 
 She was out of the dungeon within two days.
 
-* * *
+@<embed>{|html|<hr/>}
 
 “So this is the city in the sky?”
 
 “Yes. This place was recently discovered a short time ago by some adventurers. The only hard part is that you must perform a meritorious service to Baran Village in order to get up here.”
 
-In Lavias, there were quite a lot of adventurers. Da'in did not look around without Weed, and in the meantime, many users had made discoveries and found adventures on their own.
+In Lavias, there were quite a lot of adventurers. Da'in hadn't seen Lavias since her time with Weed, and in the meantime, many users had made discoveries and found adventures on their own.
 
-The sky above the city.
+The beautiful view, with clouds passing by from the high level winds, left the tourists with an exhilarated feeling and made the place a sight to behold. Low-level tourists who came here were risking their lives just for the chance to visit.
 
-The scenery of the clouds passing by from the flow of the wind left the tourists with a good feeling, making the place a sight to behold. Low-level tourists came here risking their lives just for the chance to visit.
-
-Lavias became famous, and even the kingdoms' nobility officially announced their interest to visit. Rosenheim Kingdom's nobles, and the nobles of the Kingdom of Brent often drop by quite often. Extremely expensive quests arose for hiring escorts for them to go there safely.
+Lavias had become famous, and even the kingdoms' nobility officially announced their interest to visit. Rosenheim Kingdom's nobles and the lords of the Kingdom of Brent often dropped by. Extremely expensive quests were posted to serve as escorts for them to go there safely.
 
 “There are a lot of people here.”
 
-Da'in slowly walked inside the city. Then a wide variety of bird tribes greeted her.
+Da'in slowly walked inside the city. A wide variety of avian species greeted her.
 
-“Caw, caw. This is the first time seeing you. Are you new in town?”
+“Caw, caw. This is my first time seeing you. Are you new in town?”
 
-The one who spoke up was Tom Ball, the new grandfather.
+The one who spoke up was Tom Ball, a new grandfather.
 
-Beside him were many other bird tribes. The crow flapped his wings.
+Beside him were many other birds. A crow flapped his wings.
 
-“Human, are you strong? You seem to be quite famous; I would like to ask you a favor. Up here in Levias, we have been unlucky with all of the undead.”
+“Human, are you strong? You seem to be quite famous; I would like to ask you a favor. Up here in Lavias, we have been unlucky with all of the undead.”
 
-“Do you know how to gather herbs? If you don't, I'll teach you about herbal medicine; can you give me 200 gold? There is a herb I'm looking for in the north corner of a cave. If you try to dig up its roots, you could get injured, so you have to be careful.”
+“Do you know how to gather herbs? If you don't, I'll teach you about herbal medicine if can you give me 200 gold. There is a herb I'm looking for in the north corner of a cave. If you try to dig up its roots, you could get injured, so you have to be careful.”
 
-They were prospects.
+There were many quests for the taking. She met a wide variety of bird tribes, but they all couldn't remember her. Even if the head of the family was young, they were still severely forgetful. Even though Da'in had helped the black crow tribe in the past, she had been forgotten.
 
-She met a wide variety of bird tribes, but they all couldn't remember her. Even if they had a new head of the family, they were severely forgetful. Even though Da'in helped the black crow tribe, she had been forgotten.
+As she wandered around leisurely, Da'in suddenly missed Weed.
 
-As she leisurely wandered around, Da'in suddenly missed Weed.
+‘He must be somewhere in the middle of an adventure. He'll probably be at a much higher level, too...’
 
-‘He must be somewhere in the middle of an adventure and all. He must be at a much higher level, why, wouldn't he?’
+She wanted to get in touch with him. She wanted to share the joy of being alive with him!
 
-She wanted to get in touch with him.
+However, there was no way to contact him. Before she left for the surgery, she had deliberately disabled her friends list. There was no way that he could see she had logged in again. She was extremely regretful of rejecting his friend request.
 
-She wanted to share her joy with him in being alive!
-
-However, there was no way to contact him. Before she left for the surgery, she deliberately disabled her friends’ list. If she came back, there was no way he would be aware of the fact. She was extremely regretful of rejecting his friend request.
-
-Thousands of people with a similar name would pop up if you didn't register the friendship immediately with a direct contact. So this means that there is no way to keep in touch.
+She couldn't just search for 'Weed' either -- thousands of people with the same name would pop up since she had not registered him as a contact. So, there was no way to keep in touch.
 
 ‘Well, that's okay, if we are meant to meet again, then it will happen. Though, if we did, would it be a sad meeting?’
 
-The level difference must have grown too large, and they may not have a chance of meeting one another. However, this was not a big concern. With her high level of skill in comparison to her actual level, she can easily build it back up.
+The level difference might have grown too large, and they may not have a chance of meeting one another. However, this was not a big concern. With her high level of skill in comparison to her actual level, she could easily catch up again.
 
 ‘I'm free now to be myself. I don't have to worry about dying. I've got time.’
 
 Da'in then stood alone watching as several women approached her.
 
-“How do you do? I have a problem I would like your help with. Would you mind taking this risk? My name is Geurati, the wind spirit witch.”
+“How do you do? I have a problem I would like your help with. Would you mind taking a bit of a risk? My name is Geurati, the wind spirit witch.”
 
 Da'in happily nodded her head.
 
-Adventure!
-
-Hunting!
+Adventure! Hunting!
 
 She wanted to venture forth and get stronger.
 
-'The continent of Versailles, Levias, any place with monsters is good.'
+'The continent of Versailles, Lavias, any place with monsters is good.'
 
-* * *
+@<embed>{|html|<hr/>}
 
-The levels of the Geomchis failed to rise quickly. The reason was due to the building of the pyramids.
+The levels of the Geomchis failed to rise quickly. The reason was due to the building of the pyramid.
 
 “Kkeungcha!”
 
@@ -236,7 +228,7 @@ The levels of the Geomchis failed to rise quickly. The reason was due to the bui
 
 “Yes, sir. To the death!”
 
-The hard work of pushing the pyramids’ stones was entrusted to them.
+The hard work of pushing the pyramids’ stones had been entrusted to them.
 
 Selena, a pretty girl from the flower shop in the countryside nearby came by and made a request.
 
@@ -245,19 +237,19 @@ Selena, a pretty girl from the flower shop in the countryside nearby came by and
 T'tiring!
 
 //table{
-
+Selena's house.
 --------------
-Selena's house. In Serraburg, there is a shabby house in disrepair. If you can rebuild Selina's home, you can be her friend.
-Difficulty: D
-Reward: Selena's friendship.
-Quest requirement: A certain level of fame. Must have experience in construction.
+In Serabourg, there is a shabby house in disrepair. If you can rebuild Selena's home, you can be her friend.
+@<b>{Difficulty:} D
+@<b>{Reward:} Selena's friendship.
+@<b>{Quest requirement:} A certain level of fame. Must have experience in construction.
 //}
 
 Originally, this was not a common quest. The reward was simply just friendship with Selena!
 
-When you start in Royal Road, you cannot leave the castle for the first 4 weeks. You have to master how to play, and to some extent, you have to pick and choose the quests in accordance to the rewards. Whether it be a lot of money, experience, or payment of an item!
+When you start in Royal Road, you cannot leave the castle for the first 4 weeks. You have to master how to play, and to some extent, you have to pick and choose the quests you take based on what rewards you want. Some quests could yield a lot of money, others experience, and still others would give an item!
 
-A request to move things with your body in many ways; nevertheless architectural based quests is not that hard.
+This quest required moving things with your body in many ways, but it was not a difficult construction job.
 
 However, as the Geomchis listened to Selena, they rushed for it recklessly.
 
@@ -267,11 +259,11 @@ However, as the Geomchis listened to Selena, they rushed for it recklessly.
 
 “A home? I'll build you a palace!”
 
-The beauty of Selena caused them to rush and they were all clamoring to receive the quest. It was too late for Geomsamchi (3rd) and Geomdulchi (2nd). They were shouldering the various tools for building the house.
+The beauty of Selena caused them to rush and they were all clamoring to receive the quest. It was too late for Geomchi3 and Geomchi2. They were already carrying the various tools for building the house.
 
-Teachers or practitioners, the desperate struggle for love was the same.
+Whether teachers or practitioners, the desperate struggle for love was the same.
 
-In fact, as many as 500 workers were mobilized to build the house for the girl from the flower shop. Enough people to build a house within a day or two.
+In fact, as many as 500 workers were mobilized to build the house for the girl from the flower shop. It was enough people to rebuild the entire house within a day or two.
 
 The Geomchis were already familiar with the building of a pyramid! They had worked on many things; a flower shop should be a piece of cake.
 
@@ -283,31 +275,29 @@ However, the building of Selena's house by the Geomchis went very slowly.
 
 “What to do, this sort of thing.....”
 
-Every time Selena would say or do anything, the Geomchis were in a frantic to just to see or talk to her. In her absence, they deliberately slowed their work until she appeared again. They only pretended to work hard.
+Every time Selena would say or do anything, the Geomchis were in a frenzy to just to see or talk to her. In her absence, they deliberately slowed their work until she appeared again. They only pretended to work hard.
 
-It had been about 10 days that they were building the flower shop. Even as it went closer to completion, they found more ways to avoid work.
+It had been about 10 days since they started on the flower shop. Even as it got closer to completion, they found more ways to avoid work.
 
-Geomilbaekohchi sank into a deeply sad expression.
-
-Geomsamchi (3rd) approached him.
+Geomchi105 appeared to be in a deep funk, and Geomchi3 approached him.
 
 “What's wrong?”
 
-“Oh, master Geomsamchi! To be honest... the store is nearly complete, we won't see Selena as much, will we?”
+“Oh, master Geomchi3! To be honest... the store is nearly complete, so we won't see Selena as much, will we?”
 
 “Well that would be bittersweet, wouldn't it?”
 
-“Yes, I know. Selena is not really a human being.... but I like her. She is very nice and has a beautiful smile too. She doesn't ask for much. I wish this could last for at least one more week.”
+“Yes, I know. Selena is not really a human being... but I like her. She is very nice and has a beautiful smile too. She doesn't ask for much. I wish this could last for at least one more week.”
 
-Geomilbaekochi lamented saying farewell to Selena.
+Geomchi105 lamented saying farewell to Selena.
 
-Then assistant master Geomsamchi broke into a laugh.
+Then, the instructor Geomchi3 broke into a laugh.
 
 “Fool! This is what we will do.”
 
-Geomsamchi violently brandished his sword and threw it into the flower shop's wall and demolished it.
+Geomchi3 violently brandished his sword and threw it into the flower shop's wall, demolishing it.
 
-Then they clapped as the Geomchis gathered in the disturbance.
+The Geomchis gathered at the disturbance, then began clapping.
 
 “That's our master for you.”
 
@@ -315,58 +305,53 @@ Then they clapped as the Geomchis gathered in the disturbance.
 
 “That was an excellent idea!”
 
-They heard the echoes of the crash as the flower shop that the Geomchis worked hard to build was broken. However, in front of Selena, the nearly completed store was ultimately destroyed.
+Crashing sounds reverberated around the city block as the flower shop that the Geomchis worked hard to build was broken. By the time Selena returned, the nearly completed store had been destroyed.
 
-The nice little flower shop that the Geomchis built, they wept sadly.
-
-“Boo-hoo.”
+For the the nice little flower shop that the Geomchis built, they wept sadly. “Boo-hoo.”
 
 “Selena can't live in a place like this anymore.”
 
-“In my youth, 12 people beat me up and not a single tear fell from me, but this.”
+“In my youth, 12 people beat me up and I didn't shed a single tear, but this...”
 
 But this was not the end.
 
-After Selena's flower shop, in the Serraburg province, since then many requests had been made for building several houses and shops.
+After finally completing Selena's flower shop, they had received many more requests in the Serabourg province for building houses and shops.
 
-The Geomchis' criteria for selecting these jobs were simple. The body or face of a pretty woman was all that was needed.
+The Geomchis' criteria for selecting these jobs was simple. A woman with a pretty body or face was all that was needed.
 
 “No reward needed, my friend!”
 
-“I'll work till I collapse just to see here smile.”
+“I'll work till I collapse just to see her smile.”
 
 “Hijuk, she smiled at me!”
 
-At the construction ground, the Geomchis worked hard in building up the bricks. Solely to see girls, they worked hard to build a house, a noble intention. In the Serraburg castle many tanned laborers with their shirts off could be seen.
+At the construction ground, the Geomchis worked hard in building up the bricks. Solely to see girls, they worked hard to build a house, a noble intention. Across the Serabourg citadel, many tanned laborers with their shirts off could be seen.
 
-From building the pyramid, it's hard to calculate the massive amounts of stone used.
+Between the pyramid and these houses, the Geomchis had now laid down huge amounts of stone and bricks.
 
 T'tiring.
 
 //table{
-
 --------------
-In regards to the repetitive actions, the architect skills bricklaying and landscaping have been acquired.
-Bricklaying 1 (0%) : Bricks can be stacked neatly to build homes.
+Due to repetitive actions, the architect skills Bricklaying and Landscaping have been acquired.
+@<b>{Bricklaying 1 (0%):} Bricks can be stacked neatly to build homes.
 With this skill, no matter how many bricks are stacked, it can be done neatly.
-Shovel 1 (0%): The ground can be dug up quickly.
+@<b>{Landscaping 1 (0%):} The ground can be dug up quickly.
 //}
 
 Architectural skills!
 
-It is fairly difficult class to categorize, even as a manufacturing job; as for the previous , it was not a class released so far.
+Architect was fairly difficult class to categorize -- was it a design profession, or a manufacturing one? In fact, no player had publicly announced becoming an Architect yet.
 
-Weed's exceptional dexterity brought about his skilfulness in cooking; as the Geomchis labored through construction, their extreme efforts caused them to learn architect skills. Bricklaying and spade, but another that raised was the great increase in the strength stat. In order to raise the architecture skill, the Geomchis had to complete requests by shoveling the ground and piling up bricks.
+However, just as Weed's exceptional dexterity had brought about his skillfulness in cooking, the Geomchis' extreme efforts in construction caused them to learn architect skills. They obtained Bricklaying and Landscaping, as well as a great increase in the strength stat. In order to raise the architecture skills, the Geomchis had to complete requests by shoveling the ground and piling up bricks.
 
-As a result, within three months the Geomchis got to know all the beauties of Rosenheim Kingdom and moved along. Since then, it was hard pressed for a Geomchi to walk the streets.
+As a result, within three months the Geomchis had gotten to know all the beauties of Rosenheim Kingdom and moved along. Since then, it was hard pressed for a Geomchi to walk the streets.
 
 “Hello brother number 110!”
 
-“Thank you so much for the last house you built us, brother Geomsipohchi!”
+“Thank you so much for the last house you built us, brother Geomchi15!”
 
-The people that visited could not believe the Geomchis.
-
-Only a Geomchi can do such work!
+The people that visited could not believe the Geomchis. How could anyone have done that much work?
 
 After a few months, the Geomchis became very popular for eagerly building houses for beautiful residents of Rosenheim Kingdom.
 
@@ -375,15 +360,14 @@ From then on, each of the nobles came.
 “I have heard of your fame. It is said that you are quite famous in this field. I would like a mansion built. This won’t be a simple house, but something far more grand that I will pay well for if you accept.”
 
 //table{
-
+Build a noble's mansion for Baron Arias
 --------------
-Build a noble's mansion for Baron AriasNear the capital of Rosenheim kingdom, Baron Arias owns a fairly big town. Because of the large influx of markets and goods, he gained a lot of money and can now have a proper residence built.
+Near the capital of Rosenheim kingdom, Baron Arias owns a fairly big town. Because of the large influx of markets and goods, he gained a lot of money and can now have a proper residence built.
 //}
 
 “I refuse.”
 
 //table{
-
 --------------
 Quest has been refused.
 //}
@@ -402,12 +386,12 @@ The Geomchis watched as the overweight Baron Arias glared at them with an expres
 
 “I will do the best that I can to help build it for you.”
 
-The Geomchis worked fervently hard. Yet, they even practiced their skills, and they spent their spare time hunting and visiting dungeons. Then all the Geomchis exceeded level 220.
+The Geomchis worked fervently. Yet, they still practiced their skills, and they spent their spare time hunting and visiting dungeons. By this point all the Geomchis had exceeded level 220.
 
 “Status window!”
 
 //table{
-
+Status Window
 --------------
 Character Name: Geomchi505.	Preference: None
 Level: 220	Profession: Martial artist
@@ -426,11 +410,11 @@ Fire: 20%	Water: 20%
 Earth: 20%	Black magic: 20%
 //}
 
-Then a nameless challenger came before Geomchi.
+Then, suddenly a nameless challenger came before Geomchi.
 
-A drifter wearing light armor and with a cape!
+It was a drifter wearing light armor and a cape!
 
-Geomchi was intrigued. Then the wanderer said:
+Geomchi was intrigued. The drifter said:
 
 “Little by little you perfect your martial arts. You and your colleagues, I have heard of your reputation. You live to serve women? I have dedicated my entire life into sharpening my martial arts.”
 

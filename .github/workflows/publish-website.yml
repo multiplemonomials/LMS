@@ -13,13 +13,17 @@ jobs:
     
       # Check out this repo and the Mbed submodule
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: recursive
           
       - name: Generate websites
         run: |
           mkdir site
+          cd Vol1
+          rake web
+          mkdir ../site/Vol1
+          mv webroot/* ../site/Vol1/
           cd Vol4
           rake web
           mkdir ../site/Vol4
