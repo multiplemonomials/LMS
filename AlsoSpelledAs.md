@@ -60,5 +60,6 @@
 |My Term|Other Spellings|
 |=======|===============|
 |Ica (eeh-kah) Guild|Jamaica Guild|
+|Immortal Legion|Undead Legion|
 
 Also refer to: https://weedsroyalroad.wordpress.com/asas-name-lexicon/#sdendnote1sym

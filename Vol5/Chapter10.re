@@ -56,11 +56,11 @@ Even though the battle had raged for a long time now, he still didn’t lead his
 
 ‘It’s ridiculous to be reckless in a battle.’
 
-Weed sighed in frustration. Even though Dark Elves were greatly outnumbered, such a reckless attack on the fortress was incomprehensible for him. Orcs were pushing ahead and climbing up walls under a constant barrage of spells from the enemy!
+Weed sighed in frustration. Even though the Dark Elves were greatly outnumbered, such a reckless attack on the fortress was incomprehensible for him. Orcs were pushing ahead and climbing up walls under a constant barrage of spells from the enemy!
 
 Not to mention that many of them had caught a cold from the chilly weather and their vitality was reduced. Storming such a well-fortified fortress without any battle plan! What could be more foolish?!
 
-Such serious battles require planning in advance. If only Weed was given some time, he'd be able to think of something and Orcs would have already taken the fortress. But now the orc horde was dying because of their own stupidity, and if he didn't do something soon, the battle will only continue growing more violent and unpredictable...
+Such serious battles require planning in advance. If only Weed was given some time, he'd be able to think of something and Orcs would have already taken the fortress. But now the orc horde was dying because of their own stupidity, and if he didn't do something soon, the battle would only continue growing more violent and unpredictable...
 
 The scene observed by Weed could not be compared to the Battle for Fort Odin in any way. The scale was very different and the chaotic way that orcs and elves fought spiced up the situation.
 
@@ -68,7 +68,7 @@ The scene observed by Weed could not be compared to the Battle for Fort Odin in 
 
 Weed was calmly analyzing the battle.
 
-At first glance it seemed like it would be definitely be won by Orcs. They had far greater numbers and were quickly reaching the walls and joining the battle.
+At first glance it seemed like it would be definitely be won by the Orcs. They had far greater numbers and were quickly reaching the walls and joining the battle.
 
 But the Dark Elves didn’t give up.
 
@@ -82,7 +82,7 @@ With only small losses, the Dark Elves were able to successfully repel the orcs�
 
 “Pigs! At our walls you’ll meet your end!”
 
-Feeling their advantage, elves were ridiculing their opponents. Infuriated by their mocking, the orcs pushed even more viciously and died by the hundreds!
+Feeling their advantage, the elves were ridiculing their opponents. Infuriated by their mocking, the orcs pushed even more viciously and died by the hundreds!
 
 “Chwiik!”
 
@@ -102,9 +102,9 @@ A huge stream of fire shot from the tower. It was so strong that even Weed, who 
 
 “Chwiik! Chwik!”
 
-Even after such a display of power Orcs didn’t lose their fighting spirit. They were still pressing on their assault, though some of them had a frightened expression now.
+Even after such a display of power the Orcs didn’t lose their fighting spirit. They were still pressing on their assault, though some of them had a frightened expression now.
 
-Their confidence in quick victory disappeared.
+Their confidence in quick victory had disappeared.
 
 At that moment Weed took a step forward. ‘This is the moment I have been waiting for.’
 
@@ -136,7 +136,7 @@ In close combat, Dark Elves used short swords and rapiers, so they couldn’t pr
 
 Over the next few minutes Weed and his warriors killed more Elves than all the other orcs combined since the beginning of the assault.
 
-It seemed that orcs would finally be able to get a solid foothold on the top of the wall, but then Weed and his warriors suddenly jumped off the wall!
+It seemed that the orcs would finally be able to get a solid foothold on the top of the wall, but then Weed and his warriors suddenly jumped off the wall!
 
 “Wall of Fire!”
 
@@ -168,13 +168,13 @@ If nothing changed, they might be able to hold because of their great archery sk
 
 “Crush the elves! Chwiik!”
 
-The orcs waiting under the fortress walls waiting for their turn to climb the log screamed in excitement, cheering for their fellow warriors fighting on top of the wall. And then a single orc stepped out of the fighting crowd and stood on the edge of the wall.
+The orcs waiting under the fortress walls for their turn to climb the log screamed in excitement, cheering for their fellow warriors fighting on top of the wall. And then a single orc stepped out of the fighting crowd and stood on the edge of the wall.
 
 “Oh, it’s him!”
 
 “The ugliest one!”
 
-Both orcs and Dark Elves were looking at Weed. And he, instead of going back into fight, jumped down from the wall and headed to the gates!
+Both orcs and Dark Elves were looking at Weed. And he, instead of going back into the fight, jumped down from the wall and headed to the gates!
 
 The orcs gathered at the wall respectfully stepped aside to let him pass.
 
@@ -248,7 +248,7 @@ So his only recourse was to dodge opponents’ attacks. After using his overwhel
 
 The health of the Elf in the middle dropped by half, but Weed had to jump aside again to dodge the other 2 spears.
 
-Weed was fighting at the top of his ability, showing miraculous skill and moving bare inches from the opponents’ spears. He was using everything he knew, both what he was taught and what he learned all by himself. His every move was full of strength and harmony.
+Weed was fighting at the top of his ability, showing miraculous skill and moving bare inches from his opponents’ spears. He was using everything he knew, both what he was taught and what he learned all by himself. His every move was full of strength and harmony.
 
 As a result, by the time the first Orcs reached the breach, Weed had already defeated all three elves and the gates were captured.
 
@@ -274,7 +274,7 @@ The horde poured into the fortress through the broken gates.
 
 In this situation, the Dark Elves didn’t have a choice but to retreat back to their village. The path to it was riddled with numerous traps and the orcs who tried to chase them had a hard time. Once more, like at the beginning of the battle, they were dying by the hundreds, if not thousands.
 
-But despite all the traps, magic and arrows of the elves, the orcs were advancing! The battle now moved to the edge of the village, where retreating elves created another line of defense. They were holding for now, but they couldn’t imagine what they would do when the main forces of the orcs arrived.
+But despite all the traps, magic, and the arrows of the elves, the orcs were advancing! The battle now moved to the edge of the village, where retreating elves created another line of defense. They were holding for now, but they couldn’t imagine what they would do when the main forces of the orcs arrived.
 
 “Hey, it’s mine!”
 
@@ -332,7 +332,7 @@ When they reached the temple, they saw dead elves at the entrance.
 
 Weed and his soldiers rushed into the dark interior of the temple. They had to hurry: if orcs killed the necromancers before they did, the quest might not get completed.
 
-There was a heavy and oppressing atmosphere inside the temple. The dark hallways was barely lit by dim torches.
+There was a heavy and oppressing atmosphere inside the temple. The dark hallways were barely lit by dim torches.
 
 “Chwiiik!”
 
@@ -346,7 +346,7 @@ The squad quickly moved forward. On the way they saw many shiny things on the wa
 
 ‘The main goal is to complete the quest of the Order of Freya.’
 
-Like ghosts, they shot out of the narrow passage into a wide hallway. In its center a few dozens Elves and Orcs were fighting.
+Like ghosts, they shot out of the narrow passage into a wide hallway. In its center a few dozen Elves and Orcs were fighting.
 
 “Chwiik!”
 
@@ -394,7 +394,7 @@ The rest of them followed their leader and got on their knees. They were so clos
 
 Weed unsheathed his sword.
 
-He was about to behead them and complete the quest of Order of Freya, but...
+He was about to behead them and complete the quest of the Order of Freya, but...
 
 ‘One moment... Something’s wrong...’
 
@@ -406,7 +406,7 @@ The difficulty was ‘B’, like the quest he'd received to free Morata from Lor
 
 ‘But why do they calmly accept their deaths?!’
 
-Weed was confused. He wanted to kill the necromancers and finish this long chain of quests a lot. Then on his return he would receive even greater reward than before.
+Weed was confused. He wanted to kill the necromancers and finish this long chain of quests a lot. Then on his return he would receive even greater rewards than before.
 
 The greed flared in his eyes. Each of the necromancers was holding a bone staff and beads.
 
@@ -436,13 +436,11 @@ Barabol lifted his head and asked:
 
 “...”
 
-The desire to cut the head of this cocky necromancer was rising again, but Weed restrained himself and said in calm voice:
-
-“I’m giving you a chance. A chance to win my trust. If you tell the truth, I will try to believe it.”
+The desire to cut the head off this cocky necromancer was rising again, but Weed restrained himself and said in a calm voice, “I’m giving you a chance. A chance to win my trust. If you tell the truth, I will try to believe it.”
 
 “Really? You swear?”
 
-“Yes. However this is just the promise to listen to you, not to let you live.”
+“Yes. However this is just a promise to listen to you, not to let you live.”
 
 Barabol looked at his kneeled companions, and started to tell his story.
 
@@ -469,7 +467,7 @@ Weed smiled.
 
 ‘The quest is complete! I didn’t even have to kill them.’
 
-When he was looking for Helen’s Grail and Fargo’s Crown he had to return to the Order of Freya to complete the quest. But this time it was done right on the spot and Weed was pleased.
+When he was looking for Helain’s Grail and Fargo’s Crown he had to return to the Order of Freya to complete the quest. But this time it was done right on the spot and Weed was pleased.
 
 But the next moment, 'Damn!'
 
@@ -492,16 +490,16 @@ The army of undead! Led by the one who caused the same disaster in the past, now
 Ding!
 
 //table{
-New Quest: The Undead Legion of Shire.
+New Quest: The Immortal Legion of Shire.
 --------------
 The secret kept from entire world! It was Shire who caused all the disasters blamed on Barr Khan Demoph. After that famous battle he disappeared to create a new army of undead.
 To survive, Orcs and Dark Elves must end their hostility and stand united against the undead army of the dark mage. Gather all the forces and repel the attacks of the immortal army of undead.
 @<b>{Difficulty:} A.
 @<b>{Reward:} Spellbook of Bar Khan.
-@<b>{Restrictions:} The Undead Legion will start the war in 30 days.
+@<b>{Restrictions:} The Immortal Legion will start the war in 30 days.
 //}
 
-‘A’ rank difficulty! Weed had completed his quest and received the next quest in the chain: a battle against the undead army! It would be a great event for the entire continent. Moreover, no one in the game had ever received a quest of such difficulty! This was likely because there were special conditions to be met in order to be able to receive it.
+‘A’ rank difficulty! Weed had completed his quest and received the next quest in the chain: a battle against the undead army! It would be a great event for the entire continent. Moreover, no one in the game had ever received a quest of such difficulty! This was likely because there were special conditions that had to be met in order to be able to receive it.
 
 While Weed was still in shock thinking it over, another system message popped in front of him.
 
@@ -509,16 +507,16 @@ While Weed was still in shock thinking it over, another system message popped in
 --------------
 You have an opportunity to complete a unique quest associated with the game’s set of professions.
 Until now, no player was able to choose the profession of necromancers, as they were considered to be the true evil among the mage classes. When you defeat Shire and complete this quest, the ability to chose this profession will be unlocked.
-Background: Because of the mistakes of the past, necromancers were killed or banished to the darkest corners of the continent. Because of this it was hard for them to find disciples and pass their knowledge to new generations. Once they restore their good name, they will be able to return to the kingdoms’ capitals and start new lives.
+@<b>{Background:} Because of the mistakes of the past, necromancers were killed or banished to the darkest corners of the continent. Because of this it was hard for them to find disciples and pass their knowledge to new generations. Once they restore their good name, they will be able to return to the kingdoms’ capitals and start new lives.
 //}
 
-The quest was ‘A’ rank difficulty, and it unlocked a new profession of necromancer as well.
+The quest was ‘A’ rank difficulty, and it unlocked the new profession of necromancer as well.
 
 “Sir!”
 
 Buren, Becker, Hosram, Dale and others were looking at Weed with thrilled expressions and straight backs.
 
-The soldiers and knights were men of justice! It would be a great honor for them to fight against the Undead Legion.
+The soldiers and knights were men of justice! It would be a great honor for them to fight against the Immortal Legion.
 
 “Goddess Freya...”
 

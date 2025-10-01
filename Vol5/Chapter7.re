@@ -511,7 +511,7 @@ He got up and left the nightclub. On the street he was met by fresh night air.
 
 He knew a place more enjoyable than even the most expensive club.
 
-Royal Road. The place overflowing with opportunity was awaiting Zephyr.
+Royal Road. The place overflowing with opportunity was awaiting Zeppi.
 
 @<embed>{|html|<hr/>}
 

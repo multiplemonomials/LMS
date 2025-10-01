@@ -45,7 +45,7 @@ Becker and the other lieutenants who followed Weed unquestionably had protested 
 
 "This person doesn't know the meaning of justice! Have you ever learned about chivalry?"
 
-"Help the weak and punish the wicked. Come to think of it, talk about the subject of a sculptor in the military company itself!"
+"Help the weak and punish the wicked. Come to think of it, let's talk about how a sculptor can lead a military company in the first place!"
 
 Loyalty and intimacy with the soldiers dropped significantly at this point.
 
@@ -67,7 +67,7 @@ T'tiring!
 Secret Quest: The Immortal Legion Led by Shire to Take Over the World
 --------------
 Bar Khan controls this summoning from behind the scenes; he hopes to bring about the path of darkness with his disciple Shire. 
-A day after a battle, the Lich Shire will rebuild the legion entirely from the remains of the losses. So once again the Immortal Legion will be born!
+A day after the battle, the Lich Shire will rebuild the legion entirely from the remains of the losses. So once again the Immortal Legion will be born!
 In order to survive, the Orcs and Dark Elves will need to cooperate with each other in this war. Gather everything in your power to prevent the march of the Immortal Legion and defeat Shire.
 @<b>{Difficulty:} A
 @<b>{Compensation:} The magic of Bar Khan.
@@ -92,7 +92,7 @@ This quest is associated with the emergence of the undisclosed profession Necrom
 If you do not accept, a dire consequence will occur.
 //}
 
-The Necromancer spoke in a dismal tone. "Hmm, it seems you still do not understand, even after I told you. This mission affects the entire world. If you ignore this, then like us, humans will not be able to escape from the darkness. All the people around you will lose courage and be distraught."
+The Necromancer spoke in a dismal tone. "Hmm, it seems you still do not understand, even after I told you. This mission affects the entire world. If you ignore this, then like us, humans will not be able to escape from the darkness. All the people around you will lose courage and become distraught."
 
 Creepy!
 

@@ -308,7 +308,7 @@ The chieftain of Chwibarr had brought another 10,000 Orcs! And this was just the
 
 “Holchwi tribe sent 15,000!”
 
-Weed looked with growing hope at the arriving reinforcements. The fortress of Dark Elves was located near the top of the mountain, and from every side more and more Orc troops were approaching. There were great many Orcs gathering in the Yuroki mountains today. Far too many.
+Weed looked with growing hope at the arriving reinforcements. The fortress of the Dark Elves was located near the top of the mountain, and from every side more and more Orc troops were approaching. There were great many Orcs gathering in the Yuroki mountains today. Far too many.
 
 “Chwiik! Chwit!”
 
@@ -326,7 +326,7 @@ Messengers from every tribe were continuously bringing new messages.
 
 Some of the arrived Orcs had already fought Dark Elves many times. This was evident from the burns and scars left by Dark Elves’ magic and arrows.
 
-The armies of the 25 closest settlements had gathered to storm the fortress. 5 tribes couldn’t come, but still the entire area around the Dark Elves settlement was filled with Orcs.
+The armies of the 25 closest settlements had gathered to storm the fortress. 5 tribes couldn’t come, but still the entire area around the Dark Elves' settlement was filled with Orcs.
 
 When the sun reached its zenith, the last tribe arrived and the number of Orcs reached over 400,000.
 
