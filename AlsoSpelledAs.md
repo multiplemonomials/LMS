@@ -42,6 +42,7 @@
 |Yuroki Mountains|Eurokey Mountains, Yurokina Mountains|
 |Versailles Continent|Bersa Continent|
 ||Champion's Tower|
+|Korea University (Or more formally, National University of South Korea)||
 
 ## Abilities
 |My Term|Other Spellings|

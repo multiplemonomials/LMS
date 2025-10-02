@@ -34,9 +34,9 @@ Da'in decided to give him an answer.
 
 Da'in suddenly clenched her two fists and relentlessly beat the Dullahan's head.
 
-In the past, she hated hunting undead. But now that she'd safely returned from the surgery, the Dullahan was only a monster. Punching with fists was not the only skill she'd leveledm, either -- her archery was also quite excellent.
+In the past, she hated hunting undead. But now that she'd safely returned from the surgery, the Dullahan was only a monster. Punching with fists was not the only skill she'd leveled, either -- her archery was also quite excellent.
 
-As a shaman,m she also could do different buffs, and she had learned curse and attack spells. Even her swordsmanship was at a high level!
+As a shaman, she also could do different buffs, and she had learned curse and attack spells. Even her swordsmanship was at a high level!
 
 The one thing that was difficult for Da'in was that her Shaman class couldn’t exhibit as much power in any one skill as a class that specialized in that skill. Her class was well-rounded in all talents, but very general. That said, it was highly effective in combat.
 
@@ -77,8 +77,8 @@ It used to be scattered with gray and black stalactites, hanging in the natural 
 //table{
 
 --------------
-You have seen the great Nameless Sculptures of Lavias. These great nameless sculptures had arisen!
-These sculptures of treasured memories have become sanctuaries and guides in these dangerous dungeons. The mysterious statues were made by an anonymous sculptor.
+You have seen the great Nameless Sculptures of Lavias.
+These sculptures of treasured memories, which have become sanctuaries and guides in these dangerous dungeons, were made by an anonymous sculptor.
 Effect: The calm aura around these sculptures will increase a player’s vitality and mana by 25%, and movement speed by 10%. Monsters' attacks have a 5% penalty. The effects do not stack with those of other sculptures.
 //}
 
@@ -140,11 +140,11 @@ Geomchi505. Hello, nice to meet you. I'm the 500th student. Also known as the yo
 
 Da'in went around a one large tour of the undead dungeon, and then she froze.
 
-It had been a long time since her battle with the skeleton Dullahan and his head, but  she still sought Weed's anonymous creations. Where Da'in and Weed had once eaten their meal, without fail two sculptures of themselves rested there.
+It had been a long time since her battle with the undead Dullahan and his head, but she still sought Weed's anonymous creations. Where Da'in and Weed had once eaten their meal, without fail two sculptures of themselves rested there.
 
 “Amazing. These statues... “
 
-Da'in's eyes were moist with tears. The sculpture was just of their daily life, but it was enough for her heart to be feel like it would burst from the emotions. She viewed many sculptures like this. Slowly she continued to walk around the damp dungeon in enjoyment.
+Da'in's eyes were moist with tears. The sculpture was just of their daily life, but it was enough for her heart to be feel like it would burst from the emotions. She viewed many sculptures like this. In a happy daze, she continued to walk around the damp dungeon.
 
 “Khu khu khu. Human beings are not allowed in this place.”
 
@@ -172,7 +172,7 @@ In Lavias, there were quite a lot of adventurers. Da'in hadn't seen Lavias since
 
 The beautiful view, with clouds passing by from the high level winds, left the tourists with an exhilarated feeling and made the place a sight to behold. Low-level tourists who came here were risking their lives just for the chance to visit.
 
-Lavias had become famous, and even the kingdoms' nobility officially announced their interest to visit. Rosenheim Kingdom's nobles and the lords of the Kingdom of Brent often dropped by. Extremely expensive quests were posted to serve as escorts for them to go there safely.
+Lavias had become famous, and even the kingdoms' nobility officially announced their interest to visit. Rosenheim Kingdom's nobles and the lords of the Kingdom of Brent often dropped by. Extremely expensive quests were posted to serve as escorts for them to go here safely.
 
 “There are a lot of people here.”
 
@@ -186,7 +186,7 @@ Beside him were many other birds. A crow flapped his wings.
 
 “Human, are you strong? You seem to be quite famous; I would like to ask you a favor. Up here in Lavias, we have been unlucky with all of the undead.”
 
-“Do you know how to gather herbs? If you don't, I'll teach you about herbal medicine if can you give me 200 gold. There is a herb I'm looking for in the north corner of a cave. If you try to dig up its roots, you could get injured, so you have to be careful.”
+“Do you know how to gather herbs? If you don't, I'll teach you about herbal medicine if you can you give me 200 gold. There is an herb I'm looking for in the north corner of a cave. If you try to dig up its roots, you could get injured, so you have to be careful.”
 
 There were many quests for the taking. She met a wide variety of bird tribes, but they all couldn't remember her. Even if the head of the family was young, they were still severely forgetful. Even though Da'in had helped the black crow tribe in the past, she had been forgotten.
 
@@ -422,24 +422,21 @@ The drifter appeared to have the exact same class as the Geomchis' characters. A
 
 Then the wanderer spoke again.
 
-“Do you know what it means to be stronger? Geom, it is not enough to just hone your skills. Experience the broad world around you, come back and defeat me. Then I will guide you to true strength.”
+“Do you know what it means to be stronger? Geomchi, it is not enough to just hone your skills. Experience the broad world around you, then come back and defeat me. Only then will I guide you to true strength.”
 
 T'tiring!
 
 //table{
-
 --------------
-Become a warrior. The world is cluttered with monsters to hunt, you need to find them.
-Young women and ladies look for those that are chivalrous, it is attainable in this land.
+Become a warrior. The world is cluttered with monsters to hunt, you need only to find them.
+Young women and ladies look for those that are chivalrous, and chivalry is attainable via this path.
 It is said that if you travel through the continent of Versailles and return, you can be reborn as a true martial artist.
-Difficulty: High tier class advancement quest.
-Reward: The possibility to attain more skills.
-Restrictions: Quest limited to the Martial artist class. Must not be infamous.
+@<b>{Difficulty:} High tier class advancement quest.
+@<b>{Reward:} The possibility to attain more skills.
+@<b>{Restrictions:} Martial Artist class only. Must not be infamous.
 //}
 
-Once the wanderer left, Geomchi and the rest down to Geomchi505 came together in formation.
-
-The time has come and Geomchi had to make a decision.
+Once the wanderer left, Geomchi and the rest, all the way down to Geomchi505, came together in formation. The time had come and Geomchi had to make a decision.
 
 “All right everyone. So far we have stuck together in Royal Road as a united group.”
 
@@ -449,13 +446,13 @@ The Geomchis’ expressions were completely serious!
 
 Without allowing any distractions, they listened to the words of their master.
 
-“When we are united, we are fearsome. Frightening enough that we were avoided. We are strong even on our own.”
+“When we are united, we are fearsome. We are frightening enough that we are avoided. But we are strong even on our own.”
 
-When Geomchi hunted in a dungeon, the majority of users insulted him and departed.
+When the Geomchis hunted in a dungeon, the majority of users insulted them and departed.
 
-To monopolize the monsters, and take the glances of beautiful female users! In order to eat a meal without burning it when cooking, and eat delicious rice without fighting over it! No matter how crowded a place might be, even then he can find in a moment a secluded hunting ground!
+But the Geomchis wanted to monopolize the monsters and steal the gazes of beautiful female users! They wanted to eat a meal without getting distracted and burning it when cooking, and eat delicious rice without fighting over it! No matter how crowded a place might be, if a Geomchi were traveling solo, he'd always be able to find a moment alone!
 
-“Now it is time for us to experience the wider world. Each of us must go our separate ways throughout the continent, defeating strong monsters. In six months time, let us meet again in Rosenheim kingdom.”
+“Now it is time for us to experience the wider world. Each of us must go our separate ways throughout the continent, defeating strong monsters. In six months time, let us meet again in Rosenheim Kingdom.”
 
 “Understood. Teacher!”
 
@@ -465,7 +462,7 @@ To monopolize the monsters, and take the glances of beautiful female users! In o
 
 The Geomchis made their respective farewells and walked away.
 
-A small backpack that contained only barley bread was all as their luggage. In fact, they did not leave anything behind.
+A small backpack that contained only barley bread was their only luggage. In fact, they did not leave anything behind.
 
 The Geomchis scattered throughout the entire continent! Although the separation of master and disciples was bittersweet, the disciples left with their heads held high, and their faces filled with mirth.
 
@@ -477,59 +474,57 @@ The Geomchis scattered throughout the entire continent! Although the separation 
 
 To become true warriors, the Geomchis separated and departed from Rosenheim Kingdom.
 
+@<embed>{|html|<hr/>}
+
 A typical occasion at the University of South Korea!
 
-Professional gamers typically have little expectation for an application to be accepted. But if it actually came to acceptance, their troubles only become greater.
+Professional gamers typically have little expectation that their application would be accepted. But if by some miracle the application actually was accepted, their troubles only become greater.
 
 “Older brother, honestly I have something to tell you....”
 
-Lee Hayan was in conflict as she held the letter of acceptance. Today was the day of the interview at the University of Korea. However, Lee Hyun had to be present at the college interview.
+Lee Hayan felt conflicted as she held the letter of acceptance. Today was the day of Lee Hyun's interview at the University of Korea. However, she still hadn't told him about filing an application on his behalf.
 
 “I can't hold it off any longer, got to do it....”
 
-After agonizing for a long time, Lee Hayan eventually let it all out.
-
-How challenging!
+After agonizing for a long time, Lee Hayan eventually had to let it all out. It was a difficult situation!
 
 Hayan looked at Lee Hyun as she slammed the door.
 
-“Brother, there is something I have to say. You have to go to University of Korea for the interview.”
+“Brother, there is something I have to say. You have to go to University of Korea for an interview.”
 
 When Hayan spoke, Lee Hyun was in the middle of looking at the Hall of Fame page.
 
 “Interview? What interview?”
 
-“I mean the interview for University enrolment.”
+“I mean an interview for university admissions.”
 
 “What? Really?”
 
-Lee Hyun jumped in surprise.
-
-All of a sudden, an interview at the National University of South Korea!
+Lee Hyun jumped in surprise. All of a sudden, an interview at the National University of South Korea!
 
 Lee Hayan bowed her head and sulkily said.
 
-“The thing is... I actually turned in the application form. It is mandatory that you have to get to the college on time... There are many people trying to enter nowadays.”
+“The thing is... I actually turned in an application form. You need to hurry and get to the college on time... There are many people trying to enter nowadays.”
 
 Lee Hyun had heard too often of these university admissions. There are often more applicants than there are spots to be filled.
 
 Lee Hyun nervously asked.
 
-“So what did you do?”
+“So what exactly did you do?”
 
 “I sent in an application form rather than toss it away. You were so busy that I did it without your permission. I'm sorry, brother.”
 
-As Hayan apologized, Lee Hyun was extremely angry, but he could still tolerate it. He could not scold her for acting on her own. Though, he did snatch it out of Lee Hayan's hand.
+As Hayan apologized, Lee Hyun was angry, but he could still tolerate it. He could not scold her for acting on her own. Though, he did snatch the form out of Lee Hayan's hand.
 
-“For this document and the interview, it means it passed, right?”
+“Getting this letter and being called for an interview, it means I passed?”
 
-“Yeah. These documents typically mean that it passed, but it does not mean unconditional acceptance; but, it does show that it is likely....”
+“Yeah. These documents typically mean that you passed. It does not mean unconditional acceptance, but they indicate that you are likely to get in...”
 
-“Great!”
+“That's great!”
 
 Lee Hyun smiled brightly.
 
-All of his hardships so far, he felt a burden lift from him. He was happy.
+After all of his hardships so far, he felt a burden lift from him. He was happy.
 
 He misunderstood the difference in his stance in life.
 

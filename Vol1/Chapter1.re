@@ -76,21 +76,28 @@ With a computer that lagged while loading a basic webpage, how could he dream of
 
 It was time to delete the game and start working hard and earning a living, 
 
-Are you serious about deleting your account? 
+//table{
+Are you sure you want to delete your account?
+---------------------------------------------
+Yes / No
+//}
 
-Yes 
-	
-No
+Lee Hyun hovered his mouse cursor over ‘Yes’. With just a click of a button, the character he crafted with love and passion would be gone forever. As he was about to press down the most button, a stray thought floated in the back of his mind. 
 
-Lee Hyun hovered his mouse cursor on the ‘Yes’. With just a click of a button, the character he crafted with love and passion would be gone forever. As he was about to put pressure into his finger, a stray thought floated in the back of his mind. ‘Didn’t people make money by selling their character? Weren’t there a market for these accounts?’ 
+‘Didn’t people make money by selling their character? Wasn't there a market for these accounts?’ 
 
-He vaguely remembered something about it, from a newspaper article about how frequently people were making money from buying and selling their characters. Since he was going to delete his character anyway, Lee Hyun did not think it wouldn’t be hurt selling his character. 
+He vaguely remembered something about it from a newspaper article about how frequently people were making money from buying and selling their characters. Since he was going to delete his character anyway, Lee Hyun did not think it wouldn’t hurt to sell it instead.
 
-Lee Hyun began to search the internet for a character auction site. Just one search popped up several dozens different sites. He clicked on the link that was purported to be the biggest and the most traded auction site. 
+Lee Hyun began to search the internet for a character auction site. Just one search popped up several dozens of different sites. He clicked on the link that was purported to be the biggest and the most traded auction site. 
 
-“So I just need to upload my character here?” Lee Hyun uploaded his character avatar with several different images and description. Character at maximum level, the ultimate equipment drops from dragons, with 30 trillion Marks game currency. 
+“So I just need to upload my character here?” Lee Hyun uploaded his character avatar with a description and several different images.
 
-He selected the initial bid at 50 thousand Won. He was afraid that if he chose a large starting bid, no one would bid on his character. Auction duration was set for a day. He did not think he would get any large bids by waiting for long, and with his pending employment he was desperate for money to get at least one decent set of work cloth.
+//table{
+---------------
+Character at maximum level, the ultimate equipment dropped by from dragons, with 30 trillion marks of game currency. 
+}
+
+He set the initial bid at 50 thousand Won. He was afraid that if he chose a large starting bid, no one would bid on his character. The auction duration was set for one day. He did not think he would get any large bids by waiting for long, and with his pending employment he was desperate for money to get at least one decent set of work cloth.
 
 There was usually a set market price for a character or an item. But as the auction description for other sellers was restricted to paying members only, Lee Hyun could not access those and set his price to market level.     
 

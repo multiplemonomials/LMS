@@ -115,7 +115,7 @@ You have accepted the quest
 
 Hwareureureu.
 
-The mud and fire was swept away from the Dark Elf citadel. Thousands of troops worked hard in order to fix the damage caused by Orc ordinances and Dark Elf magic which had carved pits throughout the area.
+The mud and fire was swept away from the Dark Elf citadel. Thousands of troops worked hard in order to fix the damage caused by Orc ordinance and Dark Elf magic which had carved pits throughout the area.
 
 The Dark Elf citadel was extremely large -- it had enough space to house tens of thousands, and Orcs were busy carrying luggage as they moved in.
 
@@ -123,7 +123,7 @@ The Dark Elf citadel was extremely large -- it had enough space to house tens of
 
 "Okay, Orc."
 
-"I am great being first in strength. Chwiik!"
+"I am great at being first in strength. Chwiik!"
 
 The orcs and elves joined forces to begin the task of repairs.
 
@@ -166,22 +166,22 @@ Now it was time to calculate the worth of the items obtained.
 //table{
 Orc Captain's Digging Glaive
 --------------
-Durability 69/80
-Damage 25-51
+@<b>{Durability:} 69/80
+@<b>{Damage:} 25-51
 The glaive of a streetwise Orc captain.
 Even though it is heavy and not easy to wield, the blow can be as heavy as a hammer blow.
 
-Restrictions:
+@<b>{Restrictions:}
 Strength 350.
 Level 180.
 
-Effects:
-+20 battle cry.
+@<b>{Effects:}
++20 Fighting Spirit
 +10 Strength.
 -30 Agility.
 
 Accuracy of attack decreased by 25%.
-Fatal blow has twice the effect.
+Fatal blows have twice the effect.
 //}
 
 The first thing he checked was an almost useless item.
@@ -192,13 +192,13 @@ Although there might be enthusiasts who would look for very unique weapons, diff
 
 That said, this weapon did have extra effects. Typically these effects were ancillary, such as freezing the enemy with a hit or performing a magical attack. And while this glaive's increase in attack was excellent, this effect was much more sought after on lightweight weapons.
 
-Weed decided to dispose off the rough glaive, and took a look at the other stuff.
+Weed decided to dispose of the rough glaive, and took a look at the other stuff.
 
 Five orc armor sets, two elf headbands, and clothing with seven penalties.
 
 These were ordinary items, but elf clothes had resistance to spirits and raised affinity, which would make them popular as an item for sale.
 
-'That's good. For once, today's costs are achieved.'
+'That's good. For once, today's expenses are taken care of.'
 
 Weed found it delightful to avoid work.
 
@@ -295,14 +295,14 @@ They immediately laughed at Lee Hyun.
 – This noob is incredible.
 – This novice has no idea how to post. Looking at the Hall of Fame, he must just be glad to be on it.
 – Yet he didn't edit it at all, that lowers his reliability to 0.
-- Who has that kind of time to watch this??
+– Who has that kind of time to watch this??
 //}
 
 They only just glanced at Lee Hyun's post.
 
 Finally, someone's curiosity got the better of him and he clicked the video, but the moment he saw the beginning, he forgot everything else.
 
-"What, a mountain, where is this place.... there are countless Orcs moving around."
+"What, a mountain, where is this place.... there are so many Orcs moving around."
 
 At the first glance he did not know to look properly, although there seemed to be Dark Elves and Orcs.
 
@@ -328,7 +328,7 @@ The vast majority did not look far into it and saw no significance, thinking the
 
 "Even now, is it still this popular to fish for likes?"
 
-"Maybe the original guy posted the remark himself. The ID can be different, a friend or family member's account."
+"Maybe the original guy posted the remark himself. The user ID can be different, a friend or family member's account."
 
 "Well this is boring, what a bad reply..."
 
@@ -358,7 +358,7 @@ Around Orc Karichwi, the mountain was dense with fog. But the fog started to lif
 
 "I see lots of Orcs."
 
-"Where is the alternative?"
+"What could have triggered this?"
 
 //table{
 --------------
@@ -402,7 +402,7 @@ Thanks to its overwhelming power, the entire force moved together. The explosive
 
 "I guess this is where that Orc subtly changed the flow of the battle."
 
-The caliber of the battle completely overtook the minds of those who watched. Even if the movie ended at that point, people would have been very satisfied. But the video was far from the end. Priests and soldiers now joined those brutal looking Orcs.
+The caliber of the battle completely overtook the minds of those who watched. Even if the movie ended there, people would have been very satisfied. But the video was far from over. Priests and soldiers now joined those brutal looking Orcs.
 
 "No way!"
 
@@ -483,7 +483,7 @@ Finally, the beginning of the Dark Elf Citadel's repair operation was shown, and
 
 @<embed>{|html|<hr/>}
 
-For Lee Hyun's position, all of this took place earlier today.
+For Lee Hyun, all of this took place earlier today.
 
 Though he only slept for five hours, the world had changed considerably.
 
@@ -509,7 +509,7 @@ The sculpture transformation was entirely unknown to them and defied common sens
 
 "Many people live in the great cities and the surrounding terrain, and they do not look like that!"
 
-People wanted to know where Lee Hyun conducted this quest and they couldn't wait. Royal Road players were modestly mobilized here. Those that excelled in various field were revealed.
+People wanted to know where Lee Hyun conducted this quest and they couldn't wait. Royal Road players were modestly mobilized here. Those that excelled in various fields were revealed.
 
 //table{
 --------------
@@ -560,13 +560,13 @@ An Orc researcher wrote this a while back:
 – I'm confident that this orc species is not from the Kingdom of Brent. Though perhaps we can gather that the orcs of the Kingdom of Brent are a little related. With that heinous crime of a video coming out, I hardly have any knowledge of where that type of orc may be found. Looking at it, my impression and interest is lost. My taste in it has also fallen sharply.
 //}
 
-After the announcement of the assumed region of these Orcs that appeared in the video were made, things became more active.
+After speculation about the region of the Orcs that appeared in the video showed up, things became more active.
 
 But for Lee Hyun, it was completely different. Turning on the computer, the Hall of Fame website stats left Lee Hyun disappointed.
 
 "The total number of hits is less than 70,000."
 
-Other videos in the Hall of Fame got millions of hits. Bard Ray of the Hermes Guild's movies routinely reached more than 100 million. His best was the Champion's Tower video, Ray Bard's authorized scene which boasted a whopping 1.7 billion hits.
+Other videos in the Hall of Fame got millions of hits. Bard Ray of the Hermes Guild's movies routinely reached more than 100 million. His best was the Champion's Tower video, Bard Ray's authorized scene which boasted a whopping 1.7 billion hits.
 
 "70,000 and nothing else."
 
