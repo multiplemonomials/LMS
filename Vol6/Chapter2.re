@@ -504,7 +504,7 @@ Lee Hyun jumped in surprise. All of a sudden, an interview at the National Unive
 
 Lee Hayan bowed her head and sulkily said.
 
-“The thing is... I actually turned in an application form. You need to hurry and get to the college on time... There are many people trying to enter nowadays.”
+“The thing is... I actually turned in an application form. We need to hurry and get to the college on time... There are many people trying to enter nowadays.”
 
 Lee Hyun had heard too often of these university admissions. There are often more applicants than there are spots to be filled.
 
@@ -512,13 +512,13 @@ Lee Hyun nervously asked.
 
 “So what exactly did you do?”
 
-“I sent in an application form rather than toss it away. You were so busy that I did it without your permission. I'm sorry, brother.”
+“I sent in an application form. You were so busy that I did it without your permission. I'm sorry, brother.”
 
 As Hayan apologized, Lee Hyun was angry, but he could still tolerate it. He could not scold her for acting on her own. Though, he did snatch the form out of Lee Hayan's hand.
 
-“Getting this letter and being called for an interview, it means I passed?”
+“Getting this letter and being called for an interview, it means you passed?”
 
-“Yeah. These documents typically mean that you passed. It does not mean unconditional acceptance, but they indicate that you are likely to get in...”
+“Yeah. These documents typically mean a pass. It does not mean unconditional acceptance, but they indicate that you are likely to get in...”
 
 “That's great!”
 
@@ -526,17 +526,15 @@ Lee Hyun smiled brightly.
 
 After all of his hardships so far, he felt a burden lift from him. He was happy.
 
-He misunderstood the difference in his stance in life.
+However, he had misunderstood Lee Hayan's words.
 
-Lee Hayan's words!
+Out of all the universities in South Korea, he couldn't imagine the thought of going to an admission interview at Korea University. After dropping out of high school, he only barely got his GED. He did not even think that he could go to college in the first place.
 
-Of all the universities in South Korea, he couldn't imagine the thought of going to an admission interview. After dropping out of high school, he barely took the GED. He did not even think that he could ever go to college in the first place.
-
-Of course the truth was, University of South Korea had accepted Lee Hayan with a scholarship.
+The truth had to be that the University of South Korea had accepted Lee Hayan with a scholarship.
 
 “That's great. So when is the interview?”
 
-For some reason, Lee Hayan became a little uneasy. It was different from an expected response.
+For some reason, Lee Hayan became a little uneasy. It was different from the response she'd expected.
 
 “Yes, but you're probably going to be angry...”
 
@@ -546,41 +544,35 @@ Lee Hayan was hesitant as she spoke.
 
 “Huh?”
 
-“You need to go see the interview. There are only three hours left.”
+“You need to get ready now for the interview. There are only three hours left.”
 
 “Are you serious?”
 
 Lee Hyun's spirit flared.
 
-An interview at his sister's university, right at that moment he turned off the computer and stood up.
+An interview at his sister's university! Right at that moment he turned off the computer and stood up.
 
 “Then let's get ready. I'll do it.”
 
-* * *
+@<embed>{|html|<hr/>}
 
 The virtual reality department of the University of South Korea.
 
-Lee Hyun lavishly arrived in a taxi at the University of South Korea. It would be unthinkable on a normal day.
+Hyun and Hayan lavishly arrived in a taxi at the University of South Korea. It would be an unthinkable expense on a normal day.
 
-‘Ah, Hayan, he has been very interested in virtual reality.’
+As they walked towards the admissions building, Hayan's brain began to work overtime, going over their conversation earlier once again. She didn't understand how her brother had been so easygoing about the whole thing.
 
-This detail of his interest in advancing his education was something he never told her.
+She hadn't ever seen him really show interest in the academic study of VR before. She had just picked this major because he had the qualifications to apply for it. She had expected her brother's stubborn and frugal attitude to make this difficult.
 
-‘Perhaps virtual reality can be useful, since it is so familiar to him.’
+Lee Hyun, meanwhile, seemed completely delighted as he waited for the interview.
 
-Lee Hyun was completely delighted as he waited for the interview.
+“It's fine. Everything will go well,” Hayan said as she tightly held on to his hand. But, the next instant, Lee Hyun noticed a rough change in her.
 
-“It's fine. Everything will go well.”
+‘This is a misunderstanding.’ It suddenly clicked in Hayan's head. Her brother could only ever be this carefree when good things were happening in her life.
 
-Said his sister as she tightly held on to his hand. At this moment, Lee Hyun noticed a rough change in her.
+But this was no time for such a confession, she thought. ‘Older brother, I'm sorry, but this issue will have to be put on hold.’
 
-‘This is a misunderstanding’
-
-This was no time for such a confession.
-
-‘Older brother, this issue will have to be put on hold.’
-
-Lee Hayan was at once quiet. Already the wheel was rolling. The time has come, and at this point there is no chance to return back home. All of a sudden, cold sweat appeared on Lee Hayan's forehead. Wishing fervently that she could do this at a later time.
+Lee Hayan was at once quiet. Already things were in motion. The time had come, and at this point there was no chance to return back home. All of a sudden, a cold sweat appeared on Lee Hayan's forehead. She wished fervently that she could do this at a later time.
 
 “Are you okay?”
 
@@ -594,27 +586,27 @@ Lee Hayan was at once quiet. Already the wheel was rolling. The time has come, a
 
 From this reluctant deceit about sweat due to tension, Lee Hyun was genuinely concerned. Lee Hayan's clever eyes beamed.
 
-’Ah! This is it.’
+‘Ah! This is it.’
 
-Just 3 minutes left until the time of the interview, Lee Hayan placed both her hands on her belly.
+Just 3 minutes before the time of the interview, Lee Hayan placed both her hands on her belly.
 
 “Older brother.”
 
 “What, what's wrong?”
 
-“It's a stomach ache. I need to go to the restroom. Might be what I ate this morning.”
+“It's a stomach ache. I need to go to the restroom. It might be what I ate this morning.”
 
 “That's....”
 
 This was not the time.
 
-At such an important moment for his little sister, Lee Hyun wanted to stop her.
+It was such an important moment for his little sister! Lee Hyun wanted to stop her.
 
-“Can you withstand it?”
+“Can you get through it?”
 
-“Aw, it would be better to not show something impolite during the interview.”
+“Ah, it would be better to make sure nothing impolite happens during the interview.”
 
-“Well, if that's the case.... then get back quickly.”
+“Well, if that's the case... Go, and come back quickly!”
 
 “Yes, older brother.”
 
@@ -626,33 +618,31 @@ Lee Hayan secretly slipped away by pretending to go to the bathroom. Oblivious, 
 
 1 minute. 2 minutes....
 
-Minding the time, he wanted a way to completely stop it, even though such a thing was impossible.
+Staring at the time, he wanted a way to completely stop it, even though such a thing was impossible.
 
-‘This can hamper Hayan's future... Of all things, an upset stomach, I'm responsible. Something must have be strange with the rice I served earlier.’
+‘This could interfere with Hayan's future... And of all things, an upset stomach... I'm responsible! Something must have be strange with the rice I served earlier.’
 
 His fingers were trembling slightly from the suspense. Lee Hayan did not appear from the restroom in the 3 minutes approaching the interview with the professors. The female assistant came over and said:
 
-“The person who came for the interview? The professors are waiting.”
+“Are you the person who came for the interview? The professors are waiting.”
 
 “I'm sorry, my sister has yet to return, is it possible that you can wait a few minutes?”
 
-Being denied for coming late to an interview is certainly the worst.
+Being denied for coming late to an interview would absolutely be the worst.
 
 As Lee Hyun spoke to her, face to face, the impression he made to the assistant teacher made her heart tremble.
 
-Strong eyes!
-
-If she did not wait, she felt that he could turn this whole place upside down.
+Such strong eyes! If she did not wait, she felt that he could turn this whole place upside down.
 
 “Oh, I see. I will convey this with the professor.”
 
-After answering, the TA was equally puzzled.
+After answering, the assistant was equally puzzled.
 
-‘Sister what are you waiting for? Except for the interview, parties would not enter-....’
+Lee Hyun screamed inside his head. ‘Sister, what are you waiting for??’
 
 After 10 minutes passed, Lee Hayan still did not appear. At that time she had covertly met with the TA.
 
-“I have a request for you. Tell my older brother that you met me at the restroom and due to the stomach ache I will absolutely not be back in time. Can you tell him to go to the interview instead?”
+“I have a request for you. Tell my older brother that you met me at the restroom and due to a stomachache I will absolutely not be back in time. Can you tell him to go to the interview instead?”
 
 “Yes?”
 
@@ -660,9 +650,9 @@ After 10 minutes passed, Lee Hayan still did not appear. At that time she had co
 
 The assistant teacher thought that this pair of siblings was really strange.
 
-Waiting for his sister before he goes to the interview, she could not understand Lee Hyun; then his sister, asking me to tell him instead is absolutely strange.
+Waiting for his sister before he goes to the interview, she could not understand Lee Hyun. Then his sister gave her another odd request.
 
-Anyways, the professors were waiting in the interview room.
+However, the professors were waiting in the interview room.
 
 “Will you tell him?”
 
@@ -674,7 +664,7 @@ The assistant went to Lee Hyun and spoke.
 
 “My sister is not back....”
 
-“I met your sister in the bathroom, and she said that she is not likely to make it and that she wants you to meet the professors. They cannot be delayed anymore, or it will be cancelled.”
+“I met your sister in the bathroom, and she said that she is not likely to make it and that she wants you to meet the professors. The interview cannot be delayed anymore, or it will be cancelled.”
 
 “This shouldn't have happened. I will go to the interview.”
 
@@ -684,15 +674,13 @@ The assistant teacher of English did not understand, but the interview was permi
 
 Eventually Lee Hyun went alone to the meeting, without his sister.
 
-* * *
+@<embed>{|html|<hr/>}
 
-Five professors were looking at documents.
+In the interview room, five professors sat looking at documents.
 
-‘I guess that must be my little sister's application.’
+‘I guess that must be my little sister's application,’ Lee Hyun thought.
 
-The fact was that the application actually was of Lee Hyun's.
-
-As the professor was reading this application, he asked a question before Lee Hyun could try to speak.
+The application, in fact, was his. As the professor read through it, he asked a question before Lee Hyun could try to speak.
 
 “What motive did you have to choose this school?”
 
@@ -700,19 +688,19 @@ As the professor was reading this application, he asked a question before Lee Hy
 
 “Are you indicating that other schools are not good prospects?”
 
-The professor questioned him obstinately. Lee Hyun paired him with a simple answer.
+The professor questioned him obstinately. Lee Hyun responded with a simple answer.
 
-“Not at all; however, I have heard that surely it has the best facilities and faculty.”
+“Not at all; however, I have heard that surely Korea University has the best facilities and faculty.”
 
 “I see.”
 
-The professors nodded their heads to the textbook answer.
+The professors nodded their heads to the textbook answer, and each wrote some notes down.
 
 'Unnecessarily loud, but not bad.'
 
 'Emphasis on doing the basics.'
 
-'Sincere attitude in the interview by bargaining. Though he was late in the interview...'
+'Sincere attitude in the interview by bargaining. Though he was late for the interview...'
 
 Lee Hyun blurted out.
 
@@ -722,23 +710,25 @@ Lee Hyun blurted out.
 
 “When my sister was a child, my parents died.”
 
-Lee Hyun began to speak at length of his family history. For the sake of Lee Hayan's interview, of course he had to give his sister's story as much as possible. The fact that this choice of Korea University was not for his sister but for Lee Hyun personally, was completely hidden from him.
+Lee Hyun began to speak at length about his family history. For the sake of Lee Hayan's interview, he had to tell his sister's story as accurately as possible. The fact that this interview was not for his sister but for Lee Hyun personally was still completely hidden from him.
 
 'The University of Korea! I absolutely must not fail. I'm talking about the future of my sister here.'
 
-So in order to buy time until his sister arrived to the meeting, he spoke of their story of suffering from the beginning of their youth. He told them of how his family lived and how he and his sister grew up in such a way. However, to talk about his sister, he could not do so without giving his own back story.
+So in order to buy time until his sister arrived, he spoke of their story of suffering from the beginning of their youth. He told them of how his family lived in poverty and how he and his sister grew up one paycheck away from eviction. However, he couldn't talk about his sister's life without also giving his own background.
 
-Unsafe from the threat of loan sharks. How he fought to somehow protect his family, earn money at the gas station and other work he was not supposed to do. The professors listened to Lee Hyun in silence. The interview was longer and more different than usual. The format is normally the professor throws out a question and the candidate answers back. But now Lee Hyun spoke of how he lived in his rambling story, as the faculty heard it.
+How the loan sharks had never let him feel safe. How he fought to somehow protect his family by earning money at the gas station and doing other under-the-table work he was not supposed to do. The professors listened to Lee Hyun in silence. 
 
-“... And now, I went through the process of preparing for a year to the extent of laying out the ground work for Royal Road. In the case of other games that come out, it is varied in interest. But with the virtual reality of Royal Road, it is different at its core. Breathing, moving, behavior and actions that make a lot of memories. I see that such a game would last at least 10 years. I'm not collecting enough money yet for the college tuition of my younger sister, but I will not be late for the payment date.”
+By now, the interview had gone on longer than usual and taken on a very different tone. The format is normally that the professor would throw out a question and the candidate would answer back. But now Lee Hyun spoke of how he lived in his rambling story, and the faculty just listened.
 
-At this point, the professors realized that something is wrong with Lee Hyun's understanding of the situation.
+“... And then, I went through the process of preparing for a year to lay out the ground work for my entry into Royal Road. Other games are just that, games. But the virtual reality of Royal Road is different at its core. Breathing, moving, living life... players' actions in the game make a lot of memories. I saw that such a game would last at least 10 years. I'm not collecting enough money yet for the college tuition of my younger sister, but I will not be late for the payment date.”
 
-‘This is a ridiculous misunderstanding; he thinks the interview is for his younger sister and not for him. ‘
+At this point, the professors realized that something was wrong with Lee Hyun's understanding of the situation.
 
-Yet, the professors did not talk about this; instead they extraordinarily asked a question.
+'This is a ridiculous misunderstanding; he thinks the interview is for his younger sister and not for him.'
 
-“Then what about virtual reality? This may be a childish question, however, how can you divide virtual reality and reality?”
+And yet, the professors did not say this out loud; they just asked a question.
+
+“Then what about virtual reality? This may be a childish question, but how can you divide virtual reality and reality?”
 
 Lee Hyun's answer was simple.
 
@@ -746,71 +736,71 @@ Lee Hyun's answer was simple.
 
 “Oh, really? Tell us why you think so.”
 
-To the professor, at most the world of reality and virtual are separate, or the other expected answer is that a complete virtual reality is a creation of a dream. Lee Hyun's unique answer was interesting.
+The professors had expected him to explain why the worlds of reality and virtual reality are separate, or the other expected answer would be that immersive virtual reality is a materialization of a dream with technology. Lee Hyun's unique answer intrigued them.
 
-“Standing here now or being in Royal Road, in both reality is the same”
+One professor asked, “You mean to say that standing here now or being in Royal Road, there is no difference?”
 
-“Virtual reality and reality is the same, what do you mean by that?”
+Another interjected, “Virtual reality and reality are the same, what do you mean by that?”
 
-“An example. Living fiercely, work and go about creating things and achieve things therein that will benefit me. As for virtual reality, is it not fact that life becomes an imitation. You can gain knowledge, can earn money. To endeavor wherever, it has not been different to me in anyway.”
+“An example. Whether in the real world or Royal Road, my goal is to live fiercely and go about creating things and achieving things that will benefit me. As for virtual reality, is it not fact that your life in the game affects your life outside it, and vise versa? You can learn new things in the game the are applicable in the real world, and earn money that transfers over. Whether I work and find success in the real world or in Royal Road, it benefits me either way!"
 
-“I understand perfectly. This student Hayan, it appears we now know enough of this kind of person. We will notify you soon of the result.”
+“I understand perfectly. This student Hayan, it appears we now know enough about this person. We will notify you soon of the result.”
 
 “I am grateful.”
 
-Lee Hyun left and afterwards the professors commenced into a meeting.
+Lee Hyun left and afterwards the professors gathered into a meeting.
 
 “Such strong vitality.”
 
-“To think of such an uncommon family like that in this day and age, it stands to reason that it could.”
+“To think of such an uncommon family like that in this day and age... it stands to reason that he could go far.”
 
-“With the advancement of virtual reality, the meaning of family is fading, and he has a great mentality.”
+“With the advancement of virtual reality, the meaning of family is fading, and yet he has a great mentality.”
 
-“A wide range in knowledge about the side of virtual reality."
+“A wide range of knowledge about all aspects of virtual reality."
 
-“A variety of life experiences, it would be helpful to many.”
+“A variety of life experiences, he could provide new perspectives to the other students”
 
-The professors talked at length, not one of them was looking negatively on Lee Hyun.
+The professors talked at length, and not one of them looked negatively at Lee Hyun.
 
 “Then we are all in agreement.”
 
-The professors stamped the seal which passed the application of Lee Hyun.
+The professors stamped down their seal and marked the application of Lee Hyun as a pass.
 
-“Phew, barely made it out to the ending.”
+@<embed>{|html|<hr/>}
 
-Lee Hyun barely made it through the interview. Come to think of it, he was not sure what kind of answer, if anything, surfaced.
+“Phew, I got through somehow...”
 
-“Well, that's all that can be done...”
+Lee Hyun barely made it through the interview. Come to think of it, he barely remembered what he'd said to the professors.
 
-Lee Hyun found his sister.
+“Well, I did all I could...”
 
-The little bird came out from the bathroom and was sitting on the bench as she breathed out a sigh of relief. His little sister was saying prayers. As Lee Hyun neared, she looked up.
+Lee Hyun found his sister. She was sitting on the bench near the bathroom, and she breathed out a sigh of relief when she saw him. His little sister had been saying prayers for him the whole time. As Lee Hyun neared, she looked up at him.
 
 “How'd it go, the interview?”
 
 “Huh? Yeah....”
 
-Lee Hyun did not know how to comfort his sister. Of all things, to become sick at such a time.
+Lee Hyun did not know how to comfort his sister. Of all things, for her to become sick at such a time!
 
-“In my own way, I tried to explain.... Now to get you in, I tried to speak of our situation in the interview.”
+“In my own way, I tried to explain... To get you in, I tried to speak about our situation in the interview.”
 
 “What situation.”
 
-“The person concerned must be in the interview. I'm not that skilled at expressing myself and I don't know the outcome.”
+“Why you weren't at the interview! I tried to explain that you got sick, but I'm not that skilled at expressing myself and I don't know the outcome.”
 
 Lee Hayan was puzzled.
 
-She thought he would feel angry at the fact he was deceived, but he was more regretful about the interview.
+She thought he would feel angry at the fact he was deceived, but he seemed more regretful about the interview.
 
-'It can't be that you still don't know? How is that possible?'
+'It can't be that he still doesn't know? How is that possible?'
 
 Lee Hayan decided to go with a general statement first.
 
-“It's okay brother. Believe that it went well, and nothing more can be done for the interview anymore.”
+“It's okay brother. Believe that it went well, and nothing more can be done anymore.”
 
-“Yes, I could, but.... yeah. It has already passed. I was foolish of have let it.”
+“Yes, I could, but.... yeah. I acted foolishly, but it has already passed.”
 
-Back home, as they exited through the gate of the university, Lee Hayan momentarily flinched.
+On the way out, as they were exiting through the gate of the university, Lee Hayan momentarily flinched.
 
 “What is it?”
 
@@ -818,7 +808,7 @@ Back home, as they exited through the gate of the university, Lee Hayan momentar
 
 “Okay.”
 
-Lee Hayan got back in the school to meet the assistant teacher. She had the mailing address changed to where the grandmother was hospitalized.
+Lee Hayan got back in the school to meet the assistant teacher. She then had Hyun's mailing address changed to their grandmother's hospital room.
 
 == Footnotes
 //footnote[headless-monster][A type of headless undead monster. See vol 2 chapter 6.]
