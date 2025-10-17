@@ -1,14 +1,12 @@
 = First Time at the Movies
 
-Initially, Lee Hyun was going to go home with his sister. As per usual, the plan was to go home and do a few things around the house, then get in to Royal Road. The time for the quest was just around the corner, but the lack of time for preparation made it worse. However, this was not what came to mind.
+Initially, Lee Hyun was going to go home with his sister. As per usual, the plan was to go home and do a few things around the house, then get in to Royal Road. The time for the quest was just around the corner, but the lack of time for preparation made it worse. However, he found himself wanting... to do something different.
 
-'The University of Korea interview! An incline over an incline. It is not credible to spend such an important day in this way.'
+'The University of Korea interview! It was a struggle, and yet getting there was a monumental achievement. It is not reasonable to spend such an important day in this way.'
 
-Lee Hyun took heart and looked into his wallet. (perhaps closer to withheld breath, or preparing himself)
+Lee Hyun steeled himself, gathered his courage, and looked into his wallet. Stiff blue bills stared back at him.
 
-Stiff blue bills.
-
-If only they knew what happens to cash after the generous cash withdrawals. (might be he's contemplating the waste of overspending)
+If only the bills knew what happened to cash after it changed hands a few times...
 
 “Hayan.”
 
@@ -16,81 +14,67 @@ If only they knew what happens to cash after the generous cash withdrawals. (mig
 
 “Let's see a movie.”
 
-Until now, there has never been a time Lee Hyun went to a movie theatre. But there is a first time for everything.
+Until now, Lee Hyun had never been to a movie theatre. But there is a first time for everything.
 
 “Really?”
 
 To Hayan, this was unfathomable.
 
-Her brother of all people! A stingy person who would never waste money or even use it to ride a bus. A guy who wouldn't buy junk or even essential school supplies at the very least. And to go to a movie theatre.
+Her brother of all people! A stingy person who would never waste money or even spend it on a bus ride when he could have walked. A guy who wouldn't even buy essential school supplies, much less random junk. And now he wanted to go to a movie theatre.
 
 “Yeah. Seeing a movie would be fun.”
 
-With Lee Hyun's strong determination, the two headed to the movie theatre.
-
-A multiplex theatre with many movies.
-
-Associated with a large shopping mall, a place where visitors were unending.
+With Lee Hyun's mind made up, the two headed to the movie theatre. It was a multiplex theatre with many movies. It was built into a large shopping mall, where foot traffic was unending.
 
 As he entered the theatre, he was continuously amazed.
 
-“Amazing.”
+"This is incredible.”
 
-How could such a place be there that will gather so many people. This just seemed to be something from a different world.
+How could there be such a place that attracted so many people? This just seemed to be something from a different world.
 
 “Look brother, this movie looks really interesting.”
 
 “Sure. Come, let's go and take a look.”
 
-In truth, this was the first time for Lee Hayan to see a movie as well. Even though she got a fairly considerate allowance, and would earn her own money, she would never spend it carelessly. It was a first time for her to go to a high standard theatre to see a film.
+In truth, it was Lee Hayan first time at the theatre as well. Even though she got a fairly considerate allowance, and earned some of her own money, she would never spend it carelessly. Seeing a film at a theatre was an expense she'd never been able to justify.
 
 “So many films.”
 
-“Which are the more recent in popularity?”
+“Which are the most popular ones?”
 
-“ Thereare posters all over.” (would prefer 'A good man's end'. But this is direct...)
+“There are posters all over for one called 'A Good Man's End'.”
 
-“Let's go, it sounds like fun.”
+“Let's go, it sounds like fun!”
 
-Lee Hyun and Lee Hayan bought tickets after waiting for some time in line. Initially, he only knew that you had to pay money before entering the theatre; however, he also had to purchase a ticket specifically at the box office.
+Lee Hyun and Lee Hayan bought tickets after waiting for some time in line. He had known that you had to pay money before entering the theatre, but he'd had to ask an employee to learn that you had to go to the box office and buy a ticket.
 
 “So this is how it works. I knew this would happen. This is normal.”
 
-Lee Hyun had a sudden overwhelming smile. A confident smile. Yet he handed 10,000 WonWon grandly for these two tickets.
+Lee Hyun had a sudden, overwhelming smile - a confident smile - even as he got out the money for two tickets.
 
-“Two tickets for ”
+“Two tickets for 'A Good Man's End' please!”
 
-Pride from coming to a movie theatre!
+He felt pride from coming to a movie theatre! Satisfaction of being a cultured man!
 
-Satisfaction of being a cultured man!
+Having committed to this experience, it was worth every bit. Though his money was precious, spending it was still worthwhile.
 
-Having begun this moment, it was worth every bit. Though it is precious, spending the money is still worthwhile.
-
-Smiling sweetly, the employee said.
-
-“3:30 show for 2 Adult tickets. Correct?”
+Smiling sweetly, the employee said, “3:30 show for 2 adult tickets, correct?”
 
 “Yes.”
 
-“Do you have a discount card or a credit card?” (discount might mean debit)
+“Do you have a membership card or a credit card?”
 
 “Huh?”
 
-Lee Hyun was baffled.
-
-Credit card and discount card!
-
-A quite significant sounding name, the mention of those words.
+Lee Hyun was baffled. Credit card and membership card! Those sounded significant.
 
 “What is that supposed to mean?”
 
-“Oh. Yes. MK capital, or carrier card, credit cards, or choose a discount.”
+“Oh. Yes, we have a membership program where you pay to join and get discounts for movies. Some credit cards offer it for free as a benefit.”
 
-“Then, if that's the case, how much of a discount...”
+“Then, if that's the case, how much of a discount...” Lee Hyun asked hesitatingly.
 
-Lee Hyun asked hesitatingly.
-
-The staff member laughed heartily. It was a smile bright enough to pick up your spirits.
+The staff member laughed heartily. It was a smile bright enough to pick up his spirits.
 
 “2,000 Won per person.”
 
@@ -98,23 +82,19 @@ The staff member laughed heartily. It was a smile bright enough to pick up your 
 
 At that time, Lee Hyun exposed his rotten smile!
 
-7,000 Won movie tickets for 2,000 Won; a discount that cannot be ignored.
-
-For 2,000 Won per person, a total discount of 4,000 Won!
+10,000 Won movie tickets for 8,000 Won; a total discount of 4,000 Won!
 
 But there was no card for Lee Hyun.
 
 Credit cards were mainly used for the wholesale market, and he was without one since he did not fit the requirements to be issued with a credit card.
 
-The debt was paid off, but his record remained, and no credit means no card issued.
-
-Not even a cell phone.
+The debt was paid off, but years of overdue bills and no reported income had left his credit history in shambles. And no credit score meant no credit card. He still couldn't even get a cell phone plan!
 
 “Hayan.”
 
 He looked to his sister for help, but her head was shaking; it was the same for her.
 
-A highschooler without a cell phone, or a card.
+A highschooler without a cell phone or a card.
 
 Eventually, Lee Hayan grabbed Lee Hyun's arm to get his attention.
 
@@ -134,19 +114,17 @@ A grand move!
 
 “Hope you find a good spot, sir.”
 
-The theatre staff found it interesting as the two siblings went to find good seats during the time remaining. For a 3:30 pm showing, there was still 1 hour and 20 minutes left. Lee Hyun attended his sister as they went inside the movie theatre. There is a comprehensive game room and a place where you can buy popcorn and squid.
+The theatre staff found it interesting as the two siblings went to find good seats during the time remaining. For the 3:30 pm showing, there was still 1 hour and 20 minutes left. Lee Hyun attended his sister as they went inside the movie theatre. There was a comprehensive game room and a place where you can buy popcorn and squid.
 
 'That squid is almost half the price of the film. Popcorn is so expensive.'
 
-This place, there is no sense to it.
+This place, there was no sense to it. The selling price of a bucket of popcorn and a coke in the movie theatre was more expensive than the price of the ticket!
 
-The selling price of popcorn and coke in the movie theatre is more expensive than the price of the ticket!
-
-Lee Hyun looked around and noticing the game room, led his sister to it.
+Lee Hyun looked around and, noticing the game room, led his sister to it.
 
 “Until it is time for the entertainment, let's wander around.”
 
-“Yeah, yeah.”
+“Yeah, sounds good.”
 
 The two went inside the game room.
 
@@ -156,115 +134,103 @@ Again Lee Hyun was amazed.
 
 Royal Road is the ideal of the mainstream world.
 
-In virtual reality, you can achieve anything. For the simple entertainment from an old machine, a simple screen will appear with hand controls that costs 1,000 Won for each use. You pay cash and also calculate the amount taken since it gives none back. This is an environment to waste your money in just moments.
+In virtual reality, you can achieve anything. But even for this simple entertainment from an antiquated machine, with just a simple screen and hand controls, it cost 1,000 Won for each use. You had to pay cash, and you had to be careful how much you gave since it gave no change. This was clearly an environment designed to waste your money in just moments.
 
 'These crooks!'
 
-Lee Hyun gave out a sad sigh.
-
-The world of entertainment was not able to give a peace of mind.
+Lee Hyun gave out a sad sigh. The world of entertainment was not able to give him peace of mind.
 
 This over-inflation of prices!
 
-Money earned from blood and sweat spilled by blowing on a few moments of entertainment was good for nothing.
+He couldn't enjoy himself if the money he'd earned from blood and sweat was being blown on a few moments of entertainment.
 
 “Older brother, which game would do?”
 
 “Well, let's have a go at it.”
 
-The best entertainment at this point for Lee Hyun would be the one that looks the cheapest. Some kind of tennis game for two people to compete against each other to win. At the game, Lee Hyun's hand trembled. Playing by putting money into it.
+The best entertainment at this point for Lee Hyun would be the one that looked the cheapest. It was some kind of tennis game for two people to compete against each other. At the game, Lee Hyun's hand trembled. 
 
-This was absolute fear.
+He had to put money into it. This was his absolute fear. He felt pain, terrible pain, as money left his pocket!
 
-Pain, terrible pain, as money leaf his pocket!
+By comparison, Lee Hyun would not have trembled at even the most terrifyingly thriller movie ever. Lee Hyun and his younger sibling paying for a game. The cheapest one was 500 Won. It would take incredible strength of will to hang in there for 1 hour with a game that normally took 2 minutes. As soon as someone won two rounds, the game would stop, and his money would go down the drain.
 
-Probably at seeing the most terrifyingly thriller movie ever, he still would not have been afraid. Lee Hyun and his younger sibling paying for a game. The cheapest one was 500 Won. Will have to be strong to hang in there for 1 hour in a game that normally takes 2 minutes. If against the other sibling, two more wins, then it's all gone! Money going down the drain.
-
-Lee Hyun went rigid in the face as he smiled.
-
-“This is boring, let's look at a different game.”
+Lee Hyun went rigid in the face, yet managed a smile. “This is boring, let's look at a different game.”
 
 “Yes, brother.”
 
-Lee Hyun now found a game that was not a competition type.
+Lee Hyun now found a game that was not a competition type. 'This game is preferable; as long as you keep making progress, you don't have to pay again!'
 
-'This game is preferable; as long as you can contribute something.... everything is free!'
-
-He found an airplane game.
-
-The objective of the game is to fly a plane and shoot down enemy aircraft by firing missiles. This was popular in the 20th century, and even now people are still enjoying classic games with simple operation.
+The game he found was a flight simulator. The objective of the game was to fly a plane and shoot down enemy aircraft by firing missiles. This was popular in the 20th century, and even now people still enjoyed classic games like this with simple operation.
 
 “Let's try doing this.”
 
 Lee Hyun was delighted as he sat in front of the game.
 
-Two people can play this game together by inserting 1,000 Won.
+Two people could play this game together by inserting 1,000 Won.
 
-'Can withstand 1 hour with this!'
+'I can withstand 1 hour with this!'
 
-The first mission was to attack the enemy's aircraft character. Flying proudly and shooting down enemy planes while timely not attacking friendly bombers. Victory was not difficult. But the astronauts that came from the second mission were unknown. An extremely fast UFO ride in a ship emitting laser beams covering the full screen! Missile, surface-to-air-missile; but regardless, the inexpensive loss is behind me.
+The first mission was to attack the enemy's aircraft. Hyan and Hyun flew proudly and shot down enemy planes while being careful not to attack friendly bombers. Victory was not difficult. But the space theme of the second mission were unexpected. It was an extremely fast UFO ride in a ship emitting laser beams covering the full screen! Suddenly, a missile, a surface-to-air-missile! Yet, Hyun managed to put the inexpensive loss behind him.
 
 “Keoheok!”
 
 “Haha! This is fun!”
 
-Lee Hyun endured as his younger sibling was enjoying herself.
-
-'Since my sister likes this.'
+Lee Hyun endured as his younger sibling was enjoying herself. 'My sister seems to like this.'
 
 They played the airplane game once then went off in search of a different game.
 
-[Find what is wrong with this picture!]
+@<b>{Find what is wrong with this picture!}
 
-A game that could last a really long time. First of all, it is necessary to have to pay for two people. Two people can simultaneously watch and search the screen till one of them finds it. When you succeed past 10 stages, you can win a teddy bear. His eyes were getting bloodshot from seriously looking for what was wrong in the picture, yet Lee Hyun was feeling severely betrayed. It is like finding a pearl from the ocean!
+This was a game that could last a really long time. You had to pay for two people, but then those two people could search the screen till one of them found the thing. If you got past 10 stages, you could win a teddy bear. 
 
-Lee Hyun took this as a very demanding challenge. For the money spent, get that doll! But then this stage was even trickier. Find the missing piece of puzzle in the sand! Find different leaves in a forest pattern! What island is not on the world map! Find an ant with 4 legs!
+But, after a few stages, his eyes were getting bloodshot from studiously looking for what was wrong in the picture, and Lee Hyun was feeling severely betrayed. It was like finding a pearl in the the ocean!
 
-It appeared that the mission was only to make him completely frustrated. If you cannot find it in the time limit, then the money is lost; it was like his life was dying off bit by bit. Whenever the two failed, the amount increased. The picture searching game was set to eat money at a horrible speed.
+Lee Hyun took this as a very demanding challenge. For the money spent, he had to get that doll! But then the next stages were even trickier. Find the missing piece of puzzle in the sand! Find different leaves in a forest pattern! What island is not on the world map! Find an ant with 4 legs!
 
-But Lee Hyun carried on in patience.
+It appeared that the mission was only to make him completely frustrated. If you could not find it in the time limit, then the money would lost; it was like his life force was being torn away bit by bit. Whenever the two failed, the damage increased. The picture searching game was set to eat money at a horrible speed.
 
-To use up money is the poison of youth.
+But Lee Hyun carried on in patience. To use up money was the poison of youth.
 
 'I will find you no matter what.'
 
-At this point, the money far exceeded the value of the doll. Nevertheless, one more hurdle was passed. So now to the final stage. Lee Hyun stared unblinkingly and waited. Finally, what appeared from the next scene...
+At this point, the money spent far exceeded the value of the doll. Nevertheless, one more hurdle was passed. Then, they were on to the final stage. Lee Hyun stared unblinkingly and waited. Finally, what appeared from the next scene...
 
-Find a specific Star within the Milky Way!
+@<b>{Find the missing star within the Milky Way!}
 
 'Crap!'
 
-Lee Hyun was forced to abandon. Even with this, it's too much. At least tens of thousands of stars, how will you know If some are missing somewhere in the middle.
+Lee Hyun was forced to abandon his mission. This was too much. There were at least tens of thousands of stars -- how would he know one was missing somewhere in the middle?
 
 'What hardship!'
 
-He felt naive, to believe that he could get a teddy bear from [finding what was wrong with the picture], he must have been a fool. There was a time when doing the work was fun in itself.
+He felt naive! To believe that he could get a teddy bear from this picture game, he must have been a fool. The game was clearly rigged.
 
-'I guess Royal Road is the only proper one to go with.'
+'I guess Royal Road is the only proper game to go with.'
 
-From then on, Lee Hyun decided to just find a game that was simple enough. But there weren’t many games. If 2 players determined victory, then the game wouldn't last for long.
+From then on, Lee Hyun decided to just find a game that was simple enough. But there weren’t many games that weren't a contest between players. And once someone won, those games would end.
 
 'I can't spend more money, is there not a single game that can last a little longer?'
 
-Then Lee Hyun saw a Tokyo dancing game and felt that was the one. You first go into a small room in order to play. You take actions according to the instructions listed and all related behaviors are shown on the centre of the screen. It was a dance competition; you compete by scores after the game.
+Then Lee Hyun saw a Tokyo dancing game and felt that it was the one. You would first go into a small room in order to play. Then, you'd take actions according to the instructions listed on a screen. It was a dance competition; you would compete by scores after the game.
 
 'This will be difficult.'
 
-Lee Hyun saw that the instructions appearing before the eyes and the flow is so fast that the movements are miraculous. Move your hands vaguely and move your feet on the ground as you ride the rhythm of the beat, the body even more superbly, the flamboyant dance moves were displayed on the screen.
+Lee Hyun saw that the instructions scrolled through the screen very quickly, and the flow was so fast that the current player's movements appeared miraculous. You had to move your hands to indicated positions and move your feet on the ground as you rode the rhythm of the beat. The player moved superbly as the flamboyant dance moves were displayed on the screen.
 
-A Dance showdown!
+It was a dance showdown!
 
-High school girls were surrounding them and middle school girls were gathering as they were all admiring it.
+High school and middle school girls surrounded the machine, admiring the dancing.
 
 “Oh, you should try it, older brother.”
 
 “Are you sure?”
 
-Lee Hyun was a completely noob in dancing! Well, might as well push forward. The little sister was glad to see his reaction and privately wanted to see it.
+Lee Hyun was a completely noob in dancing! 'Well, might as well push forward.' His little sister was glad to see his reaction and privately really wanted to see him dance.
 
-'There's a line, with that many people, it will be a 15 minute wait.'
+'There's a line, with that many people it will be a 15 minute wait.'
 
-Beyond this, he would rather save time. Then Lee Hyun stood at the end of the line to dance. It seemed that most of those standing in line were men. The boys had necklaces, earring and all the latest hairstyles.
+It was a long wait, but at least he wouldn't have to spend money for the next 15 minutes. So, Lee Hyun stood at the end of the line to dance. It seemed that most of those standing in line were men. The boys had necklaces, earrings, and all the latest hairstyles.
 
 'Look at this hick.'
 
@@ -274,23 +240,21 @@ Beyond this, he would rather save time. Then Lee Hyun stood at the end of the li
 
 'No. He will be embarrassing.'
 
-The boys privately glanced and mutually winked at each other. Even so, they already had their attention focused on Lee Hyun and Lee Hayan. Everyone was thrilled the moment the beautiful Lee Hayan entered the game room. An attractive and cute high school girl. Then they saw her with Lee Hyun and watched her play cheap sucker games as she smiled brightly. Everyone was in a bad mood.
+The boys privately glanced and mutually winked at each other. However, their attention had been focused on Lee Hyun and Lee Hayan for a while. Everyone was thrilled the moment the beautiful Lee Hayan entered the game room. An attractive and cute high school girl. Then they saw her with Lee Hyun and watched her play cheap sucker games as she smiled brightly. This put them in a bad mood.
 
-'This is a good way to fully embarrass him.'
+'This is a good way to totally embarrass him.'
 
-Boys who stood in line intentionally excused themselves. Thanks to that, Lee Hyun turn came quickly.
+The boys who stood in line intentionally excused themselves. Thanks to that, Lee Hyun's turn came quickly.
 
 “Brother, Good luck!”
 
 “Yeah, I'll do my best.”
 
-Lee Hyun went into the small room and his hairs stood on end. At that place, he had no idea of where to start or even choose the kind of dance. Varieties of dances according to region and time, but he lacked the fundamental knowledge. Finally Lee Hyun just selected one.
+Lee Hyun went into the small room and his hairs stood on end. He had no idea of where to start or even what kind of dance to choose. There were many varieties of dances to choose based on culture and tempo, but he lacked the fundamental knowledge. Finally Lee Hyun just selected one.
 
-Freestyle.
+Freestyle. Extreme Dance.
 
-Extreme Dance.
-
-Coincidentally, this boasts the highest level difficulty for dance. Having started, he now must press the arrows corresponding to the symbol fast and precisely to dance. The selected dance that only people of the highest level are able to do.
+This, in fact, was the highest level of difficulty for the dance machine. Having started, he then had to press the arrows corresponding to the symbols quickly and precisely to dance. The dance he'd selected was one that only people of the highest level are able to do.
 
 “Oh man, what a novice.”
 
@@ -298,21 +262,19 @@ Coincidentally, this boasts the highest level difficulty for dance. Having start
 
 “This will be totally embarrassing.”
 
-Lee Hyun's choice was reported through the screen outside, and they openly laughed at him. They were thinking that as soon as the real game starts, Lee Hyun will panic and move around wildly. People were normally overly conscious of those in line outside of the game.
+Lee Hyun's choice was shown on the screen outside, and they openly laughed at him. They were thinking that as soon as the real game started, Lee Hyun would panic and move around wildly. People were normally overly conscious of those in line outside of the game watching them.
 
-'As it is, depending on this you will not get embarrassed.'
-
-His body went full force following the unfamiliar dance moves, but as the hand and feet instructions approached, he sometimes had trouble. Various arrows of different distance caused Lee Hyun to struggle as it went even faster. Pressing to the exact moments, it was not an easy task. He executed complicated actions as his mind registered them as they occurred. The hp of Lee Hyun's character was in a rapid decline. In the background a crowd was filling the dance floor of the club. Lee Hyun's opponent was overwhelming, showing dazzling dancing skills. Then in one moment, Lee Hyun changed slightly.
+His full strength and agility was focused on following the unfamiliar dance moves, but as the hand and foot instructions approached, he sometimes had trouble. Various arrows of different distance caused Lee Hyun to struggle as it went even faster. Pressing the arrows at the exact moments was not an easy task. He executed complicated actions that his mind had only registered a fraction of a second before. The HP of Lee Hyun's character was in a rapid decline. In the background of the screen, a crowd was filling the dance floor of the club. Lee Hyun's opponent was overwhelming, showing dazzling dancing skills. Then, in one moment, Lee Hyun changed slightly.
 
 'Dancing. I don't know how to dance.'
 
-The fact is, it is not possible to suddenly do something you don't know how to. What it feels like to ride the rhythm, feel the music, he had no idea. He thought that only a highly cultured man would be able to dance this. But if this is about moving one's own body.
+The fact is, it is not possible to suddenly do something you don't know how to. What it feels like to ride the rhythm, feel the music... he had no idea. He thought that only a highly cultured man would be able to dance this. But if this was only about moving one's own body...
 
-'I wield a sword, though this is fine as I do not need one in my hand. As an opponent makes a step near to me, I walk a step contrary to them. Fighting the enemy with my hands. My foe jabs first as I strike with the palm of my own hand.'
+'I wield a sword, though there is not a physical one in my hand. As an opponent takes a step nearer to me, I walk a step contrary to them. I am fighting the enemy with my hands. My foe jabs first and I respond with a strike from the palm of my own hand.'
 
-All of a sudden, Lee Hyun's actions have changed.
+All of a sudden, Lee Hyun's actions changed.
 
-You can state that his body was excessively tense. His hands and feet had no place to go. Of the arrows that came out, he had been forced to follow the actions of the opponent, rather than precisely direct attacks. He considered the goal of moving his hands and legs and he unleashed. He was now kicking and twisting at the waste, rotating his body. His arms moved very quickly. He used his fists and elbows at very precise timing against those arrows.
+You could say that, before, his body was excessively tense. His hands and feet had no place to go. As the arrows came out, he had been forced to follow the actions of the opponent, rather than precisely directing attacks. Now, rather than referencing the arrows directly, he watched his opponent's actions on the screen and responded in kind. He was now kicking and twisting at the waste, rotating his body. His arms moved very quickly. He kept his fists and elbows in very precise timing against the arrows.
 
 Soon, Lee Hyun's movement projected through the screen.
 
@@ -320,11 +282,11 @@ Soon, Lee Hyun's movement projected through the screen.
 
 “This is amazing.”
 
-The actions were associated with dance. And this was related to music. He followed the instructions with his eyes, heard with his eyes, and he watched. From his previous actions, the tide had turned. Even though Lee Hyun's character had only 1 square of vitality left, he rebounded and overwhelmed the opponent. Exactly like in Royal Road, he was victorious; the patience in order to make sense of the situation and to counter it.
+While he was still inexperienced with dance and music, he followed the instructions with his eyes, heard with his ears, and he watched. Compared to his previous actions, the tide had turned. Even though Lee Hyun's character had only 1 square of vitality left, he rebounded and overwhelmed the opponent. Exactly like in Royal Road, he achieved victory by having the patience to make sense of the situation and to counter it.
 
 “What is that guy!”
 
-The faces of the guys in the line were completely ridiculous from shock. A complete novice that had no idea just a bit ago was making such movements and quickly become proficient.
+The faces of the guys in the line were completely ridiculous from shock. A complete novice that had no idea just a bit ago was now making the movements of a proficient player.
 
 To dance similarly and press those arrows. Extreme Dance moved too quickly, because it was impossible to resonate with the dance, and that to by swaying properly. But Lee Hyun's movements showed that he can make a new dance in response. The body flowed at an astonishing speed, while making endlessly beautiful moves.
 
