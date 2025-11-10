@@ -1,12 +1,12 @@
-==={chapter-4-the-restaurant-of-hotel-v.} Chapter 4: The Restaurant of Hotel V.
+= The Restaurant of Hotel V.
 
-From the early day, the restaurant was always bustling as the managers and employees prepared to fit in VIP customer. The wealthiest person in the Republic of Korea. An accomplished man who made his own fortune from starting with nothing; he was Chairman Kang who had made this dinner reservation. There is always some dish that you will criticize, but the head chefs and the managers knew that this one was in fact special.
+Since that morning, the restaurant had been bustling as the managers and employees prepared to accommodate a VIP customer: the wealthiest person in the Republic of Korea. An accomplished man who made his own fortune starting with nothing; it was Chairman Kang who had made this dinner reservation. It wasn't unusual for them to serve VIPs, but the head chefs and the managers knew that this one was very important indeed.
 
-It is said that Chairman Kang, a devoted husband, was rumored to be having his 40th marriage anniversary commemoration meal with his wife. The hotel was making preparation for this.
+It was said that Chairman Kang, a devoted husband, would be having his 40th marriage anniversary commemoration meal with his wife. The hotel was making preparations for this.
 
-According to the interests of Chairman Kang's wife, objects of art must first be hung on every wall, and new carpet must be spread on the floor. A band famous in the country, and even worldwide, must hold a concert; then a commemoration cake is to be made, and decorated with the light of 1,000 candles.
+According to the interests of Chairman Kang's wife, objects of art must first be hung on every wall and new carpet must be spread on the floor. A band that was famous nationally, and even internationally, would hold a concert, then a commemoration cake was to be made and decorated with the light of 1,000 candles.
 
-In regards to cooking, the preparation must promise perfection. Each ingredient, in order to maintain a level of freshness, must be transported by air from the mountainous region of a foreign nation. They go out from the kitchen and catch the airplane's flight. But the most important thing was the event that commemorates the marriage.
+In regards to cooking, they had promised perfection. Each ingredient, in order to maintain perfect freshness, had to be transported by air from the mountainous region sof a foreign nation. They went out from the kitchen to catch the airplane's flight. But the most important thing was the event that would commemorate the marriage.
 
 In order to mark the beautiful features of when Chairman Khan's wife was young, a foreign sculptor that was famous world-wide created an ice sculpture especially for this.
 

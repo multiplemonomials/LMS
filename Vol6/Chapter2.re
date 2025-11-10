@@ -188,7 +188,7 @@ Beside him were many other birds. A crow flapped his wings.
 
 “Do you know how to gather herbs? If you don't, I'll teach you about herbal medicine if you can you give me 200 gold. There is an herb I'm looking for in the north corner of a cave. If you try to dig up its roots, you could get injured, so you have to be careful.”
 
-There were many quests for the taking. She met a wide variety of bird tribes, but they all couldn't remember her. Even if the head of the family was young, they were still severely forgetful. Even though Da'in had helped the black crow tribe in the past, she had been forgotten.
+There were many quests for the taking. She met a wide variety of bird tribes, but they all couldn't remember her. Even if the head of the family was young, they were still severely forgetful. Even though Da'in had helped the black crow tribe in the past, she had been completely forgotten.
 
 As she wandered around leisurely, Da'in suddenly missed Weed.
 
@@ -265,7 +265,7 @@ Whether teachers or practitioners, the desperate struggle for love was the same.
 
 In fact, as many as 500 workers were mobilized to build the house for the girl from the flower shop. It was enough people to rebuild the entire house within a day or two.
 
-The Geomchis were already familiar with the building of a pyramid! They had worked on many things; a flower shop should be a piece of cake.
+The Geomchis were already familiar with construction due to the pyramid! They had worked on many things; a flower shop should be a piece of cake.
 
 However, the building of Selena's house by the Geomchis went very slowly.
 
@@ -275,7 +275,7 @@ However, the building of Selena's house by the Geomchis went very slowly.
 
 “What to do, this sort of thing.....”
 
-Every time Selena would say or do anything, the Geomchis were in a frenzy to just to see or talk to her. In her absence, they deliberately slowed their work until she appeared again. They only pretended to work hard.
+Every time Selena would say or do anything, the Geomchis would be set in a frenzy to just to see or talk to her. In her absence, they deliberately slowed their work until she appeared again. They only pretended to work hard.
 
 It had been about 10 days since they started on the flower shop. Even as it got closer to completion, they found more ways to avoid work.
 
@@ -293,7 +293,7 @@ Geomchi105 lamented saying farewell to Selena.
 
 Then, the instructor Geomchi3 broke into a laugh.
 
-“Fool! This is what we will do.”
+“Idiot! This is what we can do.”
 
 Geomchi3 violently brandished his sword and threw it into the flower shop's wall, demolishing it.
 
@@ -303,7 +303,7 @@ The Geomchis gathered at the disturbance, then began clapping.
 
 “This is the best!”
 
-“That was an excellent idea!”
+“That is an excellent idea!”
 
 Crashing sounds reverberated around the city block as the flower shop that the Geomchis worked hard to build was broken. By the time Selena returned, the nearly completed store had been destroyed.
 
@@ -325,7 +325,7 @@ The Geomchis' criteria for selecting these jobs was simple. A woman with a prett
 
 “Hijuk, she smiled at me!”
 
-At the construction ground, the Geomchis worked hard in building up the bricks. Solely to see girls, they worked hard to build a house, a noble intention. Across the Serabourg citadel, many tanned laborers with their shirts off could be seen.
+At the construction grounds, the Geomchis worked hard to place rows of bricks. Solely to see girls, they worked hard to build houses, a noble action despite their motivations. Across the Serabourg citadel, many tanned laborers with their shirts off could be seen.
 
 Between the pyramid and these houses, the Geomchis had now laid down huge amounts of stone and bricks.
 
@@ -341,7 +341,7 @@ With this skill, no matter how many bricks are stacked, it can be done neatly.
 
 Architectural skills!
 
-Architect was fairly difficult class to categorize -- was it a design profession, or a manufacturing one? In fact, no player had publicly announced becoming an Architect yet.
+Architect was a fairly difficult class to categorize -- was it a design profession, or a manufacturing one? In fact, no player had publicly announced becoming an Architect yet.
 
 However, just as Weed's exceptional dexterity had brought about his skillfulness in cooking, the Geomchis' extreme efforts in construction caused them to learn architect skills. They obtained Bricklaying and Landscaping, as well as a great increase in the strength stat. In order to raise the architecture skills, the Geomchis had to complete requests by shoveling the ground and piling up bricks.
 
@@ -372,7 +372,7 @@ Near the capital of Rosenheim kingdom, Baron Arias owns a fairly big town. Becau
 Quest has been refused.
 //}
 
-For some time, the Geomhis refused quests without even looking.
+For some time, the Geomchis refused quests without even looking.
 
 “What are we, your servants?”
 
@@ -407,7 +407,7 @@ Faith: 10	Attack: 1340
 Defense: 195	
 Magic Resistance:	
 Fire: 20%	Water: 20%
-Earth: 20%	Black magic: 20%
+Earth: 20%	Dark Magic: 20%
 //}
 
 Then, suddenly a nameless challenger came before Geomchi.
@@ -478,13 +478,13 @@ To become true warriors, the Geomchis separated and departed from Rosenheim King
 
 A typical occasion at the University of South Korea!
 
-Professional gamers typically have little expectation that their application would be accepted. But if by some miracle the application actually was accepted, their troubles only become greater.
+Professional gamers typically have little expectation that their application would be accepted. But if by some miracle the application actually was accepted, their troubles would only become greater.
 
 “Older brother, honestly I have something to tell you....”
 
 Lee Hayan felt conflicted as she held the letter of acceptance. Today was the day of Lee Hyun's interview at the University of Korea. However, she still hadn't told him about filing an application on his behalf.
 
-“I can't hold it off any longer, got to do it....”
+'I can't hold it off any longer, got to do it...'
 
 After agonizing for a long time, Lee Hayan eventually had to let it all out. It was a difficult situation!
 
@@ -506,7 +506,7 @@ Lee Hayan bowed her head and sulkily said.
 
 “The thing is... I actually turned in an application form. We need to hurry and get to the college on time... There are many people trying to enter nowadays.”
 
-Lee Hyun had heard too often of these university admissions. There are often more applicants than there are spots to be filled.
+Lee Hyun had heard too often of these university admissions processes. There are often more applicants than there are spots to be filled.
 
 Lee Hyun nervously asked.
 
@@ -562,7 +562,7 @@ Hyun and Hayan lavishly arrived in a taxi at the University of South Korea. It w
 
 As they walked towards the admissions building, Hayan's brain began to work overtime, going over their conversation earlier once again. She didn't understand how her brother had been so easygoing about the whole thing.
 
-She hadn't ever seen him really show interest in the academic study of VR before. She had just picked this major because he had the qualifications to apply for it. She had expected her brother's stubborn and frugal attitude to make this difficult.
+She hadn't ever seen him really show interest in academic study before. She had picked the VR major for him because he had the qualifications to apply for it. She had expected her brother's stubborn and frugal attitude to make this difficult.
 
 Lee Hyun, meanwhile, seemed completely delighted as he waited for the interview.
 
@@ -572,7 +572,7 @@ Lee Hyun, meanwhile, seemed completely delighted as he waited for the interview.
 
 But this was no time for such a confession, she thought. ‘Older brother, I'm sorry, but this issue will have to be put on hold.’
 
-Lee Hayan was at once quiet. Already things were in motion. The time had come, and at this point there was no chance to return back home. All of a sudden, a cold sweat appeared on Lee Hayan's forehead. She wished fervently that she could do this at a later time.
+Lee Hayan was at once quiet. Already things were in motion. The time had come, and at this point there was no chance to return back home. All of the sudden, a cold sweat appeared on Lee Hayan's forehead. She wished fervently that she could do this at a later time.
 
 “Are you okay?”
 
@@ -620,9 +620,9 @@ Lee Hayan secretly slipped away by pretending to go to the bathroom. Oblivious, 
 
 Staring at the time, he wanted a way to completely stop it, even though such a thing was impossible.
 
-‘This could interfere with Hayan's future... And of all things, an upset stomach... I'm responsible! Something must have be strange with the rice I served earlier.’
+‘This could interfere with Hayan's future... And of all things, an upset stomach... I'm responsible! Something must have been strange with the rice I served earlier.’
 
-His fingers were trembling slightly from the suspense. Lee Hayan did not appear from the restroom in the 3 minutes approaching the interview with the professors. The female assistant came over and said:
+His fingers were trembling slightly from the suspense. Lee Hayan did not appear from the restroom in the 3 minutes remaining until the interview with the professors. The female assistant came over and said:
 
 “Are you the person who came for the interview? The professors are waiting.”
 
@@ -650,13 +650,13 @@ After 10 minutes passed, Lee Hayan still did not appear. At that time she had co
 
 The assistant teacher thought that this pair of siblings was really strange.
 
-Waiting for his sister before he goes to the interview, she could not understand Lee Hyun. Then his sister gave her another odd request.
+Waiting for his sister before he want to the interview? She could not understand Lee Hyun. Then his sister gave her another odd request.
 
 However, the professors were waiting in the interview room.
 
 “Will you tell him?”
 
-“Yes, I accept.”
+“Yes, I can do that.”
 
 The assistant went to Lee Hyun and spoke.
 
@@ -716,7 +716,7 @@ Lee Hyun began to speak at length about his family history. For the sake of Lee 
 
 So in order to buy time until his sister arrived, he spoke of their story of suffering from the beginning of their youth. He told them of how his family lived in poverty and how he and his sister grew up one paycheck away from eviction. However, he couldn't talk about his sister's life without also giving his own background.
 
-How the loan sharks had never let him feel safe. How he fought to somehow protect his family by earning money at the gas station and doing other under-the-table work he was not supposed to do. The professors listened to Lee Hyun in silence. 
+How the loan sharks had never let him feel safe. How he fought to somehow protect his family by earning money at the gas station and doing other under-the-table work illegally. The professors listened to Lee Hyun in silence. 
 
 By now, the interview had gone on longer than usual and taken on a very different tone. The format is normally that the professor would throw out a question and the candidate would answer back. But now Lee Hyun spoke of how he lived in his rambling story, and the faculty just listened.
 
@@ -782,7 +782,7 @@ Lee Hyun found his sister. She was sitting on the bench near the bathroom, and s
 
 Lee Hyun did not know how to comfort his sister. Of all things, for her to become sick at such a time!
 
-“In my own way, I tried to explain... To get you in, I tried to speak about our situation in the interview.”
+“In my own way, I tried to explain... To get the application through, I tried to speak about our situation in the interview.”
 
 “What situation.”
 
@@ -796,9 +796,9 @@ She thought he would feel angry at the fact he was deceived, but he seemed more 
 
 Lee Hayan decided to go with a general statement first.
 
-“It's okay brother. Believe that it went well, and nothing more can be done anymore.”
+“It's okay brother. Believe that it went well, and nothing more can be done about it.”
 
-“Yes, I could, but.... yeah. I acted foolishly, but it has already passed.”
+“Yes, I could, but.... yeah. I acted foolishly, but it's water under the bridge now...'”
 
 On the way out, as they were exiting through the gate of the university, Lee Hayan momentarily flinched.
 
