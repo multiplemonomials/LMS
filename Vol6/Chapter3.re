@@ -152,7 +152,7 @@ The best entertainment at this point for Lee Hyun would be the one that looked t
 
 He had to put money into it. This was his absolute fear. He felt pain, terrible pain, as money left his pocket!
 
-By comparison, Lee Hyun would not have trembled at even the most terrifyingly thriller movie ever. Lee Hyun and his younger sibling paying for a game. The cheapest one was 500 Won. It would take incredible strength of will to hang in there for 1 hour with a game that normally took 2 minutes. As soon as someone won two rounds, the game would stop, and his money would go down the drain.
+By comparison, Lee Hyun would not have trembled at even the most terrifying thriller movie ever. Lee Hyun and his younger sibling paying for a game. The cheapest one was 500 Won. It would take incredible strength of will to hang in there for 1 hour with a game that normally took 2 minutes. As soon as someone won two rounds, the game would stop, and his money would go down the drain.
 
 Lee Hyun went rigid in the face, yet managed a smile. “This is boring, let's look at a different game.”
 
@@ -188,7 +188,7 @@ But, after a few stages, his eyes were getting bloodshot from studiously looking
 
 Lee Hyun took this as a very demanding challenge. For the money spent, he had to get that doll! But then the next stages were even trickier. Find the missing piece of puzzle in the sand! Find different leaves in a forest pattern! What island is not on the world map! Find an ant with 4 legs!
 
-It appeared that the mission was only to make him completely frustrated. If you could not find it in the time limit, then the money would lost; it was like his life force was being torn away bit by bit. Whenever the two failed, the damage increased. The picture searching game was set to eat money at a horrible speed.
+It appeared that the mission was only to make him completely frustrated. If you could not find it in the time limit, then the money would be lost; it was like his life force was being torn away bit by bit. Whenever the two failed, the damage increased. The picture searching game was set to eat money at a horrible speed.
 
 But Lee Hyun carried on in patience. To use up money was the poison of youth.
 
@@ -226,7 +226,7 @@ High school and middle school girls surrounded the machine, admiring the dancing
 
 “Are you sure?”
 
-Lee Hyun was a completely noob in dancing! 'Well, might as well push forward.' His little sister was glad to see his reaction and privately really wanted to see him dance.
+Lee Hyun was a complete noob in dancing! 'Well, might as well push forward.' His little sister was glad to see his reaction and privately really wanted to see him dance.
 
 'There's a line, with that many people it will be a 15 minute wait.'
 

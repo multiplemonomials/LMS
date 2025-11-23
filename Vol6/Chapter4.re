@@ -6,19 +6,19 @@ It was said that Chairman Kang, a devoted husband, would be having his 40th marr
 
 According to the interests of Chairman Kang's wife, objects of art must first be hung on every wall and new carpet must be spread on the floor. A band that was famous nationally, and even internationally, would hold a concert, then a commemoration cake was to be made and decorated with the light of 1,000 candles.
 
-In regards to cooking, they had promised perfection. Each ingredient, in order to maintain perfect freshness, had to be transported by air from the mountainous region sof a foreign nation. They went out from the kitchen to catch the airplane's flight. But the most important thing was the event that would commemorate the marriage.
+In regards to cooking, they had promised perfection. Each ingredient, in order to maintain perfect freshness, had to be transported by air from the mountainous regions of a foreign nation. They had sent a car out from the kitchen to catch the airplane's flight. But the most important thing was the centerpiece that would commemorate the marriage.
 
-In order to mark the beautiful features of when Chairman Khan's wife was young, a foreign sculptor that was famous world-wide created an ice sculpture especially for this.
+In order to show the beautiful features of when Chairman Khan's wife in her heyday, a foreign sculptor who was famous world-wide had created an ice sculpture especially for this.
 
 It was a beautiful woman in ice!
 
-At the North Pole, this ice statue was made from arctic ice. The surface shone like a white gem. It took far longer than 20 days to mold the face into the ice. Not even a single rough spot on the ice surface could be found. Under the ornate chandeliers, the light reflected and refracted in sweet rolling waves.
+This statue was made from arctic ice that had been collected from the North Pole. The surface shone like a white gem. It had taken far longer than 20 days to mold the face into the ice. Not even a single rough spot on the ice surface could be found. Under the ornate chandeliers, the light reflected and refracted in sweet rolling waves.
 
 “So pretty.”
 
 “It was rumored that a guy like Chairman Kang would prepare such an event for his beloved wife.”
 
-The hotel employees were quite enviable as they prepared for the event. Chairman Kang was to have his meal on the table in front of the beautiful ice woman. However, as they were loading it and placing it near the table, the glass of the window broke and it fell on to the floor. As it fell, it shattered.
+The hotel employees were quite envious as they prepared for the event. Chairman Kang was to have his meal on their best table in front of the beautiful ice woman. However, they hadn't quite considered the statue's weight -- when they placed it on the glass table, the table creaked ominously, then began to bend and finally broke. The beautiful sculpture fell onto the floor and shattered.
 
 The manager was in disbelief.
 
@@ -26,93 +26,87 @@ The manager was in disbelief.
 
 “I'm sorry.”
 
-“Sorry, is that all you got to say?”
+“Sorry? Is that all you got to say?”
 
-The incident of the ice statue breaking called for even the General Manager of the hotel. The Manager of the hotel, who could be held responsible for the restaurant, appeared in front of the people in order to directly hear of this matter. The General Manager collapsed to the ground as she saw the broken lumps of ice on the ground; it was hopeless.
+The incident of the ice statue breaking brought out the General Manager of the hotel. The manager, who was also responsible for the restaurant, appeared in front of the people to directly assess this matter. The General Manager collapsed to the ground as she saw the broken lumps of ice on the ground; it was hopeless.
 
-The neck of the statue was broken. The damage to the nose, mouth and eyes was so severe that it was impossible to repair. In addition, several parts of it were broken; it was barely possible to recognize the shape of the beautiful ice woman.
+The neck of the statue was broken. The damage to the nose, mouth and eyes was so severe that it was impossible to repair. In addition, several parts of it were shattered into powder; it was barely possible to recognize the shape of the beautiful ice woman.
 
-“How are we going to afford the wrath of Chairman Kang.... Chairman Kang is an express VIP. He Wont be satisfied with our services. Based on rumors alone, the hotel's revenue will decrease dramatically and it will be the end of us.”
+“How are we going to afford the wrath of Chairman Kang.... He's an absolutely top-level VIP, and he is going to hate us for this. All he'd have to do is spread rumors about us across his companies and connections, and the hotel's revenue would decrease so dramatically that we'd have to close.”
 
-“Even now, no matter how we try to repair it...”
+“Even now, is there some way to repair it...?”
 
-“Repairs? What good will this ice do? The event is canceled. Have all the chefs prepare the best dishes they can. Hopefully, we can satisfy Chairman Kang through our quality of service and try to be victorious over this setback.”
+“Repairs? It's a lump of snow at this point! This centerpiece is history. Have all the chefs prepare the best dishes they can. Hopefully, we can satisfy Chairman Kang through our quality of service and try to be victorious despite this setback.”
 
-The General Manager somehow did everything she could to sort out the situation. But the staff could do nothing but be nervous.
+The General Manager somehow did everything she could to sort out the situation. But the staff could do nothing but worry.
 
 “We are preparing this event for Chairman Kang. We have decorated our hotel as he requested, be calm.”
 
-“How did we do that, even in the least?”
+“How did we let this happen?”
 
-“Really, You have no right to cancel the event yourself. Chairman Kang must acknowledge that beforehand, General Manager.”
+“Per the terms of the contract, we really can't make such a change to the dinner plans ourselves. Chairman Kang must acknowledge that beforehand, General Manager.”
 
 “Ugh.”
 
-The General Manager breathed in a deep sigh. The manager provided courteous services to hoteliers and impressed clients; now she's currently in her late 30s. She's gone through many challenges for the sake of the hotel, but this was a first time for a setback like this. And that too with Chairman Kang, no less.
+The General Manager breathed in a deep sigh. The manager had provided courteous services to hoteliers and impressed many clients; she was now currently in her late 30s. She'd gone through many challenges for the sake of the hotel, but this was the first time she'd had a disaster of this magnitude. And with Chairman Kang, no less.
 
-To someone who was called a representative of Aechoga, if he knew that his 40th wedding anniversary event was ruined, he will not stand for it silently, more like a scorching fire. The general manager considered,
+This person, if he knew that his 40th wedding anniversary event was ruined, would not stand for it silently. He was more likely to call down a scorching fire on them. 
 
-‘There must be a way to rectify this. Can't possibly get much worse than this, the only thing you can do is try.’
+The general manager considered, ‘There must be a way to rectify this. It can't really get worse, so the only thing you can do is try.’
 
-“Get a sculptor! Fix the ice as much as possible somehow before Chairman Kang arrives within the hour. Anyway, these broken parts. Polish and attach it back to the ice.”
+“Get a sculptor! Fix the ice as much as possible somehow before Chairman Kang arrives within the hour. Collect and chill the broken parts. Polish and attach them back to the ice.”
 
 “But we only have 30 minutes left.”
 
-Lee Hyun and Lee Hayan were watching the turmoil. At first, when the ice came he thought it was a very pretty sculpture. Then that sculpture cracked and the series of events that occurred due to it turned the restaurant into a frantic mess. Walking around the manager, they jumped back and forth as all the pieces of ice on the floor were rolling around.
+Lee Hyun and Lee Hayan were watching the turmoil. At first, when the ice arrived he thought it was a very pretty sculpture. Then that sculpture broke and the restaurant turned into a frantic mess. Now, they took a closer look, stepping carefully to avoid the pieces of ice on the floor.
 
-The employee that caused the problem did not know what to do; his face was pale. Tears started dripping down.
+The employee that caused the problem did not know what to do; his face was pale. Tears started dripping down his face.
 
-Then as she watched them and felt pity, she carelessly commented.
+Then as Hayan watched them and felt pity, she carelessly commented. “Ah, my brother, his profession is a sculptor. Would you not help these people?”
 
-“Ah brother, brother's profession is a sculptor. Would you not help these people?”
+The Legendary Moonlight Sculptor.
 
-The Legend of the Moonlight Sculptor.
+That was in Royal Road, and Lee Hyun had barely mentioned it to her. But Lee Hayan never forgot. The employees at the front counter perked up immediately.
 
-That was in Royal Road, and Lee Hyun had barely mentioned it to her. Lee Hayan never forgets. The employees at the front counter did not miss the chance to hear it.
-
-“Guests. Huh, our guest is a sculptor? Then please help us, even if only a little.”
+“Our guest... is a sculptor? Then please help us, even if you can only do a little.”
 
 “.....”
 
-Lee Hyun did not say anything. But, the staff heard the comment and the General Manager came running up. As she first saw Lee Hyun, she was suspicious as he was too young. Yet, in a situation like this, you can afford to take liberties. A sculptor is not a job that can be easily found in real life. It was not possible to obtain one in 30 minutes, but with one readily brought to you?
+Lee Hyun did not say anything. But, the staff had heard the comment and soon the General Manager came running up. As she first saw Lee Hyun, she was suspicious as he was too young. Yet, in a situation like this, you have to seize any opportunity. A sculptor is not a profession that could be easily found in real life. It was not possible to obtain one in 30 minutes, but with one readily brought to you?
 
 The general manager begged.
 
-“Please help us. Please.”
+“Please help us. Please. I ask that you repair the ice carving.”
 
-“I ask that you repair the ice carving.”
+The employees looked so miserable. Lee Hyun couldn't possibly deny this request from these men and women. An accident that someone else caused, how could he become responsible? But now his sister was watching. At the very least, he did not want to be inhumane in front of his sister.
 
-The employees.
+@<embed>{|html|<hr/>}
 
-It was inevitably; Lee Hyun couldn't possibly deny this request from these men and women. An accident that someone else caused, how could he become responsible? But now his sister was watching. At the very least, he did not want to be inhumane in front of his sister.
-
-* * *
-
-Mr. and Mrs. Kang arrived exactly 30 minutes later, along with their secretary and attendants. You could feel that Chairman Kang was a stubborn, old man. He and his wife came finely dressed in traditional Korean clothing. The food was set out according to the reservation, and the manager greeted them with a smiling face.
+Mr. and Mrs. Kang arrived exactly 30 minutes later, along with their secretary and attendants. You could feel that Chairman Kang was a stubborn, old man. He and his wife came finely dressed in traditional Korean clothing. The food was set out according to the plan, and the manager greeted them with a smiling face.
 
 “Have a good time.”
 
 Over 100 candles were lit in the place.
 
-“I'm grateful. Hmm, are you set as per the order?”
+“I'm grateful. Hmm, are you set up as per the order?”
 
 “Yes. They will arrive shortly.”
 
-Today of all days, Chairman Kang was in an unusually good mood. This was because his wife was pleased. During their 40 years of married life, there had been a lot of twists and turns. This place today was where they wished to commemorate all the time they've been together.
+Today of all days, Chairman Kang was in an unusually good mood. This was because his wife was pleased. During their 40 years of married life, there had been a lot of twists and turns. This place today was where they wished to commemorate all the time they'd been together.
 
 Chairman Kang sat in his place and commented.
 
-“Quickly give out as I planned. We will take our meal now; I want to surprise my wife.”
+“Quickly continue as I planned. We will take our meal now; I want to surprise my wife.”
 
 “Yes. We will do so.”
 
-As they ate and drink, the manager did not lose her friendly smile, even though she was sweating. The food itself, the staff was bright and cheerful, and the band was playing. About the time the meal started, Chairman Kang had a slightly ambiguous smile as he asked his wife.
+As they ate and drink, the manager did not lose her friendly smile, even though she was sweating. The food itself looked incredible, the staff was bright and cheerful, and the band was playing. 
 
-“Is this not fun?”
+About the time the meal started, Chairman Kang had a slightly ambiguous smile as he asked his wife, “Is this not fun?”
 
 “Yes. I'm glad. This restaurant has quite a good atmosphere.”
 
-The Chairman unseemly scratched his head at his wife's answer. No matter how big his business got, he was still no different to his wife since the time of their youth. For 40 years, believing in his happy marriage, he was able to spend all of his driving force and concentration on his business. The pale face of Chairman Kang's wife was slightly blushing. A smile surfaced on his face full of wrinkles.
+The Chairman unseemly scratched his head at his wife's answer. No matter how big his business got, he was still no different to his wife since the time of their youth. For 40 years, getting strength from his happy marriage, he was able to spend all of his driving force and concentration on his business. The pale face of Chairman Kang's wife was slightly blushing. A smile surfaced on his face full of wrinkles.
 
 “However, it is a bit awkward coming to a place like this at our age.”
 
@@ -138,137 +132,135 @@ Chairman Kang was displeased as a frown covered his face. He had ordered the wor
 
 'Such a mistake would not happen now.'
 
-His eye then noticed the carpet below the table. What was quickly cleaned, the carpet was wet.
+His eye then noticed the carpet below the table. Though it had been quickly cleaned, the carpet was wet.
 
 'It's not possible... the ice broke?'
 
 In his anger, Chairman Kang was about to get up.
 
-Then there came Lee Hyun. Carrying carving tools, including a hammer and a chisel, he at first tried to repair the ice sculpture. Yet, the shock made cracks which traversed throughout its entirety. The statue was not able to stand upright. With the damage to the neck and face from the fall, it was already impossible to regain the original appearance through repairs. Eventually, the restaurant spent their effort in preparing more ice within the 30 minutes, and it worked.
+Then there came Lee Hyun, carrying carving tools, including a hammer and a chisel.
 
-This is not a sculpture, but a complete mass of ice.
+At first, he had tried to repair the ice sculpture. Yet, the shock made cracks which traversed throughout its entirety. The statue was not able to stand upright. With the damage to the neck and face from the fall, it was already impossible to regain the original appearance through repairs. 
 
-Lee Hyun was holding the carving tools in front of the ice. A cold chill puffed out from the lump of ice. For a sculptor to make a more than precious work, what is fundamental is the materials used.
+Eventually, the restaurant spent their effort in procuring a new block of dry ice within the 30 minutes, and it worked. But it was not a sculpture, but a complete mass of ice.
 
-Lee Hyun touched the ice with a glove-less hand. It was said it would be cold. A proud and unbroken rough chunk of it!
+Lee Hyun was holding the carving tools in front of the ice. A cold chill puffed out from the lump of ice. For a sculptor to make a more than precious work, what was fundamental was the materials used.
+
+Lee Hyun touched the ice with an ungloved hand. As expected, it was cold.
 
 'It's not that much different.'
 
-It was not that different from the natural ice he used from the Mora province.
+It was not that different from the natural ice he'd used in the Morata province.
 
 'Then I can do it.'
 
 It was his first time making a statue in real life.
 
-It was a tense moment. He initiated work that he had never done, but at least he will try his best.
+It was a tense moment. He had never done something like this before, but at least he would try his best.
 
-Caen! Caen! Caen!*
+Shick! Shick! Shick!
 
-Lee Hyun carefully defined it as he carved the block of ice. He could not know how beautiful Chairman Kang's wife was in the past. He had no photo of that time to go by, nor was he able to remember the delicate face of the original statue.
+Lee Hyun carefully carved the block of ice, beginning to define the figure of a person. He could not know how beautiful Chairman Kang's wife was in the past. He had no photo of that time to go by, nor was he able to remember the delicate face of the original statue.
 
-According to the height, the eyes and the shape of the nose, the impression was rapidly being changed; it had now the face of a woman. As he had nothing to go by through memory, he started to delicately carve the features of Chairman Kang's wife, as she appeared currently. A sculptor must have some understanding of the target. Would Chairman Kang's wife be embarrassed about her wrinkled face? Time will pass, and the features age; some would cry out or become shy about it. When you are young, being beautiful, everyone wants it to be eternal, but that cannot be and the result is sadness. She lived with her husband, who loved her so for 40 years. She was far past fitting such a description of crying about such a thing as lost youth.
+According to the height, the eyes and the shape of the nose, the impression was rapidly being changed; it had now the face of a woman. As he had nothing to go by through memory, he started to delicately carve the features of Chairman Kang's wife, as she appeared currently. A sculptor must have some understanding of the target. Would Chairman Kang's wife be embarrassed about her wrinkled face? Time will pass and one's features age; some would cry out or feel shy about it. When you are young, being beautiful, everyone wants it to be eternal, but that cannot be, and the result is sadness. She lived with her husband, who loved her so for 40 years. She was far past being the kind of person who would cry about such a thing as lost youth.
 
-She would not be ashamed of a wrinkled face that was gained, through the flow of time. She spent 40 years living together with her husband, in faith and affection. Things were not always good. Having suffered hardships. Raising children and preparing them for the future is difficult, she had a tough life.
+She would not be ashamed of a wrinkled face that was gained, through the flow of time. She spent 40 years living together with her husband, in faith and affection. Things were not always good. They had suffered hardships. Raising children and preparing them for the future was difficult, and she had a tough life.
 
-Though she had her troubles, it was also rewarding. These last 40 years were the happiest of her life, not the days before it. Their meal together, at this time and place, you can see the gentle smile of this grandmother, so he carved it safely, little by little to perfection.
+Though she had her troubles, it was also rewarding. These last 40 years were the happiest of her life, not the days before it. Here at their meal together, at this time and place, you could see the gentle smile of this grandmother, so he carved it safely, little by little to perfection.
 
-Lee Hyun's delicate touch at carving the ice sculpture attracted the attention of many people. The hotel and restaurant staff watched nervously. In their minds, they urged and entrusted the sculptor. However, they were still not relieved. Around the table he could see that Lee Hayan and her friends were watching.
+Lee Hyun's delicate touch at carving the ice sculpture attracted the attention of many people. The hotel and restaurant staff watched nervously. In their minds, they trusted the sculptor and urged him onwards. However, they were still not relieved. Around the table he could see that Lee Hayan and her friends were watching.
 
-* * *
+@<embed>{|html|<hr/>}
 
 Initially, Chairman Kang was furious and was about to get up from his seat. To criticize the inadequate preparation made by the hotel; however, the instant Lee Hyun began to cut away at the statue, he endured instead. Though his anger was not reduced, his wife was watching curiously. Already his 40th wedding anniversary was ruined; along with what he wanted his wife to see. He just wanted to leave.
 
-'Well, let's see how you do. However, you better be prepared when it turns out horrible.'
+'Well, let's see how you do,' he thought. 'However, you better be prepared when it turns out horrible.'
 
 Chairman Kang was very uncomfortable, but as the statue was gradually being made, this unpleasant feeling was gently being relieved.
 
-The statue was of his wife, as she’s currently.
-
-It showed the happiness of her heart.
-
-Admiring such work was unavoidable.
+The statue was of his wife, as she was currently. It showed the happiness of her heart. Admiring such work was unavoidable.
 
 “Sweetheart.”
 
-Chairman Kang took hold of his wife's hand. Although wrinkled in age, these old hands were familiar, ones he has always held.
+Chairman Kang took hold of his wife's hand. Although wrinkled in age, these old hands were familiar, the ones he had always held.
 
-'If it was not for these hands I hold, my life would be meaningless.'
+"If it was not for these hands I hold, my life would be meaningless."
 
-Chairman Kang shook his head. I would not be as happy as I am now, with any other woman.
+Chairman Kang shook his head. 'I would not be as happy as I am now with any other woman,' he thought.
 
-Her hair was lighter colored in age, and it all paled in comparison to her former beauty. Such a long time had passed, and looking at her, it shows; but, that meant nothing now.
+Her hair was lighter colored in age, and it paled in comparison to her former beauty. Such a long time had passed, and looking at her it showed, but that meant nothing now.
 
 Rather, he felt that she was more lovely now than ever before.
 
-* * *
+@<embed>{|html|<hr/>}
 
 Kang and his wife persistently waited for the completion of the statue.
 
-Even after their own dinner, some guests returned to see the finishing of the statue.
+Even after their own dinner, some guests returned to see the work on the statue.
 
 “Here is some lemon juice.”
 
 “I brought you some fruit, hope you are comfortable.”
 
-The staff handed out snacks to the guests. In their spare time, they threw their gazes on the statue.
+The staff handed out snacks to the guests. In their spare time, they too cast their gazes at the statue.
 
 “Oh, that is some sculpture.”
 
-“It just seems so beautifully carved, and can't believe it is just some decoration...”
+“It just seems so beautifully carved; I can't believe it's just a dinner decoration...”
 
-They could see from the sculpture that he was no amateur. Sweat soaked Lee Hyun's forehead as he sculpted. The cold ice he carved was also perspiring. He was sweating even though they lowered the temperature in order to stop the dry ice from melting. The fascination of making such a sculpture. When he carried a sword, he was entirely immersed. In order to create a piece of art, he had to be entirely devoted to his work.
+They could see from the sculpture that he was no amateur. Sweat soaked through Lee Hyun's forehead as he sculpted. The cold ice he carved was also perspiring. He was sweating even though they had lowered the temperature in order to stop the dry ice from melting. 
 
-According to the mood he felt, he moved his hands across the sculpture. The time to utilize the techniques and conceptions in his head had already passed. He shaved the statue as the flow of emotions moved his heart.
+It was fascinating to watch. He seemed entirely immersed in the movements of his sculpting tools. In order to create a piece of art, he had to be entirely devoted to his work.
+
+According to the mood he felt, he moved his hands across the sculpture and felt the fine features. The time to utilize his ROyal Road experience and plan out the sculpture in his head had already passed. Now, he shaved off the final bits of the statue as the flow of emotions moved his heart.
 
 “It's amazing.”
 
 “I think I entrusted this job to a better sculptor.”
 
-The hotel staff noted that the broken statue from before was of a much higher level than the one Lee Hyun was making. Lee Hyun was certainly insufficient in the delicate hand sculpting techniques. However, the differences in level were only a few steps away. It could not compare with the previous sculpture. In fact, the sculpture was a little rougher and did not feel as complete. However, Lee Hyun poured his heart into it and it began to emerge.
+The hotel staff did notice that the broken statue from before was of a much higher level than the one Lee Hyun was making. Lee Hyun was certainly insufficient in delicate hand sculpting techniques. However, the differences in level were only a few steps away. Leee Hyun's sculpture was a little rougher and did not feel as complete, but Lee Hyun poured his heart into it and the shape began to emerge.
 
-It is said that a good sculpture gives out its own feeling. This reminds you of a young sculptor smiling brightly just as he made his best work. Of course, he did his best to live up to it. Creating a statue that embodied her charm. However, the statue he made did not hold these special feelings. He did not know how to properly create a sculpture of a person; it was still too far away, his skill was lacking.
+It is said that a good sculpture gives out its own feeling. This one reminded you of a young sculptor smiling brightly just as he made his best work. Of course, he did his best to live up to the expectations and creating a statue that embodied her charm. However, the statue he made did not hold these special feelings. He did not know how to properly create a sculpture of a person with his own two hands; his skill was lacking.
 
-On the other hand, with their long time love of 40 years with his wife, Chairman Kang looked into the grandmotherly eyes of the sculpture that Lee Hyun was making. He had taken these emotions and the sculpture was possessed with them. Pouring their hearts to the sculpture.
+On the other hand, with 40 years of love for his wife, Chairman Kang looked into the grandmotherly eyes of the sculpture that Lee Hyun was making. It seemed like all his pent-up affection, love, and appreciation for his wife had been poured into this one object.
 
-The artistic profession of a sculptor. Even if this was not a top-level piece of art from the best sculptor.
+This was the power of the artistic profession of a sculptor. Even though this was not a top-level piece of art from the best sculptor.
 
-And finally, the moment the sculpture was complete, thunderous applause rang out within the restaurant. The admiration from the guests, the staff, and even the singers were clapping in unison.
+And finally, the moment the sculpture was completed, thunderous applause rang out within the restaurant. The admiration from the guests, the staff, and even the singers were clapping in unison.
 
-For the stubborn Chairman Kang, tears flowed freely from his eyes. The woman, who fell in love with him for a lifetime, living together for 40 years, was watching him.
+For the stubborn Chairman Kang, tears flowed freely from his eyes. This woman, who fell in love with him for a lifetime and lived together with him for 40 years, was watching him.
 
 In front of this sculpture of ice, she was currently at her happiest.
 
-* * *
+@<embed>{|html|<hr/>}
 
-Lee Hyun was soaking wet from sweating all over, he was exhausted.
+Lee Hyun was exhausted, and was soaked in sweat all over. But Chairman Kang suddenly walked up and took his hand.
 
-Chairman Kang suddenly caught Lee Hyun's hand.
-
-“Thank you, this is really wonderful, the most beautiful sculpture I've seen in my life. And more so in the future, I will not be able to see a more grand sculpture.”
+“Thank you, this is really wonderful, the most beautiful sculpture I've seen in my life. And I think that it's the most beautiful sculpture I will ever see.”
 
 Chairman Kang was smiling widely. He was truly sincere in what he said. However Lee Hyun shook his head.
 
 “Isn't the person at your side far more beautiful than the sculpture I made?”
 
-Suitable flattery!
-
-Lee Hyun's instinct started back up.
+Suitable flattery! Lee Hyun's instinct had started back up.
 
 The moment he completed the statue, his mind returned.
 
 'What else can I do right now?'
 
-He suffered for a few hours by making a sculpture. His hand almost felt numb after handling cold ice. At least in Royal Road, the work you make might become a masterpiece.
+He suffered for a few hours making the sculpture. His hands almost felt numb from handling the cold ice. At least in Royal Road, the work you make might become a masterpiece.
 
 Stats and fame!
 
-This was his first time in making a sculpture in real life and he missed that opportunity of earning skill points.
+This was his first time in making a sculpture in real life and, while he wouldn't get experience points or stat increases, he might still be able to leverage this situation for his advantage.
 
 'No, this is not yet the end.'
 
 It was then that Lee Hyun took notice.
 
-If you take a look, Chairman Kang was in every aspect, a business tycoon. He is accompanied by his secretary and if you take notice, it is evident that the manager of this large hotel is catering to him. Might I be on Chairman Kang's good side due to his mood from the sculpture? There is absolutely no chance Lee Hyun would ever let chance escape!
+If you looked closely, Chairman Kang was, in every aspect, a business tycoon. He was accompanied by his secretary and it was evident that the manager of this large hotel was catering to him. 
+
+Lee Hyun thought, 'Might I be on Chairman Kang's good side due to his mood from the sculpture?' There is absolutely no chance he would ever let a chance like this escape!
 
 Chairman Kang's comments to Lee Hyun, and even his wife's mirth. If you would ever speak of a truly good-humored couple, they would indeed be it. A touch of flattery in this mood after Lee Hyun's hard work in making a sculpture, everything sounded good.
 
