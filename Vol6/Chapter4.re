@@ -262,17 +262,17 @@ If you looked closely, Chairman Kang was, in every aspect, a business tycoon. He
 
 Lee Hyun thought, 'Might I be on Chairman Kang's good side due to his mood from the sculpture?' There is absolutely no chance he would ever let a chance like this escape!
 
-Chairman Kang's comments to Lee Hyun, and even his wife's mirth. If you would ever speak of a truly good-humored couple, they would indeed be it. A touch of flattery in this mood after Lee Hyun's hard work in making a sculpture, everything sounded good.
+Chairman Kang's comments to Lee Hyun, and even his wife's mirth, showed that they were truly in good humor. A touch of flattery in this mood after Lee Hyun's hard work in making a sculpture had kicked it even one notch higher.
 
-Chairman Kang was in good mood. To compliment his wife more than his own compliment made him even more exhilarated. Lee Hyun firmly clasped Chairman Kang's hand.
+Chairman Kang was in good mood. Complimenting his wife more than his own compliment made him even more exhilarated. Lee Hyun and the Chairman firmly shook hands.
 
 “Thank you very much. All the work you did for my wedding anniversary is a big deal for me.”
 
-Chairman Kang was very grateful for what Lee Hyun did. In times like this, it is imperative that Lee Hyun say something with humility.
+Chairman Kang was very grateful for what Lee Hyun did. In times like this, it was imperative that Lee Hyun act with humility.
 
-“No, I would have to deny that I'm just a sculptor who sculpted for such an esteemed elder's wife. I did nothing special. Rather, for the hotel giving me an opportunity such as this, and for you Mister Chairman, I give you my appreciation.”
+“No, I did nothing special! I'm just a sculptor who sculpted for such an esteemed elder's wife. Rather, for the hotel giving me an opportunity such as this, and for you Mister Chairman, I give you my appreciation.”
 
-Humility is the highest virtue that can be expressed. Not being modest would even stir up problems, the key is true humility! As the remarks were exchanged, he led the counterpart into a suitably amicable atmosphere.
+Humility is truly the highest virtue that can be expressed. Not being modest would have been sure to stir up other problems! As the remarks were exchanged, he led the Chairman into a suitably amicable atmosphere.
 
 It was then that the General Manager of the hotel came forward.
 
@@ -294,57 +294,49 @@ The wedding anniversary that was almost ruined left him with very important memo
 
 “What do you mean?”
 
-“It may be just a statue for you, but for me it is a powerful work of art that I finished. This is also a piece that I am very satisfied in. If the hidden intention is to throw the artwork away into the garbage, then it would be meaningless. I could not possibly endure the fact that it will disappear, I would like you to take it.”
+“It may be just a statue for you, but for me it is a powerful work of art that I finished. This is also a piece that I am very satisfied in. If the intention is to throw the artwork away into the garbage, then it would be meaningless. I could not possibly endure the fact that it will disappear, I would like you to take it.”
 
 “That's....”
 
-It is highly unknown how people ascertain the aesthetic value of a sculpture and their way of thinking. Their decision is not necessarily clear. However, after this priceless remark, it became apparent to the Kang couple that this also became a treasure that could not be discarded.
+It is highly unknown how people ascertain the aesthetic value of a sculpture and their way of thinking. These decisions are not necessarily clear-cut. However, after this remark, it became apparent to the Kang couple that this sculpture was a treasure that could not be discarded.
 
-Chairman Kang's wife sharply jabbed him in the side. Usually she had a quiet nature; but it was not the case this time. The wife of chairman Kang was unfathomable.
+Chairman Kang's wife sharply jabbed him in the side. Usually she had a quiet nature; but it was not the case this time. 
 
-'If I asked this improperly, I will incur a very harsh punishment.'
+Sometimes she really was unfathomable to him. 'If I ask this improperly, I will incur a very harsh punishment,' he thought.
 
-If he left the statue and did not bring it home, it would be tactless.
+If he left the statue and did not bring it home, it would be tactless. He shook his head.
 
-Chairman Kang shook his head.
-
-“It would be a mistake. This sculpture is now very valuable to us, and it would be so for a long time, I would like to keep it. It seems, I'll buy this carved ice sculpture.”
+“It would be a mistake. This sculpture is now very valuable to us, and it will be so for a long time, I would like to keep it. It seems, I'll buy this carved ice sculpture.”
 
 The president took out his wallet and pulled out a bill.
 
 Certainly, Lee Hyun declined.
 
-“I did not do this for the money; it is fine as it is, just seeing that it caused you two to be so happy. Just to see you look so affectionately towards each other. To be honest, I am enviable of you, honored elders. For it to decorate elder's home, it is truly a dream come true.”
+“I did not do this for the money! Just seeing that it caused you two to be so happy. Just to see you look so affectionately towards each other. To be honest, I am enviable of you, honored elders. For it to decorate elder's home, it is truly a dream come true.”
 
-Proper humility straight from the mouth.
+Proper humility came out of Lee Hyun's mouth. It was such marvelous display of flattery!
 
-All the way till the end, such marvelous ability of flattery!
+The mood created from flattery is truly the key to pulling off your con.
 
-The mood created from flattery is what the most important to getting what you want. (literal trans. was scam/fraud, lol).
-
-Building up such dignity in front of his wife was highly impressive.
+This display of dignity in front of the chairman's wife was highly impressive.
 
 Chairman Kang pulled out another bill.
 
 “At very least, take this as my gift of sincerity.”
 
-“I am still very reluctant.... I insist, the statue is a gift, but I'm happy for these last two minutes I've had with you both. To consider such a piece as valuable in your time of celebration.”
+“I am still very reluctant.... I insist, the statue is a gift -- I'm just happy for these last two minutes I've had with you both. I'm honored you consider such a piece as valuable in your time of celebration.”
 
-A second refusal.
+A second refusal. This is beyond being civilized to save face.
 
-This is beyond being civilized to save face.
+“I can not be so shameless. If money is not acceptable, how will this old man express his gratitude? I cannot accept a debt not being cleared.”
 
-“I can not be so shameless. In exchange for money, make sure you are well paid. If this is not acceptable, how will this old man express his gratitude? I cannot accept a debt not being cleared.”
+Chairman Kang repeatedly handed out the bills to Lee Hyun, in such a way that he could not help but take it from the man. Lee Hyun instantly determined the number of circles written on each bill, and ran through the money management calculations in his head in real time.
 
-Chairman Kang repeatedly handed out the bills to Lee Hyun, in such a way that he could not help but take it from the man. He instantly determined the number of circles written on each bill. Verifying the amount and managing money at the same time.
-
-Two cheques worth 5,000,000 Won each.
+Two notes worth 5,000,000 Won each.
 
 'As usual, the smell of money is gentle on my mind....'
 
-The Chairman casually pulled out large sums of cash, as much as ₩ 10 million.
-
-Then Chairman Kang left with his wife. It seemed that the couple probably had a wonderful time at their wedding anniversary dinner.
+After casually pulling out these large sums of cash, Chairman Kang left with his wife. It seemed that the couple had a wonderful time at their wedding anniversary dinner.
 
 Having finished his work, Lee Hyun headed to his sister, who had been waiting for a long time.
 
@@ -352,51 +344,51 @@ Having finished his work, Lee Hyun headed to his sister, who had been waiting fo
 
 “No, brother. What I saw was really good.”
 
-Both of Lee Hayan's friends had sparkling eyes beaming at him. It was a mixture of admiration and amazement, eyes of respect.
+Both of Lee Hayan's friends had sparkling eyes and were beaming at him. Their look was a mixture of admiration, amazement, and respect.
 
 Lee Hyun turned to take his sister back to the house. The managers gathered at the entrance. Just as Lee Hyun was about to take out his money, the General Manager waved his hand.
 
-“That won’t be needed. Why would we take money from a benefactor to our hotel? Your sculpting was great, and sincerely it was a very big deal for us. Although, if you would like to come back and look in at any time, you can use the hotel or restaurant at no charge. Also it is complimentary for the person who accompanies you as well.”
+“That won’t be needed. Why would we take money from a benefactor to our hotel? Your sculpting was great, and it's not an exaggeration to say you rescued us! Although, if you would like to come back at any time, you can use the hotel or restaurant at no charge. And it is complimentary for the person who accompanies you as well.”
 
 “But....”
 
-“This is from our sincerity. Please just accept.”
+“This is our sincere gratitude. Please just accept.”
 
-With the mogul, Chairman Kang, he did not miss out on even the smallest reward; it was worth every penny. If Chairman Kang had gone out of the hotel angrily, all the people in his business would no longer visit the hotel. The fact is that the damage to the hotel would not have been tolerable.
+With this sculpting job, Lee Hyun did not miss out on even the smallest reward; it was worth every penny. If Chairman Kang had gone out of the hotel angrily, all the people in his business would no longer visit the hotel. The damage to the hotel's brand would not have been tolerable.
 
-* * *
+@<embed>{|html|<hr/>}
 
 “One, two.”
 
-“The sword is weak in force. Conduct 100 lower body workouts!”
+“The sword is weak in force. Give me 100 lower body workouts!”
 
-Chung II Hoon was at work, teaching swordsmanship in the dojo.
+Chung Il Hoon, known as Geomchi2 in the game, was at work, teaching swordsmanship in the dojo.
 
 'This outcome of Royal Road, not bad.'
 
 In modern times, the opportunity to fight with a sword is rare. Particularly, it is even more difficult for practitioners in a dojo. Certainly, ordinary people would not even brandish a wooden sword in any kind of incident.
 
-Such an unfair position, where inferior occupations are more proper.
+It seemed such an unfair position, where inferior occupations are more socially accepted. Just enduring this could be difficult at times.
 
-Just to have the power to endure is very difficult.
-
-For trainees of the sword that was stuck in the middle of this, those that normally thought in such a way are the ones that join such an organization as theirs.
+Many trainees of the sword who struggled with this were the ones that joined such an organization as theirs.
 
 'Royal Road is our very own outlet.'
 
-Fighting monsters and growing stronger, this was what was enjoyable most of all to a simple practitioner. Satisfaction on a daily bases, but not only that is evident, there is a noticeable change that shows in their swordsmanship. The shift in becoming accustomed to sparring against people and battling various monsters with the sword. The opportunity to thoroughly become good in the basics, I would never have expected that such a break for us would have ever existed.
+Fighting monsters and growing stronger, this was what was enjoyable most of all to a simple practitioner. Satisfaction on a daily basis. But as they practiced in the game, there was a noticeable change that showed in their swordsmanship. They were becoming accustomed to sparring against people and battling various monsters with the sword. 
 
-For a long time, sparring in a fight between people did not occur do the risk involved. Yet in Royal Road, a group of practitioners could fight to their heart's content and in the best conditions without worry.
+'The opportunity to thoroughly become good in the basics, I would never have expected that such a break for us would have ever existed.'
+
+For a long time, realistic fights between people did not occur due to the risk involved. Yet in Royal Road, a group of practitioners could fight to their heart's content and in the best conditions without worry.
 
 RING!
 
 Then the phone rang.
 
-Chung II Hoon quietly picked up the receiver, and spoke in a low voice.
+Chung Il Hoon quietly picked up the receiver, and spoke in a low voice.
 
-“This is instructor Chung II Hoon.”
+“This is instructor Chung Il Hoon.”
 
-Chung II Hoon's dream was to go and meet a beautiful but good woman to marry. The instructor's favorite thought was to demonstrate his strength and dependability in front of a lot of girls.
+Chung Il Hoon's dream was to go and meet a beautiful yet good woman to marry. The instructor's favored method in this aim was to demonstrate his strength and dependability in front of a lot of ladies.
 
 The voice he heard that came from the other end of the speaker was the one he knew well.
 
@@ -406,7 +398,7 @@ The voice he heard that came from the other end of the speaker was the one he kn
 
 “I was thinking of going out for food.”
 
-Chung II Hoon was surprised.
+Chung Il Hoon was surprised.
 
 The miserly Lee Hyun buying a meal outside, he couldn't even imagine such a thought.
 
@@ -420,7 +412,7 @@ The miserly Lee Hyun buying a meal outside, he couldn't even imagine such a thou
 
 “H--hotel?”
 
-Chung II Hoon was stuttering.
+Chung Il Hoon was stuttering.
 
 “I know the location, but why do want to go there?”
 
@@ -428,43 +420,41 @@ Chung II Hoon was stuttering.
 
 “Y, Yes. I understand!”
 
-Before Lee Hyun could possibly change his mind, Chung II Hoon prepared to go in haste.
+Before Lee Hyun could possibly change his mind, Chung Il Hoon quickly prepared to leave.
 
 Nevertheless, he had trust in Lee Hyun's words.
 
 “Also take the whole dojo family. For this is truly a rare opportunity. Huhuhu.”
 
-Chung II Hoon called all of the practitioners and instructors and ordered them to head for the hotel. As he silently played Baduk, Director An Hyun-do decided to join them. Since it seemed they were doing something unusual, like going out to eat, An Hyun-do decided to cut in like a ghost and join them.
+Chung Il Hoon called all of the practitioners and instructors and ordered them to head for the hotel. As he silently played a game of Go, master Anh Hyun-Do decided to join them. Since it seemed they were doing something unusual, like going out to eat, Anh Hyun-do decided to cut in like a ghost and join them.
 
-“So its a hotel....”
+“So it's a hotel....”
 
-“Yes to go to a hotel.”
+“Yes, we're going to a hotel.”
 
-“I Wonder, will it be delicious? If it is a place very frequented, it must be very good.”
+“I wonder, will it be delicious? If it is a place very frequented, it must be very good.”
 
 “Oh, Master is also here with us.”
 
 “......”
 
-An Hyun-do, the instructors and the practitioners walked to the grand hotel. Of course, this was not a leisurely walking pace that was graceful and relaxing.
+Anh Hyun-do, the instructors, and the practitioners walked to the grand hotel. Of course, this was not a leisurely walking pace that was graceful and relaxing.
 
-It was quick and lively!
-
-The practitioners practically ran the entire way.
+It was quick and lively! The practitioners practically ran the entire way.
 
 They reached the hotel without a single straggler.
 
 “This, this is....”
 
-The guards tried to restrain them, but they ran like the wind. Before long, they arrived in front of the elevator. But the elevator was filled with people.
+The guards tried to restrain them, but the men ran like the wind. Before long, they arrived in front of the elevator. But the elevator was already full of other guests.
 
-The eyes of the practitioners were severe. An Hyun-do spoke effortlessly.
+The eyes of the practitioners were severe. Anh Hyun-do spoke effortlessly.
 
-“Guys, on a day like this, there is still the stairs, moreover let's use them.”
+“Guys, on a day like this, there is still the stairs, so let's use them.”
 
 “Such a reasonable point.”
 
-An Hyun-do led his disciples on foot and arrived at the restaurant, which was on the 20th floor.
+Anh Hyun-do led his disciples on foot and arrived at the restaurant, which was on the 20th floor.
 
 Lee Hyun was waiting for them.
 
@@ -480,9 +470,9 @@ Lee Hyun was waiting for them.
 
 “You truly are my favorite.”
 
-The Manager of the restaurant already told the staff that he readily consented to Lee Hyun and a large group of acquaintances. Commit the best service for them, the chef should be ready to cook the best they can, and the employees were to be ready waiting.
+Lyy Hyun had already contacted the manager of the restaurant, and he readily consented to Lee Hyun and a large group of acquaintances. He'd told his staff to commit to the best service for them: the chefs should be ready to cook the best they can, and the wait staff were to be at the ready.
 
-However, once the door was open and they helped An Hyun-do, the instructors and saw the practitioners come inside, the faces of the staff went grey.
+However, once the door was open and they helped Anh Hyun-do, the instructors, and the practitioners come inside, the faces of the staff went grey.
 
 There were more than 500 people!
 
@@ -492,7 +482,7 @@ They gladly occupied all of the tables and made their orders.
 
 CLINKCLINK!
 
-As they drunk all the rice wine, the horrified staff had to comply with refilling of all the glasses.
+As they drunk all the rice wine, the horrified staff had to keep refilling of all the glasses.
 
 “This is delicious, another cup!”
 
@@ -504,57 +494,57 @@ As they drunk all the rice wine, the horrified staff had to comply with refillin
 
 “Let's try to get so full that we almost faint. Everything is on the house. It's all free!”
 
-The practitioners and instructors were at their peak in hunger after swordsmanship training; they released their waistbands and ate and drank without hesitation.
+The practitioners and instructors were at their peak of hunger after swordsmanship training; they released their waistbands and ate and drank without hesitation.
 
-Then An Hyun-do rose up from his seat.
+Then Anh Hyun-do rose up from his seat.
 
 “Everybody listen. For a person training in martial arts like us, it is not a good thing to overeat.”
 
-The Manager and his staff watched An Hyun-do with hope in their young eyes. Near the end however, they could not help but be more frustrated.
+The manager and his staff watched An Hyun-do with hope in their young eyes. But after what he said next, they could not help but be even more frustrated.
 
-“Per person, eat 10 servings each.”
+“Per person, eat no more than 10 servings each.”
 
-“Old Master!”
+“Yes Master!”
 
 500 people, 10 servings each!
 
-For each person, a single serving came out to 7,000 Won. They ate to their heart's content. The food was like a meat buffet, thanks to all of this, the restaurant ran out of ingredients.
+For each person, a single serving came out to 7,000 Won. They ate to their heart's content. The food was like a meat buffet, and thanks to all of this, the restaurant ran out of ingredients.
 
 “BURP! Now, I'm full.”
 
 “Tasty, I ate well.”
 
-The employees completed serving the dishes and were to the point of collapsing. Their only wish was for the them to quickly leave.
+The employees completed serving the dishes and were at the point of collapsing. Their only wish was for the men to quickly leave.
 
 However, they were all still sitting, every single person.
 
 'What the hell?'
 
-Choi Jong-bum asked with embarrassment on his face.
+Choi Jongbeom asked with embarrassment on his face.
 
-“When does desert come out?”
+“Um, when does desert come out?”
 
-Alongside him, Masang Bum-do spoke.
+Alongside him, Ma Sangbeom spoke.
 
 “If I could eat it every day, it would be nice.”
 
 “.......”
 
-* * *
+@<embed>{|html|<hr/>}
 
-Lee Hyun and Lee Hayan came home after watching a movie and having a meal at a restaurant; it was nearly the first outing they ever had outside.
+Lee Hyun and Lee Hayan arrived home satisfied after watching a movie and having a meal at a restaurant; it was nearly the first outing they ever had.
 
 Both were practically exhausted.
 
-'Rather have been wielding a sword for 5 hours straight.'
+'I'd rather have been wielding a sword for 5 hours straight.'
 
-Lee Hyun shook his head from side to side.
+Lee Hyun shook his head from side to side, and continued to ruminate.
 
-Well, other people do hang out and walk around yet it was so difficult for me.
+'Well, other people do hang out and walk around every day, yet it was so difficult for me.'
 
-He found watching a movie to be a difficult thing, and just from wandering around town he was quickly fatigued. In addition, carving at the restaurant. It was really a difficult thing to create a statue carved from ice. Also for the moment, just from a glance his work was unsalable.
+He found watching a movie to be an emotional rollercoaster, and just from wandering around town he was quickly fatigued due to all the things that threatened to drain his wallet. And then there was his sculpting work at the restaurant. It was really a difficult thing to create a statue carved from ice. And his skills in real life didn't measure up to what he was used to -- just from a glance his work was unsellable.
 
-However, the day's work Was complete and now he had returned home.
+However, the day's work was complete and now he had returned home.
 
 “Goodnight, brother.”
 
@@ -562,17 +552,15 @@ However, the day's work Was complete and now he had returned home.
 
 His younger sister went to bed and Lee Hyun changed again into his outside clothing. Normally, after washing up he would access Royal Road. But today he had another place to be.
 
-Lee Hyun went toward the night-time bus to take it to the hospital, sought the nurse in charge of night shift and asked.
+Lee Hyun went and caught the night-time bus to the hospital, sought the nurse in charge of night shift, and asked, “How is my grandmother?”
 
-“How is grandmother?”
-
-“She is asleep. Because of the cancer cells, she is taking medicine to relieve pain. You can go in now, but it will difficult as it will take some time for her to wake up.”
+“She is asleep. Because of the cancer, she is taking medicine to relieve pain. You can go in now, but it will difficult as it will take some time for her to wake up.”
 
 “Regardless, I will go.”
 
 Lee Hyun opened the door to the room and went inside.
 
-The hospital room was small. Grandmother was lying down on the bed, soundly asleep. Various medical equipment were attached to her body. Lee Hyun sat down on the chair next to her and took her hand.
+The hospital room was small. Grandmother was lying down on the bed, soundly asleep. Various medical equipment was attached to her body. Lee Hyun sat down on the chair next to her and took her hand.
 
 “I came with good news.”
 
@@ -580,7 +568,7 @@ The hospital room was small. Grandmother was lying down on the bed, soundly asle
 
 From grandmother, only pale breathing came out, she was asleep.
 
-The devices checked her heart rate, and it stayed in a consistent pattern. She will probably not wake up for 7 hours due to the effects of the drug.
+The devices checked her heart rate, and it stayed in a consistent pattern. She would probably not wake up for 7 hours due to the effects of the drug.
 
 “Hayan had her interview for the University of Korea today. To be honest, there was a bit of an accident so I don't know if it is a pass, but it's still a good thing, right?”
 
@@ -590,21 +578,21 @@ The devices checked her heart rate, and it stayed in a consistent pattern. She w
 
 Lee Hyun continued speaking to his grandmother as she slept.
 
-“Indeed, a lot of things have happened since that time, and my only wish is that she live her life in happiness. A lot of it was tough back then. At a time there was no food to eat, grandma, you once said that to reduce the mouth of person, you had to give up Hayan. You tried to send her to an orphanage.”
+“Indeed, a lot of things have happened since that time, and my only wish is that she live her life in happiness. A lot of things were tough back then. At a time there was no food to eat, grandma, you once said that to reduce the mouths to feed, you had to give up Hayan. You tried to send her to an orphanage.”
 
-It had been a long time ago, but his sister was about to be sent to the orphanage. In protest, Lee Hyun went three days without eating in order to oppose his sister going to an orphanage.
+It had been a long time ago, but his sister was about to be sent to the orphanage. In protest, Lee Hyun had gone three days without eating.
 
-“Grandma, you told me that I was going to regret it. We actually had to go through difficult meals, and there were indeed many times where I skipped meals. Grandmother, only during that time, I concede that I hated Hayan. Because of Hayan, we hardly could even afford my schooling. I had said abusive things to her, like I would have been happier without her.”
+“Grandma, you told me that I was going to regret it. It wouldn't be the last time we were low on food, and there were indeed many times where I skipped meals for her. Grandmother, only during that time, I concede that I hated Hayan. Because of Hayan, we hardly could even afford my schooling. I had said abusive things to her, like that I would have been happier without her.”
 
-Grandmother had hated the younger sister. Because of the younger sister, Lee Hyun suffered and was often scolded. They severely complained about trivial things. This was another reason why his little sister once went astray.
+There had also been a period where Hyun's grandmother had hated the younger sister. Because of her, Lee Hyun suffered and was often scolded. They constantly got into fights with each other about trivial things. This was another reason why his little sister once went astray.
 
 “I have no regrets. If we return to that time, my choice would have been the same. Because, we are family.”
 
-As she slept, there was no answer, but it eased Lee Hyun's heart. He had kept it all inside for more than 10 years, and now it had ended.
+As she slept, there was no answer, but it eased Lee Hyun's heart. He had kept all this inside for more than 10 years, and now the hard times had ended.
 
-Lee Hyun returned home and went inside the capsule. And he accessed Royal Road.
+Lee Hyun returned home and went inside the capsule. Then, he accessed Royal Road.
 
-* * *
+@<embed>{|html|<hr/>}
 
 The Yurokey Mountains and the Castle of the Dark Elves!
 

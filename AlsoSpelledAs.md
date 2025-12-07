@@ -7,10 +7,10 @@
 |Bard Ray|Black Knight, figurehead of the Hermes Guild|Bad Ray, Bardray|
 |Lee Hayan|Lee Hyun's sister|Lee Hye Yeon|
 |Geomchi|Anh Hyun-Do, master of the dojo|SwordNoob|
-|Geomchi2|Oldest practitioner|SwordNoob2, Geomdulchi|
-|Geomchi3||SwordNoob3, Geomsamchi|
-|Geomchi4||SwordNoob4, Geomsachi|
-|Geomchi5||SwordNoob5, Geomohchi|
+|Geomchi2|Chung Il Hoon, oldest practitioner|SwordNoob2, Geomdulchi|
+|Geomchi3|Choe Jongbeom|SwordNoob3, Geomsamchi|
+|Geomchi4|Ma Sangbeom|SwordNoob4, Geomsachi|
+|Geomchi5|Roi Lee|SwordNoob5, Geomohchi|
 |Pale|Weed's party member / battle slave, archer|Fail|
 |Romuna|Weed's party member, fire mage|Romune|
 |Maylon (Shin Hye-Min)|Reporter for KMC media, archer, Pale's girlfriend|Mayron|
