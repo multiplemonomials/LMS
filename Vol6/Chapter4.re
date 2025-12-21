@@ -594,11 +594,9 @@ Lee Hyun returned home and went inside the capsule. Then, he accessed Royal Road
 
 @<embed>{|html|<hr/>}
 
-The Yurokey Mountains and the Castle of the Dark Elves!
+The Yuroki Mountains and the castle of the Dark Elves!
 
-(note: the choice of name is Yulokina, Eurokey, Eurokina; it is not possible for it to be Europa)
-
-The ruined walls were repaired and the Orcs' supplies had been moved. They were preparing for war with the Undead Legion led by the Liche Shire. Weed was just like he was when he terminated the connection; he appeared in human form in the Dark Elf city. Construction was going on everywhere.
+The ruined walls were being repaired and the Orcs' supplies had been moved. They were preparing for war with the Undead Legion led by the Lich Shire. Weed was just where he had been when he terminated the connection; he appeared in human form in the Dark Elf city. Construction was going on everywhere.
 
 “Chwiit profits!”
 
@@ -610,7 +608,7 @@ The ruined walls were repaired and the Orcs' supplies had been moved. They were 
 
 “Higher, higher! Chwichichichit have it reach the sky!”
 
-An Orc was carrying an overly large rock. Many rocks were gathered together and stacked in a bunch to make a tower.
+An Orc was carrying an overly large rock. Many rocks were being gathered together and stacked to make a tower.
 
 CRASH!
 
@@ -618,7 +616,7 @@ CRASH!
 
 “Kkwaeeg. Orcs save me!”
 
-This over accumulation of rocks for the tower groaned and crumbled at a touch, crushing the Orcs beneath it. The Dark Elves were a little bit different from the Orcs. With them owning more intellect, all they did was roll their eyes.
+This over-accumulation of rocks for the tower groaned and crumbled at a touch, falling over onto the Orcs beneath it. The Dark Elves were a little bit different from the Orcs. Having a little more intellect, all they did was roll their eyes.
 
 “Those Orcs are hard at work.”
 
@@ -630,27 +628,25 @@ This over accumulation of rocks for the tower groaned and crumbled at a touch, c
 
 The Dark Elves were eagerly goofing off and smoking.
 
-Weed was away just temporarily, and in just 5 minutes of his absence everything became a mess and now he had the task of repairing it all once again.
+Weed had been gone just a moment, and now everything had become a mess -- now he had the task of repairing it all once again.
 
-Piles of rocks were scattered without order all over the place and it was a battle to collect all the neglected materials that accumulated throughout the area. Part of the castle was destroyed from Orcs smashing and burning. The Dark Elves were sprinkling salt on the grilled dishes. Generally, elves detest killing life and do not eat meat; however, Dark Elves did not have such qualms. Given that Dark Elves are initially fallen elves with blackened skin, other elves consider them as quite a savage race.
+Piles of rocks were scattered without order all over the place and it was a battle to collect all the neglected materials that accumulated throughout the area. Part of the castle was still destroyed from the Orcs' smashing and burning. The Dark Elves were sprinkling salt on grilled dishes. Generally, elves detest killing life and do not eat meat; however, Dark Elves did not have such qualms. As they had fallen from elves' usual grace, other elves considered them quite a savage race.
 
 “This is the power of salt. You savage Orcs.”
 
 “Indeed.... We also found that out. Eating with a sprinkle of salt, it's delicious.”
 
-In the name of fighting against the undead, Orcs and Dark Elves made a dramatic reconciliation. They drank alcohol and ate roasted meat together. So, many Orcs and Dark Elves were gathered in the castle's marketplace, indifferent to the plan.
+In the name of fighting against the undead, the Orcs and Dark Elves had made a dramatic reconciliation. They drank alcohol and ate roasted meat together. Now, many Orcs and Dark Elves were gathered in the castle's marketplace, indifferent to the plan.
 
 To take these ignorant and lazy people and fight the legion of undead with them....
 
-With his head constantly throbbing, Weed felt seriously ill.
+Weed's head throbbed, and he felt seriously ill.
 
 “Captain! We have accomplished our tasks.”
 
-At that time Buren appeared, Becker, Hosram and Dale as well! The Royal Knights and priest.
+At that time Buren appeared, and Becker, Hosram and Dale as well! The Royal Knights and priests followed behind.
 
-'But these guys are so few, is there any hope? Even if the quest fails, if I could only send these guys safely back to Rosenheim Kingdom, the contribution from the royal family can be obtained. Items obtained from such a contribution!'
-
-Contribution of money and connections.
+'But there are so few of these guys, is there any hope? Even if the quest fails, if I could only send these guys safely back to Rosenheim Kingdom, my contribution points from the royal family could be returned. Just think of the items I could get from such a contribution!'
 
 To Weed, these soldiers were more important than anything.
 
@@ -660,19 +656,19 @@ But the lieutenant spoke.
 
 “Well done.”
 
-When he looks at Buren, he sees reliability.
+When he looked at Buren, he saw reliability.
 
-The first time he met with Becker and the rest was in the hellish lair of Litvart, where they undertook a dangerous mission together.
+The first time he met with Becker and the rest was in the hellish Lair of Litvart, where they undertook a dangerous mission together.
 
-Faith and trust in Buren!
+He had faith and trust in Buren!
 
-But the point that Buren made of where the supplies were was negligible. No, they are there nonetheless. The weapons of war: arrows, daggers, the mace that soldiers wear and other kind of weapons. That was already a loss, but what was important was the wine bottles he had for wholesale.
+But the area that Buren was pointing at seemed to be missing something. No, looking closer, he could see their supplies. The weapons of war: arrows, daggers, the maces that soldiers wore, and other kinds of weapons. But his eyes kept searching for something else.
 
-Ever since Weed arrived at the Yurokey Mountains on the Plains of Despair, he wandered to his heart's content. He collected various acidic berries! Serpents and precious medicinal herbs!
+Ever since Weed arrived at the Yuroki Mountains on the Plains of Despair, he wandered to his heart's content. He collected various acidic berries, precious medicinal herbs, and even snakes!
 
-High-quality materials utilized only when immersed in a solution of alcohol; if you were to consume even more than one you would only notice the sweet taste before you die. No, perhaps consuming more might not kill a person.
+These were high-quality materials utilized only when immersed in a solution of alcohol; if you were to consume even more than one you would only notice the sweet taste before you got terribly ill or even died.
 
-He collected clear dew at dawn to distill various liquors. Weed had then made bottles of wine which now was all gone.
+He'd combined these ingredients with clear dew collected at dawn to distill various liquors. Weed had then made bottles of wine -- which were conspiciously missing from the stash of supplies.
 
 “My wine bottles, where did they go? Maybe they haven't been transferred yet. Maybe that's it, right?”
 
@@ -680,11 +676,11 @@ He collected clear dew at dawn to distill various liquors. Weed had then made bo
 
 Buren hesitantly pointed at the orcs.
 
-“They are drinking all of it; I tried to stop them but....”
+“They are drinking all of it! I tried to stop them but....”
 
 Weed then had a thought pass through his mind.
 
-There could not have been alcohol on the Plains of Despair. For Orcs to be able to brew liquor, it would be impossible. Therefore those damned Orcs must have been drinking Weed's liquor.
+There could not have been alcohol on the Plains of Despair. Orcs simply weren't smart enough to brew liquor. Therefore those damned Orcs must have been drinking Weed's wine.
 
 “Delicious. Chwiik!”
 
@@ -694,19 +690,17 @@ Lucid and crystal clear wine was flowing into the scratchy snouts of the Orcs.
 
 “Keoheok!”
 
-Weed wanted to puke blood, intense suffering as if his flesh was being torn.
+Weed wanted to puke blood. He felt intense suffering, as if his flesh was being torn.
 
-The alcohol that he brewed.
-
-Every time he made a bottle, weed had hoped.
+The alcohol that he brewed. Every time he made a bottle, Weed had hoped.
 
 'Please, give me success in earning a lot of money.'
 
 Through fermenting, you can earn a considerable amount of money selling alcohol.
 
-It took several months for it to fully mature in taste and effects; without even a second thought he had done it all. (originally it was a Korean idiom, kind of like saying 'Absolutely, yes' or 'you bet your life on it')
+It took several months for it to fully mature in taste and effects, yet he'd committed to making it without even a second thought.
 
-In his spur of moments of making it, it reached hundreds of bottles of liquor. Precious items obtained and he had to put the alcohol aside as he hunted, but he had no place to hold them so he instructed its management to the soldiers.
+Thanks to all his foraging, the stash grew to hundreds of bottles of liquor. He hadn't had the space to carry it while hunting, so he had instructed its management to the soldiers.
 
 This was the result.
 
@@ -714,29 +708,25 @@ This was the result.
 
 Weed was devastated.
 
-In the meantime, the Orcs were drinking quickly. The dark blue wine sloshed at the bottom of the bottle. Empty wine bottles were rolling haphazardly around. His wholesale liquor disappeared. The money flew out.
+In the meantime, the Orcs were drinking quickly. The dark blue wine sloshed at the bottom of the bottle. Empty wine bottles were rolling haphazardly around. His wholesale liquor disappeared, and he imagined money vanishing from his wallet.
 
 “Ahhh!”
 
 Weed groaned in sadness!
 
-Even the beef jerky, the Orcs and Dark Elves were chewing on it.
+Even the beef jerky! The Orcs and Dark Elves were chewing on the jerky he'd made as well.
 
-Weed had made that jerky.
+Almost no wine bottles remained, and already the drying baskets that had been full of jerky were empty.
 
-Almost no wine bottles remained, and already the drying baskets that were full of jerky was empty.
+'Can I remake all of this liquor and food?'
 
-'To make again the liquor or food.'
+Still, Weed had his hopes. After all, these were his soldiers.
 
-Still, Weed had his hopes.
-
-After all, these were his soldiers.
-
-Though the liquor or the supplies for battle may be lost, he did not lose his loyal soldiers.
+Though the liquor and food may have been lost, he did not lose his loyal soldiers.
 
 “I'm at fault, I'm sorry. The Orcs were so forceful... *hic*!”
 
-As Buren explained the situation, he had a case of severe hiccups. That was when Weed properly examined the soldiers. Being held up on staggering legs, red in the face. A phenomenon caused by excessive drinking.
+As Buren explained the situation, he had a case of severe hiccups. That was when Weed properly examined the soldiers. Many were staggering, or red in the face. It was clearly a phenomenon caused by excessive drinking.
 
 “This....!”
 
@@ -748,7 +738,7 @@ Buren and Becker, while following his command to carry his supplies, found the l
 
 “What are we going to do?”
 
-“To do what, I'm the captain right now.”
+“We aren't going to do anything with them, I'm the captain right now.”
 
 “GULP! This looks tasty.”
 
@@ -758,29 +748,27 @@ Buren and Becker, while following his command to carry his supplies, found the l
 
 “Come on, let's do it.”
 
-Like trying to entrust a fresh fish to a cat, it would be similar to saying to trust a soldier not to have a bit alcohol before a fight.
+Trusting soldiers to not have a bit of alcohol before a fight was like trying to entrust a fresh fish to a cat. They simply couldn't not have a taste.
 
-At first, the soldiers really only took a sip, but then they got to drinking.
+At first, the soldiers really only took a sip, but then they got to really drinking.
 
 “It goes down so smoothly.”
 
 “Wow! It's so delicious.”
 
-That single sip of the bottle was like an addiction.
+That first sip from the bottle had had a truly addictive effect.
 
-Weed's soldiers then committed themselves to their work but couldn't keep it out of their minds, but even then, their fear of him remained.
+Weed's soldiers had tried to commit themselves to their work, but couldn't keep the liquor out of their minds. Soon, many of the bottles had been cracked open. Even then, their fear of their leader remained.
 
-“This will do, have the Orcs drink it.”
+“I know what to do! Have the orcs drink it.”
 
-“Let's give it to the Orcs.” (Pretty much they wanted to hide their guilt by blaming it on the Orcs)
+“We'll say that the orcs took it from us!"
 
-So they revealed his little nest egg, his prized position the fermented wine!
+So they revealed his little nest egg, his prized possesion, the fermented wine!
 
-“And have to fight against the Undead Legions with things going like this...”
+By this point, Weed had pretty much worked out what happened. He sighed. “And I have to fight against the Immortal Legion with things going like this...”
 
-Weed sighed.
-
-* * *
+@<embed>{|html|<hr/>}
 
 There was uproar on the internet.
 
