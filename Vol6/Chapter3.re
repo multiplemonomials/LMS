@@ -288,7 +288,7 @@ While he was still inexperienced with dance and music, he followed the instructi
 
 The faces of the guys in the line were completely ridiculous from shock. A complete novice that had no idea just a bit ago was now making the movements of a proficient player.
 
-To dance similarly and press those arrows. Extreme Dance moved too quickly, because it was impossible to resonate with the dance, and that to by swaying properly. But Lee Hyun's movements showed that he can make a new dance in response. The body flowed at an astonishing speed, while making endlessly beautiful moves.
+To dance similarly and press those arrows. Extreme Dance moved too quickly, because it was impossible to see the opponent's movement and react in time. But Lee Hyun's movements showed that he could make a new dance in response. His body flowed at an astonishing speed, while making endlessly beautiful moves.
 
 “Wow, you are amazing!”
 
@@ -324,9 +324,9 @@ Stunned, the audience hurled extremely critical comments.
 
 “It wasn't really that good.”
 
-Most of them were here due to rave reviews reported by movie site, causing this reaction which even damped the good reputation of the movie studio that produced the film. 
+Most of them were here due to rave reviews reported by a movie site, causing this reaction which even damped the good reputation of the movie studio that produced the film. 
 
-But for Lee Hyun and Lee Hayan, who wanted to see a movie with her brother, it was just simply okay. Saving money is important, but they also created memories that they never had before. Their life hard pressed every month and there was no time to play. Thus coming to the theater to watch a movie was enjoyable in itself. They wouldn't resent it, and lose out on this joy, just because they were fed up with the content of the movie.
+But for Lee Hyun and Lee Hayan, who wanted to see a movie with her brother, it was just simply okay. Saving money is important, but they also created memories that they never had before. They were hard-pressed to just keep living every month, and there was no time to play. Thus coming to the theater to watch a movie was enjoyable in itself. They wouldn't resent it, and lose out on this joy, just because they were fed up with the content of the movie.
 
 “Brother, what do you think? The movie was a little weird, right?”
 
@@ -362,7 +362,7 @@ Lee Hyun and Lee Hayan started walking down the street. Usually they would never
 
 “Really?”
 
-Lee Hayan was pointing at a small group of stores. But these places seemed too normal for Lee Hyun. After all, he wanted to treat her something special today. So he gathered his courage. They were in the middle of the city, and so, they should go to the city's centre.
+Lee Hayan was pointing at a small group of stores. But these places seemed too normal for Lee Hyun. After all, he wanted to treat her to something special today. So he gathered his courage. They were in the middle of the city, and so, they should go to the city's centre.
 
 “The only place to go, let's eat at that restaurant.”
 
@@ -384,7 +384,7 @@ Nevertheless, Lee Hyun went about thinking hopefully. He saw a table where a lob
 
 'I suppose the cost for the ingredients would be 40,000 Won. Though, with this hotel, considering cost of labor and profit, it might end up as 70,000 Won?'
 
-With many ways to look at it, considering 70,000 Won for one meal is a bit overboard, something that older brother would not buy or could afford. Lee Hyun thought a little harder about Royal Road and spoke to appease his nervous sister.
+Regardless of how you look at it, 70,000 Won for one meal was a bit overboard, something that the older brother would not buy and could not afford. Lee Hyun thought a little harder about Royal Road and spoke to appease his nervous sister.
 
 “It's okay, let's eat a lot today. At least, just once in a place like this.”
 
@@ -396,7 +396,7 @@ In truth, being at an upscale restaurant like this for the first time was so for
 
 The waitress came over a few moments later and unfolded a menu for them.
 
-“What would you like today?” The chef's special today is Omar prawns with Oyster sauce...”
+“What would you like today? The chef's special today is Omar prawns with Oyster sauce...”
 
 “Give me a moment to decide.”
 
@@ -404,19 +404,19 @@ The waitress came over a few moments later and unfolded a menu for them.
 
 Lee Hyun relaxed as he looked at the menu.
 
-Then he checked the price!
+Then he checked the prices!
 
-A lobster course is 120,000 Won.
+A lobster course was 120,000 Won.
 
-For only about 40,000 Won for the cost, when you look at the tremendous cost, they are robbing you.
+For only about 40,000 Won for the actual cost, when you look at the tremendous price, they were robbing you.
 
 'Why is it so expensive!'
 
-The price left Lee Hyun breathless. The A course was relatively inexpensive. Beyond that, it was packed with expensive dishes. A meal was 200,000 Won, with wine it was 300,000; then if you include foreign wine it exceeds past 500,000 Won. With his money, Lee Hyun could afford neither the bottle of wine, nor the food.
+The price left Lee Hyun breathless. The A course was relatively inexpensive. Beyond that, the menu was packed with expensive dishes. A meal was 200,000 Won, with wine it was 300,000; then if you include foreign wine it exceeded 500,000 Won. With his money, Lee Hyun could afford neither the bottle of wine, nor the food.
 
-The price of the hotel's restaurant is murder!
+The prices at the hotel's restaurant were murder!
 
-The use of various services and the finest ingredients, the chef is also of the highest level. Including the expense of the interior and atmosphere with the price of the meal, this was bound to make it expensive. However, this far exceeded Lee Hyun's range of the expected price.
+They provided lots of services and used the finest ingredients, and the chef was also of the highest level. Including the expense of the interior and atmosphere with the price of the meal, this was bound to make it expensive. However, this far exceeded Lee Hyun's range of the expected price.
 
 'I absolutely cannot afford to eat this.'
 
@@ -424,7 +424,7 @@ The precious remaining money was too little to have it work out, he was frowning
 
 'No, I brought us here; even though it is expensive, leaving is not going to happen.'
 
-No matter how little money he has, he did not want to point out that flaw and look impoverished. With an impressionable high school student with him, Lee Hyun judged that he did not want to be thrown out while in the middle of the dining room. Fortunately, the A-course meal is 120,000 Won, leaving 10,000 Won of his money remaining.
+No matter how little money he had, he did not want to point out that flaw and look impoverished. With an impressionable high school student with him, Lee Hyun judged that he did not want to be thrown out while in the middle of the dining room. Fortunately, the A-course meal is 120,000 Won, leaving 10,000 Won of his money remaining.
 
 “Hayan, is lobster okay?”
 
@@ -440,7 +440,7 @@ No matter how little money he has, he did not want to point out that flaw and lo
 
 However, Lee Hyun was missing several key pieces of information. First of all, the price given on the hotel restaurant menu did not include the government tax or the service charge, each of which was around 10%. So, the actual price was more than 140,000. 
 
-But that was not the biggest issue. Though it is expensive, they had intended to share it, but the waiter had put down an A-course meal for each of them. Therefore, the price of the meal they'd ordered was well above 250,000 Won.
+But that was not the biggest issue. Though it was expensive, they had intended to share the food, but the waiter had put down an A-course meal for each of them. Therefore, the price of the meal they'd ordered was well above 250,000 Won.
 
 “The food will be delicious. Eat your fill.”
 
@@ -486,7 +486,7 @@ This motto was shared by the two girls. They would come by when school ended ear
 
 Lee Hayan was the girls' closest friend.
 
-The fact was, in school nobody disliked Lee Hayan. She was strong-willed, well-studied, and excellent at athletics. With her innate leadership, she was connected to many different social groups at the school. However, she was known to be a cheapskate, thus this was absolutely amazing, as she absolutely did not participate in shopping or eating out. 
+The fact was, in school nobody disliked Lee Hayan. She was strong-willed, well-studied, and excellent at athletics. With her innate leadership, she was connected to many different social groups at the school. However, she was known to be a cheapskate, thus this was extremely unusual, as she absolutely did not participate in shopping or eating out. 
 
 The immediate reaction of the girl, Isane@<fn>{isane}, was 'Bloody hell. She only spends quality time with her brother, that's just not fair.'
 

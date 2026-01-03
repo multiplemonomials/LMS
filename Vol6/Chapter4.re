@@ -8,7 +8,7 @@ According to the interests of Chairman Kang's wife, objects of art must first be
 
 In regards to cooking, they had promised perfection. Each ingredient, in order to maintain perfect freshness, had to be transported by air from the mountainous regions of a foreign nation. They had sent a car out from the kitchen to catch the airplane's flight. But the most important thing was the centerpiece that would commemorate the marriage.
 
-In order to show the beautiful features of when Chairman Khan's wife in her heyday, a foreign sculptor who was famous world-wide had created an ice sculpture especially for this.
+In order to show the beautiful features of when Chairman Kang's wife in her heyday, a foreign sculptor who was famous world-wide had created an ice sculpture especially for this.
 
 It was a beautiful woman in ice!
 
