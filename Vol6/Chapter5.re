@@ -1,4 +1,4 @@
-==={chapter-5-karichwi-running} Chapter 5: Karichwi Running!
+= Karichwi Running
 
 A pub at the capital of Haven Kingdom, Aren province.
 
@@ -10,21 +10,19 @@ Volk stood inside with an impression of filthiness. The employees were at the en
 
 “5 coppers. For a comfortable rest.”
 
-The atmosphere was different than in a regular pub. Employees elsewhere made it a priority to be polite and treat their customers. Volk looked inside the rough and empty tavern, then sat down. The standard drink was a fruit juice. Other people may think that those who drink a 5 cooper drink would be a beginner. Volk was as high as 367 in level, an ultra-high level user.
+The atmosphere was different than in a regular pub. Employees elsewhere made it a priority to be polite and treat their customers. Volk looked inside the rough and empty tavern, then sat down. The standard drink was a fruit juice. Other people may think that those who drink a 5 copper drink would be a beginner. But Volk's level was 367, making him a top percentile user.
 
 Volk was not the only one.
 
-The level of users in this pub was on average, higher than 300. Of the listed guilds, there are few with forces with so many that are level 300 or higher, it is a really unique kind of place.
+The level of users in this pub was, on average, higher than 300. Out of all the guilds in Royal Road, few had as many users above level 300 as there were in this place.
 
-Dark Gamers specified this pub in the United Nations. A place for Dark Gamers to take a break.
-
-Jjook. (don't ask me, it seems to be a name.)
+Dark Gamers considered this pub to be the United Nations. A place for Dark Gamers to take a break.
 
 Volk drank his prized fruit drank sparingly.
 
-A sweet taste. It is often said that a taste can wash fatigue from your entire body. If food and drink were placed before you, you should eat and sip sparingly. Dark Gamers were characters whose focus was to own money, therefore they would not carelessly waste even a dime.
+A sweet taste. It is often said that a taste can wash fatigue from your entire body. If food and drink were placed before you, you should eat and sip sparingly. Dark Gamers were players whose focus was to earn money, therefore they would not carelessly waste even a dime.
 
-The Dark Gamers increased their levels since they don't squander. However, it is said that they are not consistently in good condition.
+The Dark Gamers increased their levels since they played the game efficiently. However, it is said that they are not consistently in good condition.
 
 “The Barang cavalry has joined the rebel army.”
 
@@ -32,7 +30,7 @@ The Dark Gamers increased their levels since they don't squander. However, it is
 
 Within the pub, Dark Gamers would often exchange the latest information.
 
-“There's a contract. A quest to guide someone to the 109th altar of spilled blood, payment 3000 gold. Would you like to give it a try.”
+“There's a contract. A quest to guide someone to the 109th altar of spilled blood, payment 3000 gold. Would you like to give it a try?”
 
 “And the number is?”
 
@@ -40,29 +38,29 @@ Within the pub, Dark Gamers would often exchange the latest information.
 
 “I'll give you more than 5,000 gold, just consider it.”
 
-The pub took on the role of giving and receiving contracts.
+The pub was a place where people could give and receive contracts.
 
-A special way for users to contract Dark Gamers. Depending on your requirements, Dark Gamers would accept or refuse these contracts.
+It was a special way for users to contract Dark Gamers. Depending on your requirements, Dark Gamers would accept or refuse these contracts.
 
-This is the underground economy moving through the Versailles continent!
+This was the underground economy moving through the Versailles continent!
 
-This is the heat of the moment; Royal Road has become a game that the whole world enjoyed. The number of Dark Gamers even reached a minimum of 20 Million. Scattered like grains of sand, Dark Gamers only appear where there is money and items. Separate but dispersed in behavior, just as much as anywhere comparable in strength.
+By this point, Royal Road had become a game that the whole world enjoyed. The number of Dark Gamers was estimated to be at least 20 million. Scattered like grains of sand, Dark Gamers would only appear where there was money and items. Alike in behavior but dispersed around the game world, they were comparable in strength just about anywhere.
 
 'This place, it still remains unchanged.'
 
 Volk was resting comfortably.
 
-At once he was recalling the beautiful past. It was of the woman he loves. He started the game for her sake. Played in numerous battles with her. He was unable to live his life without her hearing his affection for her.
+At once he was recalling the beautiful past. He thought of the woman he loved. He started the game for her sake. Played in numerous battles with her. He was unable to live his life without her hearing his affection for her.
 
 Then finally, on that day he confessed to her!
 
-He had asked that sculptor he met in Rosenheim Kingdom to make a bouquet of flowers for her. The vibrant wooden bouquet had the highest effect; Volk and she were soon married.
+He had asked that sculptor he met in Rosenheim Kingdom to make a bouquet of flowers for her. The vibrant wooden bouquet had the best effect; Volk and she were soon married.
 
-Life has been good up to this point.
+Life had been good up to this point.
 
-He was mesmerized by her for over 1 year in Royal Road. Actually, he almost went for it in real life but it did not happen due to being busy. With work and his new job, it was unbearable!
+He had been mesmerized by her for over a year in Royal Road. Actually, he had almost confessed to her in real life but it did not happen due to being busy. With work and his new side hustle in the game, it was unbearable!
 
-The fact was that they were only able to become a couple due to Royal Road.
+But the fact was that they were only able to become a couple due to Royal Road.
 
 “Honey, I earned a lot of money.”
 
@@ -72,15 +70,15 @@ The fact was that they were only able to become a couple due to Royal Road.
 
 A complete Dark Gamer couple was born.
 
-His wife was too busy accomplishing quests from the clergy and Volk hunted and roamed alone.
+His wife was too busy accomplishing quests from the clergy, and Volk hunted and roamed alone.
 
 “Excuse me, what is your profession and level?”
 
-Volk, as a Dark Gamer, was sitting alone and a few people came.
+Volk, as a Dark Gamer, was sitting alone, and a few people came to talk to him.
 
-These people pay for being colleagues!
+These people would pay him to join their party!
 
-It can be difficult to hunt alone, so this is a place where you can find a colleague. Of course, for the division of roles and sharing of the revenue, you must be thorough. As one of the Dark, if you cannot fulfil your part in the bargain, or if you are unreasonably greedy, you will be intercepted and get a record on the United Kingdoms. In severe cases you can find yourself kicked out and executed as the Dark Gamers turn against you.
+It can be difficult to hunt alone, so this is a place where you can find a colleague. Of course, when deciding the division of roles and sharing of the revenue, you must be thorough. As one of the Dark Gamers, if you cannot fulfil your part in the bargain, or if you are unreasonably greedy, you will be called out and get a record here at the United Nations. In severe cases, you could find yourself kicked out and executed as the Dark Gamers turn against you.
 
 Volk spoke to them with a soft smile.
 
@@ -94,7 +92,7 @@ To the Dark Gamers, this pub is their only refuge. One place where you can rest 
 
 RATTLE.
 
-Volk was resting there for some time, then the tavern's door was wide open. It was one person. He was a Dark Gamer. As if it was a proven rule, it was fairly simple to distinguish between them by what they wear. In most cases, Dark Gamers found efficiency as most important, and at the same time they didn't want to bring attention to themselves by wearing fancy equipment.
+After Volk had rested there for some time, the tavern's door was thrown wide open. It was one person. He was a Dark Gamer. As a rule, it was fairly simple to distinguish Dark Gamers by what they wore. In most cases, Dark Gamers considered efficiency to be most important, and they also didn't want to bring attention to themselves by wearing fancy equipment.
 
 “Your business?”
 
@@ -102,19 +100,19 @@ Volk was resting there for some time, then the tavern's door was wide open. It w
 
 “........”
 
-Sometimes they are like this.
+Sometimes they would be like this.
 
-What is the secret if your behavior alone makes it out to be a secret of the world? It became a new pub as Dark Gamers shared whispers back and forth between multiple tables.
+What could possibly be the secret that made this person so defensive? The pub's atmosphere changed as Dark Gamers shared whispers back and forth between multiple tables.
 
-Some Dark Gamers immediately shook their heads. Different people gave a nod of their heads to indicate consent, but after a few additional words of the man, they shook their heads.
+Some Dark Gamers he talked to immediately shook their heads. Some people gave a nod of their heads to indicate consent, but after a few additional words from the man, they shook their heads.
 
-There was no appearance of even a little dissatisfaction from the rejections. In fact, the five people had a hint of respect in their eyes toward the young man.
+However, those rejecting didn't seem to be unhappy with the young man. In fact, the five people he'd talked to had a hint of respect in their eyes.
 
 'What are you doing here?'
 
 The man calmly came up to the seated Volk.
 
-“A prospective Grade ‘A’ difficulty quest, you mind?”
+“A prospective Grade ‘A’ difficulty quest, you interested?”
 
 “.....”
 
@@ -124,13 +122,13 @@ The appearance of a difficulty A quest was not the best thing. He began to under
 
 “Not tolerable, it would be hard.”
 
-“I have prepared personnel from my own guild. Just obtaining some people I lack with mercenaries.”
+“I have prepared personnel from my own guild. I'm just looking for some mercenaries to round out our forces.”
 
 “The guild?”
 
 “Crimson Wings.”
 
-The guild is in 10th place among the Versailles continent in holdings. This same guild owns as many as seven fortresses in the central continent.
+This guild was in 10th place on the Versailles continent in holdings. This same guild owned as many as seven fortresses in the central continent.
 
 'If that's so, then if the odds are right.'
 
@@ -144,107 +142,101 @@ It was true that he had grown tired of hunting alone.
 
 “......”
 
-“Qualified, but stressing over the terms beforehand?”
+“I assume you're qualified, but stressing over the terms?”
 
-“Sufficiently so.”
+“Correct.”
 
 “Well, that's a relief. The base salary is 20,000 gold. In the case that you die in the mission, reparations would be 50,000 gold. For exploration of the ruins, if the progress takes longer than 20 days, 2,000 gold will be given per day.”
 
 “Those conditions are very good....”
 
-“Instead, any items excavated from the ruins are under ownership on my side. As you see, all the quest progression and materials needed are covered by us, so what we ask shouldn't be unreasonable. Also we will take care of the lives in the group.”
+“In return, any items excavated from the ruins are under ownership of the guild. As you see, all the quest progression and materials needed are covered by us, so what we ask shouldn't be unreasonable. Also we will take care of the lives of our group members.”
 
-So, in a nutshell, it sounds like they don't mind living or dying, or how much they spend.
+So, in a nutshell, it sounds like they didn't mind living or dying, or how much they spent.
 
-“The ruins of the Scorpion King...”
+“The Ruins of the Scorpion King...”
 
-Adventure or reward, Volk was pulled in by his appetite and he decided to participate.
+Whether by the adventure or the reward, Volk was pulled in by his appetite and he decided to participate.
 
-* * *
+@<embed>{|html|<hr/>}
 
 Pale and Maylon!
 
 The couple had become indispensable.
 
-“Shoot the vital spot!” (or vital spot shot)
+“Vital Spot Shot!”
 
-Aiming arrows to attack the monster's philtrum and heart at the same time!
+This technique allowed them to aim arrows to attack the monster's philtrum and heart at the same time!
 
-After the archers' joint attack Irene followed suit with divine magic.
+After the archers' joint attack, Irene followed suit with divine magic.
 
 “Divine light, correct the multitude of evil in this world. Saint blind!”
 
-Radiant white light showed from Irene's hands and they were reflected in the monster's eyes. In fact, the divine magic was a brutal addition. Blocking the monster's eyesight with bright light. And naturally being blinded, it could not act properly.
+Radiant white light showered from Irene's hands over the monsters. The effect seemed small at first, but the divine magic was a brutal addition. It blocked the monsters' eyesight with bright light, preventing them from fighting properly.
 
 “Kueek!”
 
-A monster that walked on two legs was suffering as if it was a tadpole.
+A monster that walked on two legs fell over on its side and was struggling to move, looking like a tadpole out of water.
 
-Saint Blind also gives a bit of damage. The damage is small as it is made to constrict, but the mana consumption is low and against a monster with evil attributes, it makes the magic easier.
+Saint Blind also gives a bit of damage. The damage was small as it was primarily a debuff, but the mana consumption was low and it was easier to cast against a monster with evil attributes.
 
 When she passed level 200 and switched jobs to Priestess, she gained the skill.
 
 “Without hesitation, burn like a blazing fire and leave behind nothing but ashes. Fire Field!”
 
-Romune was too formidable. Area effect fire-based magic! At the underground lake, there were monsters with a slight association with the water element. All of a sudden, they were hit with fire magic that was antagonistic to them. Drying up all the water in their body did large damage to them. For a specialist in fire magic, the lake of water elementals was the best hunting grounds for Romune.
+Romuna was too formidable. She cast area effect fire-based magic! At the underground lake, there were monsters with a slight association with the water element. All of a sudden, they were hit with fire magic that was antagonistic to them. Drying up all the water in their body did large damage to them. For a specialist in fire magic, the lake of water elementals was the best hunting grounds for Romuna.
 
-“Experience the taste of my steel fists!”
+“Have a taste of my steel fists!”
 
-Finally Surka learned a skill she dreamed of as a deaconess.
+Finally Surka learned a skill she'd dreamed when she advanced to Deaconess.
 
-Gather mana and punch apart the enemies with the skill!
+She could gather mana into her fists and punch apart the enemies with the skill!
 
-Although they don't consume much mana, archers cannot do damage without being from afar. Being farther than 10 paces, the damage will be intact.
+Her role was to deal damage while keeping enemies away from the archers and magic casters as they continued to pour out damage.
 
-Zephyr, Hwaryeong and Mapan!
+That left Zeppi, Hwaryeong and Mapan. Of them, Hwaryeong was particularly welcome to the party.
 
-Of them, Hwaryeong was particularly welcome to the party.
+Irene, Romuna, Surka and Maylon, all of them were girls with killer looks.
 
-Irene, Romune, Surka and Maylon, all of them were girls that had looks that can kill.
+When on a hunt and waiting around for monsters, there was nothing to do but relax!
 
-When on a hunt and there is nothing to do while waiting for monsters, there is nothing to do but relax!
+They liked talking to the other women.
 
-Talking to women.
+“The story I broadcasted about yesterday...”
 
-“The story I broadcasted about yesterday?”
+They heard about recent events from Maylon.
 
-Recent changes.
+Maylon's broadcast of the story took her 3 hours. The actual broadcast time was just 1 hour, but there was plenty of preparation, and she had to meet and speak with the entertainers.
 
-Maylon's broadcast of the story took her 3 hours. The actual broadcast time was just 1 hour, but there was the process for preparation, arrangement and to meet and speak with the entertainers.
-
-Yet this was not the end of it. We have not even begun.
+The conversation, though, had just begun.
 
 “I volunteer part of my time outside of that.”
 
 “At our school....”
 
-Romune and Irene were both female college students and each talked about their own stories, clubs and other subjects. They have only been there for barely a year before their leave of absence, but there was no end to their discussions. Surka was a high school student and had interests in various hobbies, reading, collecting plastic models, fashion and so on. As usual, even Hwaryeong adapted immediately to the formidable chatter. She instantly attended the discussion by leading the group with her experience of traveling around the world, such as Milan, Venice, Rome, London, and New York.
+Romuna and Irene were both college students and each talked about their own stories, clubs and other subjects. They had only been there for barely a year before their leave of absence, but there was no end to their discussions. Surka was a high school student and had interests in various hobbies such as reading, collecting plastic models, fashion and so on. As usual, even Hwaryeong adapted immediately to the formidable chatter. She instantly took over the discussion by leading the group into her experience of traveling around the world, such as Milan, Venice, Rome, London, and New York.
 
 These five women achieved complete harmony through intense chatting.
 
-Dancing around enemies, Hwaryeong would attack. Then Zephyr would stand on the forefront of the fight with the monsters. They found that the powerful vitality of an angler can defend enemy attacks. A position dedicated to defend the party like a warrior, because he was an angler, Zephyr took on that role.
-
-Zephyr assumed the most difficult thing!
+Dancing around enemies, Hwaryeong would attack. Then Zeppi would stand on the forefront of the fight with the monsters. They found that the powerful vitality of an angler could defend well against enemy attacks. Normally, the difficult job of defending the party would be the role of a class like a Warrior, but Zeppi was able to take it on.
 
 He and his outrageous vitality had to hold on to the full wrath of the enemies' attacks.
 
-“Zephyr is truly reassuring.”
+“Zeppi is truly reassuring.”
 
 “I never suspected that anglers could fight.”
 
 “I admit, initially I thought fishing would be very weak, but this is absurd!”
 
-Calming colleagues with flattery!
+The women consciously used a bit of flattery to encourage him.
 
-At first they did not do things like this, as they were once pure. Since meeting Weed they had changed. Praise and flattery! The technique they learned from Weed that will work once again, even today. You can say, they learned to how live in the world.
+At first they did not do things like this, as they were once pure. But since meeting Weed, they had changed. Praise and flattery! The techniques they learned from Weed worked again and again. You could say that they learned to how live in the world.
 
-Even in the midst of things, Mapan's presence was always weak. To the extent that when in battle it is hard to distinguish whether he is there. However, at the end of a battle, right away he pops out and calculates the japtem. After processing the japtem of Geomchi and companions, Mapan became reborn as a large merchant.
+Mapan, however, kept himself far away from the front lines during battles. It was to the extent that sometimes the party forgot he was there. However, at the end of a battle, right away he would pop out and total up the japtem. After processing all the loot created by Geomchi and companions, Mapan became reborn as a large merchant.
 
-* * *
+@<embed>{|html|<hr/>}
 
-Citadel of the Dark Elves
-
-Weed re-established his influence with the Dark Elves and Orcs.
+Logging in at the Citadel of the Dark Elves, Weed re-established his influence over the Dark Elves and Orcs.
 
 His Leadership!
 
@@ -255,7 +247,7 @@ When left unattended, the law and order in an army will gradually decrease over 
 //table{
 
 --------------
-Skill: You have used Yell. The morale of your units within range have been increased by 200%
+Skill: You have used Lion's Roar. The morale of your units within range have been increased by 200%
 Any state of confusion has been cleared.
 In addition, for the next five minutes, 205% more leadership is applied.
 //}

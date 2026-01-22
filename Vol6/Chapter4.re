@@ -776,91 +776,87 @@ People were driven to connect to the Royal Road website during the morning and d
 
 They always liked to access the reports from Hall of Fame, they were always fascinated.
 
+//table{
+-------------
 - Let's reveal that Orc's true identity.
-
-- An alternative magic item that allows you to polymorph or something?
-
+- Is it an alternative magic item that allows you to polymorph or something?
 - A type of wizard perhaps. One that can change to a necromancer later on?
-
 - Does this mean people who already switched jobs can become a necromancer?
+}
 
-Wizards were desperate about this.
+Wizards were desperate to learn about this.
 
-When a new profession opens up, it means that you can learn new magic soon.
+When a new profession opens up, it meant that they could learn new magic soon. Magic was very precious for wizards, so they wished for more by any means possible.
 
-Magic was very precious for wizards, so they wished for more by any means.
+Wizard users made a myriad of inquiries to Unicorn, who operated Royal Road.
 
-Wizards were making a myriad of inquiries to Unicorn, who operated Royal Road.
+//table{
+-------------
+- Please, can't you tell us about the quest's progress? How can we access the new Necromancer profession?
+- Can you disclose the characteristics of Necromancers?
+}
 
-- Please, can't you tell us about the quest's progress? How can we receive the commission for this profession in any way?
+Unicorn's reply came from their headquarters:
 
-- Disclose the characteristics of the Necromancer profession.
-
-Unicorn's answer was simple.
-
-- This is from headquarters; the quest is still on-going and it would be careless to the user. We are unable to disclose more. You will know of the characteristics of a necromancer when the profession is opened. If the quest fails, the profession will not be shown to the public.
+"The quest is still on-going and it would be unfair to the user for us to disclose more. You will know of the characteristics of a necromancer when the profession is opened. If the quest fails, the profession will not be shown to the public."
 
 On the pretext of privacy, Unicorn did not reveal any of the current progress.
 
 Then the more anxious users stormed various game sites.
 
-KMC Media, CTS Media, On-stations, Digital Media, LK game.
+KMC Media, CTS Media, On-stations, Digital Media, LK Games.
 
-The viewer feedback form on such broadcasting companies of games was deteriorating, both domestic and international.
+The viewer feedback forms on such broadcasting companies of games was deteriorating, both domestically and internationally.
 
-* * *
+@<embed>{|html|<hr/>}
 
 The producers of KMC media held a meeting.
 
-Usually this was for the young facilitators on the front line or PD, to participate and express their opinions freely, or to recant about the stories or broadcasts, or for the sake of planning.
-
-However, today something unique occurred.
-
-The heads of other broadcasting stations participated in the meeting.
+Usually this was for the young facilitators on the front line or PD to participate and express their opinions freely. They would often discuss how a given story or broadcast went, or plan future content. However, today something unique occurred: the heads of all the divisions participated in the meeting.
 
 “The forums are in an uproar. Director Kang, what is happening?”
 
-The Director of KMC Media accessed the website to oversee the reaction of the viewers. What he saw was tens of thousands of posts. The feedback was all about a request to broadcast one quest.
+The Director of KMC Media accessed the website to oversee the reaction of the viewers. What he saw was tens of thousands of posts asking them to broadcast one specific quest.
 
 “There is a new movie in the Hall of Fame.”
 
-“Well? What the hell is on that one video to cause this chaos?”
+“Well? What the hell is on that one video to cause this chaos?” one of the other executives responded.
 
-At this period of time, his broadcasting station was first in audience ratings; in his division, this was never the case.
+At this moment, KMC was first in audience ratings, but this man's division tended to lag behind.
 
 Director Kang embarrassingly rubbed at his bald head as he replied.
 
 “A quest, it seems.”
 
-“What quest? So many people becoming so excited only for a quest is outrageous.”
+“What quest? So many people becoming so excited over one quest is outrageous.”
 
 The Director tilted his head to the side when a young producer stood up from his seat.
 
-“Right now we will begin our attempt to cover the contents. Show the prepared video for the Director.”
+“Right now we will begin our attempt to cover the contents. Please show the prepared video for the Director.”
 
 “Why not?”
 
-In the conference room, state-of-the-art equipment to view various videos was installed. With omni-directional surround sound system the entire video appears on the front wall. Granted, this conference room's facilities were natural for a broadcasting station.
+In the conference room, state-of-the-art equipment to view various videos was installed. With omni-directional surround sound, the entire video would appear on the front wall. Granted, this conference room's facilities were natural for a broadcasting station.
 
-During the movie stream, the director, the young producers, nor the organizers could not open their mouths. After a long while, the director spoke.
+During the movie stream, neither the director, the young producers, nor the division heads could not open their mouths. After a long while, the director spoke.
 
 “This, we will be sure to catch it.”
 
 “Of course, Director.”
 
-Director Kang and all the organizers agreed.
+Director Kang and all the heads agreed.
 
-Not only considering the battle of Orcs in front of them. A mystical quest where someone transformed into an Orc. An adventure in uncharted regions. Considering all these things, it is just not enough broadcasting it. Director Kang then spoke cautiously.
+It wasn't just the battle of Orcs in front of them. They saw a mystical quest where someone transformed into an Orc. An adventure in uncharted regions. Considering all these things, just broadcasting the quest alone would not be enough. Director Kang then spoke cautiously.
 
-“Yet the other stations will not likely let us stay in this. Perhaps various other stations will contract their offers out.”
+“Yet the other stations will make it hard for us. They will probably try to sign a contract with this person.”
 
-“You mean it would be difficult?”
+“You don't think we can manage it?”
 
-“Not entirely. It is just that when other stations compete, the contracting terms will also increase further.”
+“No, it's just that when other stations compete, the compensation will increase further.”
 
 The problem was always money.
 
-“It is not so possible to spend a large amount of money.”
+“It is not always possible to spend such a large amount of money.”
 
 From the words of the Director, the group was left in a heavy silence.
 
@@ -868,17 +864,15 @@ From the beginning, the company KMC Media did not have a substantial amount of c
 
 They had high viewership, but as a fledgling station, they did not have surplus funds as they actively invested their income when many did not. Director Kang carefully let fly their fortune.
 
-“Gentlemen, our financial situation this year from broadcasting so far is not that bad, I know.... but I thought of making a steady surplus.”
+“Gentlemen, our financial situation this year from broadcasting so far is not that bad, I know, but... I had wanted to make a steady surplus.”
 
-“Even so, we don't have enough money to overwhelm the contract offers of other broadcasters, and this brings me to building up an unconventional deposit.”
+“Even so, we don't have enough money to overwhelm the contract offers of other broadcasters, and this brings me to making an unconventional investment.”
 
-At the end of the Director's words, the organizers soon became depressed.
+At the the Director's words, the organizers soon became depressed.
 
-Even if you endeavour to work hard, you will see that reality will catch you by the ankle. As there are many other places here and there for money entering into a small broadcasting company, they are always tied to their budget.
+Even if you endeavour to work hard, you will see that reality will catch you by the ankle. As there were a myriad of expenses involved in running a small broadcasting company, they were always tied to their budget.
 
-KMC Media's motto.
-
-It is only fun if you spend less money!
+In fact, KMC Media's unofficial motto was often "It's only fun if you spend less money!"
 
 They were desperate for survival.
 
@@ -886,68 +880,68 @@ The organizers sighed.
 
 'But in order to grow further, you need to invest more....'
 
-'This was always a big issue, like with the downfall of CTS Media who deceived themselves.'
+'This is always a big issue, like with the downfall of CTS Media who deceived themselves.'
 
 However, the Director was smiling.
 
-“Regardless of the agreement, we will do it.”
+“Regardless of the price, we will do it.”
 
 “Really?”
 
-“A contract with an incentive. Even if the deposit is exceptional, we will not fail; a smash success due to the performance and advertising can and will distribute proceeds.”
+“A contract with an incentive. Even if the deposit is exceptional, we will not fail; a smash success due to the performance and advertising can and will pay dividends.”
 
-Currently, the rating from Royal Road is continuously at its peak on a daily basis. In increments, the viewership of broadcasting stations for Royal Road rose in succession. The price in advertising sales is also in the midst of growth.
+Currently, the ratings from Royal Road content had never been higher. The viewership of broadcasting stations for Royal Road had risen higher and higher. The advertising proceeds from this content had grown in kind.
 
-“The audience ratings will rise more than 5%, to share in the proceeds a certain percentage of an advertisement will be given to the broadcasting station in accordance to the contract, and who can say how much money will be given when people download the quest video from the home page?”
+"I am sure the audience ratings will rise more than 5%, so we will give a certain percentage of advertising revenue from the broadcast as part of the contract. We will also pay royalties when people stream the quest video through our website."
 
 KMC was still a small station, but this was a possible method.
 
 Department Director Kang wiped the sweat from his brow.
 
-“Let us form a contract, Gentlemen.”
+“Let us form a contract, gentlemen.”
 
-* * *
+@<embed>{|html|<hr/>}
 
-When a video in the Hall of Fame gets an increased number of views by many people, the company Unicorn provides a nominal payment to the original poster. Such a way to earn money was unfamiliar as until now he was used to selling items.
+When a video in the Hall of Fame got an increased number of views by many people, Unicorn Corporation provided a nominal payment to the original poster. Such a way to earn money was unfamiliar to Lee Hyun, as until now he was used to selling items.
 
-“I will be given money for people to watch it, but there won’t be a difference if I do nothing to make it.... If I can edit it a bit, I can raise the amount I get.”
+“I will be given money when people watch it, but there won’t be a difference if I do nothing to make it better... If I can edit it a bit, I can raise the amount I get.”
 
-It was a bit late but Lee Hyun hesitated about purchasing an editing program, even now when the Public Relations Department of Unicorn headquarters was in an uproar.
+At this late hour, as Lee Hyun agonized about whether it was worth buying a video editing program, the Public Relations Department at Unicorn headquarters was in an uproar.
 
 “Surely he would let other users onto the quest.”
 
 “Oh, that would be great.”
 
-Chang Yun-Su, chief figure in the Public Relations Department was in the operating room and was coming up with strategies with other people who saw the movie. It was essential to familiarize yourself with the game in order to seamlessly promote Royal Road.
+Chang Yun-Su, chief figure in the Public Relations Department was in the operations room and was coming up with strategies with other people who saw Lee Hyun's movie. It was essential to familiarize yourself with the game in order to seamlessly promote Royal Road.
 
-Strategies are not a straightforward task when in the operating room. Studying and understanding the whole background story for each quest. Histories of each of the Kingdoms! Helping in the development of cities as well as background of important figures, the growth of users. These types of things forecast the future direction of the continent of Versailles and this is how strategy in the operation room flows.
+Strategies are not a straightforward task when in the operations room. It was his job to study and understand the whole background story for each quest. The history of each of the Kingdoms! People from their department helped develop cities, fleshed out the background of important figures, and did other things to increase the growth of users. These types of things forecast the future direction of the continent of Versailles, and this is how strategy in the operations room flowed.
 
 “The progress of the quest is already so far, the speed is faster than we believed.”
 
 “What is the problem then?”
 
-“The emergence of the Bar Khan quest is fine if it barely hit to the second quest chain. If you look at the overall picture, yet because of him, this is just not....”
+“The emergence of the Bar Khan quest is fine if it's just a tangential connection. Even with this guy involved making things hard to predict, if you look at the overall picture, it's not a major worry yet.”
 
 “Yet?”
 
-“The situation seems to have made little difference to the game for now, but if the forces of undead run rampant, the axis of power with the existing forces in the kingdom will gradually effect the users in time.”
+“The situation seems to have made little difference to the game for now, but if the forces of undead run rampant, the axis of power with the existing forces in the kingdom will gradually affect the users in time.”
 
-The NPC occupation and the rights of ownership for famous castles and fortresses, as well mines, villages and places of business will be changed. Users in guilds join forces to contribute for a siege, and to take ownership from increasing their occupation. A city may or may not be near the capital of a Kingdom, but they still fall into the hands of users; in fact much of the central continent is already operating with users.
+The owners of famous castles and fortresses, as well as mines, villages and places of business were always changing. Users in guilds would join forces to contribute for a siege, and then take ownership of the location aftweward. A city may or may not be near the capital of a kingdom, but it would still fall into the hands of users; in fact much of the central continent was already ruled by users.
 
-“But what does the Bar Khan quest has got to do with all that?”
+“But what does the Bar Khan quest have to do with all that?”
 
 A team leader who was very curious asked Chang Yun-Su because he was very familiar about the game's backstory. He clasped his hands as if he was at home and gave a wide smile to the rest of the operators in the room as he listed the possibilities.
 
-“It will be interesting. Bar Khan's complete resurrection with his undead forces and power, in this aspect it will be very different with the hatred of the undead.”
+“It will be interesting. Bar Khan's complete resurrection with his undead forces and power, in this case it would be very different from the war that many NPCs remember.”
 
 “Well, yeah.”
 
-“Villages and castles under attack from the undead. The undead can even wage a siege with all of the corpses. Their hatred can work both in attack and defense and find more participants. Not only that, keep in mind that in that case the undead can completely dominate an enemy counterattack.”
+“Villages and castles would be under attack from the undead. The undead can even wage a siege with all of the corpses. Their necromancy can work both in attack and defense and create more combatants. They would be sure to devastate an unprepared enemy force.”
 
 “On the other hand, the undead can occupy a town or castle?”
 
-“Enough talk on the possibilities. The undead are just one of many types of monster on the Versailles continent. The kingdoms that become occupied by the infestation of undead will fade away. If the users can purify them, it would become a very big opportunity for such contributions.”
+“Enough talk on the possibilities. The undead are just one of many types of monster on the Versailles continent. The kingdoms that become occupied by the infestation of undead will fade away. If the users try to purify them, it would become a very big opportunity for such contributions.”
 
 “So this will bring about crisis and opportunity at the same time.”
 
-“Yes, the rewards of this storyline is unexploited, the kingdom in the northern part of the continent lies in the hands of the undead, but.... Regardless, the overall difficulty will rise in the future and we might frequently see the undead.”
+“Yes, though the rewards of this storyline remain to be defined. However, the kingdom in the northern part of the continent lies in the hands of the undead, but.... Regardless, the overall difficulty will rise in the future and we might see the undead a lot more.”
