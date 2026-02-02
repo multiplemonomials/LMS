@@ -51,6 +51,7 @@
 |Booby-Trap Dance|Bubi-Bubi Dance|
 |Sculptural Understanding|Sculptural Comprehension|
 |Sculpture Transformation|Sculptural Shapeshifting|
+|Perseverance (stat)|Patience|
 
 ## Items
 |My Term|Other Spellings|
