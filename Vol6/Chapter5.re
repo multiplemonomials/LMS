@@ -18,7 +18,7 @@ The level of users in this pub was, on average, higher than 300. Out of all the 
 
 Dark Gamers considered this pub to be the United Nations. A place for Dark Gamers to take a break.
 
-Volk drank his prized fruit drank sparingly.
+Volk drank his prized fruit drink sparingly.
 
 A sweet taste. It is often said that a taste can wash fatigue from your entire body. If food and drink were placed before you, you should eat and sip sparingly. Dark Gamers were players whose focus was to earn money, therefore they would not carelessly waste even a dime.
 
@@ -78,7 +78,7 @@ Volk, as a Dark Gamer, was sitting alone, and a few people came to talk to him.
 
 These people would pay him to join their party!
 
-It can be difficult to hunt alone, so this is a place where you can find a colleague. Of course, when deciding the division of roles and sharing of the revenue, you must be thorough. As one of the Dark Gamers, if you cannot fulfil your part in the bargain, or if you are unreasonably greedy, you will be called out and get a record here at the United Nations. In severe cases, you could find yourself kicked out and executed as the Dark Gamers turn against you.
+It can be difficult to hunt alone, so this is a place where you can find a colleague. Of course, when deciding the division of roles and sharing of the revenue, you must be thorough. As one of the Dark Gamers, if you cannot fulfil your part in the bargain, or if you are unreasonably greedy, you will be called out and get a record here at the United Nations. In severe cases, you could find yourself kicked out and executed as the Dark Gamers turned against you.
 
 Volk spoke to them with a soft smile.
 
@@ -88,7 +88,7 @@ Volk spoke to them with a soft smile.
 
 A few of them offered their apologies as they turned away.
 
-To the Dark Gamers, this pub is their only refuge. One place where you can rest in peace. There were rules, such as not interfering with the rest of another.
+To the Dark Gamers, this pub was their only refuge. One place where you can rest in peace. There were rules, such as not interfering with those who were relaxing
 
 RATTLE.
 

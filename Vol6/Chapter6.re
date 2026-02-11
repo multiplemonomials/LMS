@@ -1,10 +1,10 @@
-==={chapter-6-tallocks-armor} Chapter 6: Tallock's Armor
+= Talrock's Armor
 
-The paladins and senior priests gathered around the High Priest’s alter as Weed went down on one knee in front of them.
+The paladins and senior priests gathered around the High Priest’s altar as Weed went down on one knee in front of them.
 
 “I have come to report on the mission.”
 
-“Is it possible that the precious duty we gave you about the Exiled people on the Plains of Despair, have you ended that thorn in our side?”
+“Is it possible that the precious duty we gave you about the exiled people on the Plains of Despair, have you ended that threat?”
 
 The High Priest asked him a few questions.
 
@@ -12,31 +12,26 @@ Weed gave them the story about the necromancers in the city of the Dark Elves.
 
 “Oh! So that was what happened. The actions that you have taken are proper; I would have choosen the same.”
 
-The High Priest though did not understand why Weed did nothing to Necromancers.
+The High Priest though did not understand why Weed did nothing to the Necromancers.
 
 “You have taken our request and to such a distant place and suffered for our sake, I'm unable so express all the gratitude we owe you. May the grace of the Goddess Freya be bestowed upon you.”
 
 The High Priest touched Weed lightly on the head.
 
 //table{
-
+Quest Completed: The Exiles Living in the Plains of Despair.
 --------------
-You have completed:
-The Exile living in the Plains of Despair.
-The Necromancers did not discard their pride and self-esteem. More pressure is added to the power of darkness due to this loss, Bar Khan and the Liche Shire are no longer subject to his romantic admiration. He will fight with the Immortal Legion and do so with the courage to straighten up the wrongdoings, even the priests of the church are in wonder.
+The Necromancers did not discard their pride and self-esteem. In fact, they never had ill intent, and no longer admire Bar Khan and Lich Shire. They will fight the Immortal Legion with the resolve to right the wrongdoings of their past.
 
- * Fame has been raised by 1,800.
- * Friendship with the Church of Freya increased by 42.
- * The public value of the Church of Freya has increased by 1900. You can see the public value of the church in the next window.
+* Fame has been raised by 1,800.
+* Friendship with the Church of Freya increased by 42.
+* The public value of the Church of Freya has increased by 1900. You can see the public value of the church in the next window.
 //}
 
-
-
 //table{
-
 --------------
  * The Church of Freya's public value: 7,202.
- * The religious organization that eradicates the forces of evil, their public value has been raised from the fulfilment of the related quest.
+ * The religious organization that eradicates the forces of evil, their public value has been raised by the fulfillment of the related quest.
 - Faith has risen by 60.
 - You have gained a level.
 - You have gained a level.
@@ -45,37 +40,37 @@ The Necromancers did not discard their pride and self-esteem. More pressure is a
 
 Three levels and a significant amount of public value!
 
-Weed had nearly reached level 300, even when he obtained a considerable amount of experience, there is nothing like rising in level all at once.
+Weed had nearly reached level 300. Even though sometimes he obtained a considerable amount of experience from various achievements, there was truly nothing like rising multiple levels all at once.
 
-Weed bowed his head deeply. Experience is one thing anyway, but of course, the most important thing was the items obtained. The High Priest then spoke.
+Weed bowed his head deeply. Experience was one thing, but of course, the most important thing was the items obtained. The High Priest then spoke.
 
 “It is painful to say, but the wealth of our entire church is lacking, in truth, our coffers are empty.”
 
-Truly he endured, he could barely draw a smile on his lips, but that was the most he could manage.
+Weed somehow managed to endure. He could barely sustain a smile on his lips, but that was the most he could manage.
 
 'Yet I immediately went out of my way just to get to the Plains of Despair for you!'
 
 The High Priest had not yet finished speaking.
 
-“It's just that our church is poor and does not have many treasures. Therefore, I express this so that you may not have to expect something extremely good.”
+“It's just that our church is poor and does not have many treasures. Therefore, I have to warn you that you may not be able to expect something extremely good.”
 
 The wealth of the Church of Freya, this was beyond his imagination.
 
-There are many extensions of the church all over the Versailles continent. Each temple also has spacious farmlands, mines and believers that donate money. They sell potions and receive a formidable amount of donations from their blessings. A certain amount of gold is acquired from Paladins and Priests each time they hunt.
+There are many extensions of the church all over the Versailles continent. Each temple also has spacious farmlands, mines, and believers that donate money. They sell potions and receive a formidable amount of donations from their blessings. A certain amount of gold is acquired from Paladins and Priests each time they hunt.
 
-For the Church of Freya to be sitting on top of so much money, yet not having any treasure, it just doesn't make any sense.
+For the Church of Freya to be sitting on top of so much money, yet not having any treasure, it just didn't make any sense.
 
 'There must be something I can have, even just one!'
 
-Weed currently had moment of distress.
+Weed was currently in distress.
 
-In order to hunt, the most important thing is a sword with exceptional damage. Rosenheim Kingdom gives out a lot of swords. In addition, the weaponry from the church usually has poor damage. The Sword of Agatha, that he previously received from the church, even had an ability to exert a special Divine ability, but the sword itself still had a weak attack.
+In order to hunt, the most important thing was a sword with exceptional damage. Rosenheim Kingdom's armory had had plenty of those. In addition, the weaponry from the church usually has poor damage. The Sword of Agatha that he previously received from the church even had an ability to exert a special blessing ability, but the sword itself still had a weak attack power.
 
-'Also will need to pick body armor with a good defense.'
+'Also I will need to find armor with a good defense.'
 
 Armor of the Church.
 
-Various kinds of sanctification have been imbued through magic into the armor; you can boast of it being exceptional. Weed raised his patience and endurance to a great degree by beating superior monsters, but for other people ignorant of this, it is not like that. They are unwilling to fight stronger monsters with high attack and increasingly searched to obtain good armor.
+Churches were known to create armor imbued with holy magic to provide buffs or extra defenses; you could boast of these being exceptional. Weed had raised his perseverance and endurance to a great degree by beating superior monsters, but most players were more risk-averse and did not obtain these stat boosts. So, they increasingly searched for good armor.
 
 Swords and armor have always been higher priced items.
 
@@ -85,44 +80,39 @@ After Weed organized his thoughts, he spoke.
 
 “In return, you will get what you wish.”
 
-The High Priest instructed a paladin to bring Tallock's armor.
+The High Priest instructed a paladin to bring Talrock's Armor.
 
-'Tallock's armor?'
+'Talrock's Armor?'
 
 Weed was hard at work racking his brain.
 
-His head did indeed contain the information on numerous items. Almost all the various kinds of items worth money, he also memorized the names of items that were tolerably worth something.
+He had memorized information on numerous items. He knew the name and value of basically every known item in Royal Road worth enough to be worth selling.
 
-Something like Tallock's armor was unfamiliar to Weed.
+But this "Talrock's Armor" was unfamiliar to Weed.
 
-A moment later, the paladin returned carrying armor over a red cloth.
+A moment later, the paladin returned carrying a suit of armor plates bound together with red cloth.
 
-A white armor with a subtle radiance that made it like new. In addition, the red pattern that was needle stitched was indeed of Freya. At the moment Weed saw the armor, his eyes were sparkling! He was very intrigued.
+The metal was white, with a subtle radiance that made it like new. In addition, patterns of the Goddess Freya had been needlepointed into the fabric. At the moment Weed saw the armor, his eyes started to sparkle! He was very intrigued.
 
 'It looks expensive!'
 
-He had not checked the information of the item yet; however, the glossy appearance is not ordinary. Wearing that around the plaza will certainly receive peoples' attention right away. Traditionally, the appearance and rarity of an item greatly affects the price. If a luxury goods market exists, such an item would fit in that class. So the value could be higher. One passing point was the perfect appearance in itself.
+He had not checked the information of the item yet; however, the glossy appearance was not ordinary. Wearing that around the plaza would certainly grab people's attention right away. Traditionally, the appearance and rarity of an item would greatly affect the price. If you could say that there was a market for "luxury goods" in Royal Road yet, this armor would absolutely belong on it.
 
-“Your contributions have been meaningful to us I pass on to you Tallock's armor. I hope that you will cherish this gift. “
+“Your contributions have been meaningful to us, so I pass on to you Talrock's Armor. I hope that you will cherish this gift. “
 
-“This is what I needed to fight monsters. This armor passed on to me from the Church of Freya, I will never forget this grace and will conserve it as I would my own body.”
+“This is what I needed to fight monsters. This armor passed on to me from the Church of Freya -- I will never forget this grace and will protect it as I would my own body.”
 
-Just to say there was need for suitable flattery, he was trembling!
-
-Weed promptly took the armor into his own hands. He felt conscious of the heavy weight.
+Weed was trembling with excitement and could barely even complete his usual flattery. He promptly took the armor into his own hands. He felt conscious of the heavy weight.
 
 “Identify!”
 
-
-
 //table{
-
+Talrock's Armor of Faith
 --------------
-The Armor of Tallock's faith
  * Durability 150/150.
  * Defense 85.
 
-Armor made from the mithril of the Rahoman Mine. The dwarven blacksmith Tallock, who was renowned throughout the continent, made this armor to repay a favor to the church of Freya. It boasts amazing defensive capabilities and is light in weight. It gives the wearer a fighting spirit that will not waver and a noble tenacity.
+Armor made from the mithril of the Rahoman Mine. The dwarven blacksmith Talrock, who was renowned throughout the continent, made this armor to repay a favor to the church of Freya. It boasts amazing defensive capabilities and is light in weight. It gives the wearer a fighting spirit that will not waver and a noble tenacity.
 The gift of the High Priest.
 This is the only one of its kind.
 
@@ -142,20 +132,20 @@ Attributes:
  * You are immune to confusion and fear magic.
  * Acquired the Dwarves favor.
 
-Due to the properties of the mithril that came from Rahoman Mine, it turns to a black sheen when underground.
+Due to the properties of the mithril from Rahoman Mine, the metal turns to a black sheen when underground.
 //}
 
-Immediately, Weed's jaw dropped the moment he viewed the information of the item. For some time his mouth stayed in that state.
+Immediately, Weed's jaw dropped the moment he viewed the information of the item. It hung open for some time.
 
 A unique class of item!
 
-With a variety of attributes, the defense was almost of the highest class.
+It had a variety of attributes, and the defense was almost of the highest class.
 
-If using the blacksmith skill to polish armor, with a 20% additional effect to defense, it would be more than 100.
+If using the blacksmith skill to polish armor, which provided a 20% additional effect to defense, it would be more than 100.
 
 'Jackpot!'
 
-The item was very good, except that his level was still too low to wear it. Weed rapidly packed away Tallock's armor and spoke. His business at the Church of Freya's altar was not complete.
+The item was very good, except that his level was still too low to wear it. Weed rapidly packed away Talrock's Armor and spoke. His business at the Church of Freya's altar was not complete.
 
 “High Priest! The Liche Shire and his Immortal Legion, they are powerful and my force and Dark Elves are still lacking despite my efforts to strengthen them. So, for that reason I formally request that you send a contingent of the order's knights and priests.”
 

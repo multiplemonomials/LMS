@@ -162,9 +162,9 @@ Shick! Shick! Shick!
 
 Lee Hyun carefully carved the block of ice, beginning to define the figure of a person. He could not know how beautiful Chairman Kang's wife was in the past. He had no photo of that time to go by, nor was he able to remember the delicate face of the original statue.
 
-According to the height, the eyes and the shape of the nose, the impression was rapidly being changed; it had now the face of a woman. As he had nothing to go by through memory, he started to delicately carve the features of Chairman Kang's wife, as she appeared currently. A sculptor must have some understanding of the target. Would Chairman Kang's wife be embarrassed about her wrinkled face? Time will pass and one's features age; some would cry out or feel shy about it. When you are young, being beautiful, everyone wants it to be eternal, but that cannot be, and the result is sadness. She lived with her husband, who loved her so for 40 years. She was far past being the kind of person who would cry about such a thing as lost youth.
+According to the height, the eyes and the shape of the nose, the impression was rapidly being changed; it had now the face of a woman. As he had nothing to go by through memory, he started to delicately carve the features of Chairman Kang's wife, as she appeared currently. A sculptor must have some understanding of the target. Would Chairman Kang's wife be embarrassed about her wrinkled face? Time will pass and one's features age; some would cry or feel shy about it. When you are young, being beautiful, everyone wants it to be eternal, but that cannot be, and the result is sadness. She lived with her husband, who loved her so for 40 years. She was far past being the kind of person who would cry about such a thing as lost youth.
 
-She would not be ashamed of a wrinkled face that was gained, through the flow of time. She spent 40 years living together with her husband, in faith and affection. Things were not always good. They had suffered hardships. Raising children and preparing them for the future was difficult, and she had a tough life.
+She would not be ashamed of a wrinkled face that was gained through the flow of time. She spent 40 years living together with her husband, in faith and affection. Things were not always good. They had suffered hardships. Raising children and preparing them for the future was difficult, and she had a tough life.
 
 Though she had her troubles, it was also rewarding. These last 40 years were the happiest of her life, not the days before it. Here at their meal together, at this time and place, you could see the gentle smile of this grandmother, so he carved it safely, little by little to perfection.
 
@@ -172,7 +172,7 @@ Lee Hyun's delicate touch at carving the ice sculpture attracted the attention o
 
 @<embed>{|html|<hr/>}
 
-Initially, Chairman Kang was furious and was about to get up from his seat. To criticize the inadequate preparation made by the hotel; however, the instant Lee Hyun began to cut away at the statue, he endured instead. Though his anger was not reduced, his wife was watching curiously. Already his 40th wedding anniversary was ruined; along with what he wanted his wife to see. He just wanted to leave.
+Initially, Chairman Kang was furious and was about to get up from his seat to criticize the inadequate preparation made by the hotel. However, the instant Lee Hyun began to cut away at the statue, he endured instead. Though his anger was not reduced, his wife was watching curiously. Already his 40th wedding anniversary was ruined; along with what he wanted his wife to see. He just wanted to leave.
 
 'Well, let's see how you do,' he thought. 'However, you better be prepared when it turns out horrible.'
 
@@ -188,7 +188,7 @@ Chairman Kang took hold of his wife's hand. Although wrinkled in age, these old 
 
 Chairman Kang shook his head. 'I would not be as happy as I am now with any other woman,' he thought.
 
-Her hair was lighter colored in age, and it paled in comparison to her former beauty. Such a long time had passed, and looking at her it showed, but that meant nothing now.
+Her hair was lighter colored in age, and it paled in comparison to her former beauty. Such a long time had passed, and, looking at her, it showed, but that meant nothing now.
 
 Rather, he felt that she was more lovely now than ever before.
 
@@ -196,7 +196,7 @@ Rather, he felt that she was more lovely now than ever before.
 
 Kang and his wife persistently waited for the completion of the statue.
 
-Even after their own dinner, some guests returned to see the work on the statue.
+Even after their own dinner, some guests returned to see the work as well.
 
 “Here is some lemon juice.”
 
@@ -208,25 +208,25 @@ The staff handed out snacks to the guests. In their spare time, they too cast th
 
 “It just seems so beautifully carved; I can't believe it's just a dinner decoration...”
 
-They could see from the sculpture that he was no amateur. Sweat soaked through Lee Hyun's forehead as he sculpted. The cold ice he carved was also perspiring. He was sweating even though they had lowered the temperature in order to stop the dry ice from melting. 
+They could see from the sculpture that he was no amateur. Sweat soaked through Lee Hyun's forehead as he sculpted. The cold ice he carved was also perspiring. He was sweating even though they had lowered the temperature in order to keep the dry ice solid as long as possible.
 
 It was fascinating to watch. He seemed entirely immersed in the movements of his sculpting tools. In order to create a piece of art, he had to be entirely devoted to his work.
 
-According to the mood he felt, he moved his hands across the sculpture and felt the fine features. The time to utilize his ROyal Road experience and plan out the sculpture in his head had already passed. Now, he shaved off the final bits of the statue as the flow of emotions moved his heart.
+According to the mood he felt, he moved his hands across the sculpture and felt the fine features. The time to utilize his Royal Road experience and plan out the sculpture in his head had already passed. Now, he shaved off the final bits of the statue as the flow of emotions moved his heart.
 
 “It's amazing.”
 
 “I think I entrusted this job to a better sculptor.”
 
-The hotel staff did notice that the broken statue from before was of a much higher level than the one Lee Hyun was making. Lee Hyun was certainly insufficient in delicate hand sculpting techniques. However, the differences in level were only a few steps away. Leee Hyun's sculpture was a little rougher and did not feel as complete, but Lee Hyun poured his heart into it and the shape began to emerge.
+The hotel staff did notice that the broken statue from before was of a much higher level than the one Lee Hyun was making. Lee Hyun was certainly insufficient in delicate hand sculpting techniques. However, the differences in level were only a few steps away. Lee Hyun's sculpture was a little rougher and did not feel as complete, but Lee Hyun poured his heart into it and the shape began to emerge.
 
 It is said that a good sculpture gives out its own feeling. This one reminded you of a young sculptor smiling brightly just as he made his best work. Of course, he did his best to live up to the expectations and creating a statue that embodied her charm. However, the statue he made did not hold these special feelings. He did not know how to properly create a sculpture of a person with his own two hands; his skill was lacking.
 
 On the other hand, with 40 years of love for his wife, Chairman Kang looked into the grandmotherly eyes of the sculpture that Lee Hyun was making. It seemed like all his pent-up affection, love, and appreciation for his wife had been poured into this one object.
 
-This was the power of the artistic profession of a sculptor. Even though this was not a top-level piece of art from the best sculptor.
+This was the power of the artistic profession of a sculptor, even though this was not a top-level piece of art from the best sculptor.
 
-And finally, the moment the sculpture was completed, thunderous applause rang out within the restaurant. The admiration from the guests, the staff, and even the singers were clapping in unison.
+And finally, the moment the sculpture was completed, thunderous applause rang out within the restaurant. The guests, the staff, and even the singers were clapping in unison.
 
 For the stubborn Chairman Kang, tears flowed freely from his eyes. This woman, who fell in love with him for a lifetime and lived together with him for 40 years, was watching him.
 
@@ -234,7 +234,7 @@ In front of this sculpture of ice, she was currently at her happiest.
 
 @<embed>{|html|<hr/>}
 
-Lee Hyun was exhausted, and was soaked in sweat all over. But Chairman Kang suddenly walked up and took his hand.
+Lee Hyun was exhausted and soaked in sweat all over. But Chairman Kang suddenly walked up and took his hand.
 
 “Thank you, this is really wonderful, the most beautiful sculpture I've seen in my life. And I think that it's the most beautiful sculpture I will ever see.”
 
@@ -248,7 +248,7 @@ The moment he completed the statue, his mind returned.
 
 'What else can I do right now?'
 
-He suffered for a few hours making the sculpture. His hands almost felt numb from handling the cold ice. At least in Royal Road, the work you make might become a masterpiece.
+He suffered for a few hours making the sculpture. His hands almost felt numb from handling the cold ice. At least in Royal Road, the work might have become a masterpiece.
 
 Stats and fame!
 
@@ -260,11 +260,11 @@ It was then that Lee Hyun took notice.
 
 If you looked closely, Chairman Kang was, in every aspect, a business tycoon. He was accompanied by his secretary and it was evident that the manager of this large hotel was catering to him. 
 
-Lee Hyun thought, 'Might I be on Chairman Kang's good side due to his mood from the sculpture?' There is absolutely no chance he would ever let a chance like this escape!
+Lee Hyun thought, 'Might I be on Chairman Kang's good side due to his mood from the sculpture?' There is absolutely no way he would ever let a chance like this escape!
 
 Chairman Kang's comments to Lee Hyun, and even his wife's mirth, showed that they were truly in good humor. A touch of flattery in this mood after Lee Hyun's hard work in making a sculpture had kicked it even one notch higher.
 
-Chairman Kang was in good mood. Complimenting his wife more than his own compliment made him even more exhilarated. Lee Hyun and the Chairman firmly shook hands.
+Chairman Kang was in good spirits. Complimenting his wife more than his own compliment made him even more exhilarated. Lee Hyun and the Chairman firmly shook hands.
 
 “Thank you very much. All the work you did for my wedding anniversary is a big deal for me.”
 
@@ -282,7 +282,7 @@ It was then that the General Manager of the hotel came forward.
 
 “Well... the thing is, there was a little accident as we were preparing the sculpture.”
 
-The General Manager frankly gave the story of how the ice sculpture shattered on the floor during the preparation of the event.
+The General Manager frankly gave the story of how the ice sculpture shattered on the floor during the preparation for the event.
 
 “I'm ever so grateful.....”
 
@@ -312,7 +312,7 @@ The president took out his wallet and pulled out a bill.
 
 Certainly, Lee Hyun declined.
 
-“I did not do this for the money! Just seeing that it caused you two to be so happy. Just to see you look so affectionately towards each other. To be honest, I am enviable of you, honored elders. For it to decorate elder's home, it is truly a dream come true.”
+“I did not do this for the money! Just seeing that it caused you two to be so happy. Just to see you look so affectionately towards each other. To be honest, I am envious of you, honored elders. For it to decorate your home, it is truly a dream come true.”
 
 Proper humility came out of Lee Hyun's mouth. It was such marvelous display of flattery!
 
@@ -346,7 +346,7 @@ Having finished his work, Lee Hyun headed to his sister, who had been waiting fo
 
 Both of Lee Hayan's friends had sparkling eyes and were beaming at him. Their look was a mixture of admiration, amazement, and respect.
 
-Lee Hyun turned to take his sister back to the house. The managers gathered at the entrance. Just as Lee Hyun was about to take out his money, the General Manager waved his hand.
+Lee Hyun turned to take his sister back to the house. The managers gathered at the entrance. Just as Lee Hyun was about to take out his money, the General Manager waved her hand.
 
 “That won’t be needed. Why would we take money from a benefactor to our hotel? Your sculpting was great, and it's not an exaggeration to say you rescued us! Although, if you would like to come back at any time, you can use the hotel or restaurant at no charge. And it is complimentary for the person who accompanies you as well.”
 
@@ -400,9 +400,9 @@ The voice he heard that came from the other end of the speaker was the one he kn
 
 Chung Il Hoon was surprised.
 
-The miserly Lee Hyun buying a meal outside, he couldn't even imagine such a thought.
+The miserly Lee Hyun buying a meal at a restaurant? He couldn't even imagine such a thought.
 
-“You're asking about us at the dojo? Getting some take out from a Chinese restaurant? A fried dumpling would be nice, even if only one I would be grateful.”
+“You're asking about us at the dojo? Maybe we could all get some takeout from a Chinese restaurant? A fried dumpling would be nice, even if only one I would be grateful.”
 
 “No, we're going out to eat.”
 
@@ -414,7 +414,7 @@ The miserly Lee Hyun buying a meal outside, he couldn't even imagine such a thou
 
 Chung Il Hoon was stuttering.
 
-“I know the location, but why do want to go there?”
+“I know the location, but why do we want to go there?”
 
 “Come to Hotel V, I'll take you out to eat.”
 
@@ -422,7 +422,7 @@ Chung Il Hoon was stuttering.
 
 Before Lee Hyun could possibly change his mind, Chung Il Hoon quickly prepared to leave.
 
-Nevertheless, he had trust in Lee Hyun's words.
+Nevertheless, he had trust in Lee Hyun's parting words.
 
 “Also take the whole dojo family. For this is truly a rare opportunity. Huhuhu.”
 
@@ -432,7 +432,7 @@ Chung Il Hoon called all of the practitioners and instructors and ordered them t
 
 “Yes, we're going to a hotel.”
 
-“I wonder, will it be delicious? If it is a place very frequented, it must be very good.”
+“I wonder, will it be delicious? If it is a place lots of people frequent, it must be very good.”
 
 “Oh, Master is also here with us.”
 
@@ -470,7 +470,7 @@ Lee Hyun was waiting for them.
 
 “You truly are my favorite.”
 
-Lyy Hyun had already contacted the manager of the restaurant, and he readily consented to Lee Hyun and a large group of acquaintances. He'd told his staff to commit to the best service for them: the chefs should be ready to cook the best they can, and the wait staff were to be at the ready.
+Lee Hyun had already contacted the manager of the restaurant, and he readily consented to Lee Hyun and a large group of acquaintances. He'd told his staff to commit to the best service for them: the chefs should be ready to cook the best they can, and the wait staff were to be at their service.
 
 However, once the door was open and they helped Anh Hyun-do, the instructors, and the practitioners come inside, the faces of the staff went grey.
 
@@ -500,7 +500,7 @@ Then Anh Hyun-do rose up from his seat.
 
 “Everybody listen. For a person training in martial arts like us, it is not a good thing to overeat.”
 
-The manager and his staff watched An Hyun-do with hope in their young eyes. But after what he said next, they could not help but be even more frustrated.
+The manager and his staff watched Anh Hyun-do with hope in their young eyes. But after what he said next, they could not help but be even more frustrated.
 
 “Per person, eat no more than 10 servings each.”
 
@@ -514,7 +514,7 @@ For each person, a single serving came out to 7,000 Won. They ate to their heart
 
 “Tasty, I ate well.”
 
-The employees completed serving the dishes and were at the point of collapsing. Their only wish was for the men to quickly leave.
+The employees completed serving the dishes and were about to collapse. Their only wish was for the men to quickly leave.
 
 However, they were all still sitting, every single person.
 
@@ -526,7 +526,7 @@ Choi Jongbeom asked with embarrassment on his face.
 
 Alongside him, Ma Sangbeom spoke.
 
-“If I could eat it every day, it would be nice.”
+“If I could eat like this every day, it would be nice.”
 
 “.......”
 
@@ -542,7 +542,7 @@ Lee Hyun shook his head from side to side, and continued to ruminate.
 
 'Well, other people do hang out and walk around every day, yet it was so difficult for me.'
 
-He found watching a movie to be an emotional rollercoaster, and just from wandering around town he was quickly fatigued due to all the things that threatened to drain his wallet. And then there was his sculpting work at the restaurant. It was really a difficult thing to create a statue carved from ice. And his skills in real life didn't measure up to what he was used to -- just from a glance his work was unsellable.
+He had found watching the movie to be an emotional rollercoaster, and just from wandering around town he was quickly fatigued due to all the things that threatened to drain his wallet. And then there was his sculpting work at the restaurant. It was really a difficult thing to create a statue carved from ice. And his skills in real life didn't measure up to what he was used to -- just from a glance his work was unsellable.
 
 However, the day's work was complete and now he had returned home.
 
@@ -552,7 +552,7 @@ However, the day's work was complete and now he had returned home.
 
 His younger sister went to bed and Lee Hyun changed again into his outside clothing. Normally, after washing up he would access Royal Road. But today he had another place to be.
 
-Lee Hyun went and caught the night-time bus to the hospital, sought the nurse in charge of night shift, and asked, “How is my grandmother?”
+Lee Hyun went and caught the night-time bus to the hospital, sought the nurse in charge of the night shift, and asked, “How is my grandmother?”
 
 “She is asleep. Because of the cancer, she is taking medicine to relieve pain. You can go in now, but it will difficult as it will take some time for her to wake up.”
 
@@ -568,7 +568,7 @@ The hospital room was small. Grandmother was lying down on the bed, soundly asle
 
 From grandmother, only pale breathing came out, she was asleep.
 
-The devices checked her heart rate, and it stayed in a consistent pattern. She would probably not wake up for 7 hours due to the effects of the drug.
+The devices checked her heart rate, and it stayed in a consistent pattern. She would probably not wake up for seven more hours due to the effects of the sedatives.
 
 “Hayan had her interview for the University of Korea today. To be honest, there was a bit of an accident so I don't know if it is a pass, but it's still a good thing, right?”
 
@@ -578,7 +578,7 @@ The devices checked her heart rate, and it stayed in a consistent pattern. She w
 
 Lee Hyun continued speaking to his grandmother as she slept.
 
-“Indeed, a lot of things have happened since that time, and my only wish is that she live her life in happiness. A lot of things were tough back then. At a time there was no food to eat, grandma, you once said that to reduce the mouths to feed, you had to give up Hayan. You tried to send her to an orphanage.”
+“Indeed, a lot of things have happened since that day, and my only wish is that she live her life in happiness. Things were tough back then. At one point when there was no food to eat, grandma, you once said that to reduce the mouths to feed, you had to give up Hayan. You tried to send her to an orphanage.”
 
 It had been a long time ago, but his sister was about to be sent to the orphanage. In protest, Lee Hyun had gone three days without eating.
 
@@ -666,7 +666,7 @@ But the area that Buren was pointing at seemed to be missing something. No, look
 
 Ever since Weed arrived at the Yuroki Mountains on the Plains of Despair, he wandered to his heart's content. He collected various acidic berries, precious medicinal herbs, and even snakes!
 
-These were high-quality materials utilized only when immersed in a solution of alcohol; if you were to consume even more than one you would only notice the sweet taste before you got terribly ill or even died.
+These were high-quality materials utilized only when immersed in a solution of alcohol; if you were to consume one raw, you would just have time to notice the sweet taste before you got terribly ill or even died.
 
 He'd combined these ingredients with clear dew collected at dawn to distill various liquors. Weed had then made bottles of wine -- which were conspiciously missing from the stash of supplies.
 
@@ -732,7 +732,9 @@ As Buren explained the situation, he had a case of severe hiccups. That was when
 
 Then, all of it became apparent to him.
 
-Buren and Becker, while following his command to carry his supplies, found the liquor bottles.
+Buren and Becker, while following his command to carry his supplies, had found the liquor bottles.
+
+The previous day.
 
 “It's alcohol.”
 
@@ -766,7 +768,7 @@ Weed's soldiers had tried to commit themselves to their work, but couldn't keep 
 
 So they revealed his little nest egg, his prized possesion, the fermented wine!
 
-By this point, Weed had pretty much worked out what happened. He sighed. “And I have to fight against the Immortal Legion with things going like this...”
+The next day, seeing the aftermath, Weed had much worked out what happened. He sighed. “And I have to fight against the Immortal Legion with things going like this...”
 
 @<embed>{|html|<hr/>}
 
@@ -774,7 +776,7 @@ There was uproar on the internet.
 
 People were driven to connect to the Royal Road website during the morning and daytime.
 
-They always liked to access the reports from Hall of Fame, they were always fascinated.
+They always liked to access the reports from the Hall of Fame; they were always fascinating.
 
 //table{
 -------------
@@ -786,7 +788,7 @@ They always liked to access the reports from Hall of Fame, they were always fasc
 
 Wizards were desperate to learn about this.
 
-When a new profession opens up, it meant that they could learn new magic soon. Magic was very precious for wizards, so they wished for more by any means possible.
+When a new profession opened up, it meant that they had the opportunity to learn new magic. Magic was very precious for wizards, so they wished for more by any means possible.
 
 Wizard users made a myriad of inquiries to Unicorn, who operated Royal Road.
 
@@ -800,19 +802,19 @@ Unicorn's reply came from their headquarters:
 
 "The quest is still on-going and it would be unfair to the user for us to disclose more. You will know of the characteristics of a necromancer when the profession is opened. If the quest fails, the profession will not be shown to the public."
 
-On the pretext of privacy, Unicorn did not reveal any of the current progress.
+Under the pretext of privacy, Unicorn did not reveal any of the current progress.
 
 Then the more anxious users stormed various game sites.
 
 KMC Media, CTS Media, On-stations, Digital Media, LK Games.
 
-The viewer feedback forms on such broadcasting companies of games was deteriorating, both domestically and internationally.
+The viewer feedback for these game broadcasting was deteriorating, both domestically and internationally.
 
 @<embed>{|html|<hr/>}
 
 The producers of KMC media held a meeting.
 
-Usually this was for the young facilitators on the front line or PD to participate and express their opinions freely. They would often discuss how a given story or broadcast went, or plan future content. However, today something unique occurred: the heads of all the divisions participated in the meeting.
+Usually this was for the young facilitators on the front line and PDs to participate and express their opinions freely. They would often discuss how a given story or broadcast went, or plan future content. However, today something unique occurred: the heads of all the divisions participated in the meeting.
 
 “The forums are in an uproar. Director Kang, what is happening?”
 
@@ -838,7 +840,7 @@ The Director tilted his head to the side when a young producer stood up from his
 
 In the conference room, state-of-the-art equipment to view various videos was installed. With omni-directional surround sound, the entire video would appear on the front wall. Granted, this conference room's facilities were natural for a broadcasting station.
 
-During the movie stream, neither the director, the young producers, nor the division heads could not open their mouths. After a long while, the director spoke.
+Ass the Hall of Fame video played, neither the director, the young producers, nor the division heads could open their mouths. After a long while, the director spoke.
 
 “This, we will be sure to catch it.”
 
@@ -890,7 +892,7 @@ However, the Director was smiling.
 
 “A contract with an incentive. Even if the deposit is exceptional, we will not fail; a smash success due to the performance and advertising can and will pay dividends.”
 
-Currently, the ratings from Royal Road content had never been higher. The viewership of broadcasting stations for Royal Road had risen higher and higher. The advertising proceeds from this content had grown in kind.
+Currently, the ratings from Royal Road content had never been higher. The viewership of broadcasting stations for Royal Road was always rising. The advertising proceeds from this content had grown in kind.
 
 "I am sure the audience ratings will rise more than 5%, so we will give a certain percentage of advertising revenue from the broadcast as part of the contract. We will also pay royalties when people stream the quest video through our website."
 
@@ -914,7 +916,7 @@ At this late hour, as Lee Hyun agonized about whether it was worth buying a vide
 
 Chang Yun-Su, chief figure in the Public Relations Department was in the operations room and was coming up with strategies with other people who saw Lee Hyun's movie. It was essential to familiarize yourself with the game in order to seamlessly promote Royal Road.
 
-Strategies are not a straightforward task when in the operations room. It was his job to study and understand the whole background story for each quest. The history of each of the Kingdoms! People from their department helped develop cities, fleshed out the background of important figures, and did other things to increase the growth of users. These types of things forecast the future direction of the continent of Versailles, and this is how strategy in the operations room flowed.
+Strategies are not a straightforward task when in the operations room. It was his job to study and understand the whole background story for each quest, the history of each of the kingdoms! People from their department helped develop cities, fleshed out the background of important figures, and did other things to increase the growth of users. These types of things set the future direction of the entire continent of Versailles, and this is how strategy in the operations room flowed.
 
 “The progress of the quest is already so far, the speed is faster than we believed.”
 

@@ -57,6 +57,7 @@
 |My Term|Other Spellings|
 |=======|===============|
 |Helain's Grail|Helain's Cup, Heraim's Cup, Hera's Cup|
+|Talrock's Armor|Tallock's Armor|
 
 ## Organizations
 |My Term|Other Spellings|
