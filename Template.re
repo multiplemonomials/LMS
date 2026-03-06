@@ -44,7 +44,6 @@ Effects:
  * For a week after seeing the statue, you can take a mission at the mercenary guild on better terms.
  * Experience gain increased by 5%.
 These effects do not stack with effects of other sculptures.
-Number of created fine pieces so far: 5.
 Number of created fine pieces so far: 6.
  * Skill proficiency of Sculpting has risen.
  * Fame increased by 46.
@@ -52,4 +51,6 @@ Number of created fine pieces so far: 6.
  * Endurance increased by 3
  * Charisma increased by 3.
  * Fortitude increased by 5.
+As its creator, Weed will have ownership of this beast. If life is given to this beast in the future, it will be loyal to Weed.
+As a reward for making a masterpiece sculpture, all stats will permanently increase by 1.
 //}

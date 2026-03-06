@@ -150,42 +150,39 @@ The item was very good, except that his level was still too low to wear it. Weed
 “High Priest! The Liche Shire and his Immortal Legion, they are powerful and my force and Dark Elves are still lacking despite my efforts to strengthen them. So, for that reason I formally request that you send a contingent of the order's knights and priests.”
 
 //table{
-
 --------------
 A request for reinforcements!
 //}
 
-Even the Church of Freya would not have any expectations that those that were borrowed would necessarily return to Rosenheim Kingdom. Looking at the necromancer Shire's forces, it is indeed powerful. Even if weakened, Bar Khan can still draw the power of over 5000 Doom Knights over level 300. Doom Scouts, Doom Servants, Doom Wizards!
+Even the Church of Freya would not have any expectations that those that were borrowed would necessarily return to Rosenheim Kingdom. Looking at the necromancer Shire's forces, they were indeed powerful. Bar Khan himself could draw the power of over 5000 Doom Knights over level 300, in addition to Doom Scouts, Doom Servants, and Doom Wizards!
 
-Archers of the living dead, ghouls, zombies, remnants, and all kinds of undead skeletons, grouped together and lead by various stronger monsters.
+While Shire would be weaker than his master, one could still expect undead archers, ghouls, zombies, remnants, and all kinds of undead skeletons, grouped together and lead by various stronger monsters.
 
 The priest spoke with a sad face.
 
-“For something like that you will require a lot of strength. However, in our Church's order, we have no such force. We devoted all of our strength to the province of Mora in order to stabilize the region. No matter how critical it is to go against the Immortal Legion at this moment, we will not be able to discard the choice we already made.”
+“For something like that you will require a lot of strength. However, in our Church's order, we have no such force. We devoted all of our strength to the province of Morata in order to stabilize the region. No matter how critical it is to go against the Immortal Legion at this moment, we will not be able to discard the commitment we already made.”
 
-In this matter, the request of reinforcements he made has been refused. It was inevitable, paladins and priest would not have been enough. But the High Priest did not send Weed away just yet.
+In this manner, the request of reinforcements he made was refused. It was inevitable -- paladins and priest would not have been enough. But the High Priest did not send Weed away just yet.
 
 “At all costs, can you stop the Immortal Legions on the Plains of Despair?”
 
 “I will do my best.”
 
-“In order to help, the church will lend you our sacred item, Helaine's cup.”
+“In order to help, the church will lend you our sacred item, Helain's Grail”
 
-The cup of Helaine.
+Helain's Grail. The treasure that Weed had originally found which created this bond with the Church of Freya. When water is placed into the cup, the relic will change it into holy water.
 
-The treasure that Weed gave at the beginning which created; this bond with the Church of Freya. When water is placed into the cup, the relic will change it into holy water.
+Normally, it is reserved for the use of the clergy as only they are able to wield its abilities. But by the grace of the Goddess Freya, our benefactor may make use of it. With this you should go on to do great things. As you are currently busy with the mission, at the time you are finished, you know where you can find us.”
 
-“Originally, it is only reserved for the clergy as only they are able to handle Helaine's cup. By the grace of the Goddess Freya, our benefactor may make use of it. With this you should go on to do very great things. As you are currently busy with the mission, at any time you are finished, you know where you can find us.”
+Weed accepted the artifact and headed to the teleportation gate into the Plains of Despair.
 
-Weed accepted the cup of Helaine and headed to the teleportation gate into the Plains of Despair.
+@<embed>{|html|<hr/>}
 
-* * *
+In Somren Liberty City, people were still lining up to receive the blessings of the Church of Freya.
 
-Someuren Liberty city, people were still lining up to receive the blessings of the Church of Freya.
+“Just a little while back, who was that person that the guards took with them?”
 
-“Just a little while back, just who was that person that the guards took with them?”
-
-“For the lowly guards at the entrance to escort him, must be some kind of big figure with influence or made a great contribution.”
+“For the lowly guards at the entrance to escort him, he must be some kind of figure with big influence or someone who made a great contribution.”
 
 “Donate big bucks to the church and you might be one.”
 
@@ -195,15 +192,15 @@ Someuren Liberty city, people were still lining up to receive the blessings of t
 
 The bored people that were standing in the line stood and chatted. Suddenly the guards stepped up to them and the people were tense. It was very rare for the guards to come out like this, especially so frequently. Not just that, the guards also spoke to them.
 
-- You people, do you know of the adventurer called Weed? Now, this is probably something you should know. This time he departed for the Nercomancers on Plains of Despair, with no guide to tell him the proper path.
+- You people, do you know of the adventurer called Weed? Now, this is probably something you should know. This time he departed to deal with the Necromancers on the Plains of Despair, with no guide to tell him the proper path.
 
 - Passing through the greedy and dirty Orcs and the selfish Dark Elves, he met with the Necromancers.
 
-- He did something that no one else would do, with his benevolent heart, he listened to the Necromancers and spared their lives, and thus he learned of a more important affair.
+- He did something that no one else would do: with his benevolent heart, he listened to the Necromancers and spared their lives, and thus he learned of a more important affair.
 
 - Now, Weed is the great benefactor of our Church.
 
-The people were surprised as they quietly listened to the dialogue of the guards. As they heard the guards speak, something emerged for them.
+The people were surprised as they quietly listened to the dialogue of the guards. As they heard the guards speak, something clicked for them.
 
 “The Hall of Fame. The quest seen in the Hall of Fame has just been reported of, right now!”
 
@@ -217,13 +214,13 @@ The people were surprised as they quietly listened to the dialogue of the guards
 
 “No way, is it just a similar name?”
 
-“Surely no. War with the Immortal Legion. Following the defeat of the True Blood Vampire clan, it must be a serial quest!”
+“Surely no. War with the Immortal Legion -- it must be a serial quest following the defeat of the True Blood Vampire Clan!”
 
 “Weed! From The Continent of Magic, it is that Weed!”
 
 The people started a fuss.
 
-Others knew the name of Weed; even in this game he was legendary. People remembered the incident of Weed combating the True Blood Vampires for the Church of Freya.
+Others knew the name of Weed; even in this game he was legendary. People remembered when NPCs had begun to tell the story of Weed defeating the True Blood Vampires for the Church of Freya.
 
 “But did anyone memorize the face of that person?”
 
@@ -237,37 +234,35 @@ Others knew the name of Weed; even in this game he was legendary. People remembe
 
 “Wait. We will camp out here and wait until he comes out!”
 
-In Someuren Liberty city, all the residents, the soldiers and the priests, the word went out of Weed's story. As the rumors spread, an immense crowd stood in the line in front of the Church of Freya.
+In Somren Liberty city, among all the residents, among the soldiers and the priests, the word went out of Weed's story. As the rumors spread, an immense crowd grew in front of the Church of Freya.
 
 However, Weed had already taken the teleportation gate and was away into the Plains of Despair.
 
-* * *
+@<embed>{|html|<hr/>}
 
 Holy water seems to have a lethal effect to the undead.
 
-Helaine's cup can produce an infinite amount of holy water; it had been lent to him, but he was unsure if this alone could stop the legions of undead.
+Helain's Grail can produce an infinite amount of holy water; it had been lent to him, but he was unsure if this alone could stop the legions of undead.
 
-“It can weaken the enemy, but this won’t win it for us.”
+Weed concluded in sober judgment, “It can weaken the enemy, but this won’t win it for us.”
 
-Weed concluded that in sober judgment.
+The best class to kill an undead would be a Paladin, and he had none of those. He was short on priests too, just barely having 100 of them. They lacked the mana to give blessings to all of the Orcs; it would be difficult to just walk to them.
 
-The best class to kill an undead would be a Paladin. He was short on priests too, just barely having 100 of them. They lacked the mana to give blessings to all of the Orcs; it would be difficult to just walk to them.
-
-When they get close, it will be almost impossible to defeat the undead without priests or paladins.
+Once the undead closed the distance, it would be almost impossible to defeat them without priests or paladins.
 
 “I need weapons. The Orcs and Dark Elves will need to be armed with weapons.”
 
 A quest of ‘A’ class difficulty would not be so easy.
 
-Orcs holding their glaives, and Dark Elves and their arrows would not be very effective with the undead.
+Orcs holding their glaives, and Dark Elves and their arrows would not be very effective at dealing with the undead.
 
-Nevertheless, what he could do is prohibited and is no different than a mistake. He knew that this job was too difficult to continue if he didn't use an absurd amount of money in answer.
+What he was about to do went against every fiber of his being. Nevertheless, he knew that this job was too difficult to continue if he didn't use an absurd amount of money to even the odds.
 
-“Silver! Nonetheless, we need weapons made of silver!”
+“Silver! We need weapons made of silver!”
 
 Silver defeats evil!
 
-If the Orcs and Dark Elves were armed with weapons made of silver, their allied power will practically increase more than two times. But if he bought the weapons and still fail the quest, Weed will end up broke.
+If the Orcs and Dark Elves were armed with weapons made of silver, their power against the undead would practically double. But if he bought the weapons and still fail the quest, Weed will end up broke.
 
 “This is why I wanted to abandon the quest.....”
 
@@ -279,45 +274,43 @@ Weed sent a whisper to Mapan.
 
 - Mapan. Are you currently available?
 
-A merchant has access at any time!
+A true merchant is available at any time! As soon as he sent a whisper to Mapan, an answer was returned.
 
-As soon as he sent a whisper to Mapan, an answer is returned.
+- Yes. Choose! Choose! Buy goods cheaply. If you want affordable items, we can purchase on your behalf. We also buy japtem! Could you please leave your contact information? Thank you for contacting Mapan's trading company. We will serve you kindly.
 
-- Yes. Choose! Choose! Buy goods cheaply. If you want affordable items, we can purchase on your behalf. We also buy japtem! Could you please leave your contact information? Thank you for visiting Mapan's firm. We will serve you kindly.
+- ...
 
-- …....
-
-* * *
+@<embed>{|html|<hr/>}
 
 The tearfully ascetic road of a merchant!
 
-He still purchased japtem, and Mapan was intent on selling goods. In fact, until a certain point when you reach the top of the scale you still crave for money. Most traders would fall off such a path. But Mapan was persistently dedicated to his merchant skills. He followed Weed and the Geomchis while using flattery as he walked the merchant's path.
+He still purchased japtem, and Mapan was intent on selling goods. In fact, until a certain point when you reached the top of the scale you would always crave money. Most traders would stray from the path at some point. But Mapan was persistently dedicated to his merchant skills. He followed Weed and the Geomchis while using flattery as he walked the merchant's path.
 
 'Even though my funds may leave me, my skills will never betray me!'
 
-Mastering his skills, Mapan had the belief that the effort of improving the merchant skill will let him live a comfortable life. Yet in the meantime, it seemed that there was a lot Mapan had to develop. To the extent of his intonation while he speaks to, even his way of humming.
+Mastering his skills, Mapan had faith that his efforts improving his merchant skills would let him live a comfortable life. Yet in the meantime, it seemed that there was still a lot Mapan had to develop to provide the best customer service possible. Even to the extent of his intonation when speaking to customers, or his habit of idly humming!
 
 - Oh! Is that you Weed?
 
 Mapan sent a whisper straight back.
 
-The guy knew Weed was the sender but he was surprised as he belatedly spoke back.
+He knew Weed was the sender but he was so surprised to see the message that the response had just slipped out.
 
 - Yes. It's me, Weed.
 
 - You're still alive. *sob*
 
-- …...
+- ...
 
 Tears poured out from Mapan unexpectedly.
 
-This time Weed's colleague assumed that he was dead.
+By now, Weed's colleague assumed that he was dead.
 
-So far no one had ever known of a person return from the Plains of Despair alive. In addition, the quest was of B-class difficulty and leaving for that alone should have left him to his death.
+So far no one had ever known of a person who returned from the Plains of Despair alive. In addition, the quest was of B-class difficulty and that alone should have condemned him to his death.
 
-Mapan had bet 200 gold that Weed would die. Pale and his other companions had all bet money that he would survive. They had a solid belief that with Weed's vitality he would somehow live. Mapan thus lost money but he quickly smiled and whispered back.
+Mapan had bet 200 gold that Weed would die. Pale and his other companions had all bet money that he would survive. They had a solid belief that, with Weed's vitality he would somehow live. Mapan thus lost money, but still he smiled and quickly whispered back.
 
-- Anyways, I'm glad that you're alive. Pale was also very worried. Zephyr, Hwaryeong, Irene, Surka and Romune have all been talking about you, Weed.
+- Anyways, I'm glad that you're alive. Pale was also very worried. Zephyr, Hwaryeong, Irene, Surka and Romuna have all been talking about you, Weed.
 
 - Where is everyone gathering at right now?
 
@@ -327,53 +320,51 @@ Weed's party was hunting without him.
 
 - How are the Geomchis doing?
 
-- Oh! Each of them left Rosenheim Kingdom talking about training as warriors. For the sake of becoming great adventurers in the end they were instructed to break up individually.
+- Oh! Each of them left Rosenheim Kingdom talking about training as warriors. For the sake of becoming great adventurers, they were instructed to split up and travel alone.
 
 - Training as a warrior... that would be fun.
 
 Traveling troublemakers!
 
-The Geomchis traveling all over, you can't imagine what they will do, for Weed it was not difficult to make a guess.
+The Geomchis were traveling all over, and one couldn't imagine what they would do. For Weed, it was not difficult to make a guess.
 
 Mapan could not help but laugh as he told him.
 
-- You seem to be getting along well on the Plains of Despair, anyway I'm glad. The quest, are you still doing it, have you resolved it yet?
+- I'm glad, you seem to be getting along well on the Plains of Despair. What about the quest? Are you still doing it? Have you resolved it yet?
 
 - As you can expect, I'm managing. By the way, I'd like to make a little purchase of weapons for the progression of the quest. Sterling silver, I will need a lot of it smelted.
 
 - Oh, if I go to the blacksmith's shop, I should be able to buy silver and other materials. Silver by itself will not be that difficult.
 
-A large kingdom being in the frontier, like Rosenheim, would normally stockpile weapons and materials.
+A large kingdom in the frontier like Rosenheim stockpiled plenty of weapons and materials.
 
 - Then find and purchase some please.
 
-- Sure. Although you need all that silver for those zombies, will you pay me through Pale-nim or directly, will it be during the shape of the battle with those undead monsters? How many would you like? Weed, as with the original preparations for a hunt, will you need 5,000 maybe even to the extent of 10,000?
+- Sure. You need all that silver for dealing with zombies and the like, right? You can pay me through Pale-nim or directly. How many would you like? For a normal hunt of the undead, it's recommended to get at least 5,000 silver arrows, or maybe 10,000 for safety.
 
-It depended on the quality of materials, but that made little difference, one arrow would usually use 2 silver coins.
+The exact cost depended on the quality of materials, but one arrow would usually go for about 2 silver coins.
 
-It was hard to imagine Weed needing a large amount, so the ignorant Mapan heavily assumed that it was for hunting. From his calculations he considered that the total would be a generous 200 gold. However, what Weed told him next was beyond anything he imagined.
+It was hard to imagine Weed needing a large amount, so the ignorant Mapan automatically assumed that it was for a hunting trip. From his calculations he considered that the total would be a generous 200 gold. However, what Weed told him next was beyond anything he imagined.
 
-- Two Million arrows. First purchase as much of the ingredients for smelting as cheap as you can. So that at least 50,000 weapons could be cast.
+- Two Million arrows. First purchase as much of the ingredients for smelting as cheap as you can. So that at least 50,000 weapons could be produced.
 
-- ….....
+- .....
 
-For a moment, there was no answer from Mapan.
+For a moment, there was no answer from Mapan. He was immediately hard at work on the calculations.
 
-He was eagerly hard at work on the calculations.
+One gold equaled 100 silver. If it was 2 silver per arrow and he bought 2 million, that's 40,000 gold!
 
-Gather 100 silver for 1 gold. If it is 2 silver per arrow and he bought 2 Million, that's 40,000 gold!
-
-No matter how cheap he bought the materials, to cast one weapon would cost at least 60 silver. First off, using the cheapest, even if only doing the lightest covering of silver on 50,000 weapons, it would be an unbelievable 30,000 gold.
+No matter how cheap he bought the materials, to make one weapon would cost at least 60 silver. Even  doing the cheapest, lightest covering of silver on 50,000 weapons, it would be an unbelievable 30,000 gold.
 
 - T, that's so much....
 
 - Can you get it?
 
-- 2,000,000 arrows. Enough sterling silver to cast 50,000 weapons. What the hell is happening over there... All right. I'll get started on this right now!
+- 2,000,000 arrows. Enough sterling silver to coat 50,000 weapons. What the hell is happening over there... All right. I'll get started on this right now!
 
-After entrusting Mapan to the purchasing of weapon materials on his behalf, Weed did not have to worry about a thing.
+After entrusting Mapan to purchase weapon materials on his behalf, Weed did not have to worry about a thing.
 
-There is a limit to the amount of material that is sold from a shop, but up to this moment, Mapan had learned important lessons from advice given by Weed.
+Mapan knew he wouldn't be able to get all of these materials from one shop, but up to this moment, Mapan had learned important lessons from advice given by Weed.
 
 From the beginning, there is nothing that can't be done.
 
@@ -385,27 +376,27 @@ Get up earlier than anyone else to earn a copper more.
 
 In the future, earn more money than can be done now.
 
-To fill the sheer amount, he would have to purchase from many blacksmith shops in the Kingdom of Rosenheim every morning and buy from users that obtained silver through hunting. Sterling silver as in silver arrows exert a lethal effect on undead; but for those who do not hunt or look for undead, they turn over such items that they do not need much of. There are not a lot of people in the Central continent, let alone the rare few in Rosenheim Kingdom that would bother to scour cemeteries. To purchase such extraordinary amounts that would be normal for an industrious reason is strange but not impossible.
+To fill the sheer amount, he would have to purchase from each of the blacksmith shops in the Kingdom of Rosenheim every morning, and he'd have to buy from users who obtained silver through hunting. Sterling silver formed into silver arrows exerted a lethal effect on undead, but those who didn't fight undead tended to sell such items. Royal Road as a whole had few players who hunted in cemeteries, and there there were barely any in Rosenheim Kingdom. This meant that there'd be a surplus of anti-undead weaponry, but it also meant that Mapan's purchases would certainly stick out.
 
-'My entire fortune is gone, decreased by 75,000 gold.'
+Meanwhile, Weed despaired. 'My entire fortune is gone, decreased by 75,000 gold.'
 
-This money wasted, never to be seen again, Weed wanted to lament in his pain.
+This money was wasted, never to be seen again, Weed wanted to wail in anguish.
 
-Ordering these weapon materials, he had to pay more than 70,000 gold at the very least.
+To order the proper weapons, he had to pay 70,000 gold, at the very least.
 
-Truly the saddest moment!
+It was truly the saddest moment!
 
 Weed had to quickly recover his motivation.
 
 “Yes, money! When you start off, there is no money, but this is not how it has to end!”
 
-He never spent money so casually and suffered so badly. Rather, this was too big a shock. Shedding tears profusely, he made an effort to try to forget about the money. At a time when a friend fell and broke his knee, he shed no tears. But when he bought land, his tears gushed out with such force.
+He never spent money so casually, so he suffered badly. This was simply too big a shock. Shedding tears profusely, he tried his best to put the expenditure out of his mind, but it was a struggle. At one point, when a friend fell and broke his knee, Lee Hyun shed no tears. But when he had finally, grudgingly bought land back in Continent of Magic, his tears had gushed out with such force.
 
 “But even with this, it will not be enough!”
 
-It was still lacking for Weed. His throat was dry.
+The preparations were still insufficient for his liking. His throat was dry and he felt anxious.
 
-In the Plains of Despair, there was still another force that can follow him. The Village of the Exiled. Scattered throughout the Plains of Despair, but the Dark Elves and Orcs alone are not sufficient. Humans, should they join, the battle ahead will be eased by quite a bit.
+In the Plains of Despair, there was still another force that could follow him: The Village of Exiles. The Dark Elves and Orcs alone were not sufficient. If he could convince these humans to join, the battle ahead will be eased by quite a bit.
 
 “I will obtain the silver weapons from Rosenheim Kingdom, but I have to go there and back.”
 
@@ -413,50 +404,45 @@ Weed pulled out Zahab's carving knife.
 
 Soon after, Weed picked out a rock of good quality without any cracks and sat in front of it for a moment to think.
 
-“Perhaps running, a Cheetah would be a great choice for that right?”
+“I need to run fast... a cheetah would be a great choice for that right?”
 
 A sleek cheetah!
 
 If disguised as a cheetah, he should be able to pass through the Plains of Despair by running. Also, he already had the map.
 
-*Syasyasak!* (sound effect for carving)
+Shick! Shick! Shick!
 
-With his skill, he very nimbly carved through the rock and carved a cheetah. He elongated the torso, and most importantly, lengthened the four legs like that of a horse.
+With his skill, he very nimbly sliced away the rock and carved a cheetah. He elongated the torso and, most importantly, created four long legs like that of a horse.
 
 “Should be able to run faster with longer legs.”
-
-It should run well, just like the fact that a child will not run as well as a tall adult can!
 
 T'tiring!
 
 //table{
-
+Masterpiece! You finished the Quadruped Beast!
 --------------
-A fine piece! A reward for completing a quadruped animal!
-Sculptor, you are approaching towards greatness! Your fame is enough to be widespread throughout the continent. It is not necessary for art to have a fixed form! This is certainly an age where you can experience any kind of art at any moment. However, in accordance to the development of art, various attempts were deployed. As this artwork is made with an abstract impression, to people with a good eye this may be seen as superior but not all will consider this as a work of art.
-Artistic value: 3,100.
+Sculptor, you are approaching towards greatness! Your fame is enough to be widespread throughout the continent. It is not necessary for art to have a fixed form! Indeed, in this age, art can be anything and anywhere! As this artwork is made with an abstract impression, to people with a good eye this may be seen as superior, though not all will consider this as a work of art.
+@<b>{Artistic Value:} 3,100.
 Special attributes:
- * This beast is awarded 25% increase in health and mana regeneration during the day.
+ * The beast awards a 25% increase in health and mana regeneration during the day.
  * Movement speed increased by 20%.
- * Prior stats are raised by 10.
- * You will see that 9 random attributes will be applied.
- * Can activate Roar of the Beast.
- * Overlap with other sculptures does not apply.
-Until now, the number of completed fine pieces: 4 (could also be classic)
- * Your proficiency in the sculpting skill has improved.
- * Fame has increased by 320.
- * All stats have risen by 6.
- * Patience has risen by 3.
+ * All stats increased by 10.
+ * 9 random attributes will be applied.
+ * Can activate Roar of the Beast skill.
+These effects do not stack with effects of other sculptures.
+Number of created Masterpieces so far: 4
+ * Skill proficiency of Sculpting has risen.
+ * Fame increased by 320.
+ * All stats increased by 6.
+ * Perseverance increased by 3.
  * Endurance increased by 2.
- * In response, Weed will have ownership of this beast. If you give life to this beast in the future, it will be loyal to Weed.
- * In consideration of making a masterpiece sculpture, all stats will have and additional rise of 1.
+As its creator, Weed will have ownership of this beast. If life is given to this beast in the future, it will be loyal to Weed.
+As a reward for making a masterpiece sculpture, all stats will permanently increase by 1.
 //}
 
-An abstract!
+The system lavished praise on his sculpture, declaring it a bold work of abstract art!
 
-In accordance to the development of the arts!
-
-A created work that really meant that Weed's beast statue was tacky. In fact, it actually had the long legs of a horse and a long torso, but he was trying to create a cheetah. The reward was for an unknown beast. The cheetah's body hair was closer to that of a camel. It had the posture of a cow stepping backward and crushing a frog.
+But to Weed, the beast statue came out tacky. In fact, it actually had the long legs of a horse and a long torso, but he was trying to create a cheetah. The result was an unknown beast. The cheetah's body hair was closer to that of a camel. It had the posture of a cow stepping backward and crushing a frog.
 
 It was rough, but intentionally trying to create a masterpiece does not come so easily. Because of this, his sculpting skill rose by 12% and he reached level 9 and was at 43%.
 

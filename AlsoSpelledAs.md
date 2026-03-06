@@ -17,7 +17,7 @@
 |Zeppi (Choi Jihoon)|High-level fisherman in game, playboy IRL|Zephyr, Zepinen|
 |Hwaryeong (Jeong Hyo Lynn)|Dancer in game, pop diva IRL||
 |Lafaye|Leader of the Hermes Guild|Raphael|
-|Yellowy|Weed's bull pet and/or slave|Rover|
+|Yellowy|Weed's bull pet and/or slave|Rover, Nureongi|
 |Drinfield|Admiral of the Hermes Guild naval fleet|Drinpelt|
 |Steel Barbarians|Enemies from the Lavias training hall|Infinite Steel Men|
 |Daycram|Master Sculptor, developed Nature Sculpting and lives as a hermit|Deykram|
@@ -43,6 +43,7 @@
 |Versailles Continent|Bersa Continent|
 ||Champion's Tower|
 |Korea University (Or more formally, National University of South Korea)||
+|Village of Exiles|Village of the Exiled|
 
 ## Abilities
 |My Term|Other Spellings|
