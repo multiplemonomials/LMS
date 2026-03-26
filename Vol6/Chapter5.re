@@ -108,7 +108,7 @@ Some Dark Gamers he talked to immediately shook their heads. Some people gave a 
 
 However, those rejecting didn't seem to be unhappy with the young man. In fact, the five people he'd talked to had a hint of respect in their eyes.
 
-'What are you doing here?'
+"What are you doing here?"
 
 The man calmly came up to the seated Volk.
 
@@ -118,7 +118,7 @@ The man calmly came up to the seated Volk.
 
 Volk had a moment of silence.
 
-The appearance of a difficulty A quest was not the best thing. He began to understand why the Dark Gamers rejected him.
+The appearance of a difficulty A quest was not the best thing. He began to understand why the Dark Gamers rejected this man.
 
 “Not tolerable, it would be hard.”
 
@@ -170,7 +170,7 @@ This technique allowed them to aim arrows to attack the monster's philtrum and h
 
 After the archers' joint attack, Irene followed suit with divine magic.
 
-“Divine light, correct the multitude of evil in this world. Saint blind!”
+“Divine light, correct the multitude of evil in this world. Saint Blind!”
 
 Radiant white light showered from Irene's hands over the monsters. The effect seemed small at first, but the divine magic was a brutal addition. It blocked the monsters' eyesight with bright light, preventing them from fighting properly.
 
@@ -178,7 +178,7 @@ Radiant white light showered from Irene's hands over the monsters. The effect se
 
 A monster that walked on two legs fell over on its side and was struggling to move, looking like a tadpole out of water.
 
-Saint Blind also gives a bit of damage. The damage was small as it was primarily a debuff, but the mana consumption was low and it was easier to cast against a monster with evil attributes.
+Saint Blind also gave a bit of damage. The damage was small as it was primarily a debuff, but the mana consumption was low and it was easier to cast against a monster with evil attributes.
 
 When she passed level 200 and switched jobs to Priestess, she gained the skill.
 
@@ -190,7 +190,7 @@ Romuna was too formidable. She cast area effect fire-based magic! At the undergr
 
 Finally Surka learned a skill she'd dreamed when she advanced to Deaconess.
 
-She could gather mana into her fists and punch apart the enemies with the skill!
+She could gather mana into her fists and punch apart enemies with the skill!
 
 Her role was to deal damage while keeping enemies away from the archers and magic casters as they continued to pour out damage.
 
@@ -214,9 +214,9 @@ The conversation, though, had just begun.
 
 “At our school....”
 
-Romuna and Irene were both college students and each talked about their own stories, clubs and other subjects. They had only been there for barely a year before their leave of absence, but there was no end to their discussions. Surka was a high school student and had interests in various hobbies such as reading, collecting plastic models, fashion and so on. As usual, even Hwaryeong adapted immediately to the formidable chatter. She instantly took over the discussion by leading the group into her experience of traveling around the world, such as Milan, Venice, Rome, London, and New York.
+Romuna and Irene were both college students and each talked about their own stories, clubs and other subjects. They had only been there for barely a year before their leave of absence, but there was no end to their discussions. Surka was a high school student and had interests in various hobbies such as reading, collecting plastic models, fashion and so on. As usual, even Hwaryeong adapted immediately to the formidable chatter. She instantly took over the discussion by leading the group into her experience of traveling around the world, to places like Milan, Venice, Rome, London, and New York.
 
-These five women achieved complete harmony through intense chatting.
+These five women achieved complete harmony through their constant conversations.
 
 Dancing around enemies, Hwaryeong would attack. Then Zeppi would stand on the forefront of the fight with the monsters. They found that the powerful vitality of an angler could defend well against enemy attacks. Normally, the difficult job of defending the party would be the role of a class like a Warrior, but Zeppi was able to take it on.
 
@@ -226,13 +226,13 @@ He and his outrageous vitality had to hold on to the full wrath of the enemies' 
 
 “I never suspected that anglers could fight.”
 
-“I admit, initially I thought fishing would be very weak, but this is absurd!”
+“I admit, initially I thought fishermen would be very weak, but this is absurd!”
 
 The women consciously used a bit of flattery to encourage him.
 
 At first they did not do things like this, as they were once pure. But since meeting Weed, they had changed. Praise and flattery! The techniques they learned from Weed worked again and again. You could say that they learned to how live in the world.
 
-Mapan, however, kept himself far away from the front lines during battles. It was to the extent that sometimes the party forgot he was there. However, at the end of a battle, right away he would pop out and total up the japtem. After processing all the loot created by Geomchi and companions, Mapan became reborn as a large merchant.
+Mapan, however, kept himself far away from the front lines during battles. It was to the extent that sometimes the party forgot he was there. However, at the end of a battle, right away he would pop out and total up the japtem. After he had processed all the loot created by Geomchi and companions, Mapan had been reborn as a bulk merchant.
 
 @<embed>{|html|<hr/>}
 
