@@ -264,7 +264,7 @@ You have acquired a special movement skill: Quadruped Run
 By running on four legs, you will be able to speed up by 60% more than usual. However, it consumes stamina and mana.
 When running against the wind your stamina consumption goes down by 30%.
 When running with the wind, your speed is increased by an additional 20%.
-When running on certain terrains, speed is further enhanced by 80%.
+When running on certain terrain, speed is further enhanced by 80%.
 Stamina +5
 Resistance +5
 Dexterity +5
@@ -342,7 +342,7 @@ Can detect any entry level traps.
 Leadership + 25
 Intellect +10
 +10% Movement speed
-These effects do not overlap with other sculptures.
+These effects do not stack with effects of other sculptures.
 @<b>{Number of fine pieces made so far:} 4
 //}
 

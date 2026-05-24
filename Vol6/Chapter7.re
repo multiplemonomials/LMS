@@ -1,28 +1,22 @@
-==={chapter-7-past-ties} Chapter 7: Past Ties
+= Past Ties
 
-King Zet, the third king in Belsos La Deus dynasty, has disappeared from all books of Bersa continent.
+King Zet, the third king in the Belsos La Deus dynasty, had disappeared from all the books of the Versailles continent. But then, by a stroke of luck, members of Crimson Wings Guild found a short reference to him in a private library.
 
-But then, by a stroke of luck, members of Crimson Wings found a short reference to him in one of the private libraries.
+“Looks like there might be some secrets associated with him.”
 
-“Looks like there might be some secret associated with him.”
+“Maybe. Let’s find out more!”
 
-“Maybe. Let’s find out more.”
+Since then, the guild members started to investigate. They asked historian NPCs and looked for any mentions of that king or the times he lived in. Though they didn’t have high expectations, everything was pointing at it being related to some high-level quest.
 
-And since then the guild members started to investigate it. They were asking aware of history NPCs and looking for any mentions of that king or the times he lived in.
+During his searches, one of the guild members reached the distant Mersel Kingdom, where he got an audience with Count Kresse, a stingy and very intelligent schemer, who entrusted his guest with a mission:
 
-Though they didn’t have high expectations, everything was pointing at some high-level quest.
-
-During his searches, one of the guild members reached the distant Mersel kingdom, where he got an audience with Count Kresse, a stingy and very intelligent scheemer, which entrusted his guest with a mission:
-
-“King Belsos had many treasures. And the most valuable among them was Black Flute, created from a horn. If you find it and bring it to me, I’ll reward you handsomely. But make sure, that only trustworthy people know about this deal.”
+“King Belsos had many treasures. And the most valuable among them was Black Flute, created from a horn. If you find it and bring it to me, I’ll reward you handsomely. But make sure that only trustworthy people know about this deal.”
 
 Ding!
 
 //table{
-
+New Quest: Shadow of the Returned King.
 --------------
-New quest : Shadow of the returned King.
-
 The great king, whose rule once spanned over many lands, is now sleeping in the dark below. There was time, when his power was absolute and now his tomb is filled with gold, silver and rare magical items. But even then, there wasn’t anyone brave enough, who would dare to approach it.
 If you find the horn flute in his tomb and bring it to Count Kress, you will get a generous reward.
 

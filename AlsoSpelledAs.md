@@ -53,6 +53,7 @@
 |Sculptural Understanding|Sculptural Comprehension|
 |Sculpture Transformation|Sculptural Shapeshifting|
 |Perseverance (stat)|Patience|
+|Quadruped Run|Quadrupedal Run|
 
 ## Items
 |My Term|Other Spellings|

@@ -285,7 +285,7 @@ Weed, instead of using Sculpture Destruction, cast another skill. It was the fir
 //table{
 --------------
 You have used Sculpture Transformation.
-This sculpting skill uses boundless affection to make the sculptor resemble the sculpture.
+The boundless affection between the sculptor and his sculpture causes them to resemble one another!
 //}
 
 Weed’s appearance gradually changed.

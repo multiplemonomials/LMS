@@ -10,7 +10,7 @@ The High Priest asked him a few questions.
 
 Weed gave them the story about the necromancers in the city of the Dark Elves.
 
-“Oh! So that was what happened. The actions that you have taken are proper; I would have choosen the same.”
+“Oh! So that was what happened. The actions that you have taken are proper; I would have chosen the same.”
 
 The High Priest though did not understand why Weed did nothing to the Necromancers.
 
@@ -40,7 +40,7 @@ The Necromancers did not discard their pride and self-esteem. In fact, they neve
 
 Three levels and a significant amount of public value!
 
-Weed had nearly reached level 300. Even though sometimes he obtained a considerable amount of experience from various achievements, there was truly nothing like rising multiple levels all at once.
+Weed had nearly reached level 300. Even though sometimes he obtained a considerable amount of experience from various achievements, there was truly nothing like going up multiple levels all at once.
 
 Weed bowed his head deeply. Experience was one thing, but of course, the most important thing was the items obtained. The High Priest then spoke.
 
@@ -58,7 +58,7 @@ The wealth of the Church of Freya, this was beyond his imagination.
 
 There are many extensions of the church all over the Versailles continent. Each temple also has spacious farmlands, mines, and believers that donate money. They sell potions and receive a formidable amount of donations from their blessings. A certain amount of gold is acquired from Paladins and Priests each time they hunt.
 
-For the Church of Freya to be sitting on top of so much money, yet not having any treasure, it just didn't make any sense.
+For the Church of Freya to be sitting on top of so much income, yet not having any treasure, it just didn't make any sense.
 
 'There must be something I can have, even just one!'
 
@@ -113,7 +113,7 @@ Talrock's Armor of Faith
  * Defense 85.
 
 Armor made from the mithril of the Rahoman Mine. The dwarven blacksmith Talrock, who was renowned throughout the continent, made this armor to repay a favor to the church of Freya. It boasts amazing defensive capabilities and is light in weight. It gives the wearer a fighting spirit that will not waver and a noble tenacity.
-The gift of the High Priest.
+A gift of the High Priest.
 This is the only one of its kind.
 
 Restrictions:
@@ -141,7 +141,7 @@ A unique class of item!
 
 It had a variety of attributes, and the defense was almost of the highest class.
 
-If using the blacksmith skill to polish armor, which provided a 20% additional effect to defense, it would be more than 100.
+If he used his blacksmith skill to polish armor, which provided an additional 20% boost to defense, it would be more than 100.
 
 'Jackpot!'
 
@@ -170,9 +170,9 @@ In this manner, the request of reinforcements he made was refused. It was inevit
 
 “In order to help, the church will lend you our sacred item, Helain's Grail”
 
-Helain's Grail. The treasure that Weed had originally found which created this bond with the Church of Freya. When water is placed into the cup, the relic will change it into holy water.
+Helain's Grail. The treasure that Weed had originally found which created this bond with the Church of Freya. When water was placed into the cup, the relic would change it into holy water.
 
-Normally, it is reserved for the use of the clergy as only they are able to wield its abilities. But by the grace of the Goddess Freya, our benefactor may make use of it. With this you should go on to do great things. As you are currently busy with the mission, at the time you are finished, you know where you can find us.”
+"Normally, it is reserved for the use of the clergy as only they are able to wield its abilities. But by the grace of the Goddess Freya, our benefactor may make use of it. With this you should go on to do great things. As you are currently busy with the mission, at the time you are finished, you know where you can find us.”
 
 Weed accepted the artifact and headed to the teleportation gate into the Plains of Despair.
 
@@ -202,7 +202,7 @@ The bored people that were standing in the line stood and chatted. Suddenly the 
 
 The people were surprised as they quietly listened to the dialogue of the guards. As they heard the guards speak, something clicked for them.
 
-“The Hall of Fame. The quest seen in the Hall of Fame has just been reported of, right now!”
+“The Hall of Fame. The quest seen in the Hall of Fame has just been reported as of right now!”
 
 “It was a quest from the Church of Freya.”
 
@@ -214,7 +214,7 @@ The people were surprised as they quietly listened to the dialogue of the guards
 
 “No way, is it just a similar name?”
 
-“Surely no. War with the Immortal Legion -- it must be a serial quest following the defeat of the True Blood Vampire Clan!”
+“Surely not. War with the Immortal Legion -- it must be a serial quest following the defeat of the True Blood Vampire Clan!”
 
 “Weed! From The Continent of Magic, it is that Weed!”
 
@@ -444,70 +444,68 @@ The system lavished praise on his sculpture, declaring it a bold work of abstrac
 
 But to Weed, the beast statue came out tacky. In fact, it actually had the long legs of a horse and a long torso, but he was trying to create a cheetah. The result was an unknown beast. The cheetah's body hair was closer to that of a camel. It had the posture of a cow stepping backward and crushing a frog.
 
-It was rough, but intentionally trying to create a masterpiece does not come so easily. Because of this, his sculpting skill rose by 12% and he reached level 9 and was at 43%.
+It was rough, but intentionally trying to create a masterpiece does not come so easily. Because of this, his sculpting skill rose by 12%. He was now at level 9, and 43% of the way towards Advanced Sculpting.
 
 “Anyways, it's a masterpiece so that's alright.”
 
 Weed was greatly satisfied.
 
-An outstanding sculptor would be confident of himselfand might obsess over his work. However, Weed was more interested in what the work lead up to.
+An outstanding sculptor would be confident of himself and might obsess over his work. However, Weed was more interested in what the work could do for him.
 
-Traditional art will be like this. You wouldn't know what the history was like if you didn't live in that time. As with the abstract art of Picasso, how would you know what he wanted from his paintings?
+Traditional art will be like this. You wouldn't know what the history was like if you didn't live in that time. It was like the abstract art of Picasso -- how would you know what he wanted from his paintings?
 
 A great musician might make a mistake and that music may become the masterpiece of the century. Depending on your own point of view, the interpretation of art is different.
 
-“Although it may be like this now, how it may be considered 100 years from now, it is possible that the work of a beggar can become recognized as superior art. If not in 100 years, maybe 300, no perhaps about 10,000 from now.”
+“Well, although it may be like this now, there's no telling how it may be considered 100 years from now -- it is possible that the work of a beggar can become recognized as superior art. If not in 100 years, maybe 300, no, perhaps 10,000.”
 
-Roughly Weed ended his self-justification of the skill he used when he looked at the beast.
+Roughly Weed ended his self-justification of his sculpture, then used a skill while looking at the beast.
 
-“Sculpture shapeshift!”
+“Sculpture Transformation!”
 
 //table{
-
 --------------
-You have used Sculpture Shapeshifting.
+You have used Sculpture Transformation.
+The boundless affection between the sculptor and his sculpture causes them to resemble one another!
 //}
 
-The boundless affection for the sculptor and his engraving, the sculpture and him are changed to resemble one another! Weed's body became covered with hair and his arms and legs became thin and long. A human with two arms and legs soon finished transforming into an animal similar to a camel running on all fours.
+Weed's body became covered with hair and his arms and legs became thin and long. A human with two arms and legs soon finished transforming into an animal similar to a camel running on all fours.
 
 //table{
-
 --------------
-- Many of the changes in the body shape have caused the worn equipment to become unusable. Leather clothes can be especially made to be worn. Depending on the species or form, obtaining new equipment may be required.
-- The impact of Sculpture Shapeshifting has increased your agility and endurance. Charisma and Leadership has fallen to the lowest level. The Art stat is reduced by half. Endurance will rise dramatically. This will remain valid until Sculpture Shapeshift skill is released.
+- Many of the changes in body shape have caused worn equipment to become unusable. Leather clothes can be specially made to be worn. Depending on the species or form, obtaining new equipment may be required.
+- The impact of Sculpture Shapeshifting has increased your Agility and Endurance. Charisma and Leadership have fallen to the lowest level. The Art stat is reduced by half. Endurance will rise dramatically. This will remain valid until Sculpture Shapeshift skill is released.
 //}
 
 //table{
-
 --------------
 The endurance of a quadruped is also greatly increased.
 //}
 
 “Okay, I'll run to the Village of the Exiled”
 
-Weed dropped to the ground and started going at a sprint
+Weed dropped to the ground and started going at a sprint.
 
-“Quadrupedal run!”
+“Quadruped Run!”
 
-Quadrupedal run: a moving skill.
+//table{
+Quadruped Run: Movement Skill
+--------------
+Using stamina and mana, you can run at a speed nearly 60% faster than a being on two legs.
+In addition, when running downwind, speed increased by a further 20%, though when running against the wind, stamina consumption was increased by 30% just to maintain the base speed.
+Skill cannot be used in hilly and mountainous terrain, but when on very flat terrain such as grassland or plains, you gain an additional 80% movement speed.
+}
 
-Using stamina and mana, you can run at a speed nearly 60% more than that of being on two legs.
+Months ago, he'd had to spend days imitating animals for another sculpting skill, where he had to understand what he sculpted. He'd picked up this skill as a side benefit, and at first it had seemed useless.
 
-In addition, when running against the wind, stamina consumption is increased by 30%. When running downwind, speed is increased by a rate of 20%. Skill cannot be used in hilly and mountainous terrains, plus when in grassland or plains, you gain an additional movement speed of 80%.
-
-In the past he had to act for another sculpting skill, where he had to understand what he sculpted. At first the skill seemed useless.
-
-Weed's paw moved forward. Then the hind foot soon came up.
+But now, weed's paw moved forward. Then the hind foot soon came up.
 
 Tatatatak!
 
-Weed's running speed utilized the Quadrupedal run!
+Weed began to move at high speed using Quadruped Run!
 
-Each step went by quickly as he stepped forward on the plains landscape. This type of running was not at all familiar to an ordinary human. The paw and hind legs move forward and back simultaneously to the point that you forget the fact that you moved the paw itself.
+Each step went by quickly as he stepped forward on the plains landscape. Walking as a four-legged beast was surprisingly complicated, and not at all familiar to an ordinary human. Left front paw, right hind foot, then paw, then leg again. The paw and hind legs moved forward and back simultaneously, and it was hard to keep track of the individual movements.  Furthermore, his forelimbs and hind limbs made ridiculous wobbly clicks.
 
-Left front paw, right hind foot, paws and hind legs. Furthermore, his forelimbs and hind limbs made ridiculous wobbly clicks. Walking as a four-legged beast is surprisingly complicated. First stride, the left paw and right hind foot went, and then right front paw and left hind foot moved. Unless with the appropriate intervals, balance and strength otherwise the action will not be sleek and break apart.
-
-It was hard but weed followed these actions from deers and horses with his own body and acquired the Quadrupedal running skill.
+However, Weed's muscle memory soon began to register the new patterns. He'd imitated deer and horses with his own body to get the skill, so he'd already had a good starting point.
 
 Tatatak.
 
@@ -515,88 +513,63 @@ Weed processed his speed into a gallop. At first everything seemed to be going w
 
 “Unbelievable....”
 
-He did not take into account that this was trial and error. Weed was a big human. To learn how to run as a quadruped, he was like a toddler! To run at a fast pace, but when you think of running for several days when in an infant stage, it can't be done.
+Weed was a large creature, and compared to a real horse or deer, he was still at a toddler level of learning to run. To travel at this speed was a huge effort on his body and drained his stamina rapidly.
 
 “It can't be; this is such hard work!”
 
-At first, he thought he could do what he saw. It was vicious, he could not run!
+At first, he thought he could manage, but the exhaustion soon became vicious, he could not run!
 
 His throat was aching. The scenery was going too fast for him to see in front of him as well as what he was running over. Running for a long time, his soles were hurting.
 
 //table{
-
 --------------
- * You have hit a sharp boulder health decreased by 3.
- * You have stepped on a piece of metal health decreased by 10.
+ * You have hit a sharp boulder. Health decreased by 3.
+ * You have stepped on a piece of metal. Health decreased by 10.
 //}
 
-He had managed to tolerate the side effects thus far. With blacksmith skills, a little bit of the shock can be reduced because of horseshoes. The problem was stamina.
+He had managed to tolerate the side effects thus far. With blacksmith skills, a little bit of the shock could be reduced by making himself horseshoes. The problem was stamina.
 
-For animals like a cheetah or a horse, the endurance was not so outstanding. The top speed may be very fast but the time maintaining that speed was very short. The remainder of the time was being idle and drinking water or standing about.
+For animals like a cheetah or a horse, their endurance was not so outstanding. Their top speed may be very fast but the time they could maintain that speed was very short. They spent most of their lives being idle and drinking water or standing about.
 
 //table{
-
 --------------
 - Your stamina has fallen, you can run no further.
 //}
 
-It had only been 10 minutes!
+It had only been 10 minutes of moving at full speed! Now, he had to move slowly on all fours while wandering to rest. Every time he walked, his hips swayed and he his breathing was ragged. With nothing else to do, Weed finally stopped in place.
 
-The time taken to go at full speed. He had to move slowly on all fours while wandering to rest. Every time he walked, his hips swayed and he had shortness in breath. Hardly nothing else to do, Weed finally stopped in place.
+“Huf! Huf! This is not what I expected.”
 
-“HufHuf! This is not what I expected.”
+Running across the Plains of Despair was tricky and frustrating. Although you could be quick at times, when your stamina dropped, you had to stop.
 
-Running across the Plains of Despair was tricky and frustrating. Although you can be quick at times, when your stamina drops, this is the answer.
+“Release Sculpture Transformation!”
 
-“Sculpture shapeshifting off!”
+Weed made another sculpture he could transform into.
 
-Weed made another sculpture he can Sculpture shapeshift into again.
+He thought about creating a fast animal that runs on two legs, like the ostrich! But no, that seemed too risky. This was the time to create a modest choice, like the form of an Orc.
 
-An animal that runs on two legs, like the ostrich!
+Karichwi's body consists of a plain Orc with enlarged musculature, and using the same form, he made a leaner version of an Orc into a sculpture. He did not bother spoiling it with looks and focused on keeping it skinny to keep only the necessary muscles. It was reasonable to reduce the weight as much as possible.
 
-He did not even attempt such a thing. This was the time to create a modest choice, like the form of an Orc.
-
-Karrchwi's body consists of a plain Orc with enlarged musculature, and using the same existing form, he made a leaner version of an Orc into a sculpture. He did not bother spoiling it with looks and focused on keeping it skinny to keep only the necessary muscles. It was reasonable to reduce the weight as much as possible.
-
-The end piece looked like a little red pepper. Undoubtedly it was only the impression of Orc Karichwi. Just from looking at his face you could see that it is upset every time of the day, and when its eyes encounter something in the world it had the look that it wanted to break it.
+The end piece looked like a little red pepper. Undoubtedly it was only the loosest impression of Orc Karichwi. Just from looking at its face you could see that it was upset any time of the day, and had a look in its eyes like it wanted to break anything and everything it encountered.
 
 Weed had the talent to make the ugliest Orcs around.
 
 T'tiring!
 
 //table{
-
+Fine piece! You finished the Little Orc Monster!
 --------------
-A masterpiece! You have been rewarded for completing a little Orc monster.
-A work from a young great sculptor in anguish! A masterpiece of the century, made from tons of frustration and agony! This object could not be any more uglier, but somewhere in the gloomy atmosphere you can feel that there are hidden secrets.
-Artistic value: 1
-Special attributes:
+A work from a young great sculptor in anguish! A truly impressive piece of art made from vast reservoirs of frustration and agony! This object could not be any uglier, but somewhere in the gloomy atmosphere you can feel that there are hidden secrets.
+@<b>{Artistic value:} 1
+Effects:
  * From gazing at the statue, Orc health and mana regeneration is increased by 5% during the day.
  * Movement speed increased by 18%
- * Intellect decreased by 20. Attractiveness decreased by 100.
+ * Intellect decreased by 20. Charisma decreased by 100.
  * Strength increased by 10. Agility increased by 5.
- * Can stop the cries of a crying child.
- * Those with a low nerve that view the sculpture will become severely weakened.
- * Overlap with other sculptures does not apply.
-//}
-
-//table{
-
---------------
-Special attributes:
- * From gazing at the statue, Orc health and mana regeneration is increased by 5% during the day.
- * Movement speed increased by 18%
- * Intellect decreased by 20. Attractiveness decreased by 100.
- * Strength increased by 10. Agility increased by 5.
- * Can stop the cries of a crying child.
- * Those with a low nerve that view the sculpture will become severely weakened.
- * Overlap with other sculptures does not apply.
-//}
-
-//table{
-
---------------
-Until now, the number of completed masterpieces: 9
+ * Can silence the cries of a crying child.
+ * Those with a low nerve who view the sculpture will become severely weakened.
+These effects do not stack with effects of other sculptures.
+Number of created fine pieces so far: 9.
  * Fame increased by 80.
  * Endurance has increased by 2.
  * Intellect has increased by 1.
@@ -605,23 +578,20 @@ Until now, the number of completed masterpieces: 9
 
 Weed immediately cast the skill once the sculpture was completed.
 
-“Sculpture Shapeshift!”
+“Sculpture Transformation!”
 
-His height and face shrunk as changed to a small Orc Karichwi. His hair grew longer and his body became scrawnier and drier than before.
+His height and face shrunk as he changed to a small Orc Karichwi. His hair grew longer and his body became scrawnier and drier than before.
 
 //table{
-
 --------------
  * Many of the changes in the body shape have caused the worn equipment to become unusable. You can wear plate armor. Depending on the species or form, obtaining new equipment may be required.
- * The impact of the Sculpture Shapeshift has increased your Agility and Endurance. Intellect and Wisdom will fall to the lowest level. The Art stat will be reduced by half. Endurance will rise dramatically. This will remain valid until the Sculpture Shapeshift is released.
+ * The impact of the Sculpture Transformation has increased your Agility and Endurance. Intellect and Wisdom will fall to the lowest level. The Art stat will be reduced by half. Endurance will rise dramatically. This will remain valid until the transformation is released.
 //}
 
 “Chwiik!”
 
-Small Orc Karichi.
+Small Orc Karichwi.
 
-As expected, simple is best.
+As expected, simple is best. In this case, he didn't need art or any other stats -- ignorance is convenient.
 
-Not requiring art or any other values, ignorant is convenient.
-
-As he staggered, Weed diligently began to run across the Plains of Despair.
+Staggering at first, Weed diligently began to run across the Plains of Despair.

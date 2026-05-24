@@ -259,13 +259,13 @@ Some of them soon got distracted again or continued lazing around, but more than
 
 Incidentally, besides the leadership stat, how well troops listen is affected by the character of their commander. In the case of the Orcs, they liked Weed's outstanding determination. He had innate belligerence -- they followed him because he would not back down from a fight. They also appreciated his fighting spirit, though it wasn't quite as important. The Dark Elves were tougher for Weed because they wanted a little more knowledge and wisdom, and they had an affinity with nature, glamor, and art which they wanted to see in their leader.
 
-“He rules over us, although he is not clever enough to know or understand the earth in a significant way. He is just a human.”
+“He rules over us, and yet he is not clever enough to know or understand the earth in a significant way. He is just a human.”
 
-“Are you familiar with the story of the falling leaves? I see your artistry, so I'll follow your orders.”
+“Oh, really, you're familiar with the story of the falling leaves? I see your artistry, so I'll follow your orders.”
 
-Thankfully, he had become proficient in some skills related to nature, such as cooking and herbalism. This affinity and his high art stats allowed him to lead Dark Elves. The Dark Elves created magical traps and by magic they instantly made trees grow and enlarge around the castle. Magnificent branches spread all over the area as tree trunks covered in thorns grew huge in size. The characteristics of the trees made natural ramparts and defenses. Further in, orchards of bushy fruit trees were grown, providing a food source for the absurd number of Orcs.
+Thankfully, he had become proficient in some skills related to nature, such as cooking and herbalism. This affinity and his high art stat allowed him to lead the Dark Elves. The Dark Elves created magical traps and by magic they instantly made trees grow to huge sizes around the castle. Magnificent branches spread all over the area as tree trunks covered in thorns grew to the size of huge redwoods, forming natural ramparts and defenses. Further in, orchards of bushy fruit trees were grown, providing a food source for the absurd number of Orcs.
 
-Vampire Lord Tori actively helped Death Knight Van Hawk pick up large beams. These so-called boss monsters who were now his subordinates can preside over their own kind. Tori resurrected his own Vampire clan that had vanished after the defeat. Death Knight Van Hawk once again collected more undead soldiers to create his own Death Knight unit.
+Vampire Lord Tori actively helped Death Knight Van Hawk pick up large beams. These so-called boss monsters who were now his subordinates could preside over their own kind. Tori began resurrecting his own vampire clan that had vanished after the defeat. Death Knight Van Hawk once again collected more undead soldiers to create his own Death Knight unit.
 
 A tooth for a tooth!
 
@@ -275,7 +275,7 @@ Hard at work for the war with the Immortal Legion, Weed headed to the rock tower
 
 A Dark Elf!
 
-He sculpted the spirit of the Dark Elves on the fly as the shape started to unfold. All of a sudden, it came into his mind, the imposing appearance of a Dark Elf surrounded by the fire magic that many of their mages used in battle.
+He sculpted the spirit of the Dark Elves on the fly and the shape started to unfold. All of a sudden, it came into his mind: the imposing appearance of a Dark Elf surrounded by the fire magic that many of their mages used in battle.
 
 An audacious and rough touch by Weed.
 
@@ -299,7 +299,7 @@ This work invites you to compare the soul of these aggressive rogues to the plai
 * Movement speed increased by 25%, and by an additional 5% when running.
 * Strength decreased by 10%. Agility increased by 20%.
 * Intelligence increased by 10%. Wisdom increased by 10%
-* Elf scouts have 1.5 times the view of the field and their skills are increased by one level higher.
+* Elf scouts have 1.5 times the view of the field and their skills are increased one level higher.
 These effects do not stack with effects of other sculptures.
 Number of fine pieces created so far: 7
  * Your proficiency in the sculpting skill has improved.
@@ -309,7 +309,7 @@ Number of fine pieces created so far: 7
  * Perseverance has increased by 3.
 //}
 
-Now he could easily create fine pieces, but his fame and stats no longer rose so well. By this point, the stat increases depended first and foremost on the quality of the statue. The fame gained was low for the creation of a classic fine piece and any significant increases were gone. When you make a statue with insufficient skill, the affection and care in making it can expand your stats. 
+Now he could easily create fine pieces, but his fame and stats no longer rose so well. By this point, the stat increases depended first and foremost on the quality of the statue. The fame gained was low for the creation of a classic fine piece and any significant increases were gone. Earlier, even if he had been making his sculptures with insufficient skill, the affection and care in making it had expanded his stats. 
 
 At least the perseverance and endurance stats still rose reliably when creating a giant statue that took days and nights. These weren't stats that could usually be increased without fighting battles, but still, the gains were small for the amount of time he spent.
 
@@ -323,11 +323,11 @@ Beautiful sculptures can be sold at a higher price.
 Good to buy a woman's favor.
 //}
 
-A long time had passed since his sculpting reached Intermediate Lv.9. He had been busy concentrating on combat and quests. As he was conducting a battle with the Orcs, he was unable to carve pieces occasionally to improve his proficiency.
+A long time had passed since his sculpting reached Intermediate Lv.9. He had been busy concentrating on combat and quests. As he was conducting a battle with the Orcs, he had been unable to carve pieces occasionally to improve his proficiency.
 
 “Okay. I guess I need to make a few more sculptures.”
 
-In addition, he made an Orc sculpture. The giant Orc looked wild while wielding a glaive. The Orc masterpiece sculpture increased his valor and determination. However, he wasn't happy with the result -- he felt that his sculpting was a failure and barely tolerable.
+In addition, he made an Orc sculpture. The giant Orc looked wild while wielding a glaive. The Orc fine piece sculpture increased his valor and determination. However, he wasn't happy with the result -- he felt that his sculpting was a failure and barely tolerable.
 
 @<embed>{|html|<hr/>}
 
@@ -363,19 +363,19 @@ The Dark Gamers were relentless, still sending him invitations even after he'd j
 
 “Where.... did the price rise up?”
 
-Bit by bit he'd collected items while he was on the Plains of Despair, adding them into an enchanted backpack that can reduce the weight inside by 7 or 8 times. The majority of the equipment failed to sell. The transactions for the items from the village of Exiles did not gain a good price, to the point that no buyers appeared to even bid. He had collected these items to sell them in order to earn cash; the bids had to be successful. However, what was more important were the complaints that no one can come to Plains of Despair to buy the items. Therefore it is common for some Dark Gamers to hunt near the larger castles. If they get items from hunting, they are always able to sell it to customers in the vicinity. However, doing it in that way, it was difficult to find good items.
+Bit by bit he'd collected items while he was on the Plains of Despair, adding them into an enchanted backpack that can reduce the weight inside by 7 or 8 times. The majority of the equipment failed to sell. The transactions for the items from the Village of Exiles did not gain a good price, to the point that no buyers appeared to even bid. He had collected these items to sell them in order to earn cash; the bids had to be successful. However, many people commented that they couldn't bid because they couldn't come to Plains of Despair to pick up the items. Because of this problem, it is common for some Dark Gamers to hunt near the larger castles. If they get items from hunting, they are always able to sell it to customers in the vicinity. However, doing it in that way, it was difficult to find good items.
 
 'As a Dark Gamer, I guess it is inevitable that I'll have to visit someplace more populated.'
 
 Dungeons near large castles were already crowded with users and the monsters were lacking due to it. You often needed to go a little farther in order to hunt. So near a city with a lot of people, there is a low chance for a Dark Gamer to find things. So they could be proud just finding something to sell!
 
-Really easy-to-get items were not profitable to sell, as many among the general public already had them or something better. On the other hand, there are few interested buyers for expensive items, making them often take a long time to sell.. Mainly beginner or intermediate level equipment was commonly sold, and more expensive equipment was usually bad deals. Strictly speaking, this is the difficulty that Dark Gamers see.
+Really easy-to-get items were not profitable to sell, as many among the general public already had them or something better. On the other hand, there are few interested buyers for expensive items, making them often take a long time to sell, meaning the price would rise a lot higher than the actual utility of the item. Strictly speaking, this was the difficulty that Dark Gamers ran into.
 
 For a true Dark Gamer, it would be rare to see them deliberately be in the open with many people.
 
 In Royal Road, if you solve a quest for the first time or be the first to enter hunting grounds, you can gain lots of experience and rewards.
 
-Undiscovered areas and quests. Risking their own lives to enter for enemies and items. Dark Gamers were those that truly chased after money and adventure. If you could gather decent items and sell them for a good price, it really was lucrative. Lee Hyun spent several months of game time in the Plains of Despair and he was able to collect quite a lot of items. However, with the quest close at hand he was still too busy to be able to dispose of them.
+Undiscovered areas and quests. Risking their own lives to enter for enemies and items. Dark Gamers were those who truly chased after money and adventure. If you could gather decent items and sell them for a good price, it really was lucrative. Lee Hyun spent several months of game time in the Plains of Despair and he was able to collect quite a lot of items. However, with the quest close at hand he was still too busy to be able to dispose of them.
 
 “It would more costly to sell at a later time....”
 
@@ -385,7 +385,7 @@ Glaive: 150,000 Won
 
 Orc's armor: 50,000 to 100,000 Won.
 
-Elf clothing went fo more than 400,000 Won.
+Elf clothing: more than 400,000 Won.
 
 For a lot of the smaller loot, it was abundant enough that the price was basically fixed. For unique items, he bounced the price higher. Last time, the auction price was about 3 Million Won, so this second Agatha's Sword should end up getting sold for 3.5 Million Won, he figured.
 
@@ -397,13 +397,13 @@ The auction post ascended only 1 Won at a time, it did not go easily but it was 
 
 Lee Hyun had a bitter expression.
 
-That was his total income from 3 months of hunting in the Plains of Despair. Plus, until the quest is finished, he could not use the teleportation gate, so it would be difficult to unload his collection of equipment. If the combined price of the items was 6.5 Million Won, it was not satisfactory.
+That was his total income from 3 months of hunting in the Plains of Despair. Plus, until the quest was finished, he could not use the teleportation gate, so it would be difficult to unload his collection of equipment. If the combined price of the items was 6.5 Million Won, it was not satisfactory.
 
 “An income of just a bit over 2 Million Won per month. This is insufficient. Next year, Hayan will be going to college...”
 
 When entering a college, you have tuition, textbooks, clothes; one didn't expect how much money went into this.
 
-“Also it's not easy; money is not so spread out in the Yuroki Mountains.”
+“Also it's not easy; money is not so spread out across the Yuroki Mountains.”
 
 Although he raised his levels and increased his fame a lot in its own way, a lot of the reason he played was item acquisition. Ultimately it was all about making money, but the fact was that most of the Orc and Dark Elf equipment he picked up did not have a high price currently.
 
@@ -433,9 +433,9 @@ While posing as Orc Karichwi, he was drunk with despicable laughter and let his 
 
 The greed for money could not be hidden in him. He smiled as he watched what the monitors displayed. After a while, Lee Hyun accessed the Royal Road website and went to the Hall of Fame.
 
-Over 15,000,000 views already. The comments reached in the hundreds of thousands. Comments ranged from questions on the quest to asking the character's profession and level.
+Over 15,000,000 views already. The comments reached in the hundreds of thousands. Comments ranged from questions on the quest to asking his character's profession and level.
 
-This hot response was more than he expected. Lee Hyun had just been moonlighting by posting in the Hall of Fame, so even if he'd gotten a few hits and not made any income yet, he would have left satisfied. But for him to see the number of views being like this is unusual.
+This intense response was more than he expected. Lee Hyun had just been moonlighting by posting in the Hall of Fame, so even if he'd gotten a few hits and not made any income yet, he would have left satisfied. But for him to see the number of views being like this is unusual.
 
 “That's all right.”
 
@@ -443,7 +443,7 @@ Still he did not have big expectations. The length of the movie was over 19 hour
 
 “Anyways, I don't know how much I will get from this. Later we will see the amount.”
 
-Lee Hyun closed the window after a moment of looking at the comments. He should open his Unicorn Corporation email, he thought, but he logged off instead. His mail had accumulated more than ten thousand emails, many asking for information about the quest. He had also seen requests to join guilds, invitations to hunts, and even people asking for his cell phone number. He didn't want to even look at the mailbox as it was such a mess to try and go through.
+Lee Hyun closed the window after a moment of looking at the comments. He should open his Unicorn Corporation email account, he thought, but he logged off instead. It had accumulated more than ten thousand emails, many asking for information about the quest. He had also seen requests to join guilds, invitations to hunts, and even people asking for his cell phone number. He didn't want to even look at the mailbox as it was such a mess to try and go through.
 
 So, Lee Hyun did not even try to open his e-mail and rose from the spot.
 
@@ -451,7 +451,7 @@ So, Lee Hyun did not even try to open his e-mail and rose from the spot.
 
 CRACK! BOOM, BANG!
 
-The battle preparation was in full swing at the Dark Elf fortress. Day by day, renovations and additional expansions for the fortress were made. The Orcs were building five walls and constructed 4 layers of barriers at the bottom of the mountain. Their task was nothing less than creating a battlefield on an entire mountain by dawn. Some of the Orcs who left had returned, bringing back their tribes. It was a field of Orcs.
+The battle preparation was in full swing at the Dark Elf fortress. Day by day, renovations and additional expansions for the fortress were made. The Orcs were building five walls and constructed four layers of barriers at the bottom of the mountain. Their task was nothing less than creating a battlefield on an entire mountain by dawn. Some of the Orcs who left had returned, bringing back their tribes. It was a field of Orcs.
 
 Fertility is truly frightening!
 
@@ -459,13 +459,13 @@ Although near 400,000 orcs died in battle, around 60,000 left and when they retu
 
 “Chwiik. Chwiik! Among Orcs it is said. Hit us and we shall not die. Chwichwit! In order to fight we bring more of us. We are Orcs!”
 
-As if to prove the adage, nearly 1 million orcs assembled on the day of the decisive battle. The Dark Elves also summoned their tribes. Their race race ordinarily lived in dispersed groups in the Yuroki Mountains. The Dark Elves were secretive because a lot of them were excellent assassins. Assassins with possibility to ambush those with low stamina would be helpful.
+As if to prove the adage, nearly 1 million orcs assembled on the day of the decisive battle. The Dark Elves also summoned their tribes. Their race ordinarily lived in dispersed groups in the Yuroki Mountains. The Dark Elves were secretive because a lot of them were excellent assassins. Assassins with possibility to ambush those with low stamina would be helpful.
 
 Even without the soldiers of Rosenheim Kingdom, the necromancers, and the vampires under Tori, the power on this side was formidable. Nevertheless, Weed was not so sure.
 
 The strength of the legions of undead!
 
-Just killing them wasn't enough. They had to either purify them through diving magic, or destroy them completely so that they could not be resurrected. And not only could enemy undead be revived if not completely destroyed, but so could the corpses of allies who fell in combat. If the Dark Elves and a million orcs all become undead, the quest would be a complete failure.
+Just killing them wasn't enough. They had to either purify them through divine magic, or destroy them completely so that they could not be resurrected. And not only could enemy undead be revived if not completely destroyed, but so could the corpses of allies who fell in combat. If the Dark Elves and a million orcs all become undead, the quest would be a complete failure.
 
 “Priests, follow me.”
 
@@ -487,7 +487,7 @@ Barely listening to the necromancer, Weed parted with the group and headed into 
 
 “Yes.”
 
-Thick in their faith, the priests gathered mana and operated the teleportation gate. Weed soon disappeared with the light.
+Thick in their faith, the priests gathered mana and opened the gate. Weed soon disappeared with the light.
 
 @<embed>{|html|<hr/>}
 
@@ -507,7 +507,7 @@ Weed appeared in the central square where people were doing business.
 
 'Still swarming with people.'
 
-However, it was different from before; on various occasions he noticed sculptors, painters, potters and other blue-collar characters. The pyramid that Weed made was being gossiped about. Seeing mere players make something so grandiose made people thrilled. Players took artist professions en masse. However, with the scorns they received, the majority gave up early.
+However, it was different from before; on various occasions he noticed sculptors, painters, potters and other blue-collar characters. The pyramid that Weed made was being gossiped about. Seeing mere players make something so grandiose made people thrilled. Players took artist professions en masse. However, with the scorn they received, the majority gave up early.
 
 Sculptors were no better. Early on, it is too hard to hunt. For Weed, it was somewhat easier thanks to his harsh training that resulted in stats and skills to hunt with, but ordinary production classes were weak. Also, unlike his initial thoughts, the Moonlight Sculptor profession itself was apparently very strong.
 
