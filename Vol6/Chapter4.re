@@ -784,7 +784,7 @@ They always liked to access the reports from the Hall of Fame; they were always 
 - Is it an alternative magic item that allows you to polymorph or something?
 - A type of wizard perhaps. One that can change to a necromancer later on?
 - Does this mean people who already switched jobs can become a necromancer?
-}
+//}
 
 Wizards were desperate to learn about this.
 
@@ -796,7 +796,7 @@ Wizard users made a myriad of inquiries to Unicorn, who operated Royal Road.
 -------------
 - Please, can't you tell us about the quest's progress? How can we access the new Necromancer profession?
 - Can you disclose the characteristics of Necromancers?
-}
+//}
 
 Unicorn's reply came from their headquarters:
 

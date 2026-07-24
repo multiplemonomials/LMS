@@ -24,10 +24,12 @@
 |Kokun|Wimpy hunter from the Village of Exiles, befriended Weed|Cocoon|
 |Dark Dragon Kaybern|Evil dragon obsessed with squeezing the dwarves for "protection money"|Akryong Kaybern, Black Dragon Kaybern|
 |Da'in|Shaman (shawoman?) who teams up with Weed in Lavias. Weed's "first love". Has a secret past with the Hermes Guild.|Dyne|
+|Teros|Guildmaster of the Crimson Wings Guild||
 
 ## Places
 |My Term|Other Spellings|
 |=======|===============|
+|Citadel of Serabourg|Citadel of Seraburg|
 |Grapass|Gray Pass|
 |10 Forbidden Zones|10 Forbidden Areas|
 |Las Phalanx|Jigolaths|
@@ -53,7 +55,7 @@
 |Sculptural Understanding|Sculptural Comprehension|
 |Sculpture Transformation|Sculptural Shapeshifting|
 |Perseverance (stat)|Patience|
-|Quadruped Run|Quadrupedal Run|
+|Quadruped Run|Quadrupedal Run, four-legged running|
 
 ## Items
 |My Term|Other Spellings|

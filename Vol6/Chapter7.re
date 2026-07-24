@@ -17,15 +17,15 @@ Ding!
 //table{
 New Quest: Shadow of the Returned King.
 --------------
-The great king, whose rule once spanned over many lands, is now sleeping in the dark below. There was time, when his power was absolute and now his tomb is filled with gold, silver and rare magical items. But even then, there wasn’t anyone brave enough, who would dare to approach it.
+The great king, whose rule once spanned over many lands, is now sleeping in the dark below. There was time when his power was absolute, and now his tomb is filled with gold, silver and rare magical items. But even then, there wasn’t anyone brave enough to dare approach it.
 If you find the horn flute in his tomb and bring it to Count Kress, you will get a generous reward.
 
-Difficulty: A.
-Reward: Treasures from the King’s tomb.
-Restrictions: No magic may be used inside the ruins.
+@<b>{Difficulty:} A.
+@<b>{Reward:} Treasures from the King’s tomb.
+@<b>{Restrictions:} No magic may be used inside the ruins.
 //}
 
-Usually players were acquiring quests by finding something unusual during hunt or by talking to certain NPC. Most of them were requests to find some ingridients, protect something or clear a monster-infested area.
+Usually players acquired quests by finding something unusual during a hunt or by talking to certain NPC. Most of them were requests to find some ingredients, protect something, or clear a monster-infested area.
 
 However, thanks to luck and long investigation, Crimson Wings guild managed to find a hidden ‘A’ rank difficulty quest.
 
@@ -33,25 +33,25 @@ However, thanks to luck and long investigation, Crimson Wings guild managed to f
 
 They found the location of the ruins and even the map of its interior. The guild was celebrating their triumph, not forgetting to carefully guard their secret.
 
-“So what if Hermes guild has BadRay? If we complete this quest we will be able to change everything!”
+“So what if Hermes guild has Bard Ray? If we complete this quest we will be able to change everything!”
 
 Teros, leader of the Crimson Wing guild, was making a speech for his guildmates.
 
-At the start of the game guilds were appearing everywhere like mushrooms after a rain. But by now the situation has stabilized and the main competition was going on among the few dozen biggest and strongest guilds.
+At the start of the game, guilds had appeared everywhere like mushrooms after a rain. But by now the situation had stabilized and the main competition was going on amongst the few dozen biggest and strongest guilds.
 
-But soon all this was going to change. Guilds became big enough to claim control over entire kingdoms, which meant that times of quiet rivalry were coming to an end.
+But soon all this was going to change. Guilds had now become large enough to claim control over entire kingdoms, which meant that times of quiet rivalry were coming to an end.
 
-That was why it was important to gain as much power as possible before the new confrontation begins. The power was based on rare items, high levels and influential allies, and all of this was provided by difficult quests.
+That was why it was important to gain as much power as possible before the new era of confrontations began. This power was based on rare items, high levels, and influential allies, and all of these were provided by difficult quests.
 
 The Crimson Wings guild gathered all of their high-level players, 200 players of levels over 330, and hired 50 players of levels over 350 from the Dark Gamers Union.
 
-The result was an extremely powerful squad of 250 people. And if they were to fail, Crimson Wings will lose 60% of its strength for full 4 days of Royal Road time. In this case other guilds might use their weakness to try to capture their castles.
+The result was an extremely powerful squad of 250 people. And if they were to fail, Crimson Wings would lose 60% of its strength for full 4 days of Royal Road time. In this case other guilds might use their weakness to try to capture their castles.
 
-That was why members of Crimson Wings were taking all possible measures to prevent any information from leaking. They did hire players from outside the guild, but none of them knew where and, more importantly, when they were going.
+That was why members of Crimson Wings were taking all possible measures to prevent any information from leaking. They did hire players from outside the guild, but none of them knew where they were going and, more importantly, when the operation would be.
 
-At the appointed day they gathered at the abandoned ruins, hidden in the center of bersa Continent.
+Finally, the day came and they gathered at the abandoned ruins, hidden in the center of the Versailles Continent.
 
-“We’ll dig up the entrance to the ruins. As you all know, this quest is ‘A’ rank difficulty. Be careful not to die, every death will be a huge loss for our guild. Gale.”
+“We’ll dig up the entrance to the ruins. As you all know, this quest is ‘A’ rank difficulty. Be careful not to die! Every death will be a huge loss for our guild. Now, Gale.”
 
 “Yes, guildmaster.”
 
@@ -61,9 +61,9 @@ At the appointed day they gathered at the abandoned ruins, hidden in the center 
 
 Gale was very proud to be assigned to such an important task as scouting.
 
-The search party consisted of a few dozens thieves, whose task was to detect traps and monsters along the path of the main forces, led by the guild master himself.
+The search party consisted of a few dozens of thieves whose task was to detect traps and monsters along the path of the main forces led by the guild master.
 
-They started to slowly explore the area. Step by step, players were combing one part of the ruins after another. Thieves were going in front, followed by warriors, with priests in the back row.
+They started to slowly explore the area. Step by step, players were combing one part of the ruins after another. Thieves went in front followed by warriors, with priests in the back row.
 
 Even though the latter couldn’t use healing spells because of the quest’s restrictions, they could still provide a helping hand in critical situation or drag the wounded soldiers out of danger.
 
@@ -71,41 +71,39 @@ Even though the latter couldn’t use healing spells because of the quest’s re
 
 “Don’t miss anything!”
 
-The ruins were inhabited by dangerous monsters with sharp claws and filled with numerous cleverly hidden traps. Those traps were placed just a few meters from each other and were connected in such a way, that even player of level 300, who accidentally activated one of them would be lying dead a few moments later.
+The ruins were inhabited by dangerous monsters with sharp claws and were filled with numerous cleverly hidden traps. Those traps were placed just a few meters from each other and were connected in such a way that even player of level 300 who accidentally activated one of them would be lying dead a few moments later.
 
-If such traps were installed in ordinary dungeons there would be very few players, willing to go into them. Besides, monsters in the ruins had a pretty high level and weren’t easy to deal with.
+If such traps were installed in ordinary dungeons there would be very few players willing to go into them. Also, the monsters in the ruins had a pretty high level and weren’t easy to deal with.
 
-A great part of hired Dark Gamers, who had to go in the front line and scout the way, died on traps. By now the guild had only lost 30 people.
+A large number of the hired Dark Gamers, who had to go in the front line and scout the way, died to traps. However, only 30 of the guild members had died.
 
 “We can’t give up! Our losses are indeed great, but if we retreat now, everything we did today will be lost and our companions’ deaths will be in vain.”
 
-Teros was encouraging the remaining players and they were continuing to steadily advance into the ruins despite the losses. Some of the Dark gamers would prefer to leave this place, but they were bound by contract. Besides they were promised increased payment in case of death.
+Teros encouraged the remaining players and they continued to steadily advance into the ruins despite the losses. Some of the Dark Gamers would have preferred to leave this place, but they were bound by contract. Besides, they were promised a payout in case of death.
 
-When the players reached the internal part of the ruins, they couldn’t hold their surprise. The entrance to the Royal Ruins was blocked by seemingly new, and therefore obviously enchanted doors with an image of red scorpion and some inscriptions in an unknown language on them.
+When the players reached the internal part of the ruins, they couldn’t hold in their surprise. The entrance to the Royal Tomb's inner sanctum was blocked by seemingly new, and obviously enchanted, doors with an image of red scorpion and some inscriptions in an unknown language on them.
 
 In front of the doors was a small stone altar.
 
 “Can anyone read the inscription on the doors?”
 
-To answer the Teros’s question mages and priests approached the doors. Former knew various ancient languages, latter - holy symbols. But the symbols on the door didn’t seem to belong to any of those.
+At Teros’s question, mages and priests approached the doors. Many mages knew various ancient languages, and priests had to be familiar with holy symbols. But the symbols on the door weren't in a language that anyone had seen.
 
-Fortunately, one of the best mages of Crimson Wings, Shavron recognized them.
+At last, one of the best mages of Crimson Wings, Shavron, recognized the writing.
 
-“Those are letters of Varon.”
+“Those are Varonic letters.”
 
-“And how are they different from the mages’ languages?”
+“And how is that different from the mages’ languages?”
 
-“They come from the runic alphabet. But they were used by shamans rather than mages.”
-
-“That’s right. So to provide some encryption some characters were a bit deformed. I learned it just in case and didn’t think it’ll ever be useful.”
+“This uses a runic alphabet. Rather than mages, this is a secret language primarily used by shamans. I learned it just in case, but I didn’t think it’ll ever be useful.”
 
 “Come on, read them.”
 
 Shavron started carefully interpreting the symbols on the doors.
 
-“The entrance to the Royal Tomb will open for the one who will show true respect. His entire life King loved and revered scorpions, and only the one who will bring 7 scorpion figurines will be able to open the doors and enter the tomb.”
+“The entrance to the Royal Tomb will open for the one who will shows true respect. His entire life, the King loved and revered scorpions, and only one who will bring seven scorpion figurines will be able to open the doors and enter the tomb.”
 
-That must be why altar in front of the tomb had 7 small pedestals with 7 red gems.
+That must be why altar in front of the tomb had seven small pedestals with seven red gems.
 
 “Figurines?”
 
@@ -115,9 +113,9 @@ Like everyone else, Teros got stunned for a while, but he quickly recovered and 
 
 “Sculptor. Find a sculptor, who can create scorpion figurines!”
 
-* * *
+@<embed>{|html|<hr/>}
 
-On a warm and sunny morning a group of players left Seraburg through eastern gates.
+On a warm and sunny morning a party of players left Serabourg through the eastern gates.
 
 “Wow! Cool!”
 
@@ -127,17 +125,17 @@ On a warm and sunny morning a group of players left Seraburg through eastern gat
 
 “Great! They must be going to the Plains of Despair again.”
 
-Players, hunting around Seraburg couldn’t hold their admiration. Participating in such a dangerous adventure was the limit of their dreams at the moment.
+Players hunting around Serabourg couldn’t hold their admiration. Participating in such a dangerous adventure was at the limit of even their dreams at the moment.
 
 “I’m jealous! When will we be able to go on a journey like that?”
 
-“Not anytime soon. Let’s go, we have a lot of hunting to do if we want to raise our levels and be able to join them. They only accept players from level 250.”
+“Not anytime soon. Let’s go, we have a lot of hunting to do if we want to raise our levels and be able to join them. They only accept players at level 250 and over.”
 
-“Eh, really?! Maybe there’re a lot of people like that in central kingdoms, but in our they’re less than one in a hundred.”
+“Eh, really?! Maybe there’re a lot of people with levels that high in the central kingdoms, but here they’re less than one in a hundred.”
 
 “That’s why they’re elite.”
 
-The party, that caused such an excitement, headed along the road. They marched in unison, nodding proudly to encountered players, who were looking at them with admiration and reverence.
+The party which had caused such an excitement headed along the road. They marched in unison, nodding proudly to the players they encountered, who were looking at them with admiration and reverence.
 
 Soon the party reached the eastern border of the kingdom and their leader gave an order to stop.
 
@@ -145,7 +143,7 @@ Soon the party reached the eastern border of the kingdom and their leader gave a
 
 Following his own order, Oberon sat on the ground and started to check his equipment.
 
-Usually the party leader position was occupied by a warrior with high leadership attribute. Fighting under the command of such a player, everyone was receiving a bit more experience and a slight stat increase.
+Usually the party leader position was occupied by a warrior with high Leadership stat. Fighting under the command of such a player, everyone was receiving a bit more experience and a slight stat increase.
 
 As the hunt in Plains of Despair was very difficult, the most experienced and renowned warrior was selected to lead it, Oberon.
 
@@ -153,9 +151,9 @@ As the hunt in Plains of Despair was very difficult, the most experienced and re
 
 “I finished preparations.”
 
-After waiting for every member of the party to report, Oberon nodded approvingly and commanded to move out.
+After waiting for every member of the party to report, Oberon nodded approvingly and commanded his party to move out.
 
-On the eastern border of Rosenheim Kingdom a high wall was built, that was blocking the way of monsters, living on the other side. And to pass into Plains of Despair one had to climb up the stairs to the top of the wall and carefully descend the small hidden ladder on the other side.
+On the eastern border of Rosenheim Kingdom, a high wall had been built to block the monsters living on the other side. To pass into Plains of Despair, one had to climb up the stairs to the top of the wall and carefully descend the small hidden ladder on the other side.
 
 “Wow! There’s a place like this...”
 
@@ -167,9 +165,9 @@ However Oberon, Pluto and Haisyns only smiled slightly.
 
 “Let’s go. Wait a bit and you’ll see something even more breathtaking...”
 
-These three were the most experienced in the party, they has left the Kingdom before for over five times and already knew what was waiting ahead.
+These three were the most experienced in the party, and had all been here at least five times before. They already knew what was waiting ahead.
 
-The party just descended and moved a bit away from the wall, when they were attacked by a pack of wolves. Soulless Wolves with levels just below 200, and number just over a hundred were quickly approaching the players.
+The party had just descended and moved a bit forward when they were attacked by a pack of wolves. Just over 100 Soulless Wolves with levels just below 200 were quickly approaching the players.
 
 Calmly looking at the wolves, Oberon was giving orders.
 
@@ -177,7 +175,7 @@ Calmly looking at the wolves, Oberon was giving orders.
 
 “Fireball!”
 
-“Wind blades!”
+“Wind Blades!”
 
 “Blessing!”
 
@@ -185,7 +183,7 @@ Some of the 30 members of the party immediately started to cast one spell after 
 
 “Guaaaaaaah!”
 
-The commander yelled at the top of his lungs. This shout was similar to Lion’s Roar, but instead of Fighting Spirit it was raising Vitality and Stamina of nearby players.
+The commander yelled at the top of his lungs. This shout was similar to Lion’s Roar, but instead of Fighting Spirit, it raised the Vitality and Stamina of nearby players.
 
 “Mages, aim at the ones on the sides and in the distance!, Warriors, attack!”
 
@@ -195,55 +193,55 @@ All the warriors and paladins gripped their swords and maces and rushed into fig
 
 Oberon continued giving orders.
 
-The dangerous fight has started. Monsters were coming from all sides. Warriors were trying to not let any of them near mages and not die from their sudden attacks at the same time. Maces and swords were striking wolves’ bodies with deadly force, priests were shouting healing prayers, mages were casting spells repeatedly. For the next several minutes the party was repelling one attack after another.
+The dangerous fight had started. Monsters were coming from all sides. Warriors were trying to not let any of them near mages and not die from their sudden attacks at the same time. Maces and swords were striking wolves’ bodies with deadly force, priests were shouting healing prayers, and mages were casting spells repeatedly. For the next several minutes the party was repelling one attack after another.
 
-Finally, when the number of wolves dropped by more than a half, monsters, as if following some order, rushed back and disappeared as suddenly as they appeared before.
+Finally, when the number of wolves dropped by more than a half, the monsters, as if following some order, rushed back and disappeared as suddenly as they appeared before.
 
-“Hurray! Victory!” - were cheering some of the newcomers.
+“Hurray! Victory!” cheered some of the more excited newcomers.
 
-“What will come next if we just entered the Plains of Despair and already encountered such monsters?” - were asking others.
+“What will come next if we just entered the Plains of Despair and already encountered such monsters?” asked others.
 
 However there was no answer. Oberon just calmly looked at them and said:
 
 “Thanks for the good work. We’ll take a short break for mages to restore their Mana.”
 
-After a fervent battle, the party settled to rest near the recent battlefield. Some players went to gather the loot, left after the wolves’ death.
+After a fervent battle, the party settled to rest near the recent battlefield. Some players went to gather the loot left after the wolves’ death.
 
-“What do we do with hides?”
+“What are we supposed to do with hides?”
 
-“yeah, and meat and teeth?”
+“Yeah, and meat and teeth?”
 
-The players, who came here for the first time were looking at their more experienced companions, who were sitting on the ground, talking leisurely.
+The players, who came here for the first time were looking at their more experienced companions, who were sitting on the ground talking leisurely.
 
-“If you take them, they might become a burden later.” - said Pluto.
+“If you take them, they might become a burden later,” said Pluto.
 
-“True. hides, teeth and the rest aren’t worth much. take it all if you want.” - confirmed Oberon.
+“True. Hides, teeth and the rest aren’t worth much, but you can take it all if you want.” confirmed Oberon.
 
-However there weren’t any players willing to collect the loot after his words, and the ones who already gathered some, threw it out under approving gazes of more experienced players.
+However there weren’t any players willing to collect the loot after his words, and the ones who had already gathered some threw it out under the approving gazes of more experienced players.
 
-“There must be something valuable waiting ahead of us and this junk will only take up place.”
+“There must be something valuable waiting ahead of us and this junk will only take up space.”
 
-After a short break the party packed up and headed further into Plains of Despair.
+After a short break, the party packed up and headed further into Plains of Despair.
 
-“Be alert, you might already understand what’s waiting us ahead. Cover each other and then no one will die.”
+“Be alert, you might already understand what’s waiting for us ahead. Cover each other and then no one will die.”
 
-The party only moed some 100 meters away from their resting place, when a black dot appeared in the distance. It was gradually growing and approaching the party with great speed!
+The party only had moved some 100 meters away from their resting place when a black dot appeared in the distance. It was gradually growing and approaching the party with great speed!
 
-First it was discovered by archers, who had the sharpest eyesight.
+It was first sighted by the archers, who had the sharpest eyesight.
 
 “Monsters!”
 
 “Take positions. Monsters approaching!”
 
-Like the last time, players quickly formed a battle formation, hiding mages and priests behind warriors’ backs. Mages prepared their spells, priests renewed blessings, thieves unsheathed their daggers and hid on the sides of the party. Everyone was ready for an ambush.
+Like the last time, players quickly formed a battle formation, hiding mages and priests behind the warriors’ backs. Mages prepared their spells, priests renewed blessings, and thieves unsheathed their daggers and hid on the sides of the party. Everyone was ready for an ambush.
 
 Finally the growing dot approached close enough to identify it.
 
-“What?.. That’s an Orc!”
+“What? That’s an Orc!”
 
 “A very thin Orc...”
 
-A small, all skin and bone Orc, dressed in some torn and dusty rags was quickly approaching the party.
+A small, skin and bones Orc dressed in some torn and dusty rags was quickly approaching the party.
 
 “Chwiik!”
 
@@ -251,7 +249,7 @@ Tap-tap-tap...
 
 “Chwiik!”
 
-Every three steps he was making loud abrupt noises, covering the constant clanging of tree huge backpacks on his back.
+Every three steps he was making loud abrupt noises, possibly to hide the constant rustling and clanging of the three huge backpacks on his back.
 
 “There weren’t any Orcs in this area before...”
 
@@ -259,17 +257,17 @@ Every three steps he was making loud abrupt noises, covering the constant clangi
 
 “And what’s he carrying?”
 
-It looked like this tiny Orc suddenly decided to go on a journey or move to a new place with all his belongings.
+It looked like this tiny Orc had suddenly decided to go on a journey or move to a new place with all his belongings.
 
-No one in the party has ever heard about anything like this. While they were standing there in confusion, guessing what was going on, Orc came close enough to see his face.
+No one in the party had ever heard about anything like this. While they were standing there in confusion, guessing what was going on, the Orc got close enough that they could see his face.
 
 He looked very tired, but at the same time he had extreme determination in his eyes.
 
 “Chwiiik!”
 
-He shouted twice as loud as before and then passed the party in a wide arc, not slowing down for a second. And though no one knew why he was doing it, all of them sympathized with him, seeing how hard it is to make every step for him, like there was a mountain on his shoulders.
+He shouted twice as loud as before and then passed the party in a wide arc, not slowing down for a second. And though no one knew why he was doing it, all of them sympathized with him. They could see how hard it was for him to make every step, like there was a mountain on his shoulders.
 
-And then Orc’s eye suddenly brightened up and he rushed to the place where the party left their loot a while ago! He ran to that place and started to scurry all around it.
+And then Orc’s eye suddenly brightened up and he rushed to the place where the party had left their loot a while ago! He ran to that place and started to scurry all around it.
 
 “What’s he doing?”
 
@@ -277,127 +275,117 @@ And then Orc’s eye suddenly brightened up and he rushed to the place where the
 
 “Looks like he’s gone crazy.”
 
-The party members were still standing and staring at the strange Orc. And he was still rummaging through the former battlefield, and wherever he was passing, all items were disappearing. With his right hand he was grabbing teeth and hideas, with left - wolves’ meat.
+The party members were still standing and gaping at the strange Orc. He kept rummaging through the former battlefield, and wherever he passed, all the items were disappearing. With his right hand he was grabbing teeth and hideas, with left, wolves’ meat.
 
-Suddenly his eyes sparkled even brighter, like those of a jackal who found food for the first time in 10 days. He found 3 silver coins!
+Suddenly his eyes sparkled even brighter, like those of a jackal who had found food for the first time in 10 days. He found 3 silver coins!
 
 “Chwi-i-ik!”
 
-After grabbing the unexpected money, Orc continued to run towards Rosenheim kingdom, laughing with satisfaction.
+After grabbing the unexpected money, the Orc continued to run towards Rosenheim kingdom, laughing with satisfaction.
 
-* * *
+@<embed>{|html|<hr/>}
 
-“Almost there.” - quietly muttered Weed.
+“Almost there,” quietly muttered Weed.
 
-Of course that Orc was him.
+Of course, that Orc was him.
 
-After turning into small Karichwi he ran across Plains of Despair. But first he visited the closest to the mountains villages of exiles.
+After turning into small Karichwi, he had ran across the Plains of Despair. But first, he visited the Village of Exiles, the closest village to the Dark Elves' fortress.
 
-After a little persuasion, absolutely all of them agreed to take part in the battle against the army of undead.
+After a little persuasion, absolutely all of them agreed to take part in the battle against the Immortal Legion.
 
-“We don’t like Orcs, but if undead win, no one will survive. We will join the battle to defend our new homeland.” - said the blacksmith in the first village before gathering as much warriors as possible and departing to the Yuroki Mountains.
+“We don’t like Orcs, but if the undead win, no one will survive. We will join the battle to defend our new homeland,” the blacksmith had said. Then, he gathered as many warriors as possible and departed to the Yuroki Mountains.
 
-It then repeated in other villages in a similar manner.
+He repeated this for several other villages that the exiles had established.
 
-Generally it wasn’t hard to persuade them to fight against the undead, the main problem was traveling. Villages were scattered all over Plains of Despair and he had to visit each of them.
+Generally it wasn’t hard to persuade them to fight against the undead, the main problem was traveling. The villages were scattered all over Plains of Despair and he had to visit each of them.
 
-‘Tired like a dog...’
+‘I'm tired like a dog...’
 
-Weed, who was running at the top of his speed all this time, was under a heavy stress. Even for a trained by heavy manual labour human, this would be a hard challenge, and Weed has turned into a small Orc. Besides he had a huge weight on his back, consisting of backpacks with his items and a small, but heavy Orc statue. Because of all that, he couldn’t feel his legs any more.
+Weed, who was running at his top speed all this time, was under intense stress. Even for a human trained in heavy manual labor, this would be a hard challenge, and Weed had turned into a small Orc. Besides, he had a huge weight on his back, consisting of backpacks with his items and a small but still heavy Orc statue. Because of all that, he couldn’t feel his legs any more.
 
-Though the first few days went relatively good. He was still at full strength and running was actually pretty entertaining. He had to avoid the dangerous monsters at all costs! Such a race with death was very exciting for Weed.
+The first few days, at least, had gone well. He was still at full strength and running was actually pretty entertaining. He had to avoid the dangerous monsters at all costs! Such a race with death was very exciting for Weed.
 
-The Plains of Despair were among the top 10 most dangerous regions of the game, that had barely any information about them. No one knew what monsters inhabit them, how many or where their lairs are.
+The Plains of Despair were one of the 10 Forbidden Zones, the most dangerous regions of the game. Barely any information was known about these areas: no one knew what monsters inhabited them, how populous they were, or where their lairs were.
 
 But Weed had a map of this land.
 
-The map had precisely marked villages and dangerous areas, that must be avoided. And moreover - information about each of them!
+The map had precisely marked villages and dangerous areas that must be avoided. It also contained some basic information about each area. So, Weed ran while skirting around the edges of the dangerous areas. Therefore, though his journey took a long time, it was absolutely safe.
 
-Weed was just passing the dangerous areas along the edge and continuing to run along his way. Therefore, though his journey took a long time, it was absolutely safe.
+On the other hand, those who didn’t have such knowledge would, sooner or later, walk into the wrong place and die in battle. Tthat was why these lands were rumored to be very dangerous.
 
-On the other hand, those who didn’t have such knowledge, were sooner or later walking into a wrong place and dying in battle. And that was why these lands were rumored to be very dangerous.
+But even though he knew the way, he had limited time. The battle against the undead was going to start in 20 days, and during that time he had to complete all preparations and return.
 
-But even though he knew the way, he had limited time. The battle against undead was going to start in 20 days, and during that time he had to complete all preparations and return.
+When he was still at full strength, he ran on all fours. The skinny orc Karichwi, running like the wind through the dangerous Plains of Despair.
 
-When he was still at full strength he was running on all fours. The skinny orc Karichwi, running like the wind through the dangerous Plains of Despair.
+However, he was running a full 24 hours a day and was under constant tension as he had to watch for occasional wandering monsters. He even had to eat on the run. As a result, he ran out of stamina and got sick.
 
-Full 24 hours a day Weed was under a constant tension, as he had to watch for occasional wandering monsters. He was even eating on the run. As a result he ran out of stamina and got sick.
-
-//rvps1{
 //table{
-
 --------------
 You are exhausted.
-Strength left you because you haven’t rested for a long time.
-Your Stamina, Strength and Agility attributes are reduced.
-You are suggested to rest. If you don’t do it, you may lose consciousness because of exhaustion.
-//}
+Strength has left you because you haven’t rested for a long time.
+Your Stamina, Strength and Agility stats are reduced.
+It is suggested to rest. If you don’t, you may lose consciousness due to exhaustion.
 //}
 
-To collapse from exhaustion and wait for death by some monster’s claws. What could be more ridiculous? He would probably be the first player in Royal Road to die because of exhaustion.
+To collapse from exhaustion and wait for death by some monster’s claws... what could be more ridiculous? He would probably be the first player in Royal Road to die from exhaustion.
 
 After reading this message Weed was furious.
 
 “So I wasn’t working hard enough until now?!”
 
-All this time he thought that he was working at the limit of his ability. And now he got such a message! At this moment he remembered his entire time in Royal Road and regret over all the possibilities he missed filled him and he screamed.
+All this time he thought that he'd been working at the limit of his ability. But this was the first time he'd seen this message. At this moment he remembered his entire time in Royal Road and was filled with regret over all the possibilities he'd missed. 
 
-“A-a-a-a-a-ah!”
+He screamed out, “A-a-a-a-a-ah!”
 
 And then the rain came pouring down.
 
-It was so strong, as if some god made a hole in the sky and all the water in the world was flowing through it now. It was raining heavily all across Plains of Despair. Dry soil was greedily absorbing the water. Withered grass started to fill with life.
+It was so strong, as if some god had made a hole in the sky and all the water in the world was flowing through it now. It was raining heavily all across Plains of Despair. The dry soil greedily absorbed the water. Soon, the withered grass of the plains would come back to life.
 
 And Weed kept running.
 
-At first it wasn’t troubling him at all, on the contrary, cold water was only cooling down his overheating body!
+At first, the rain didn't trouble him at all. On the contrary, cold water would only cool down his overheating body!
 
-But however long he was running, the rain didn’t stop.
+But, as he kept running, the rain didn’t stop.
 
-And that’s when he had a second nervous breakdown.
+And that’s when he had a second nervous breakdown. “A-a-ah! A-a-a-ah! A-a-a-a-argh!”
 
-“A-a-ah! A-a-a-ah! A-a-a-a-argh!”
+The rain went on for three days and three nights. The ground was covered with mud puddles and water streams that covered the path like small lakes and rivers.
 
-The rain went on for 3 days and 3 nights. The ground was covered with mud puddles and water streams, that obstructed the path like small rivers.
+Weed had to make great efforts to avoid them. Unfortunately, he was alone on this journey and there would be no one to help him were he to make any critical mistake.
 
-Weed had to make great efforts to avoid them. Unfortunately, he was alone on this journey and there would be noone to help him, were he to make any critical mistake.
+The Plains turned to one big muddy swamp, and it became very hard to travel through for a short-legged Orc. And the worst part was that he couldn’t stop to rest because of the constant heavy rain.
 
-The Plains turned to one big muddy swamp, which made it very hard to travel through for a short-legged Orc. And the most unpleasant part was that he couldn’t stop to rest because of constant heavy rain.
-
-The weather in Royal Road was known to have very quick and drastic changes. many Royal Road websites even had discussion groups, that were trying to figure out weather patterns and make a forecast.
+The weather in Royal Road was known to have very quick and drastic changes. Many Royal Road websites even had discussion groups that were trying to figure out weather patterns and make a forecast.
 
 But Weed was passing through a barely explored region. And of course the map was of no help here.
 
-“Winter... I hate winter! Chwiik! Summer too...Hate summer. Spring and autumn - those are the best.” - was muttering he on the go.
+He muttered as he walked, “Winter... I hate winter! Chwiik! Summer too... I hate summer. Spring and autumn - those are the best.”
 
-Weed had already fallen down many times, but every time he was getting back on his feet and continue walking.
+Weed had already fallen down many times, but every time he got back on his feet and continued walking. Still, the rain continued, and he was gradually losing his strength. He got a fever too.
 
-The rain was going on and on, and he was gradually losing his strength. He got a fever too.
+“Just exhaustion. Nothing wrong with that,” he tried to convince himself.
 
-“Just exhaustion. Nothing wrong with that.” - he was trying to convince himself.
-
-The time was running out and he had to hurry. But such disregard of his body didn’t pass without consequences. His speed dropped even more, backpacks’ weight seemed to increase even more. He got dark circles under his eyes and his face turned a pale shade of blue instead of green.
+Time was running out and he had to hurry. But such disregard of his body didn’t come without consequences. His speed dropped even more, and the backpacks’ weight seemed to increase as time went on. He got dark circles under his eyes and his face turned a pale shade of blue instead of green.
 
 //table{
-
---------------
 You are severely exhausted.
-The Stamina recovery has stopped.
+--------------
+Stamina recovery has stopped.
 Health is gradually reducing.
-To prevent collapsing from exhaustion you are strongly advised to rest.
+To avoid collapsing from exhaustion, you are strongly advised to rest.
 //}
 
-Weed couldn’t allow himself to collapse in the middle of flooded plains. He searched his bags a little and started to chew one healing herb after another. He was doing everything he could to sustain his tired body in a working condition.
+Weed couldn’t allow himself to collapse in the middle of flooded plains. He searched through his bags and started to chew one healing herb after another. He was doing everything he could to sustain his tired body in a working condition.
 
-In such manner, constantly urging himself, he reached the Rosenheim Kingdom in 6 days. Or, more precisely, on 7th day he saw the walls of Seraburg.
+In such manner, constantly urging himself onward, he reached the Rosenheim Kingdom in six days. Or, more precisely, on seventh day he saw the walls of Serabourg.
 
 “Cancel Sculpture Transformation!”
 
-After shouting that he fell to his knees, but already in his human body.
+After shouting that he fell to his knees, but he was already in his human body.
 
-It was a miracle, that he managed to reach Seraburg without dying. Crossing the plains of Despair was the most dangerous thing he did since he started to play Royal Road. Not because they were filled with dangerous monsters, but because he nearly died from exhaustion.
+It was a miracle that he managed to reach Serabourg without dying. Crossing the plains of Despair was the most dangerous thing he had done since he started to play Royal Road. Not because they were filled with dangerous monsters, but because he nearly died from exhaustion.
 
-After transforming back into human, Weed sat on the ground for a while staring into the void. His body finally got to relax and he wasn’t able to make himself move again.
+After transforming back into a human, Weed sat on the ground for a while staring into the void. His body finally had relaxed and he wasn’t able to make himself move again.
 
 Meanwhile players were passing by him on their way to and from the city. And most of them, especially girls, couldn’t just ignore him!
 
@@ -407,79 +395,77 @@ Meanwhile players were passing by him on their way to and from the city. And mos
 
 “...”
 
-One small coin after another were falling to the ground in front of Weed. And hearing such a sweet tingling of money, he would never admit that he’s not a beggar. So he was quietly scooping them into a small pile.
+One small coin after another started to fall to the ground in front of Weed. And hearing such a sweet tingling of money, he would never admit that he’s not a beggar. So, he sat there, quietly scooping them into a small pile.
 
 ‘3 silver and 14 coppers.’
 
-There were times, back when he was in school, when he didn’t have anything to eat. Almost all of the small monthly allowance, paid by the government, he was spending on his little sister. So he often had to eat expired food. For someone who experience such things, every coin was a fortune.
+There were times, back when he was in school, when he didn’t have anything to eat. He was spending almost all of his small monthly allowance, paid by the government, on his little sister. Often, he had to eat expired food as it was all they had left. For someone who had experienced such things, every coin was a fortune.
 
 “Uh-oh...”
 
-Weed finally forced himself to get up. His body was still fatigued and legs trembling.
+Weed finally forced himself to get up. His body was still fatigued and his legs were trembling.
 
-That was one of those moments when he felt that Royal Road is made just too well. He was tired not only physically, but mentally as well. Running for seven days straight wasn’t something just anyone could do.
+This was one of those moments when he felt that Royal Road was made just too well. He was tired not only physically, but mentally. Running for seven days straight wasn’t something just anyone could do. And if he hadn't used Quadruped Run, it would have taken even longer.
 
-And if he wasn’t using the four-legged running, it would take even more time.
+Weed shook his head and slowly headed towards the city walls. He had agreed to meet with Mapan at the fountain on central square.
 
-Weed shook his head and slowly headed towards the city walls. He agreed to meet with Mapan at the fountain on central square.
+Lately Rosenheim Kingdom had a lot more players than before. Now its population wasn't much lower than that of the central kingdoms.
 
-Lately Rosenheim Kingdom had a lot more players, than before. Now its population wasn't much lower than that of central kingdoms.
-
-Other frontier kingdoms as well noticed that population of Rosenheim was growing. And of course the cause was the giant statue of a Sphynx. It not only had restorative effects, it was raising various attributes too. Besides the nearby monsters became a lot easier to hunt.
+Other frontier kingdoms as well noticed that population of Rosenheim was growing. And there was a clear reason: the giant Sphinx statue! It not only had restorative effects, but it raised various stats too. Thanks to it, the nearby monsters became a lot easier to hunt.
 
 Of course, this situation wasn’t going to hold for long.
 
 ‘When other kingdoms get their own sculptors, painters and other artists, players will disperse once again.’
 
-Because of the Sphynx sculpture many players were choosing a profession of a sculptor. And with time more and more Fine pieces and Masterpieces will be appearing in other kingdoms, and then Rosenheim will lose its advantage.
+Because of the Sphinx sculpture many players were choosing a profession of a sculptor. And with time more and more Fine pieces and Masterpieces will be appearing in other kingdoms, and then Rosenheim will lose its advantage.
 
 “Weed! I’m here.”
 
-Deep in thoughts, Weed didn’t notice that he got to the central square, where he was met by Mapan. He was waving his hand, trying to get his friend’s attention.
+Deep in thoughts, Weed hadn't noticed that was already at the central square. Mapan called out to him and waved his hand, trying to get his friend’s attention.
 
 “Wow! It’s been a long time. Here, I got what you asked for.”
 
-Like a true merchant, Mapan has already prepared everything.
+Like a true merchant, Mapan had already prepared everything.
 
-“Two million silver arrows, some weapons and enough silver to smelt into the rest of required 60 000 weapons.”
+“Two million silver arrows, some silver weapons, and enough silver to smelt into the rest of required 60,000 weapons.”
 
-That was 10 wagons worth of goods.
+In total, there were 10 wagons worth of goods.
 
-“I tried to get it as cheap as possible. In the end I got everything for 65 000 gold. I know we agreed on 70 000, but you can pay the actual price. Want me to put it on your tab?” - carefully finished Mapan.
+“I tried to get it as cheap as possible, and in the end I got everything for 65,000 gold. I know we agreed on 70,000, but I'll let you have it at cost. Want me to put it on your tab?” carefully finished Mapan.
 
-To be honest, he was grateful to Weed, because he introduced him to Pale’s party and Geomchis, which really helped him to earn some extra money. Besides this deal helped him to raise his trading skills quite a bit.
+To be honest, he was grateful to Weed, because he introduced him to Pale’s party and the Geomchis, which had really helped him to earn some extra money. Besides, this deal helped him to raise his trading skills quite a bit.
 
-So he was expecting that he’ll have to make a discount for such a big deal, or at least postpone the payment.
+So he was expecting that he wouldn't make much profit on this deal, and that the payment might come later.
 
-However Weed shook his head.
+However, Weed shook his head.
 
 “70 thousand. I’ll pay in cash.”
 
 “Woah! Really?”
 
-Mapan knew, that Weed is secretly a money bag, but didn’t expect him to be THAT rich! But then it hit him and he started to worry. This was his old friend Weed, that wouldn’t move a finger without a good reason.
+Mapan knew that Weed had more savings than it looked like, but didn’t expect him to be THAT rich! But then, it hit him, and he started to worry. This was his old friend Weed, who wouldn’t move a finger without a good reason.
 
 And like he expected, Weed continued:
 
-“But only after you deliver it to the place. At your destination I’ll pay you the full ammount.”
+“But only after you deliver it to the place. At your destination I’ll pay you the full amount.”
 
 “...”
 
 Mapan sighed with relief.
 
-He still considered himself lucky. He would still be the one, responsible for delivery, as there would be no way Weed would be able to move the goods, occupying 10 carts.
+He still considered himself lucky. It was only natural that he'd be the one responsible for delivery, as there would be no way Weed would be able to move 10 carts of goods by himself.
 
-“So where should i deliver it?”
+“So where should I deliver it?”
 
 “To the Plains of Despair.”
 
 “...”
 
-“Yurokin Mountains to be precise.”
+“Yuroki Mountains to be precise.”
 
 “...”
 
-“And it should be done in 10 days.”
+“And it needs to be there in 10 days.”
 
 “Damn!”
 
@@ -501,7 +487,7 @@ Weed decided to take another route. Traveling through portal had certain restric
 
 * * *
 
-The main square of Seraburg suddenly lighted up by a bright flash of a portal, through which two players stepped into the Seraburg.
+The main square of Serabourg suddenly lighted up by a bright flash of a portal, through which two players stepped into the Serabourg.
 
 A beauty, dressed in red, and a bald monk.
 
