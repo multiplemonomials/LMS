@@ -1,98 +1,94 @@
-==={chapter-9-sculptures-of-her} Chapter 9: Sculptures of Her
+= Sculptures of Her
 
-Since Weed and Seoyoon entered the Yunopu Gorge together, they haven’t said a single word to each other.
+Since Weed and Seoyoon entered the Yunopu Canyon together, they hadn’t said a single word to each other.
 
-But at every stop they were sharing food. And of course Weed was the one cooking, though that wasn’t bothering him much, as he didn’t have to run this time, but instead walked calmly while hunting Yetis along the way.
+But at every stop, they were sharing food. And of course, Weed was the one cooking, though that didn't bother him much as Seoyoon's presence meant that he didn’t have to run for his life, but instead could walk calmly while hunting Yetis along the way.
 
-At first they were moving about 100 meters apart from each other. But that distance was gradually reducing. After another hard fight Weed was the first to shorten the distance to 50 meters, as he was worried about being attacked by another group of Yetis. And after a few shared dinners the distance shrunk to 30 meters.
+At first they were moving about 100 meters apart from each other. But that distance was gradually reducing. After another hard fight, Weed was the first to shorten the distance to 50 meters, as he was worried about being attacked by another group of Yetis. And after a few shared dinners, the distance shrunk to 30 meters.
 
-Usually Seoyoon just approached him, taking her share silently and returning back to her place. Each of them ate alone, carefully watching the surroundings.
+Usually Seoyoon just approached him, silently taking her share and returning back to her place. Each of them ate alone, carefully watching the surroundings.
 
 After another day they were already 20 meters apart. And they fought at the same distance from each other, which gave Weed a chance to observe the girl from up close.
 
 “...”
 
-After one of the battles Seoyoon stopped and took off her half-plate armor. She was fully equipped in heavy armor. Weed had a lot of opportunities to appreciate their expensive shine. But what he didn’t know was that she was wearing chainmail underneath them.
+After one of the battles, Seoyoon stopped and took off her half-plate armor. She was normally fully equipped in heavy armor, and Weed had a lot of opportunities to appreciate its expensive shine. But what he didn’t know was that she was wearing chainmail underneath.
 
 ‘That’s the melee profession for you.’ he thought enviously.
 
-Knights and other melee fighters had the ability to wear all the different kinds of armor at the same time. By equipping 3 kinds of armor: iron, leather and cloth armors - at the same time, one could get the best possible protection.
+Knights and other melee fighters had the ability to wear all the different kinds of armor at the same time. By equipping three layers of armor -- metal plate, chain mail, and leather -- at the same, one could get the best possible protection.
 
-The only problem was that the combined weight required high strength, endurance and agility attributes. If they were not high enough, one would quickly tire out and lose the ability to move.
+The only problem was that the combined weight of this armor required high strength, endurance, and agility. If these stats were not high enough, one would quickly tire out and lose the ability to move.
 
-After getting an Intermediate level of Blacksmith Weed also gained that ability, but as he lacked the attributes, he didn’t dare to equip all 3 kinds of armor like a knight.
+After getting an Intermediate level of Blacksmithing, Weed also unlocked this ability, but as he lacked the stats to make it work effectively, he didn’t dare to equip multiple layers of armor like a knight.
 
 Absorbed by those thoughts, Weed almost crashed into Seoyoon, who was carefully examining her unequipped armor.
 
 ‘Is it time for repairs?’
 
-Almost all of the surface of armor was covered in cracks, some places even had pieces missing.
+Almost all of the surface of the armor was covered in cracks, and some places even had pieces missing.
 
 “Chwiik!”
 
 Weed quickly approached Seoyoon and snatched the armor out of her hands. He did it unconsciously, as he was always repairing armor for people around him.
 
-And then he noticed Seoyoon’s murderous glance.
+And then he noticed Seoyoon’s murderous gaze.
 
 “Chwi, chwiik...”
 
-Reflected in her eyes was a small green thief! So he took the instruments out of his bag, repaired the armor, and returned it to her as quickly as possible.
+Reflected in her eyes was a small green thief! So, he took his tools out of his bag, repaired the armor, and returned it to her as quickly as possible.
 
-Seoyoon took her armor back like nothing happened and started to examine it carefully. Its durability increased, and formerly damaged parts looked completely fine.
+Seoyoon took her armor back like nothing happened and started to examine it carefully. Its durability increased, and the formerly damaged parts looked completely fine.
 
 Then Seoyoon took off her chainmail and handed it to Weed by herself this time. He silently took it and repaired, and then did the same with her leather armor.
 
-When the girl took off her last set of armor, she was left almost naked. As any proper man, Weed couldn’t help but try to oogle her, but at the last moment he thought otherwise.
+When the girl took off her last set of armor, she was left almost naked. Like any proper man, Weed was majorly tempted to try and ogle her, but at the last moment he thought otherwise. He valued his life more.
 
-He valued his life more.
+And since that day, he was responsible not only for food, but for equipment repairs too.
 
-And since that day he was responsible not only for food, but for equipment repairs too.
-
-Actually, skills like cooking and repairing were very rare among unintelligent Orcs. Some Elves, Hobbits or Dwarfs did have Intermediate Cooking or Blacksmithing, but Orcs - never.
+Actually, skills like cooking and repairing were very rare among unintelligent Orcs. Some Elves, Halflings, and Dwaves did have Intermediate Cooking or Blacksmithing, but Orcs - never.
 
 But Seoyoon didn’t seem concerned about it at all. Maybe she thought that the Orc she happened to meet wasn’t ordinary, or maybe she just wasn’t interested in surrounding creatures.
 
-Whatever it was, Weed wasn’t eager to explain himself, so he just silently walked ahead. However when Seoyoon was logged out of the game, he didn’t have anything to do, as he didn’t dare to continue his way alone.
+Whatever it was, Weed wasn’t eager to explain himself, so he just silently walked ahead. However when Seoyoon logged out of the game, he didn’t have anything to do, as he didn’t dare to continue his way alone.
 
-Seoyoon left Royal Road every 4 hours. Maybe she needed to eat, or rest. After leaving, she always appearing exactly 2 hours later.
+Seoyoon left Royal Road every four hours. Maybe she needed to eat, or rest. After leaving, she always reappeared exactly two hours later on the dot.
 
-Weed himself ate very quickly. Besides, for the sake of the quest he was spending all of his free time inside the game, and as a result he barely slept 2 hours a day for the past several days.
+Weed himself ate very quickly. Besides, for the sake of the quest, he was spending all of his free time inside the game, and as a result he had barely slept two hours a day for the past several days.
 
 ‘Since she’s logging out so often, I should do something useful in the meantime.’
 
-And Weed started to make sculptures.
+So, Weed started to make sculptures.
 
 If one was to sum up all the time the girl was absent, there would have been enough for Weed to pass through the rest of his path alone and reach the fortress.
 
-However the risk was far too great. Sometimes Yeti’s appeared in groups of 3 or more, and it was extremely hard to deal with all of them alone.
+However the risk was far too great. Sometimes Yetis appeared in groups of three or more, and it was extremely hard to deal with all of them alone.
 
-And if he died, he wouldn’t be able to login into royal Road for 24 hours! Which would be 4 days in Royal Road time...
+And if he died, he wouldn’t be able to login into royal Road for 24 real-world hours! Which would be four days on the Versailles Continent...
 
-Under such conditions the safest way was also the shortest and the best. Sometimes even Weed was able to silence his inner unreasonable greed.
+Under these conditions, the safest way was also the shortest and the best. Sometimes even Weed was able to silence his inner unreasonable greed.
 
-“Yeah, sculpturing is always the best way to spend free time.”
+“Yeah, sculpting is always the best way to spend free time.”
 
-Lately, his Sculpture mastery has grown significantly and his art became more diverse. Which actually wasn’t surprising, since he had cut many different monsters, castles, people, a dragon and even a tomb with a sphynx.
+Lately, his Sculpting had grown significantly and his art became more diverse. Which actually wasn’t surprising, since he had produced many different monsters, castles, people, a dragon, and even a tomb with a sphinx.
 
 However Weed decided to make more sculptures of Seoyoon.
 
-“I should cut what I have seen so far while I have time.”
+“I should sculpt what I have seen so far while I have time.”
 
 The first sculpture was full of motion. The cold side of Seoyoon, fighting with monsters. He had cut the female warrior with a sword.
 
 Ding!
 
 //table{
-
+Fine Piece! You have completed the statue ‘Beauty with a Sword’!
 --------------
-Fine Piece!
-You have completed a statue of ‘Beauty with a sword’!
-The master, whose hands create only great sculptures, left a statue of a beautiful woman in desolate plains!
+The master whose hands create only great sculptures left a statue of a beautiful woman in desolate plains!
 Her cold face is full of fury towards her enemies.
-Artistic value: 260.
+@<b>{Artistic Value:} 260.
 Effects:
- * Everyone who looks on the sculpture has his health and mana regeneration increased by 4% for the next day.
- * Movement sped increased by 5%.
+ * Everyone who looks on the sculpture has their health and mana regeneration increased by 4% for the next day.
+ * Movement speed increased by 5%.
  * Strength and Agility increased by 10.
  * Intellect and Wisdom increased by 3.
  * Men have their fighting spirit increased.
@@ -101,33 +97,31 @@ Number of Fine Pieces created: 10.
 //}
 
 //table{
-
 --------------
-- Sculpture Mastery has improved.
+- Sculpting skill proficiency has improved.
 - Fame increased by 19.
 - Endurance increased by 2.
 - Art increased by 1.
 - Fortitude increased by 3.
 //}
 
-His Sculpture Mastery improved again!
+His Sculpting had improved again!
 
 Weed exclaimed impatiently:
 
-“Check skills. Sculpture Mastery!”
+“Check skill: Sculpting!”
 
 //table{
-
+Sculpting: Intermediate Lv9 (46%)
 --------------
-Sculpture Mastery: Intermediate 9 level (46%).
 You can create sculptures, sell them at high prices, and win the favor of ladies.
 //}
 
-Even though Weed created a Fine Piece, his skill increased only by 3%.
+Even though Weed created a Fine Piece, his skill had increased only by 3%.
 
 “Terrible work. The worst of Fine Pieces. What did I do wrong?”
 
-Even if his aim was Fine Piece, that doesn’t mean he can do his a sloppy job and still get the desired result. Even when working on a small figurine, a sculptor has to put his heart and soul into it.
+Even if his aim was a Fine Piece, that doesn’t mean he could do a sloppy job and still get the desired result. Even when working on a small figurine, a sculptor had to put their heart and soul into it.
 
 For example, in a fight, one can win even without using his full strength. But when engraving a sculpture, even the smallest one, one had to spend a minimum of half an hour not to get a failed work, which would decrease your fame.
 
@@ -155,7 +149,7 @@ Weed had already created many sculptures of Seoyoon, but every time it was getti
 
 This time Weed created a Masterpiece and his skill increased by 13%.
 
-But the closer he was to the next level of Sculpture Mastery - the harder it was to increase it. And to actually advance to the next level he needed something special. For example to go from Beginner to Intermediate he had to make a statue of Headless Dullahan.
+But the closer he was to the next level of Sculpting - the harder it was to increase it. And to actually advance to the next level he needed something special. For example to go from Beginner to Intermediate he had to make a statue of Headless Dullahan.
 
 And to go from Intermediate to Advanced level he’ll have to make something truly outstanding.
 
@@ -173,7 +167,7 @@ If Seoyoon knew that there was a man besides her, she wouldn’t be able to stay
 
 But not with an Orc! Simple Orcs did not cause any repulsion from her. And that’s why Weed managed to see the real Seoyoon that was fighting monsters and sleeping under the warm sun. Her face still remained expressionless, except for her eyes...
 
-With sadness in her eyes, she was watching leaves falling off trees. She often looked at the small brook in the middle of the Gorge while humbly sitting and waiting for the food to get done.
+With sadness in her eyes, she was watching leaves falling off trees. She often looked at the small brook in the middle of the Canyon while humbly sitting and waiting for the food to get done.
 
 Once, while walking, Seoyoon plucked a flower and put it into her hair. She herself didn’t notice it at all, but Weed almost jumped from surprise!
 
@@ -209,7 +203,7 @@ Weed continued to cut flowers, waiting for the girl to return. But to his surpri
 
 “Maybe she’s sleeping?..”
 
-He was so absorbed by his observations and work, that he completely lost track of time. It was already night in real world, and what’s more important - they had almost reached the end of Yunopu Gorge, and he could continue to travel on his own.
+He was so absorbed by his observations and work, that he completely lost track of time. It was already night in real world, and what’s more important - they had almost reached the end of Yunopu Canyon, and he could continue to travel on his own.
 
 “So she’s not going to return for a while. I have time, so i should finish the sculpture and then go ahead. There’s no reason to give up the work I already started...”
 
@@ -405,14 +399,14 @@ But Weed was happy not only because he managed to create a Grand Piece. Most imp
 //table{
 
 --------------
-Sculpture Mastery reached Advanced 1 level.
+Sculpting reached Advanced 1 level.
 Now you can engrave patterns and work with any material.
 //}
 
 //table{
 
 --------------
-Your Sculpture mastery reached the Advanced level.
+Your Sculpting reached the Advanced level.
 This affected your attributes and skills.
 //}
 
@@ -427,7 +421,7 @@ This affected your attributes and skills.
 //table{
 
 --------------
-Sculpture Mastery is linked to other crafting skills.
+Sculpting is linked to other crafting skills.
 Blacksmithing skill:
  * You can now create bronze sculptures.
  * Sculptures, created by pouring molten metal into the mold will be harder and more durable.
@@ -473,15 +467,15 @@ Weed felt like the whole world was smiling with him. But then he quickly snapped
 
 Seoyoon should be returning soon.
 
-The Grand Piece had special effects and was hard to miss. An inevitable consequences of Sculpture Mastery.
+The Grand Piece had special effects and was hard to miss. An inevitable consequences of Sculpting.
 
 When the girl comes back she may discover it, and then the other sculptures. When she learns about them she won’t let him get away.
 
 “It’s time to run!”
 
-Weed looked at his sculpture for the last time and headed towards the exit from the Gorge.
+Weed looked at his sculpture for the last time and headed towards the exit from the Canyon.
 
-The great master Sculptor, that just created the Grand Piece and reached Advanced level of Sculpture Mastery had to run away from it as soon as possible.
+The great master Sculptor, that just created the Grand Piece and reached Advanced level of Sculpting had to run away from it as soon as possible.
 
 * * *
 
@@ -503,7 +497,7 @@ Though they were traveling together, Seoyoon didn’t quite open up to him. But 
 
 Having checked her armor and sword, she set off on her way.
 
-After leaving the Gorge she was going to look for some new lands, inhabited by many different monsters. But then she smelled some unusual aroma.
+After leaving the Canyon she was going to look for some new lands, inhabited by many different monsters. But then she smelled some unusual aroma.
 
 “...?”
 

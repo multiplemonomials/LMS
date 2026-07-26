@@ -199,7 +199,7 @@ Once described as a scientific and technological piece of architecture, a pyrami
 
 However, in truth, it was only a shallow imitation of the Egyptian pyramids. The internal structure was much simpler, because Weed had no experience with construction such as this.
 
-Sculpture mastery in Royal Road only assisted with the improvement of outer appearance and shape. It was no wonder that Weed didn't have any knowledge on the internal structure of a pyramid.
+Sculpting in Royal Road only assisted with the improvement of outer appearance and shape. It was no wonder that Weed didn't have any knowledge on the internal structure of a pyramid.
 
 'How is this supposed to look like?...'
 
@@ -326,7 +326,7 @@ Total number of masterpieces completed: 3
 //}
 
 //table{
-Level Up: Sculpture Mastery (Intermediate Lv 9 | 0%):
+Level Up: Sculpting (Intermediate Lv 9 | 0%):
 --------------
 Allows construction of even more delicate and detailed sculptures.
 //}
@@ -447,7 +447,7 @@ As the crowd buzzed about the stats provided by the statue, many of the guilds' 
 
 All the guilds started to make plans to recruit the sculptor Weed. Meanwhile Weed was just hanging from the sculpture, overflowing with emotions.
 
-Intermediate 9 Sculpture Mastery! Advanced level Handicraft!
+Intermediate 9 Sculpting! Advanced level Handicraft!
 
 Truly, the 'Artisan With Exceptional Dexterity' title wasn't given him for nothing. Usually the game granted more generic titles, like 'someone, who finished this task' or 'so and so, who hunted this rare monster'.
 

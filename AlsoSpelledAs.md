@@ -25,6 +25,7 @@
 |Dark Dragon Kaybern|Evil dragon obsessed with squeezing the dwarves for "protection money"|Akryong Kaybern, Black Dragon Kaybern|
 |Da'in|Shaman (shawoman?) who teams up with Weed in Lavias. Weed's "first love". Has a secret past with the Hermes Guild.|Dyne|
 |Teros|Guildmaster of the Crimson Wings Guild||
+|Hyacinth|Member of Oberon's hunting party in the Plains of Despair|Haisyns|
 
 ## Places
 |My Term|Other Spellings|
@@ -56,6 +57,7 @@
 |Sculpture Transformation|Sculptural Shapeshifting|
 |Perseverance (stat)|Patience|
 |Quadruped Run|Quadrupedal Run, four-legged running|
+|Sculpting (skill)|Sculpture Mastery|
 
 ## Items
 |My Term|Other Spellings|
@@ -68,5 +70,10 @@
 |=======|===============|
 |Ica (eeh-kah) Guild|Jamaica Guild|
 |Immortal Legion|Undead Legion|
+
+## Monsters
+|My Term|Other Spellings|
+|=======|===============|
+|Plains Hunter|Hunter of Plains|
 
 Also refer to: https://weedsroyalroad.wordpress.com/asas-name-lexicon/#sdendnote1sym

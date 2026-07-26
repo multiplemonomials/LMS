@@ -202,7 +202,7 @@ Weed wasn’t that much into complicated novels. The more complex the book was, 
 
 ‘Books never lie.’
 
-The next idea that came to his head he'd encountered in comics a few times. And if he combined it with his sculpture mastery, it could lead to something interesting.
+The next idea that came to his head he'd encountered in comics a few times. And if he combined it with his Sculpting, it could lead to something interesting.
 
 ‘It won’t hurt to just try.’
 

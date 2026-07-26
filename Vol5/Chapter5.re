@@ -268,9 +268,9 @@ Despite all Weed’s efforts, none of them approached him. The few of them who s
 
 Weed continued to roast the boar despite the mockery and threatening looks.
 
-Never before had both cooking and sculpture mastery failed him. Everyone who as much as tasted his food fell absolutely in love with it. And sculptures often brought good results too.
+Never before had both cooking and Sculpting failed him. Everyone who as much as tasted his food fell absolutely in love with it. And sculptures often brought good results too.
 
-Once he'd carved a beautiful bouquet for a player named Volk, who was going to propose to a girl he loved. Sculpture mastery would always bring unexpected benefits.
+Once he'd carved a beautiful bouquet for a player named Volk, who was going to propose to a girl he loved. Sculpting would always bring unexpected benefits.
 
 ‘They must have no sense of art... Savages.’
 
@@ -552,7 +552,7 @@ Number of created fine pieces so far: 5.
 
 //table{
 --------------
-Sculpture Mastery skill proficiency has increased.
+Sculpting skill proficiency has increased.
 Fame increased by 85.
 Endurance increased by 1.
 New stat: Charisma!

@@ -191,7 +191,7 @@ Pain and grief fills your heart after destroying one of your Fine Pieces!
 Art stat permanently decreased by 5.
 Your Fame is reduced by 100.
 For one day your Art stat will be added to your Strength at 1:4 ratio.
-Sculpture mastery increased by 0.1%.
+Sculpting increased by 0.1%.
 //}
 
 Over a thousand of his Art points got transformed into Strength. And they were multiplied by 4 as well!

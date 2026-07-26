@@ -182,7 +182,7 @@ By accumulating various skills and stats, he'd become much more powerful than an
 
 He couldn’t count the times he had noticed players not paying attention to stats and skills. There had been cases when people reached level 250 without even getting their sword skill to an appropriate level. Those kinds of players leveled up without improving their skills just because it would have required some hard work.
 
-For Weed, though, it had always been a priority. He was very glad that orcs hunted a lot. The surrounding lands were filled with monsters, and all he did here was fight, putting his production skills and sculpture mastery aside for now.
+For Weed, though, it had always been a priority. He was very glad that orcs hunted a lot. The surrounding lands were filled with monsters, and all he did here was fight, putting his production skills and Sculpting aside for now.
 
 At some point Weed reached 295th level.
 

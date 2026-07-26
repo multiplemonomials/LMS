@@ -119,7 +119,7 @@ On a warm and sunny morning a party of players left Serabourg through the easter
 
 “Wow! Cool!”
 
-“Look, they have Pluto and even Haisyns...”
+“Look, they have Pluto and even Hyacinth...”
 
 “And their leader is Oberon!”
 
@@ -161,7 +161,7 @@ On the eastern border of Rosenheim Kingdom, a high wall had been built to block 
 
 The players, who joined this hunting party for the first time, glowed with delight.
 
-However Oberon, Pluto and Haisyns only smiled slightly.
+However Oberon, Pluto and Hyacinth only smiled slightly.
 
 “Let’s go. Wait a bit and you’ll see something even more breathtaking...”
 
@@ -469,29 +469,25 @@ He still considered himself lucky. It was only natural that he'd be the one resp
 
 “Damn!”
 
-Saying that Mapan was angry would be an understatement! He was about to blow up in Weed’s face, when he passed Mapan his trump card. The map of Plains of Despair! With it anyone will be able to avoid the dangerous areas and reach the destination by following a safe route.
+Saying that Mapan was angry would be an understatement! He was about to blow up in Weed’s face when Weed passed Mapan his trump card: the map of Plains of Despair! With it, anyone would be able to avoid the dangerous areas and reach the destination by following a safe route.
 
 And Mapan didn’t have a choice but to agree. Besides...
 
-‘Villages of exiles... This is my chanc e to boost my trading skills!’
+‘The Village of Exiles... This is my chance to boost my trading skills!’
 
-By making good deals in settlements, which haven’t been visited yet by other merchants, Mapan will be able to receive a lot of experience and make a lot of money.
+By making good deals in settlements which haven’t yet been visited yet by other merchants, Mapan would be able to receive a lot of experience and make a lot of money. Fame and wealth captured his imagination, winning out over his frustration at Weed's request.
 
-Fame and wealth captured his imagination.
+“Excuse me. Then I need to hurry.”
 
-“Excuse me. Then i need to hurry.”
+After bidding his farewell to Weed, Mapan hurriedly checked the carts and immediately left towards the Plains of Despair.
 
-After bidding his farewell to Weed Mapan hurriedly checked the carts and immediately left towards Plains of Despair.
+Weed decided to take another route. Traveling through portals had certain restrictions concerning the maximum load that could be carried through, so he couldn't return through the teleport gate. Besides, he still had to visit the remaining villages of the exiles. Therefore, after quickly visiting some stores and completing his preparations, he went to the stables and bought a horse. Now on horseback, he headed to the city gates.
 
-Weed decided to take another route. Traveling through portal had certain restrictions concerning the maximum load that could be carried through, so it didn’t fit his needs. Besides, he still had to visit remaining villages of exiles. Therefore, after quickly visiting some stores and completing his preparations he went to the stables, where he bought a horse, on which he headed to the city gates.
+@<embed>{|html|<hr/>}
 
-* * *
+The main square of Serabourg suddenly lit up with the bright flash of a portal, and two players stepped into Serabourg: a beauty dressed in red and a bald monk.
 
-The main square of Serabourg suddenly lighted up by a bright flash of a portal, through which two players stepped into the Serabourg.
-
-A beauty, dressed in red, and a bald monk.
-
-“So you say there’s a sculptor here?” - asked monk his companion in a calm voice.
+“So you say there’s a sculptor here?” asked the monk to his companion in a calm voice.
 
 “Yes. Don’t you read any forums? There was a huge uproar about the construction of that sculpture...”
 
@@ -499,7 +495,7 @@ A beauty, dressed in red, and a bald monk.
 
 “Ha-ha. Calm down. Soon we’ll finish it, get inside, and you’ll get what you want.”
 
-Psyche and Mako were walking around the city, talking to each other. Psyche was a girl in a gorgeous red velvet robe, and Mako was a monk, wrapped in bright yellow ceremonial clothes.
+Psyche and Mako were walking around the city while talking to each other. Psyche was a girl in a gorgeous red velvet robe, and Mako was a monk wrapped in bright yellow ceremonial clothes.
 
 “Hmmm... Those people...”
 
@@ -509,7 +505,7 @@ Psyche and Mako were walking around the city, talking to each other. Psyche was 
 
 Here and there people started to loudly discuss them. These two players from the Hall of Fame of Royal Road were widely known in the game.
 
-Psyche and Mako, who were used to such reaction weren’t paying any attention. And though they weren’t showing their power, every player who was looking at them got an impression that there’s nothing they cannot do.
+Psyche and Mako, who were used to such reactions, weren’t paying any attention. And though they weren’t actively showing off their power, every player who was looking at them got there impression that there was nothing these two could not do.
 
 “Psyche, you remember that game we used to play?”
 
@@ -525,11 +521,11 @@ A lot of best players of Continent of Magic were playing royal Road now. And mos
 
 Not so long ago, the old and dusty secrets of Continent of Magic were being discovered because of Weed. He was always hunting alone in the most dangerous locations of the game, and his fame was absolute.
 
-Mako and Psyche, like many others, were zealously following his footsteps. Many times they watched from his hunt from a distance, and they saw, that however ridiculous that seemed, he was fighting, like his life was at stake.
+Mako and Psyche, like many others, were zealously following in his footsteps. Many times they watched from his hunt from a distance, and they saw that, even though he cleared out the most dangerous areas of the game without fail, he always fought like his life was at stake.
 
-When he was entering dungeons, he was slaying every monster inside. He was extremely violent and efficient when he was fighting the most dangerous monsters in the game. Players, that were following him were trembling in excitement, seeing how every strike takes one life.
+When he was entered a dungeon, he always efficiently slew every monster inside. Players that were following him were trembling in excitement, seeing how every strike took an enemy life.
 
-Back then Weed was considered the most dangerous and most successful player, that never gives up, but always keeps going ahead, fighting and winning. That’s why everyone called him the Dark Knight.
+Back then Weed was considered the most dangerous and most successful player, someone who never gave up, but always kept going ahead, fighting and winning. That’s why everyone called him the Dark Knight.
 
 Psyche and Mako reached the east gates.
 
@@ -539,91 +535,75 @@ Psyche and Mako reached the east gates.
 
 Psyche pointed at Weed, who was riding a horse.
 
-After going through so much trouble in the past 7 days, Weed decided that the way back he’ll spend with comfort.
+After going through so much trouble in the past 7 days, Weed decided that he'd make his way back in comfort.
 
-Plains of Despair had small herds of wild horses, but only players of certain professions, like Knights or Mercenaries, were able to tame them. They could even make horses run faster.
+Small herds of wild horses existed on the Plains of Despair, but only players of certain professions, like Knights or Mercenaries, were able to tame them. With their classes, they could even make horses run faster.
 
-But Sculptors didn’t have any abilities related to horses. Though even druids could use ‘Wolf Spirit’ and bards - their singing. But sculptors...
+But Sculptors didn’t have any abilities related to horses. Even druids could use ‘Wolf Spirit’ and bards could soothe them with their singing. But sculptors...
 
-‘Profession, that thrives only through hard work.’
+‘Sculpting is really a profession that thrives only through hard work.’ After crossing Plains of Despair, Weed confirmed what he already suspected about the Sculptor profession.
 
-Only after crossing Plains of Despair, Weed seemed to truly understand the Sculptor profession.
+"Hya! Let’s see how fast you can run!"
 
-‘Hya! Let’s see how fast you can run!’
+He was about to send his horse into a gallop, when two players blocked his road: A woman in red robe and a bald monk. Not giving him any time to express his anger, the woman asked, “Are you the sculptor?”
 
-He was a bout to send his horse into a gallop, when two players blocked his road. A woman in red robe and a bald monk. Not giving him any time to express his anger, woman asked:
-
-“Are you the sculptor?”
-
-“Yeah... That’s my profession, and what is it you want from me?” - warily asked Weed.
+“Yeah... That’s my profession, and what is it you want from me?” warily asked Weed.
 
 He didn’t like unnecessary complications and he didn’t have time for them.
 
-Psyche smiled slightly and continued.
+Psyche smiled slightly and continued. “That means I was right. It was you, who built the pyramid. Could you by any chance make us scorpion figurines, uncle?”
 
-“That means I was right. It was you, who built the pyramid. Could you by any chance make us scorpion figurines, uncle?”
+“I’m afraid not. Maybe I sold something like that in the past, but unfortunately I don’t make any more souvenirs.”
 
-“I’m afraid not. It seems you purchased some figurines from me before, but unfortunately I don’t make any more souveneers.”
-
-Weed didn’t have enough time to spend it for a couple silver coins, so he decided to lie. Some extra profit was always welcome, but right now he had an important quest waiting for him, with hopefully great reward.
+Weed didn’t have enough time to work for a couple silver coins, so he decided to lie. Some extra profit was always welcome, but right now he had an important quest waiting for him, with, hopefully, a great reward.
 
 “But we have an emergency. We need those figurines right now. Could you please help us?”
 
-“I’m sorry, but that’s impossible. Ask another sculptor.”
+“I’m sorry, but that’s impossible. Ask another sculptor.” Weed refused abruptly, showing that he was not going to continue this conversation.
 
-Weed refused abruptly, showing that he’s not going to continue this conversation.
+But Psyche, seeing that the situation was developing in a wrong direction, handed him a small gem.
 
-But Psyche, seeing that the situation is developing in a wrong direction, handed him a small gem.
+“We already talked to other sculptors. They say that we need a Sculptor with an intermediate skill level. Only such a sculptor would be able to carve us the necessary figurines.”
 
-“We already talked to other sculptors. They say, that we need a Sculptor with an intermediate skill level. Only such a sculptor will be able to carve us the necessary figurines.”
-
-Unfortunately for Weed, the situation was getting more and more complicated, it was obvious that they’re not going to let him go easily.
+Unfortunately for Weed, the situation was getting more and more complicated, and it was obvious that they were not going to let him go easily.
 
 “My skill level isn’t that great, besides I’m in a hurry.”
 
-“We know, that it’s a difficult request. So if you agree to help us, you’ll get this gem as a reward.”
+“We know that it’s a difficult request. So if you agree to help us, you’ll get this gem as a reward.”
 
-Shiny red ruby got Weed’s complete attention. He already had experience of working with gems and he easily estimated its value.
+The shiny red ruby got Weed’s complete attention. He already had experience working with gems and he easily estimated its value.
 
-‘I could sell it for 400 gold. Or even 500 if i put enough effort.’
+‘I could sell it for 400 gold. Or even 500 if I put in enough effort.’
 
-The regret over spending 70 000 gold was only strengthening his usual greed.
+The regret over spending 70,000 gold was only strengthening his usual greed.
 
-Weed quickly got off the horse, smiled brightly and said:
+Weed quickly got off the horse, smiled brightly and said, “If you give me a little time, I’ll make them right now. You can count on me!”
 
-“If you give me a little time, I’ll make them right now. You can count on me!”
-
-Psyche and Mako were looking at each other in confusion.
-
-The moment they mentioned a gem, the sculptor’s attitude completely changed! He was even looking younger! They never before seen such behaviour in the game.
+Psyche and Mako looked at each other in confusion. The moment they mentioned the gem, the sculptor’s attitude completely changed! He even looked younger! They had never before seen such behavior in the game.
 
 “We need seven figurines. Can you start right now?”
 
 “Hmm... seven?”
 
-“Is that too many?”
+“Is that too many?” Psyche looked at him, a bit worried. Weed answered her with a sad look.
 
-Psyche looked at him, a bit worried. Weed answered her with a sad look.
+“As you know, I’m an artist. I admire art, that’s why I became a sculptor. Even when working on similar figurines, I have to make a lot of effort to maintain their originality. I have to put in an artist's touch on each one.”
 
-“As you know, I’m an artist. I admire art, that’s why I became a sculptor. Even when working on similar figurines, I have to make a lot of effort to maintain their originality, I have to use special techniques.”
+Weed was saying this with the crystal clear eyes of the most honest man in the world. From the outside he looked like a most moral player who devoted his life to art. Weed, who had a lot of experience in such matters, became an incredible actor.
 
-Weed was saying that with crystal clear eyes of the most honest man in the world. From the side he looked like a most moral player, who devoted his life to art. Weed, who had a lot of experience in such matters, became an incredible actor.
+“Oh! I hadn’t thought about it that way. In that case, if you make us the figurines, we’ll add another gem to your reward. Can you make them from this material?” Psyche took out seven red stones. 
 
-“Oh! I haven’t thought about it. In this case, if you make us the figurines, we’ll add another gem to your reward. Can you make them from this material?”
+With the valuables in the open, she was warily examining the surroundings. The monk put his hand on the sword handle. If they noticed any suspicious movements, they’d immediately get rid of the sculptor.
 
-Psyche took out seven red stones. At that moment she was warily examining the surroundings.
-
-The monk has put his hand on the sword handle. If they noticed any suspicious movements, they’d immediately get rid of the sculptor.
-
-But Weed was only looking at stones.
+But Weed was only looking at the stones.
 
 ‘To cut them, one indeed needs an intermediate skill level. With Zahab’s knife I’ll be able to work with them easily.’
 
-No wonder, that other sculptors refused the job, messing with gemstones of these two with just beginner skill level was very dangerous.
+No wonder that other sculptors had refused the job. Messing with gemstones like these with just beginner skill level was very risky.
 
 “Sure, I can. Wait a bit. I’ll make you best scorpions in the world.”
 
-Weed relaxed, but kept the appearance of extreme focus, and started working. Usually there were many curious players gathering to watch him, but this time Psyche and mako were repelling any unwanted attention.
+Weed relaxed, but kept the appearance of extreme focus and started working. Usually, when he sculpted, many curious players gathered to watch him, but this time Psyche and Mako repelled any unwanted attention.
 
 “Hey, Mako...”
 
@@ -631,23 +611,21 @@ Weed relaxed, but kept the appearance of extreme focus, and started working. Usu
 
 “Do you think he might be playing this game too? Weed, I mean.”
 
-Skillfully moving hands of the sculptor froze for a moment, before continuing work, like nothing happened. It was unlikely, that in this huge world someone was talking about him! Them must be talking about someone with a similar name.
+The skillfully moving hands of the sculptor froze for a moment before continuing work like nothing happened. It was unlikely, he thought, that in this huge world someone was talking about him. Them must be talking about someone with a similar name!
 
-“Hmmm. Most probably. I heard, that he sold his account in Continent of magic and moved here. There are rumors, that he’s not only playing this game, but became a paladin of Order of Freya. Of course you shouldn’t trust it much, but...”
+“Hmmm. Most probably. I heard that he sold his account in Continent of Magic and moved here. There are rumors that he’s not only playing this game, but became a paladin of the Order of Freya. Of course you shouldn’t trust things like that much, but...”
 
-“What, did he realize his mistakes and desided to follow the path of light? That Dark Knight, that was destroying everything in his path, like a death machine?!”
+“What, did he realize his mistakes and decide to follow the path of light? That Dark Knight that was destroying everything in his path like a death machine?!”
 
-Weed’s hands started to tremble slightly. He sneaked a look at their faces.
+Weed’s hands started to tremble slightly. He snuck a look at their faces.
 
-Mako added in a low voice:
+Mako added in a low voice, “I want to meet him so much...”
 
-“I want to meet him so much...”
-
-“I know, Mako. When you started playing this game 2 years ago, you was only regretting not killing Weed in Continent of magic.”
+“I know, Mako. When you started playing this game two years ago, your only regret was not killing Weed in Continent of Magic.”
 
 “Yeah... I wanted to best the one who was considered the strongest by everyone else.”
 
-“I understand you. Everyone, who achieved anything significant in Continent of Magic must have had that feeling.”
+“I understand you. Everyone who achieved anything significant in Continent of Magic must have had that feeling.”
 
 “You bet! To beat the one on the top. To take his position and make him suffer. If he’s here, I wish I could meet him. No, I will definitely meet him! The continent is big, but our paths will definitely cross someday.”
 
@@ -661,7 +639,7 @@ Psyche gave him a wry smile.
 
 “Right. We should kill him at least a thousand times.”
 
-Weed’s hands were moving so fast, that they were barely visible. Only Zahab’s knife was flashing from time to time.
+Weed’s hands were moving so fast, that they were barely visible. Only Zahab’s knife could be seen in the moments where it caught the sunlight.
 
 “Sculptor, there’s no need to hurry that much...”
 
@@ -673,16 +651,14 @@ Weed finished the figurines as fast as possible and showed them to Psyche.
 
 She nodded with satisfaction, handed him the promised reward and turned to her companion.
 
-“We can finally return.”
+“We can finally head back.”
 
 “Yeah, let’s hurry.”
 
-Mako and Psyche said goodbyes to the sculptor, turned around and walked away.
+Mako and Psyche said their goodbyes to the sculptor, turned around, and walked away.
 
-When they were far enough, Weed sighed with relief.
+When they were far enough, Weed sighed with relief. ‘Phew! I really shouldn’t tell anyone that I have played Continent of Magic.’
 
-‘Phew! I really shouldn’t tell anyone, that I have played Continent of Magic.’
+While his fame from that time was immense, so, apparently, was the hate that others felt towards him. After all, he was dealing with everyone who ever attacked him with no mercy.
 
-As big was his fame, as strong was the hate, others felt towards him. After all he was dealing with everyone who ever attacked him with no mercy.
-
-He has heard of Psyche and Mako before. But thanks to virtual reality, he was able to see faces of people, who might become his worst enemies in the future.
+He had heard of Psyche and Mako before. But thanks to virtual reality, he was now able to see the faces of the people who might become his worst enemies in the future.
