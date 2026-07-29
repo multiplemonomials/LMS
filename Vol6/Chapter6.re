@@ -220,7 +220,7 @@ The people were surprised as they quietly listened to the dialogue of the guards
 
 The people started a fuss.
 
-Others knew the name of Weed; even in this game he was legendary. People remembered when NPCs had begun to tell the story of Weed defeating the True Blood Vampires for the Church of Freya.
+Others knew the name Weed; even in this game he was legendary. People remembered when NPCs had begun to tell the story of Weed defeating the True Blood Vampires for the Church of Freya.
 
 “But did anyone memorize the face of that person?”
 
@@ -230,7 +230,7 @@ Others knew the name of Weed; even in this game he was legendary. People remembe
 
 “He was gone so fast....”
 
-“It was because his attire was so mediocre.”
+“It was because his outfit was so mediocre.”
 
 “Wait. We will camp out here and wait until he comes out!”
 
@@ -246,7 +246,7 @@ Helain's Grail can produce an infinite amount of holy water; it had been lent to
 
 Weed concluded in sober judgment, “It can weaken the enemy, but this won’t win it for us.”
 
-The best class to kill an undead would be a Paladin, and he had none of those. He was short on priests too, just barely having 100 of them. They lacked the mana to give blessings to all of the Orcs; it would be difficult to just walk to them.
+The best class to kill an undead would be a Paladin, and he had none of those. He was short on priests too, just barely having 100 of them. They lacked the mana to give blessings to all of the Orcs, and with how many Orcs there were it would be difficult for them to not get lost within his army.
 
 Once the undead closed the distance, it would be almost impossible to defeat them without priests or paladins.
 
@@ -262,7 +262,7 @@ What he was about to do went against every fiber of his being. Nevertheless, he 
 
 Silver defeats evil!
 
-If the Orcs and Dark Elves were armed with weapons made of silver, their power against the undead would practically double. But if he bought the weapons and still fail the quest, Weed will end up broke.
+If the Orcs and Dark Elves were armed with weapons made of silver, their power against the undead would practically double. But if he bought the weapons and still failed the quest, Weed would end up broke.
 
 “This is why I wanted to abandon the quest.....”
 
@@ -284,7 +284,7 @@ A true merchant is available at any time! As soon as he sent a whisper to Mapan,
 
 The tearfully ascetic road of a merchant!
 
-He still purchased japtem, and Mapan was intent on selling goods. In fact, until a certain point when you reached the top of the scale you would always crave money. Most traders would stray from the path at some point. But Mapan was persistently dedicated to his merchant skills. He followed Weed and the Geomchis while using flattery as he walked the merchant's path.
+Mapan still purchased japtem, and he was intent on selling goods. In fact, until a certain point when you reached the top of the scale you would always crave money. Most traders would stray from the path at some point. But Mapan was persistently dedicated to his merchant skills. He followed Weed and the Geomchis while using flattery as he walked the merchant's path.
 
 'Even though my funds may leave me, my skills will never betray me!'
 
@@ -310,7 +310,7 @@ So far no one had ever known of a person who returned from the Plains of Despair
 
 Mapan had bet 200 gold that Weed would die. Pale and his other companions had all bet money that he would survive. They had a solid belief that, with Weed's vitality he would somehow live. Mapan thus lost money, but still he smiled and quickly whispered back.
 
-- Anyways, I'm glad that you're alive. Pale was also very worried. Zephyr, Hwaryeong, Irene, Surka and Romuna have all been talking about you, Weed.
+- Anyways, I'm glad that you're alive. Pale was also very worried. Zeppi, Hwaryeong, Irene, Surka and Romuna have all been talking about you, Weed.
 
 - Where is everyone gathering at right now?
 
@@ -346,7 +346,7 @@ The exact cost depended on the quality of materials, but one arrow would usually
 
 It was hard to imagine Weed needing a large amount, so the ignorant Mapan automatically assumed that it was for a hunting trip. From his calculations he considered that the total would be a generous 200 gold. However, what Weed told him next was beyond anything he imagined.
 
-- Two Million arrows. First purchase as much of the ingredients for smelting as cheap as you can. So that at least 50,000 weapons could be produced.
+- Two million arrows. But before that, purchase as much of the ingredients for smelting as cheap as you can, so that at least 50,000 weapons could be produced.
 
 - .....
 
@@ -354,7 +354,7 @@ For a moment, there was no answer from Mapan. He was immediately hard at work on
 
 One gold equaled 100 silver. If it was 2 silver per arrow and he bought 2 million, that's 40,000 gold!
 
-No matter how cheap he bought the materials, to make one weapon would cost at least 60 silver. Even  doing the cheapest, lightest covering of silver on 50,000 weapons, it would be an unbelievable 30,000 gold.
+No matter how cheap he bought the materials, to make one weapon would cost at least 60 silver. Even doing the cheapest, lightest covering of silver on 50,000 weapons, it would be an unbelievable 30,000 gold.
 
 - T, that's so much....
 
@@ -376,7 +376,9 @@ Get up earlier than anyone else to earn a copper more.
 
 In the future, earn more money than can be done now.
 
-To fill the sheer amount, he would have to purchase from each of the blacksmith shops in the Kingdom of Rosenheim every morning, and he'd have to buy from users who obtained silver through hunting. Sterling silver formed into silver arrows exerted a lethal effect on undead, but those who didn't fight undead tended to sell such items. Royal Road as a whole had few players who hunted in cemeteries, and there there were barely any in Rosenheim Kingdom. This meant that there'd be a surplus of anti-undead weaponry, but it also meant that Mapan's purchases would certainly stick out.
+Adages like these swirled through his head after his time knowing Weed. To fill this massive order, he would have to purchase from each of the blacksmith shops in Rosenheim Kingdom every morning, and he'd have to buy from users who obtained silver through hunting. 
+
+Sterling silver, formed into silver arrows, exerted a lethal effect on undead, but those who didn't fight undead tended to sell such items. Royal Road as a whole had few players who hunted in cemeteries, and there there were barely any in Rosenheim Kingdom. This meant that there'd be a surplus of anti-undead weaponry, but it also meant that Mapan's purchases would certainly stick out.
 
 Meanwhile, Weed despaired. 'My entire fortune is gone, decreased by 75,000 gold.'
 
@@ -396,13 +398,11 @@ He never spent money so casually, so he suffered badly. This was simply too big 
 
 The preparations were still insufficient for his liking. His throat was dry and he felt anxious.
 
-In the Plains of Despair, there was still another force that could follow him: The Village of Exiles. The Dark Elves and Orcs alone were not sufficient. If he could convince these humans to join, the battle ahead will be eased by quite a bit.
+In the Plains of Despair, there was still another force that could follow him: The Village of Exiles. The Dark Elves and Orcs alone were not sufficient. If he could convince these humans to join, the battle ahead would be eased by quite a bit.
 
 “I will obtain the silver weapons from Rosenheim Kingdom, but I have to go there and back.”
 
-Weed pulled out Zahab's carving knife.
-
-Soon after, Weed picked out a rock of good quality without any cracks and sat in front of it for a moment to think.
+Weed pulled out Zahab's carving knife. Soon after, he picked out a rock of good quality without any cracks and sat in front of it for a moment to think.
 
 “I need to run fast... a cheetah would be a great choice for that right?”
 
@@ -436,7 +436,7 @@ Number of created Masterpieces so far: 4
  * All stats increased by 6.
  * Perseverance increased by 3.
  * Endurance increased by 2.
-As its creator, Weed will have ownership of this beast. If life is given to this beast in the future, it will be loyal to Weed.
+As its creator, Weed will have ownership of this beast. If life is given to the beast in the future, it will be loyal to Weed.
 As a reward for making a masterpiece sculpture, all stats will permanently increase by 1.
 //}
 
@@ -444,11 +444,9 @@ The system lavished praise on his sculpture, declaring it a bold work of abstrac
 
 But to Weed, the beast statue came out tacky. In fact, it actually had the long legs of a horse and a long torso, but he was trying to create a cheetah. The result was an unknown beast. The cheetah's body hair was closer to that of a camel. It had the posture of a cow stepping backward and crushing a frog.
 
-It was rough, but intentionally trying to create a masterpiece does not come so easily. Because of this, his sculpting skill rose by 12%. He was now at level 9, and 43% of the way towards Advanced Sculpting.
+It was rough, but intentionally trying to create a masterpiece does not come so easily, so he was not dissatisfied with the result. Because of this, his sculpting skill rose by 12%. He was now at level 9, and 43% of the way towards Advanced Sculpting.
 
 “Anyways, it's a masterpiece so that's alright.”
-
-Weed was greatly satisfied.
 
 An outstanding sculptor would be confident of himself and might obsess over his work. However, Weed was more interested in what the work could do for him.
 
@@ -473,7 +471,7 @@ Weed's body became covered with hair and his arms and legs became thin and long.
 //table{
 --------------
 - Many of the changes in body shape have caused worn equipment to become unusable. Leather clothes can be specially made to be worn. Depending on the species or form, obtaining new equipment may be required.
-- The impact of Sculpture Shapeshifting has increased your Agility and Endurance. Charisma and Leadership have fallen to the lowest level. The Art stat is reduced by half. Endurance will rise dramatically. This will remain valid until Sculpture Shapeshift skill is released.
+- The impact of Sculpture Transformation has increased your Agility and Endurance. Charisma and Leadership have fallen to the lowest level. The Art stat is reduced by half. Endurance will rise dramatically. This will remain valid until Sculpture Transformation is released.
 //}
 
 //table{
@@ -491,13 +489,13 @@ Weed dropped to the ground and started going at a sprint.
 Quadruped Run: Movement Skill
 --------------
 Using stamina and mana, you can run at a speed nearly 60% faster than a being on two legs.
-In addition, when running downwind, speed increased by a further 20%, though when running against the wind, stamina consumption was increased by 30% just to maintain the base speed.
+In addition, when running downwind, speed increases by a further 20%, though when running against the wind, stamina consumption increases by 30% just to maintain the base speed.
 Skill cannot be used in hilly and mountainous terrain, but when on very flat terrain such as grassland or plains, you gain an additional 80% movement speed.
 }
 
 Months ago, he'd had to spend days imitating animals for another sculpting skill, where he had to understand what he sculpted. He'd picked up this skill as a side benefit, and at first it had seemed useless.
 
-But now, weed's paw moved forward. Then the hind foot soon came up.
+But now, Weed's paw moved forward. Then the hind foot soon came up.
 
 Tatatatak!
 
@@ -509,7 +507,7 @@ However, Weed's muscle memory soon began to register the new patterns. He'd imit
 
 Tatatak.
 
-Weed processed his speed into a gallop. At first everything seemed to be going well; but soon a big problem came up.
+Weed increased his speed into a gallop. At first everything seemed to be going well; but soon a big problem came up.
 
 “Unbelievable....”
 
@@ -519,7 +517,7 @@ Weed was a large creature, and compared to a real horse or deer, he was still at
 
 At first, he thought he could manage, but the exhaustion soon became vicious, he could not run!
 
-His throat was aching. The scenery was going too fast for him to see in front of him as well as what he was running over. Running for a long time, his soles were hurting.
+His throat was aching. The scenery was going too fast for him to see in front of him well enough to place his footsteps. Running for a long time, his the soles of his feet were hurting.
 
 //table{
 --------------
@@ -536,7 +534,7 @@ For animals like a cheetah or a horse, their endurance was not so outstanding. T
 - Your stamina has fallen, you can run no further.
 //}
 
-It had only been 10 minutes of moving at full speed! Now, he had to move slowly on all fours while wandering to rest. Every time he walked, his hips swayed and he his breathing was ragged. With nothing else to do, Weed finally stopped in place.
+It had only been 10 minutes of moving at full speed! Now, he had to move slowly on all fours while wandering to rest. Every time he walked, his hips swayed and his breathing was ragged. With nothing else to do, Weed finally stopped in place.
 
 “Huf! Huf! This is not what I expected.”
 
@@ -546,9 +544,9 @@ Running across the Plains of Despair was tricky and frustrating. Although you co
 
 Weed made another sculpture he could transform into.
 
-He thought about creating a fast animal that runs on two legs, like the ostrich! But no, that seemed too risky. This was the time to create a modest choice, like the form of an Orc.
+He thought about creating a fast animal that runs on two legs, like an ostrich! But no, that seemed too risky. This was the time to create a modest choice, like the form of an Orc.
 
-Karichwi's body consists of a plain Orc with enlarged musculature, and using the same form, he made a leaner version of an Orc into a sculpture. He did not bother spoiling it with looks and focused on keeping it skinny to keep only the necessary muscles. It was reasonable to reduce the weight as much as possible.
+Karichwi's body consisted of a plain Orc with enlarged musculature, and using the same form, he made a leaner version of an Orc into a sculpture. He did not bother spoiling it with looks and focused on keeping it skinny to keep only the necessary muscles. It was reasonable to reduce the weight as much as possible.
 
 The end piece looked like a little red pepper. Undoubtedly it was only the loosest impression of Orc Karichwi. Just from looking at its face you could see that it was upset any time of the day, and had a look in its eyes like it wanted to break anything and everything it encountered.
 
@@ -567,7 +565,7 @@ Effects:
  * Intellect decreased by 20. Charisma decreased by 100.
  * Strength increased by 10. Agility increased by 5.
  * Can silence the cries of a crying child.
- * Those with a low nerve who view the sculpture will become severely weakened.
+ * Those with low resolve who view the sculpture will become severely weakened.
 These effects do not stack with effects of other sculptures.
 Number of created fine pieces so far: 9.
  * Fame increased by 80.
@@ -584,7 +582,7 @@ His height and face shrunk as he changed to a small Orc Karichwi. His hair grew 
 
 //table{
 --------------
- * Many of the changes in the body shape have caused the worn equipment to become unusable. You can wear plate armor. Depending on the species or form, obtaining new equipment may be required.
+ * Many of the changes in the body shape have caused your worn equipment to become unusable. You can wear plate armor. Depending on the species or form, obtaining new equipment may be required.
  * The impact of the Sculpture Transformation has increased your Agility and Endurance. Intellect and Wisdom will fall to the lowest level. The Art stat will be reduced by half. Endurance will rise dramatically. This will remain valid until the transformation is released.
 //}
 
@@ -592,6 +590,6 @@ His height and face shrunk as he changed to a small Orc Karichwi. His hair grew 
 
 Small Orc Karichwi.
 
-As expected, simple is best. In this case, he didn't need art or any other stats -- ignorance is convenient.
+As expected, simple was best. In this case, he didn't need art or any other stats -- ignorance is convenient.
 
 Staggering at first, Weed diligently began to run across the Plains of Despair.

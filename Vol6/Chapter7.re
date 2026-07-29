@@ -10,7 +10,7 @@ Since then, the guild members started to investigate. They asked historian NPCs 
 
 During his searches, one of the guild members reached the distant Mersel Kingdom, where he got an audience with Count Kresse, a stingy and very intelligent schemer, who entrusted his guest with a mission:
 
-“King Belsos had many treasures. And the most valuable among them was Black Flute, created from a horn. If you find it and bring it to me, I’ll reward you handsomely. But make sure that only trustworthy people know about this deal.”
+“King Belsos had many treasures. And the most valuable among them was Black Flute, created from a certain horn. If you find it and bring it to me, I’ll reward you handsomely. But make sure that only trustworthy people know about this deal.”
 
 Ding!
 
@@ -18,7 +18,7 @@ Ding!
 New Quest: Shadow of the Returned King.
 --------------
 The great king, whose rule once spanned over many lands, is now sleeping in the dark below. There was time when his power was absolute, and now his tomb is filled with gold, silver and rare magical items. But even then, there wasn’t anyone brave enough to dare approach it.
-If you find the horn flute in his tomb and bring it to Count Kress, you will get a generous reward.
+If you find the horn flute in his tomb and bring it to Count Kresse, you will get a generous reward.
 
 @<b>{Difficulty:} A.
 @<b>{Reward:} Treasures from the King’s tomb.
@@ -27,7 +27,7 @@ If you find the horn flute in his tomb and bring it to Count Kress, you will get
 
 Usually players acquired quests by finding something unusual during a hunt or by talking to certain NPC. Most of them were requests to find some ingredients, protect something, or clear a monster-infested area.
 
-However, thanks to luck and long investigation, Crimson Wings guild managed to find a hidden ‘A’ rank difficulty quest.
+However, thanks to luck and thorough investigation, Crimson Wings guild managed to find a hidden ‘A’ rank difficulty quest.
 
 “Yes! This is the Royal Tomb ruins!”
 
@@ -35,7 +35,7 @@ They found the location of the ruins and even the map of its interior. The guild
 
 “So what if Hermes guild has Bard Ray? If we complete this quest we will be able to change everything!”
 
-Teros, leader of the Crimson Wing guild, was making a speech for his guildmates.
+Teros, leader of the Crimson Wings guild, was making a speech for his guildmates.
 
 At the start of the game, guilds had appeared everywhere like mushrooms after a rain. But by now the situation had stabilized and the main competition was going on amongst the few dozen biggest and strongest guilds.
 
@@ -61,11 +61,11 @@ Finally, the day came and they gathered at the abandoned ruins, hidden in the ce
 
 Gale was very proud to be assigned to such an important task as scouting.
 
-The search party consisted of a few dozens of thieves whose task was to detect traps and monsters along the path of the main forces led by the guild master.
+The search party consisted of a few dozen thieves whose task was to detect traps and monsters along the path of the main forces led by the guild master.
 
 They started to slowly explore the area. Step by step, players were combing one part of the ruins after another. Thieves went in front followed by warriors, with priests in the back row.
 
-Even though the latter couldn’t use healing spells because of the quest’s restrictions, they could still provide a helping hand in critical situation or drag the wounded soldiers out of danger.
+Even though the latter couldn’t use healing spells because of the quest’s restrictions, they could still provide a helping hand in a critical situation or drag wounded soldiers out of danger.
 
 “Be careful!”
 

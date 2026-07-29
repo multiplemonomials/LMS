@@ -76,7 +76,7 @@ However Weed decided to make more sculptures of Seoyoon.
 
 “I should sculpt what I have seen so far while I have time.”
 
-The first sculpture was full of motion. The cold side of Seoyoon, fighting with monsters. He had cut the female warrior with a sword.
+The first sculpture was full of motion. The cold side of Seoyoon, fighting with monsters. He had carved the female warrior with a sword.
 
 Ding!
 
@@ -135,131 +135,127 @@ In exactly 4 hours, when Seoyoon left the game again, he started to work on the 
 
 “Maybe I’m lacking understanding? That’s why I get such small skill increases?”
 
-The next day, once he was left alone again, Weed started to cut another sculpture. He was trying to convey the unearthly beauty that was driving him crazy.
+The next day, once he was left alone again, Weed started to carve another sculpture. He was trying to convey the unearthly beauty that was driving him crazy.
 
-He was cutting a sculpture of a beautiful girl, bitterly watching the sunset with a calm face and very sad, almost crying eyes. He was engraving an image of a girl, grieving deep inside.
+He was cutting a sculpture of a beautiful girl, bitterly watching the sunset with a calm face and very sad, almost crying eyes. He was engraving an image of a girl grieving deep inside.
 
 “Hmmm. This is hard.”
 
-It was the first time creating a sculpture was so difficult for Weed. He was used to feeling like his hands moving on its own, as his skill level was very high. But the higher his skill level was and the more knowledge he had - the harder it was for him to work.
+It was the first time creating a sculpture had been so difficult for Weed. He was used to feeling like his hands were moving on their own now that his skill level was this high. But this time, it felt like his higher Sculpting skill and his muscle memory made this piece @<i>{more} difficult.
 
 “Damn! Why is it like this?”
 
-Weed had already created many sculptures of Seoyoon, but every time it was getting harder and harder. The more he looked at her, the more he was saw and the more he wanted to convey her charm. And it was an incredibly difficult task.
+Weed had already created many sculptures of Seoyoon, but every time it seemed harder and harder. The more he looked at her, the more he saw and the more he wanted to convey her charm. And it was an incredibly difficult task.
 
 This time Weed created a Masterpiece and his skill increased by 13%.
 
-But the closer he was to the next level of Sculpting - the harder it was to increase it. And to actually advance to the next level he needed something special. For example to go from Beginner to Intermediate he had to make a statue of Headless Dullahan.
+But the closer he got to Advanced Sculpting, the harder it seemed to be to increase his skill percentage. And to actually reach Advanced Sculpting, it looked like he'd need something special. It had been the same, he thought, when he had gone from Beginner to Intermediate: the key had been that statue of the headless Dullahan.
 
-And to go from Intermediate to Advanced level he’ll have to make something truly outstanding.
+“Right. I’ll never pass to the Advanced level with Fine pieces. Now that I'm at level 9 63%, it’ll take three or four Masterpieces...”
 
-“Right. I’ll never pass to the Advanced level with Fine Pieces. With my 63% in current level it’ll take 3 or 4 Masterpieces...”
-
-Now Weed started to closely watch Seoyoon’s every move. Not only in battle, but in-between them too. How she walks, which hand she eats food with, where and how she sat - he was engraving absolutely everything in his memory.
+Now Weed started to closely watch Seoyoon’s every move. Not only in battle, but between them too. How she walked, which hand she ate food with, where and how she sat - he was engraving absolutely everything into his memory.
 
 This small and ugly Orc was secretly spying on Seoyoon!
 
-If only she realized that she was accompanied by a player, she’d have gone off far ahead or even kill the annoying little creep.
+In fact if she had realized that she was accompanied by a player, she’d have gone off far ahead or even killed the creepy Orc.
 
-Sometimes it was difficult for Seoyoon to even look at people, which was why she was trying to hide from everyone by going somewhere remote. Sometimes she wasn’t able to do it, men would chase her everywhere, fight each other, and show off their strength. But she still wouldn’t talk to them, which was getting her into trouble and making her a player killer in the end.
+Sometimes it was difficult for Seoyoon to even look at people, which was why she was trying to hide from everyone by going somewhere so remote. Sometimes, even though she tried to push them away, men would chase her everywhere, fight each other, and show off their strength. But she still wouldn’t talk to them, and sometimes they would get so pushy that she'd have to use force to keep them away from her. Several times this had led to her being marked as a player killer.
 
-If Seoyoon knew that there was a man besides her, she wouldn’t be able to stay with him.
+If Seoyoon knew that there was a man traveling with her, she wouldn’t be able to stay with him.
 
-But not with an Orc! Simple Orcs did not cause any repulsion from her. And that’s why Weed managed to see the real Seoyoon that was fighting monsters and sleeping under the warm sun. Her face still remained expressionless, except for her eyes...
+But this was not the case with an Orc! Simple Orcs did not cause any repulsion from her. And that’s why Weed managed to see the real Seoyoon that was fighting monsters and sleeping under the warm sun. Her face still remained expressionless, except for her eyes...
 
-With sadness in her eyes, she was watching leaves falling off trees. She often looked at the small brook in the middle of the Canyon while humbly sitting and waiting for the food to get done.
+With sadness in her eyes, she idly watched leaves falling off trees. She often gazed at the small brook that ran down the the middle of the canyon while humbly sitting and waiting for the food to get done.
 
-Once, while walking, Seoyoon plucked a flower and put it into her hair. She herself didn’t notice it at all, but Weed almost jumped from surprise!
+At one point, while walking, Seoyoon plucked a flower and put it into her hair. She herself didn’t notice it at all, but Weed almost jumped from surprise!
 
 “...”
 
-Weed thought that she was a murderer who did not have any place for tenderness in her heart. That was completely opposite from what she was letting others see. But when he witnessed Seoyoon watching with her sad eyes two squirrels play... He understood.
+Weed had originally thought that she was a murderer who did not have any place for tenderness in her heart. But in truth, her inner self seemed to be almost the exact opposite of this. When he witnessed Seoyoon watching with her sad eyes two squirrels play... he finally understood.
 
 “Yes, that’s it!”
 
-Weed immersed himself into work again.
+The next time she logged out, Weed immersed himself into work again.
 
 “When making a sculpture, one shouldn’t jump to conclusions. Even if you think that you fully understand a person, you should stop and think it over. Not everything is simple.”
 
-He might just be making another mistake right now. But this mistake will bring him another step closer to the true Seoyoon.
+He might just be making another mistake right now. But this mistake would bring him another step closer to the true Seoyoon.
 
 “I should not only show her cold appearance that catches the eye, but her feelings too. I should try and trust my heart once, rather than think it over again and again. I should try to create the Seoyoon I feel, rather than the one I see.”
 
 Zahab’s knife started to dance in his hands again.
 
-To depict the girl’s appearance was a relatively easy job, but to convey the harmony of facial features their unique feel was incredibly difficult.
+To depict the girl’s appearance was a relatively easy job, but to convey the facial features, a cold expression that somehow still belied sadness and inner warmth, was incredibly difficult.
 
-Weed forgot everything he knew about Seoyoon and started to engrave the impression he got after looking at her for a long time. In this sculpture he was putting emphasis not on her appearance, but on the feelings and humanity he saw in her.
+Weed forgot everything he knew about Seoyoon and started to engrave the impression he got after looking at her for a long time. In this sculpture tried to emphasize not her literal appearance, but the feelings and humanity he saw in her.
 
-And making only the sculpture of Seoyoon would not be enough. The site, where Weed was working was littered by edgy stones, that were depressing to look at. And for the success he had to fix it.
+Soon, he realized that making only the sculpture of Seoyoon would not be enough. The site where Weed was working was littered by sharp stones that were depressing to look at. For the optimal sculpture, he had to fix it.
 
 “She’s a girl, so there must be flowers. Lots of flowers.”
 
-First Weed carefully recreated the flower she had put in her hair earlier. Then he proceeded to the stones that surrounded the future sculpture. He wanted to cut multiple flowers from them, and every single one was going to take him some time. It was going to be hard to finish it before Seoyoon returned.
+First Weed carefully recreated the flower she had put in her hair earlier. Then he proceeded to the stones that surrounded the future sculpture. He wanted to carve multiple flowers from them, and every single one was going to take him some time. It was going to be hard to finish it before Seoyoon returned.
 
 “No. I can’t give up now... I can’t stop here.”
 
-Weed continued to cut flowers, waiting for the girl to return. But to his surprise, two hours passed and she was still absent.
+Weed continued to carve flowers, waiting for the girl to return. But to his surprise, two hours passed and she was still absent.
 
 “Maybe she’s sleeping?..”
 
-He was so absorbed by his observations and work, that he completely lost track of time. It was already night in real world, and what’s more important - they had almost reached the end of Yunopu Canyon, and he could continue to travel on his own.
+He was so absorbed by his observations and work that he completely lost track of time. It was already night in real world, and more importantly, they had almost reached the end of Yunopu Canyon, so he could travel on his own once more.
 
-“So she’s not going to return for a while. I have time, so i should finish the sculpture and then go ahead. There’s no reason to give up the work I already started...”
+“So she’s not going to return for a while. I have time, so I should finish the sculpture and then get moving. There’s no reason to give up the work I already started...”
 
 Weed proceeded to cut the next flower.
 
-* * *
+@<embed>{|html|<hr/>}
 
-Dr. Cha Eunhee from the rehabilitation hospital was checking on her main patient, like she did every morning.
+Dr. Cha Eunhee from the psychiatric hospital was checking on her main patient like she did every morning.
 
 “Aren’t you tired? Maybe you should rest some from Royal Road?”
 
 “...”
 
-Seoyoon, like always, kept silent, which was not a surprise for her doctor. She was submerged deep into herself, and didn’t show any reaction on the outside, but that didn’t mean she was rejecting everything. Usually Seoyoon would follow the advice of people who genuinely cared for her.
+Seoyoon, like always, kept silent, which was not a surprise to her doctor. She was submerged deep into herself, and didn’t show any reaction on the outside, but that didn’t mean she was rejecting everything. Usually Seoyoon would follow the advice of people who genuinely cared for her.
 
-‘Looks like i should accept that I’m in a dead-end. Seoyoon is still not talking, despite all the treatment methods... Maybe it’s time to try something different?’
+‘Looks like I should accept that I’m in a dead-end. Seoyoon is still not talking, despite all the treatment methods... Maybe it’s time to try something different?’
 
 Dr. Cha Eunhee started to think.
 
-Royal Road was one of the newest treatments for people, who were shutting themselves off from the outside world. Once they started to play and got a taste of life in the game, their status in reality would start to improve.
+Royal Road was one of the newest treatments for people who had shut themselves off from the outside world. Once they started to play and got a taste of life in the game, their status in reality would start to improve.
 
-However despite her long stay in the game, Seoyoon’s state did not change at all.
+However, despite her long stay in the game, Seoyoon’s state did not change at all.
 
-‘Should i push her harder? But such strong-willed people like Seoyoon are better off when encouraged to change on their own. The use of medications, hypnosis and other means may only make it worse...’
+‘Should I push her harder? But strong-willed people such as Seoyoon are better off when encouraged to change on their own. The use of medications, hypnosis, or other aggressive treatments may only make it worse...’
 
-As a very experienced psychologist, Cha Eunhee was the most worried that her patient will become shut in so deep, that there will be no way to bring her back. Seoyoon was already on this path.
+As a very experienced psychologist, Cha Eunhee was the most worried that her patient would become shut in so deeply that there would be no way to bring her back. Seoyoon already seemed partway down this path.
 
-‘She doesn’t express any emotions, so it’s hard to determine the state of her illness. Fortunately I know her. Such a kind and honest Seoyoon won’t get shut in so fast. But... Why won’t she start talking yet?!’
+‘She doesn’t express any emotions, so it’s hard to determine the state of her illness. Fortunately I know her. Such a kind and honest person as Seoyoon wouldn't close herself off so fast. But... Why won’t she start talking yet?!’
 
-It was time for dinner and Seoyoon went to an adjacent room. She was placed in the best VIP ward of the hospital, so she was eating in the next room. Of course, if the patient was too weak, the food would be delivered to his bed, but Seoyoon could walk on her own.
+It was time for dinner and Seoyoon went to an adjacent room. She was placed in the best VIP ward of the hospital, so she was eating in the next room. Of course, if the patient was too weak, the food would be delivered to their bed, but Seoyoon could walk on her own.
 
 “Okay, I’ll sneak a peek on what she’s been doing in the game lately.”
 
-Cha Eunhee called the captured recordings on the screen.
+Cha Eunhee called up the captured recordings on the screen.
 
-Almost all of the free time Seoyoon spent was on fighting monsters. That didn’t provide the necessary medical help, but Cha Eunhee still continued to look through the recordings every day.
+Seoyoon spent almost all her free time in Royal Road fighting monsters. That didn’t provide the necessary medical help, but Cha Eunhee still continued to look through the recordings every day.
 
-The higher Seoyoon’s level, the stronger the monsters were that she fought. Fights were gradually becoming longer and more violent. At times the entire battlefield was covered with blood and Seoyoon was falling in such a rage, that she looked like a goddess of war.
+The higher Seoyoon’s level, the stronger the monsters were that she fought. Fights were gradually becoming longer and more violent. At times the entire battlefield was covered with blood and Seoyoon was falling into such a rage that she looked like a goddess of war.
 
-This was temporarily relieving the patient’s stress, but nothing more...
+This was temporarily relieving the patient’s stress, yes, but nothing more...
 
-After watching such recordings it took Cha Eunhee great effort not to immediately go to play her own character.
+After watching such recordings, it took Cha Eunhee great effort not to immediately go to play her own character.
 
-“Yeah, Seoyoon has really high level, if she can hunt in Plains of Despair.”
-
-Dr. Cha Eunhee was a bit jealous. If she was in Seoyoon’s place, she would die from the weakest monster there.
+'But I'm nowhere near the level it would take to hunt in the Plains of Despair...' Dr. Cha Eunhee was a bit jealous. If she was in Seoyoon’s place, she would die from the weakest monster there.
 
 But Seoyoon was fighting and winning most of the time. Not only because of her high level, but because of her vast experience that she gained from numerous fights.
 
-“Now. I should quickly look through the rest before she comes back." Cha Eunhee enabled fast-forward.
+“Now. I should quickly look through the rest before she comes back." Cha Eunhee enabled fast forward.
 
 Seoyoon was still traveling the Plains of Despair and fighting monsters. Everything was the same.
 
 But then... Something unusual happened.
 
-The girl was resting and looking at the sunset, when two monsters started to approach her from behind, a Hunter of Plains and some terrifying shortie.
+The girl was resting and looking at the sunset when two monsters started to approach her from behind: a Plains Hunter and some terrifying short orc thing.
 
 “Oh... She will be in trouble if they attack simultaneously.”
 
@@ -269,35 +265,35 @@ If she did die, Seoyoon would leave the capsule the same moment and Cha Eunhee h
 
 What happened next was what surprised Cha Eunhee.
 
-When the Hunter of Plains died, Seoyoon looked at the other monster that proved to be an Orc. But nothing happened! They just looked at each other for some time and then Seoyoon lowered her weapon and walked away.
+When the Plains Hunter died, Seoyoon looked at the other monster. But nothing happened! They just looked at each other for some time, then Seoyoon lowered her weapon and walked away.
 
-However some time later she met the same Orc again and soon they started to hunt and eat together. The orc even fixed her broken armor!
+However some time later she met the same Orc again and soon they started to hunt and eat together. The Orc even fixed her broken armor!
 
-Seoyoon loved to travel alone and never let anyone close. However this Orc didn’t seem to bother her at all.
+Seoyoon loved to travel alone and never let anyone get close. However this Orc didn’t seem to bother her at all.
 
-“Last time she became friends with the instructor in Seraburg’s training hall. Maybe it’s easier for Seoyoon to be close with NPCs and monsters? This Orc isn’t half bad. He makes a great servant. I wonder where could I get one like that? Wait a second!!”
+“Last time she became friends with the instructor in Serabourg’s training hall. Maybe it’s easier for Seoyoon to be close with NPCs and monsters? This Orc isn’t half bad. He makes a great servant. I wonder where could I get one like that? Wait a second!!”
 
 Suddenly Cha Eunhee almost jumped out of her chair.
 
 “Orc! What kind of Orc has skills like that? That’s a human, a player!”
 
-After battles he was collecting loot, applying healing herbs, and bandaging wounds, cooking... If you try hard enough, you could find another such monster in the game. For example, Cursed Goblins or special mini-bosses had an advanced artificial intelligence.
+After battles he was collecting loot, applying healing herbs, bandaging wounds, and even cooking. Yes, if you looked hard enough, you could find monsters like this in the game. For example, Cursed Goblins and certain mini-bosses had advanced, NPC-like artificial intelligence and a wide range of skills.
 
-But an experienced psychologist like Cha Eunhee, was not so easy to fool. She was noticed the tiniest details: the way he was moving, fighting, where he was looking, and how he was picking up the items.
+But an experienced psychologist like Cha Eunhee was not so easy to fool. She was noticed the tiniest details: the way he was moving and fighting, where he was looking, and how he was picking up the items.
 
 Everything was pointing to a real, live person obsessed by some idea.
 
 “It can’t be...”
 
-Cha Eunhee flinched, like she was struck by lightning.
+Cha Eunhee flinched like she was struck by lightning.
 
-She saw something similar in the Hall of Fame! Moreover, she was certain, that it was the same Orc from the video.
+She had seen something similar in the Hall of Fame! Moreover, she was certain that it was the same Orc from the video.
 
 “There can’t be any other Orc as greedy in this game as that one!”
 
-The Doctor’s heart began to race. Of course the fact that Seoyoon was traveling with someone was great, but Cha Eunhee was a devoted fan of Royal Road.
+The doctor’s heart began to race. Of course the fact that Seoyoon was traveling with someone was great, but Cha Eunhee was a devoted fan of Royal Road.
 
-“There’s only 2 days left before the battle! What the hell is he doing!”
+“There’s only two days left before the battle! What the hell is he doing!”
 
 * * *
 
