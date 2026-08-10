@@ -185,7 +185,7 @@ He might just be making another mistake right now. But this mistake would bring 
 
 Zahab’s knife started to dance in his hands again.
 
-To depict the girl’s appearance was a relatively easy job, but to convey the facial features, a cold expression that somehow still belied sadness and inner warmth, was incredibly difficult.
+To depict the girl’s appearance was a relatively easy job, but to convey the facial features, a rigid expression that somehow still belied her inner sadness and struggles, was incredibly difficult.
 
 Weed forgot everything he knew about Seoyoon and started to engrave the impression he got after looking at her for a long time. In this sculpture tried to emphasize not her literal appearance, but the feelings and humanity he saw in her.
 
@@ -295,32 +295,31 @@ The doctor’s heart began to race. Of course the fact that Seoyoon was travelin
 
 “There’s only two days left before the battle! What the hell is he doing!”
 
-* * *
+@<embed>{|html|<hr/>}
 
-On the stone floor the flowers were blooming.
+On the stone floor, the flowers were blooming.
 
-Cut from stone, they looked extremely real and alive. So real, that on a few of them the stone butterflies were sitting and a pleasant aroma seemed to be in the air.
+Cut from stone, they looked extremely real and alive. So real, that on a few of them, stone butterflies were sitting and a pleasant aroma seemed to fill the air.
 
-As the flower field was made out of stone, it had an unusual color. White, grey and black, with pattern and without a pattern. Together they created a mysterious atmosphere on the stone terrace, In the center of which Weed was completely immersed in creating the main sculpture.
+As the flower field was made out of stone, it had an unusual color. White, grey, and black, some with a pattern and some more uniform. Together they created a mysterious atmosphere around the stone terrace, in the center of which Weed was completely immersed in creating the main sculpture.
 
 “Strange...”
 
-The closer he was to completing the piece, the stronger it seemed that tears were about to flow out of Seoyoon’s beautiful eyes. And though the rest of the sculpture didn’t give that impression at all, her eyes were filled with unbearable sorrow...
+The closer he was to completing the piece, the more it seemed that tears were about to flow out of Seoyoon’s beautiful eyes. And though the rest of the sculpture didn’t give that impression at all, her eyes were filled with unbearable sorrow...
 
-Following his instincts and trusting the impulse of his heart, he created an extremely sad statue. It even seemed that, out of sympathy to the beauty, all the surrounding flowers were crying too.
+Following his instincts and trusting the impulse of his heart, he created an extremely sad statue. It even seemed that, out of sympathy to the main piece, all the surrounding flowers were crying too.
 
-From the realization of that fact, Weed’s mood also worsened.
+Surveying the entire piece, Weed’s mood also worsened.
 
-“I should make her happier. I can’t change the eyes any more, but i can do something with the rest of the face!”
+“I should make her happier. I can’t change the eyes any more, but I can do something with the rest of the face!”
 
-Very slowly and carefully Weed worked on the statue’s face and in the end he made a sad, but heartily smiling girl.
+Very slowly and carefully Weed worked on the statue’s face and in the end he made a sad but heartily smiling girl.
 
 Ding!
 
 The moment Weed completed the statue a window appeared in front of weed.
 
 //table{
-
 --------------
 Please set the name of the created sculpture.
 //}
@@ -332,41 +331,36 @@ This had never happened before. Weed tilted his head in confusion and said:
 “Seoyoon.”
 
 //table{
-
 --------------
-You chose to name it ‘Seoyoon’?
+You choose to name it ‘Seoyoon’?
 //}
 
 “Yes.”
 
 //table{
-
+Magnum Opus! You finished the sculpture ‘Seoyoon’!
 --------------
-Grand Piece!
-You finished the sculpture of ‘Seoyoon’!
 This work contains contradiction itself.
 Depending on their feelings and mood, everyone will see something different in it.
 This young and incredibly talented sculptor created in these lands a statue that causes mixed feelings.
-Artistic value: 8700.
+@<b>{Artistic Value:} 8700.
 Effects:
- * Everyone who looks at this statue has their Health and mana regeneration increased by 40% for a day.
+ * Everyone who looks at this statue has their health and mana regeneration increased by 40% for a day.
  * Movement speed is increased by 20%.
  * All stats are increased by 30.
- * The effects of 2 various attributes are increased by 30%.
- * Granted bonus to Earth elemental attacks during the daytime.
- * Sculpture emits a special aroma, that heals wounds.
- * In case the rights to this sculpture are transferred to a certain person, the sculpture’s effects are increased by 20% for that person.
- * In the previous case, the effects for others are decreased by 60%.
- * Effects do not stack with other sculptures.
- * 
-Number of Grand Pieces created: 1.
+ * Two random stats are increased by 30%.
+ * Grants a bonus to Earth elemental attacks during the daytime.
+ * Sculpture emits a special aroma that heals wounds.
+ * In case the rights to this sculpture are transferred to a certain person, the sculpture’s effects will increase by 20% for that person. However, the effects for others will decrease by 60%.
+These effects do not stack with effects of other sculptures.
+Number of Magnum Opuses created so far: 1.
 //}
 
 //table{
 
 --------------
- * Sculpture Understanding skill raised by 1 level.
- * Handicraft skill has reached Advanced level 2. Efficiency of all crafting skills have increased by 8%. This will affect various aspects.
+ * Sculptural Understanding skill has leveled up.
+ * Handicraft skill has leveled up to Advanced Lv2. Efficiency of all crafting skills has increased by 8%.
  * Fame increased by 1680.
  * Art increased by 65.
  * Fortitude increased by 7.
@@ -375,14 +369,13 @@ Number of Grand Pieces created: 1.
 //}
 
 //table{
-
 --------------
-All the rights to this sculpture belong to Master Weed.
+The rights to this sculpture belong to Sculptor Weed.
 If this sculpture is given life in the future, it will be loyal to him.
 As a reward for creating a Grand Piece, all attributes increased by 3.
 //}
 
-Grand Piece!
+Magnum Opus!
 
 Weed had created something he had never even dreamed of.
 
