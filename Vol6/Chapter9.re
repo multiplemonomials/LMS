@@ -357,7 +357,6 @@ Number of Magnum Opuses created so far: 1.
 //}
 
 //table{
-
 --------------
  * Sculptural Understanding skill has leveled up.
  * Handicraft skill has leveled up to Advanced Lv2. Efficiency of all crafting skills has increased by 8%.
@@ -375,126 +374,105 @@ If this sculpture is given life in the future, it will be loyal to him.
 As a reward for creating a Grand Piece, all attributes increased by 3.
 //}
 
-Magnum Opus!
-
-Weed had created something he had never even dreamed of.
+A Magnum Opus! Weed had created something he had never even dreamed of.
 
 “Yeeeeaah!”
 
-From the ancient times there were many artworks left in the world! And most of them were portraying women. Maybe because they are so complex and beautiful.
+Ever since ancient times, many of the grandest works of art in the world had portrayed women. Maybe because they are so complex and beautiful.
 
-But Weed was happy not only because he managed to create a Grand Piece. Most importantly, because of it he finally got to the Advanced skill level.
+But Weed was happy not only because he managed to create a Grand Piece, but also that because of it he finally had reached the Advanced skill level.
 
 //table{
-
 --------------
-Sculpting reached Advanced 1 level.
+Sculpting has reached Advanced Lv1.
 Now you can engrave patterns and work with any material.
 //}
 
 //table{
-
 --------------
-Your Sculpting reached the Advanced level.
-This affected your attributes and skills.
-//}
-
-//table{
-
---------------
+Your Sculpting skill has reached the Advanced level.
+This has affected your attributes and skills.
  * Sculpting Blade technique efficiency increased by 30%.
  * Additional properties were added to the ability.
  * Mana cost on use reduced by half.
 //}
 
-//table{
 
+//table{
 --------------
 Sculpting is linked to other crafting skills.
 Blacksmithing skill:
  * You can now create bronze sculptures.
- * Sculptures, created by pouring molten metal into the mold will be harder and more durable.
- * 
+ * Metallic sculptures created using a mold will be harder and more durable.
+ 
 Cooking skill:
  * Your dishes are now more vibrant and delicious.
- * Also they will be more beautiful from artistic point of view.
- * 
+ * Also, your presentation will be more beautiful from an artistic point of view.
+ 
 Sewing skill:
  * You can now decorate clothes to create custom outfits.
- * All attributes increased by 20.
+ * All stats increased by 20.
 //}
 
 //table{
-
 --------------
 - Fame increased by 600.
 - Art attribute increased by 20.
-New Skill available for learning:
-- Moonlight Sculptor Technique.
-This technique only available to players with Advanced skill level.
-Now, apart from Fine Piece, Masterpiece and Grand Piece, a new hidden grade of sculptures is available - Moonlight sculptures.
-This kind of sculptures embodies the nature itself, it will allow to protect your friends from enemies.
-The master, that wishes to protect his loved one from all dangers, will appreciate this incredibly valuable ability.
-You can learn more about Moonlight Sculpting Technique in Arts Guild.
+
+New Skill available for learning: @<b>{Moonlight Sculpting}
+
+This technique is only available to players with Advanced skill level.
+Now, apart from Fine Piece, Masterpiece, and Magnum Opus, a new hidden grade of sculpture is available: Moonlight.
+This kind of sculptures embodies nature itself, and will allow to protect your friends from enemies.
+The master who wishes to protect his loved one from all dangers will appreciate this incredibly valuable ability.
+You can learn more about Moonlight Sculpting in an Arts Guild.
 //}
 
 He finally went from Intermediate to Advanced skill level!
 
 “Hahahaha!”
 
-Weed bursted into happy laughter.
+Weed burst into happy laughter. Truly, what could be more enjoyable than this?
 
-What can be more enjoyable for a sculptor, than reaching the Advanced level of Sculpture skill.
-
-The Blacksmith profession was a lot more popular, and certainly someone must have already reached the Advanced level in it, but among sculptors he was the first. The only Sculptor with Advanced skill level on entire Bersa continent!
+The Blacksmith profession was a lot more popular, and certainly someone must have already reached the Advanced level in it, but among sculptor players he was the first. The only Sculptor with an Advanced skill level on entire Versailles Continent!
 
 “Now I don’t regret becoming a Sculptor!”
 
 Weed felt like the whole world was smiling with him. But then he quickly snapped out of it and started thinking about the immediate future.
 
-“This is not the right time.”
+“This is not the right time to celebrate.”
 
-Seoyoon should be returning soon.
+Seoyoon would be logging back in soon. The Magnum Opus had special effects and was hard to miss. Sculpting such as this was not exactly subtle.
 
-The Grand Piece had special effects and was hard to miss. An inevitable consequences of Sculpting.
-
-When the girl comes back she may discover it, and then the other sculptures. When she learns about them she won’t let him get away.
+When the girl came back she might discover it, and then the other sculptures. When she saw them, she wouldn't let him get away.
 
 “It’s time to run!”
 
 Weed looked at his sculpture for the last time and headed towards the exit from the Canyon.
 
-The great master Sculptor, that just created the Grand Piece and reached Advanced level of Sculpting had to run away from it as soon as possible.
+The great master sculptor, who had just created the Magnum Opus and reached the Advanced level of sculpting had to run away from it as soon as possible.
 
-* * *
+@<embed>{|html|<hr/>}
 
-Late at night [in-game time] Seoyoon logged back in.
+Seoyoon logged back in. It was late night in the Versailles Continent. After appearing, she examined her surroundings like always.
 
-After appearing she examined her surroundings like always.
+The Orc! Over the past few days, she had gotten used to his presence.
 
-Orc!
+He would feed her, repair her armor, and cover her back. A useful Orc indeed. But now, no matter where she looked, he was nowhere to be found.
 
-In the past few days she had gotten used to his presence.
+‘He left.’
 
-He was feeding her sometimes, repairing her armor, covering her back. Useful Orc.
-
-But however long she was looking for him, he was nowhere to be found.
-
-‘He Left.’
-
-Though they were traveling together, Seoyoon didn’t quite open up to him. But still she was feeling somewhat empty. She was alone again.
+Though they were traveling together, Seoyoon hadn't quite opened up to him. But still, she felt somewhat empty. She was alone again.
 
 Having checked her armor and sword, she set off on her way.
 
-After leaving the Canyon she was going to look for some new lands, inhabited by many different monsters. But then she smelled some unusual aroma.
+Her plan was to leave the canyon and explore new lands, fighting the monsters that inhabited them. But then she smelled an unusual aroma.
 
 “...?”
 
 She followed it.
 
-And in the end it led her to a small flower meadow, in the middle of which a sculpture was standing.
-
-A sculpture of a girl, that was laughing and crying at the same time. And it looked much like herself.
+And in the end it led her to a small flower meadow, in the middle of which a sculpture was standing. It was a sculpture of a girl who was laughing and crying at the same time. And it looked much like herself.
 
 “...”
 
@@ -506,29 +484,27 @@ It was like she was looking into a mirror. But in the mirror she was crying.
 
 ‘No. That can’t be me. I never cry. At least as far as I can remember...’
 
-Seoyoon had forgotten when she was crying last time. Lately all she did was try to become as strong as possible.
+Seoyoon had forgotten the most recent time she'd cried. Lately, all she did was try to become as strong as possible.
 
-Ever since she was a child, she was always keeping her grief inside. She was deliberately avoiding all the suffering and pain. And the best way she found to do it was to avoid all people altogether. If no one was talking to her, no one could hurt her, and she could live peacefully.
+Ever since she was a child, she always kept her grief inside. She wanted, more than anything, to experience no more suffering and pain. And the best way she found to do it was to avoid all people altogether. If no one was talking to her, no one could hurt her, and she could live peacefully.
 
-And she wouldn’t have to cry. Wouldn’t have to feel the pain, that was shattering her world into pieces.
+And she wouldn’t have to cry. Wouldn’t have to feel the pain that was shattering her world into pieces.
 
-That’s why she was always calm.
-
-Yesterday, today, and tomorrow.
+That’s why she was always calm. Yesterday, today, and tomorrow.
 
 She had never opened up her soul to anyone.
 
-At some point it became hard for her to talk, she started fearing getting close with other people. She stopped talking even to herself. She was hiding her feelings deep inside.
+At some point it became hard for her to talk, and she started feeling incredible anxiety about getting close with other people. She stopped talking even to herself. She hid her feelings deep inside.
 
-She was threatening everyone who tried to get closer to her with doubt and suspicion. Trying to avoid pain and sorrow, she lost happiness as well.
+She viewed everyone who tried to get closer to her with doubt and suspicion. In trying to avoid pain and sorrow, she lost happiness as well.
 
-The cry, coming from the depth of her soul, was rising in her chest, with all the feelings she hid inside coming out with it.
+A wail, coming from the depths of her soul, rose in her chest, with all the feelings she hid inside coming out with it.
 
 “...”
 
-Seoyoon hid her face with her hands. Down her cheeks tears were flowing.
+Seoyoon hid her face with her hands. Down her cheeks, tears were flowing.
 
-* * *
+@<embed>{|html|<hr/>}
 
 Hall of Fame on the website of Royal road!
 

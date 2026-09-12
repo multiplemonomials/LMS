@@ -58,6 +58,7 @@
 |Perseverance (stat)|Patience|
 |Quadruped Run|Quadrupedal Run, four-legged running|
 |Sculpting (skill)|Sculpture Mastery|
+|Moonlight Sculpting|Moonlight Sculptor Technique|
 
 ## Items
 |My Term|Other Spellings|
